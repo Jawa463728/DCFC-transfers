@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#111111" />
+  <meta name="description" content="Independent Derby County transfer news hub." />
+  <title>Derby County Transfer Hub</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700;800&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="masthead">
+    <div class="masthead__inner">
+      <a class="brand" href="./" aria-label="Derby County Transfer Hub home">
+        <div class="heritage-badge" aria-hidden="true">
+          <span class="heritage-badge__year">1884</span>
+          <svg viewBox="0 0 100 100" role="img" aria-label="Heritage ram symbol">
+            <path d="M70 27c-12-11-31-10-43 1-10 9-13 25-7 38 5 12 17 20 30 20 12 0 23-6 30-15l-8-7c-5 6-13 10-22 10-8 0-15-3-20-9-6-7-8-17-4-26 4-8 12-14 21-15 8-1 16 2 21 8l-8 3c-4-4-10-5-15-3-7 2-11 9-10 16 1 8 7 13 15 13 6 0 11-3 14-8l-9-5c-1 2-3 3-5 3-3 0-5-2-5-5 0-2 1-4 3-5 3-1 6 0 8 2l14-5v13h10V26l-10 1z"/>
+            <path d="M27 69c-4 5-7 10-9 16h12c2-4 4-7 7-10l-10-6zm40 8c4 2 8 5 11 9h13c-4-8-10-14-18-18l-6 9z"/>
+          </svg>
+        </div>
+        <div>
+          <div class="eyebrow">INDEPENDENT • DERBY COUNTY</div>
+          <div class="brand__title">TRANSFER HUB</div>
+        </div>
+      </a>
+
+      <div class="live-pill" title="The page checks for new published data automatically">
+        <span class="live-dot"></span>
+        <span>LIVE</span>
+      </div>
+    </div>
+  </header>
+
+  <section class="deadline-strip">
+    <div class="deadline-strip__inner">
+      <div class="deadline-label">
+        <span class="deadline-kicker">TRANSFER DEADLINE</span>
+        <span id="deadlineDate" class="deadline-date">1 September 2026 • 23:00 BST</span>
+      </div>
+      <div id="countdown" class="countdown" aria-live="polite">
+        <div><strong id="days">--</strong><span>DAYS</span></div>
+        <i>:</i>
+        <div><strong id="hours">--</strong><span>HRS</span></div>
+        <i>:</i>
+        <div><strong id="minutes">--</strong><span>MIN</span></div>
+        <i class="seconds-separator">:</i>
+        <div class="seconds-box"><strong id="seconds">--</strong><span>SEC</span></div>
+      </div>
+    </div>
+    <div class="deadline-progress"><span id="deadlineProgress"></span></div>
+  </section>
+
+  <section class="ticker" aria-label="Breaking transfer news">
+    <div class="ticker__label">
+      <span class="ticker__flash"></span>
+      BREAKING
+    </div>
+    <div class="ticker__viewport">
+      <div id="tickerTrack" class="ticker__track">
+        <span>Loading the latest Derby County transfer news…</span>
+      </div>
+    </div>
+  </section>
+
+  <main class="page-shell">
+    <section class="targets-section">
+      <div class="section-heading">
+        <div>
+          <span class="section-kicker">THE SHORTLIST</span>
+          <h1>Derby transfer targets</h1>
+        </div>
+        <div class="updated-chip">Updated <span id="targetsUpdated">—</span></div>
+      </div>
+      <div id="targetsGrid" class="targets-grid">
+        <div class="skeleton-card"></div>
+        <div class="skeleton-card"></div>
+        <div class="skeleton-card"></div>
+      </div>
+    </section>
+
+    <section class="news-section">
+      <div class="section-heading section-heading--news">
+        <div>
+          <span class="section-kicker">LATEST</span>
+          <h2>Transfer news</h2>
+        </div>
+        <div class="news-controls">
+          <button class="filter is-active" data-filter="all">All</button>
+          <button class="filter" data-filter="rumour">Rumours</button>
+          <button class="filter" data-filter="done">Done deals</button>
+        </div>
+      </div>
+
+      <div id="leadStory" class="lead-story"></div>
+      <div id="newsGrid" class="news-grid"></div>
+
+      <div class="load-more-wrap">
+        <button id="loadMore" class="load-more">LOAD MORE STORIES</button>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>Independent supporter-made transfer aggregator. Not affiliated with Derby County Football Club. Story rights belong to the original publishers.</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

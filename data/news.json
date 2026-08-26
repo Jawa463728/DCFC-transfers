@@ -1,0 +1,34 @@
+{
+  "updatedAt": "2026-08-26T20:50:00.000Z",
+  "targets": [
+    {
+      "name": "Example Player",
+      "score": 72,
+      "mentions": 4,
+      "context": "Multiple recent reports"
+    },
+    {
+      "name": "Second Example",
+      "score": 48,
+      "mentions": 2,
+      "context": "Fresh media link"
+    },
+    {
+      "name": "Third Example",
+      "score": 24,
+      "mentions": 1,
+      "context": "Single-source report"
+    }
+  ],
+  "stories": [
+    {
+      "title": "Demo: live Derby County transfer stories will appear here",
+      "link": "https://www.google.com/search?q=Derby+County+transfers",
+      "source": "Demo feed",
+      "published": "2026-08-26T20:45:00.000Z",
+      "summary": "This placeholder is replaced when the GitHub updater runs for the first time.",
+      "image": "",
+      "type": "rumour"
+    }
+  ]
+}
