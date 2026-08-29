@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T09:24:21.086Z",
+  "updatedAt": "2026-08-29T09:36:41.497Z",
   "targets": [
     {
       "name": "Ben Brereton-Diaz",
@@ -26,15 +26,9 @@
       "context": "Fresh media link"
     },
     {
-      "name": "Mikey Johnston",
+      "name": "Russell Martin",
       "mentions": 1,
-      "score": 34,
-      "context": "Fresh media link"
-    },
-    {
-      "name": "Anis Mehmeti",
-      "mentions": 1,
-      "score": 34,
+      "score": 27,
       "context": "Fresh media link"
     }
   ],
@@ -171,15 +165,6 @@
       "source": "Derbyshire Live",
       "published": "2026-08-24T11:35:00.000Z",
       "summary": "West Brom stance on Derby County target as absence explained amid transfer claim &nbsp;&nbsp; Derbyshire Live",
-      "image": "",
-      "type": "rumour"
-    },
-    {
-      "title": "Gossip: Derby County target Mikey Johnston and Anis Mehmeti",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XOTFHLUhNUWpiS05yUmtpNEhrMEVuQjBkT09RWFktNS1sOHQ5S0R4c0pjbGgxV1oySmczY0tnWmRraVo4aUxBZ2NtRzlkR0ZsRWNSelJoSXZzYkZYUnRXYzBaMXlpWUxrZ3c?oc=5",
-      "source": "BBC",
-      "published": "2026-08-24T10:25:26.000Z",
-      "summary": "Gossip: Derby County target Mikey Johnston and Anis Mehmeti &nbsp;&nbsp; BBC",
       "image": "",
       "type": "rumour"
     },
@@ -576,6 +561,15 @@
       "source": "Derbyshire Live",
       "published": "2026-07-12T07:00:00.000Z",
       "summary": "The 19 players linked with Derby County in the transfer window so far &nbsp;&nbsp; Derbyshire Live",
+      "image": "",
+      "type": "rumour"
+    },
+    {
+      "title": "Derby County 'register an interest' in £10m Wembley hero",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOX1k5eC1oUU9zbmpmMU1XWTVPaUJJdUFYdC1lZ0xxY3JMOFQzY19jRkh6XzJmN3AxaXprdjk5X3FibXdYcTNRUXdMSFBydGJlQWpxRjIyYWZBOTFRaDNXeDdHT0lVMXNjaVh2emdGNGUwZENGRkZzTVY1U2FRMUxTNWpycHRobG44WU13eTVJVk9GRnlHYkx5VlVzTnhZX3JFYlJaSkc0Uy0?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-07-12T07:00:00.000Z",
+      "summary": "Derby County 'register an interest' in £10m Wembley hero &nbsp;&nbsp; Derbyshire Live",
       "image": "",
       "type": "rumour"
     }
