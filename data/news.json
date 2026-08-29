@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T07:33:21.021Z",
+  "updatedAt": "2026-08-29T07:45:22.869Z",
   "targets": [
     {
       "name": "Ben Brereton-Diaz",
@@ -26,15 +26,9 @@
       "context": "Fresh media link"
     },
     {
-      "name": "Mikey Johnston",
+      "name": "Russell Martin",
       "mentions": 1,
-      "score": 34,
-      "context": "Fresh media link"
-    },
-    {
-      "name": "Anis Mehmeti",
-      "mentions": 1,
-      "score": 34,
+      "score": 27,
       "context": "Fresh media link"
     }
   ],
@@ -166,29 +160,11 @@
       "type": "rumour"
     },
     {
-      "title": "Derby County transfer latest - all you need to know",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeHlucGxQcHd1UWtTODRoQkEtS0RfN2JKSjR6UjJ5N0hxU3JpQTNPX0hVNWRsSFJTMnF6OGtVQV9FQVVsWTFjRHZPUDEyRTNsdkwxdllIZEs4aUhVNzFnR0Jxd1l1a3pCSVJlVzZuZXlLWHl6aGdGd3Bic2o2VDdNOXV2c1pBX0xfVnhGTmhfVF9na2t4Y0Yzcmt5RXVTdC1WR2k3TUdR?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-08-24T12:41:00.000Z",
-      "summary": "Derby County transfer latest - all you need to know &nbsp;&nbsp; Derbyshire Live",
-      "image": "",
-      "type": "news"
-    },
-    {
       "title": "West Brom stance on Derby County target as absence explained amid transfer claim",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOS1FuWVlIcGxjVWZfM0dSWmxaZnJjV2N5Zy1TUlJva3lZMDNOcVVpVWVQa1M3TFpsM2JVbllabEM4cEw3NkUwR2I1ZDdaRnI1Y2ttVWJpOE1KOTZqUnNHbzFkamJpbEtnQnRhb1B1TXlUaF9ub1dobVRiRmptUUVRT3JUeHhYTkJDUG1fYXJCQlM4eU9zZFREX0VHc1pnajY0dHI5M0R6bERqalBE?oc=5",
       "source": "Derbyshire Live",
       "published": "2026-08-24T11:35:00.000Z",
       "summary": "West Brom stance on Derby County target as absence explained amid transfer claim &nbsp;&nbsp; Derbyshire Live",
-      "image": "",
-      "type": "rumour"
-    },
-    {
-      "title": "Gossip: Derby County target Mikey Johnston and Anis Mehmeti",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XOTFHLUhNUWpiS05yUmtpNEhrMEVuQjBkT09RWFktNS1sOHQ5S0R4c0pjbGgxV1oySmczY0tnWmRraVo4aUxBZ2NtRzlkR0ZsRWNSelJoSXZzYkZYUnRXYzBaMXlpWUxrZ3c?oc=5",
-      "source": "BBC",
-      "published": "2026-08-24T10:25:26.000Z",
-      "summary": "Gossip: Derby County target Mikey Johnston and Anis Mehmeti &nbsp;&nbsp; BBC",
       "image": "",
       "type": "rumour"
     },
@@ -576,6 +552,24 @@
       "source": "Derbyshire Live",
       "published": "2026-07-12T07:00:00.000Z",
       "summary": "The huge transfer checklist facing Derby County and the five positions they will target &nbsp;&nbsp; Derbyshire Live",
+      "image": "",
+      "type": "rumour"
+    },
+    {
+      "title": "The 19 players linked with Derby County in the transfer window so far",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOd2o0Tlg1RmR1Vlh1OHkxU1FTY3pZdXRPTFRPdFdOUVJMazkwX21ESXFlSlFxX2dOZWRvQ1pVOWFuaDNCVVBXMGVicmdkZGJvR2xpQm84bWRJaTFOVDlyRXRzNlp4VVpRb2xoc1V0Um1XUEFxX0YwMGxwWnJTaUJtMDh2d0JZc193dlpvNXN0ck5MOEptbVV2Z3h6LUs1RGFUUExEMGdhQ3dHeDQ?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-07-12T07:00:00.000Z",
+      "summary": "The 19 players linked with Derby County in the transfer window so far &nbsp;&nbsp; Derbyshire Live",
+      "image": "",
+      "type": "rumour"
+    },
+    {
+      "title": "Derby County 'register an interest' in £10m Wembley hero",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOX1k5eC1oUU9zbmpmMU1XWTVPaUJJdUFYdC1lZ0xxY3JMOFQzY19jRkh6XzJmN3AxaXprdjk5X3FibXdYcTNRUXdMSFBydGJlQWpxRjIyYWZBOTFRaDNXeDdHT0lVMXNjaVh2emdGNGUwZENGRkZzTVY1U2FRMUxTNWpycHRobG44WU13eTVJVk9GRnlHYkx5VlVzTnhZX3JFYlJaSkc0Uy0?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-07-12T07:00:00.000Z",
+      "summary": "Derby County 'register an interest' in £10m Wembley hero &nbsp;&nbsp; Derbyshire Live",
       "image": "",
       "type": "rumour"
     }
