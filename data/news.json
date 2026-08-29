@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T12:17:11.602Z",
+  "updatedAt": "2026-08-29T12:29:32.835Z",
   "targets": [
     {
       "name": "Ben Brereton-Diaz",
@@ -292,15 +292,6 @@
       "type": "done"
     },
     {
-      "title": "Alex Mowatt: Derby County sign midfielder from West Bromwich Albion",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBWOE5mNTY1OW1qY3hrR0dRa0VpOGZPRHY2bzlPdzZKS1pfeEhYcHVsU0cyQjdFVkZRekRqTXVDNTQ1RWhRMjVuSGRiTC1XUzQ4RGFoV1FPWjV5RnJiQXRwT01FdFl5UDQ?oc=5",
-      "source": "BBC",
-      "published": "2026-08-14T07:00:00.000Z",
-      "summary": "Alex Mowatt: Derby County sign midfielder from West Bromwich Albion &nbsp;&nbsp; BBC",
-      "image": "",
-      "type": "news"
-    },
-    {
       "title": "Gossip: Derby County target West Brom's Alex Mowatt",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBvdERlUlpJNDRKZFFYZWFMUUE2SE9WZ1ZqOXVGUjBoN2FKc3VzRHlFMFppaWo2VDl4OXU4TDJidUxFOFMwck1seVEzZEViTklaa2JZRWpWSW1LNjFfdTZSWE1PMjVmVms?oc=5",
       "source": "BBC",
@@ -506,6 +497,15 @@
       "summary": "Derby County complete third summer signing as Rams move for midfielder &nbsp;&nbsp; Derbyshire Live",
       "image": "",
       "type": "rumour"
+    },
+    {
+      "title": "Filip Bilbija: Derby County sign former Paderborn midfielder",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zVTNJbEtFNlBwTkpRSjV5NVUzdzNzaks4NDNZVWJRdHVFTUQtY0k2UWtRNlZ0WXVBQ3QxcjNFamFzU3ZGMjhzdWIzNFhtS2VHR000LWJpSm10aUdMVE5rcjBuSTRuSEk?oc=5",
+      "source": "BBC",
+      "published": "2026-07-22T07:00:00.000Z",
+      "summary": "Filip Bilbija: Derby County sign former Paderborn midfielder &nbsp;&nbsp; BBC",
+      "image": "",
+      "type": "news"
     },
     {
       "title": "Derby County ace makes Erling Haaland request as superstar responds to Sondre Langas return",
