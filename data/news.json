@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T19:26:06.220Z",
+  "updatedAt": "2026-08-30T19:38:19.327Z",
   "targets": [
     {
       "name": "Leicester City",
@@ -40,15 +40,6 @@
   ],
   "stories": [
     {
-      "title": "NEW SIGNING INTERVIEW: Henrik Meister",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Fei1zdWN3OW5UU25TVHBmM1dQbzBNNmNETFFfaEtJb2Y2UG02RVdWTXlQUHgxa18xZjhfT0dXQzREaGUyT3MydkoyOS1QVGFwQmpad2FjQ3FRazRwRlBjaWRPSjViQkhrRVh4dWV6eXk2THdJMnNNM3pjLTI?oc=5",
-      "source": "Derby County",
-      "published": "2026-08-30T16:51:37.000Z",
-      "summary": "NEW SIGNING INTERVIEW: Henrik Meister &nbsp;&nbsp; Derby County",
-      "image": "",
-      "type": "news"
-    },
-    {
       "title": "SIGNING: Henrik Meister is a Ram",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1XYlFER2JXTUppcnpSekRnWXVhc19yQlN3cWh2T3lFMHJ5akZjak5jbWhKN1FYOHltS1hFSVh2VHdReGFobWNXN3Y4NzhmTzRZYlo3OEZLNDBHdlFoWG1GLWFWNzFCeWhONFN5amdTRjZUZzVWT3c?oc=5",
       "source": "Derby County",
@@ -67,11 +58,29 @@
       "type": "news"
     },
     {
+      "title": "INTERVIEW: Meister ‘excited for Championship intensity’",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZGZLRmltOTg4SDVIaGFadjY1T1g4U2NKaGhaYkNfcl9jM2ZsOTk4aHN0bGpPajBDUUJGeWl6ODRxaE1jTk56eGJkdjdBZ0dieHEzZ1hBRi11QVZWOW5qbzlhTkpCcHQ2Qjg4ZDlBby1ZZ1otUEwzeDExMXI1cXlKQ1pEMDFkeFlNbUFhaDl0MDdvdw?oc=5",
+      "source": "Derby County",
+      "published": "2026-08-30T16:19:31.000Z",
+      "summary": "INTERVIEW: Meister ‘excited for Championship intensity’ &nbsp;&nbsp; Derby County",
+      "image": "",
+      "type": "news"
+    },
+    {
       "title": "Derby County complete much-needed transfer as John Eustace gets wish granted",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbF9GNjJUWFY5dTNFUS0wVFdhZlJEdDl4VmZEa3BhMU85REYxZGs1RkN3YjBoVmF4STVGWWgtbVdZU2pMaGtMdXRhdmpsNEZGVGRXbEFTT21DNnZtODNEOHBUcnpZczBGLW9uWUliZnE0UU1EUi1SRVB3UGNOajgzRkt5SjEtR3R1Q0hrWXpBMjdjekg5QlF4QWpfTmRXZUVjNWh5Z1p3?oc=5",
       "source": "Derbyshire Live",
       "published": "2026-08-30T16:11:00.000Z",
       "summary": "Derby County complete much-needed transfer as John Eustace gets wish granted &nbsp;&nbsp; Derbyshire Live",
+      "image": "",
+      "type": "news"
+    },
+    {
+      "title": "NEW SIGNING INTERVIEW: Henrik Meister",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Fei1zdWN3OW5UU25TVHBmM1dQbzBNNmNETFFfaEtJb2Y2UG02RVdWTXlQUHgxa18xZjhfT0dXQzREaGUyT3MydkoyOS1QVGFwQmpad2FjQ3FRazRwRlBjaWRPSjViQkhrRVh4dWV6eXk2THdJMnNNM3pjLTI?oc=5",
+      "source": "Derby County",
+      "published": "2026-08-30T16:03:49.000Z",
+      "summary": "NEW SIGNING INTERVIEW: Henrik Meister &nbsp;&nbsp; Derby County",
       "image": "",
       "type": "news"
     },
@@ -567,15 +576,6 @@
       "source": "BBC",
       "published": "2026-07-23T07:00:00.000Z",
       "summary": "Jacob Widell Zetterstrom: Lyon keen on Derby County goalkeeper - gossip &nbsp;&nbsp; BBC",
-      "image": "",
-      "type": "news"
-    },
-    {
-      "title": "NEW SIGNING INTERVIEW: Filip Bilbija",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUzRENDExNVdOZDZZY3lzaEt6aWZvS0EwaTlQN0x5cXEwV3BzU0ZZM0JWaEoydHRuU2lPcG5LUFdVeHdKRkx0bjlZYUo0UjNGeGhwV0ItV2lCNnpPaFlmOGpXdUsxWTEydWxldHNKSFlEbHpseFpxNmVGTWxaNHN2ZTFlc2d0R1pvanVPQzVtMnFEQnhTV1BrSDlGRUpuRmxuTVRfTlBjN3U?oc=5",
-      "source": "Derby County",
-      "published": "2026-07-22T07:00:00.000Z",
-      "summary": "NEW SIGNING INTERVIEW: Filip Bilbija &nbsp;&nbsp; Derby County",
       "image": "",
       "type": "news"
     }
