@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T15:57:28.166Z",
+  "updatedAt": "2026-08-30T16:09:51.656Z",
   "targets": [
     {
       "name": "Leicester City",
@@ -39,6 +39,24 @@
     }
   ],
   "stories": [
+    {
+      "title": "Derby County complete much-needed transfer as John Eustace gets wish granted",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbF9GNjJUWFY5dTNFUS0wVFdhZlJEdDl4VmZEa3BhMU85REYxZGs1RkN3YjBoVmF4STVGWWgtbVdZU2pMaGtMdXRhdmpsNEZGVGRXbEFTT21DNnZtODNEOHBUcnpZczBGLW9uWUliZnE0UU1EUi1SRVB3UGNOajgzRkt5SjEtR3R1Q0hrWXpBMjdjekg5QlF4QWpfTmRXZUVjNWh5Z1p3?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-08-30T16:00:00.000Z",
+      "summary": "Derby County complete much-needed transfer as John Eustace gets wish granted &nbsp;&nbsp; Derbyshire Live",
+      "image": "",
+      "type": "news"
+    },
+    {
+      "title": "Sources: Wrexham race Derby County and Millwall to sign Mattie Pollock",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMy1GRzQ3WkMxNEttTjdyNzNBdUdiZUZhVlpOcm1VbXZ5VDFOTzRnQW51Z2ljM3N4TzV3ZHVhZVJUY0h6T3pLMzNNeE1zVWU1Mk5MZy1OaFByeXl0VVFLUzVQX1Z3MV9MMnFyNzVnLTgxN2JZNzhCMVRsRU1uZzAyY2FURk9iM0sy?oc=5",
+      "source": "Yahoo Sports UK",
+      "published": "2026-08-30T15:30:00.000Z",
+      "summary": "Sources: Wrexham race Derby County and Millwall to sign Mattie Pollock &nbsp;&nbsp; Yahoo Sports UK",
+      "image": "",
+      "type": "news"
+    },
     {
       "title": "Sheffield United set to sign Leicester City utility man after Derby County transfer interest",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOa0lvU1o3OGRxaUpCUTF6MG0xc1dnaGNVX25QTUtiSDc1XzdfTU5pOTdlakZ5OXVOM3NHVURFM0xPXzVFWmtFbHlaSjNUMl9iRDY0Z3lGSUhVRER5SU9FMDBVaFJORURYNzhwYTlqS3V1czRFdHdyN2xUVjAyQWNmT2tXandwTFVPdU1R?oc=5",
@@ -83,15 +101,6 @@
       "summary": "John Eustace issues Henrik Meister update and sets Derby County transfer deadline target &nbsp;&nbsp; Derbyshire Live",
       "image": "",
       "type": "rumour"
-    },
-    {
-      "title": "Derby County vs Swansea City player ratings as only one man between Rams and heavy defeat",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYi1hUU5tLWIxbFUtTUsxalFOQU54Q3hnUG94YWNkdXBpeXAxX1U1RGVPU21CSWpLZ0VNZTVMVjR1OEkyckRWN0VLcy1TZk9va1NUaTBFbjlxU3dWSWxBQ0hwNFhpazFpYkF4UDBCVUdGcmZqNWlJd2JyNFBXMnRlWjFKOUdhRnQzR2Z6Y290VUFac3JENktyMmQ5RkdUNFJl0gGmAUFVX3lxTE5yNVMzUHJSLTdyVGRlNUptSmJ4OXZOWjNQS2h1cFZmdERBMXJwemJsc1l6c25FS1FpbzNsQk00a29Wb2JkZHR2THltSXVnR2pISU1iSVNpZmNmY1EtT2hRRll0Ql9xODBFTzFFdGo3cHhNZVhTNlNGa3NYNjRQYm5tcE42OFZoV3B4aDFPVFp5V3UyX0NDMWZFUE1iQk1rZndBZWJFWnc?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-08-29T13:33:33.000Z",
-      "summary": "Derby County vs Swansea City player ratings as only one man between Rams and heavy defeat &nbsp;&nbsp; Derbyshire Live",
-      "image": "",
-      "type": "news"
     },
     {
       "title": "Derby County injury latest as John Eustace suffers Carlton Morris set-back",
@@ -569,15 +578,6 @@
       "summary": "Derby County complete third summer signing as Rams move for midfielder &nbsp;&nbsp; Derbyshire Live",
       "image": "",
       "type": "rumour"
-    },
-    {
-      "title": "Filip Bilbija: Derby County sign former Paderborn midfielder",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zVTNJbEtFNlBwTkpRSjV5NVUzdzNzaks4NDNZVWJRdHVFTUQtY0k2UWtRNlZ0WXVBQ3QxcjNFamFzU3ZGMjhzdWIzNFhtS2VHR000LWJpSm10aUdMVE5rcjBuSTRuSEk?oc=5",
-      "source": "BBC",
-      "published": "2026-07-22T07:00:00.000Z",
-      "summary": "Filip Bilbija: Derby County sign former Paderborn midfielder &nbsp;&nbsp; BBC",
-      "image": "",
-      "type": "news"
     }
   ]
 }
