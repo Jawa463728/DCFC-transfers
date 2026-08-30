@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T17:11:25.302Z",
+  "updatedAt": "2026-08-30T17:23:48.311Z",
   "targets": [
     {
       "name": "Leicester City",
@@ -63,15 +63,6 @@
       "source": "Derbyshire Live",
       "published": "2026-08-30T16:00:00.000Z",
       "summary": "Derby County complete much-needed transfer as John Eustace gets wish granted &nbsp;&nbsp; Derbyshire Live",
-      "image": "",
-      "type": "news"
-    },
-    {
-      "title": "Sources: Wrexham race Derby County and Millwall to sign Mattie Pollock",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMy1GRzQ3WkMxNEttTjdyNzNBdUdiZUZhVlpOcm1VbXZ5VDFOTzRnQW51Z2ljM3N4TzV3ZHVhZVJUY0h6T3pLMzNNeE1zVWU1Mk5MZy1OaFByeXl0VVFLUzVQX1Z3MV9MMnFyNzVnLTgxN2JZNzhCMVRsRU1uZzAyY2FURk9iM0sy?oc=5",
-      "source": "Yahoo Sports UK",
-      "published": "2026-08-30T15:30:00.000Z",
-      "summary": "Sources: Wrexham race Derby County and Millwall to sign Mattie Pollock &nbsp;&nbsp; Yahoo Sports UK",
       "image": "",
       "type": "news"
     },
@@ -576,6 +567,15 @@
       "source": "Derby County",
       "published": "2026-07-22T07:00:00.000Z",
       "summary": "TRANSFER NEWS: Introducing…Filip Bilbija &nbsp;&nbsp; Derby County",
+      "image": "",
+      "type": "news"
+    },
+    {
+      "title": "NEW SIGNING INTERVIEW: Filip Bilbija",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUzRENDExNVdOZDZZY3lzaEt6aWZvS0EwaTlQN0x5cXEwV3BzU0ZZM0JWaEoydHRuU2lPcG5LUFdVeHdKRkx0bjlZYUo0UjNGeGhwV0ItV2lCNnpPaFlmOGpXdUsxWTEydWxldHNKSFlEbHpseFpxNmVGTWxaNHN2ZTFlc2d0R1pvanVPQzVtMnFEQnhTV1BrSDlGRUpuRmxuTVRfTlBjN3U?oc=5",
+      "source": "Derby County",
+      "published": "2026-07-22T07:00:00.000Z",
+      "summary": "NEW SIGNING INTERVIEW: Filip Bilbija &nbsp;&nbsp; Derby County",
       "image": "",
       "type": "news"
     }
