@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T08:09:04.935Z",
+  "updatedAt": "2026-08-30T08:21:31.497Z",
   "targets": [
     {
       "name": "Ben Brereton-Diaz",
@@ -445,15 +445,6 @@
       "type": "news"
     },
     {
-      "title": "TRANSFER NEWS: Reintroducing...Sam Szmodics",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbEdIUmhGVFNodlFWVUIzcU5xck1VcF80MjEwYWZfRkNGWnVrb2U1U3E0NW1VRHFKcDcyZWxsakZRaldRdlBGbnpabFZZZUY0T1dzTlEzYVIwVjI1a0lhZ3JvVk1FcThjQnpjaE5UMVo5N2VucWlib1VSX2NGM19SbA?oc=5",
-      "source": "Derby County",
-      "published": "2026-08-01T07:00:00.000Z",
-      "summary": "TRANSFER NEWS: Reintroducing...Sam Szmodics &nbsp;&nbsp; Derby County",
-      "image": "",
-      "type": "news"
-    },
-    {
       "title": "Derby County complete fourth transfer as Turki Alalshikh closes in on seismic investment deal",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORjJtVTFEVktydzNWMFdLQVcwM2lnbkRxTHRTV0NaS0g0UXc2VTM3UnozcFpqZ090cjlUVzNuU3dCQlN6cWZCZG5DcFFDU1BLNzdDMjNQNExXakRoT1J5ODVMT1d5WXFBSFVFbzZBVmR6eW5TV1FtZ0NIOXQ3ZnNVVURwd0xuVWJjdVJ5bV9jWXlJZFh3dnpLWHE2VkdNVTZqZHVCcUh1SXM?oc=5",
       "source": "Derbyshire Live",
@@ -576,6 +567,15 @@
       "source": "Get French Football News",
       "published": "2026-07-22T07:00:00.000Z",
       "summary": "Derby County’s Jacob Widell Zetterström attracts interest from Lyon &nbsp;&nbsp; Get French Football News",
+      "image": "",
+      "type": "rumour"
+    },
+    {
+      "title": "Derby County’s FIFA World Cup star draws new interest from Ligue 1 side",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRi1RUGYwdVNKZl9pVDdFSXcxaTBXa2d0NElqMUNNMFFuanJSaHFfNl9yMHdaVF9ZcDhtUmtRckdRUG9CYjd6cXd3RVphVW9WdW1md2FORVlod0N4dVRLMDVfWHh6a1VRMUhFcVliRWsyZF85ZkNSajZNbWlhdFNiUQ?oc=5",
+      "source": "Yahoo Sports UK",
+      "published": "2026-07-22T07:00:00.000Z",
+      "summary": "Derby County’s FIFA World Cup star draws new interest from Ligue 1 side &nbsp;&nbsp; Yahoo Sports UK",
       "image": "",
       "type": "rumour"
     }
