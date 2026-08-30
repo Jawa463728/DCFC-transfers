@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T19:38:19.327Z",
+  "updatedAt": "2026-08-30T19:50:17.994Z",
   "targets": [
     {
       "name": "Leicester City",
@@ -54,6 +54,15 @@
       "source": "TribalFootball",
       "published": "2026-08-30T16:47:33.000Z",
       "summary": "Derby County land Danish striker Meister on season-long loan &nbsp;&nbsp; TribalFootball",
+      "image": "",
+      "type": "news"
+    },
+    {
+      "title": "TRANSFER NEWS: Introducing…Henrik Meister",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSk9XVENiMWM4M184aHd5RS1CMFBiazVoZlJ2b25BUG1qSzZQQmIxd3NkR25DWDBBUklZcU1YT182aFV3SW1qTU9zTXY0RkpYU1lveEdsOEJ5Q2FCbFVZSkdYc1R0S3AtWXk1YTlwV19vbW5ZMUgxZS1kell4ZmhjOQ?oc=5",
+      "source": "Derby County",
+      "published": "2026-08-30T16:19:31.000Z",
+      "summary": "TRANSFER NEWS: Introducing…Henrik Meister &nbsp;&nbsp; Derby County",
       "image": "",
       "type": "news"
     },
@@ -567,15 +576,6 @@
       "source": "BBC",
       "published": "2026-07-23T07:00:00.000Z",
       "summary": "Sammie Szmodics: Derby County looking to sign Ipswich forward &nbsp;&nbsp; BBC",
-      "image": "",
-      "type": "news"
-    },
-    {
-      "title": "Jacob Widell Zetterstrom: Lyon keen on Derby County goalkeeper - gossip",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9KMmRxUlRuck8wWlVxUUF4WWJzMXZ0T2xyQ1JjcS1meHFncVhfNjhqT3J6bUpKdDBpTlg2cUgtN1ZESHVkVHp5S21vSFpNS3NwRzN2Q3d2MWVXVzU1elN3ZDhRbHBlWU0?oc=5",
-      "source": "BBC",
-      "published": "2026-07-23T07:00:00.000Z",
-      "summary": "Jacob Widell Zetterstrom: Lyon keen on Derby County goalkeeper - gossip &nbsp;&nbsp; BBC",
       "image": "",
       "type": "news"
     }
