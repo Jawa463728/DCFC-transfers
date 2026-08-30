@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T16:09:51.656Z",
+  "updatedAt": "2026-08-30T16:22:07.267Z",
   "targets": [
     {
       "name": "Leicester City",
@@ -39,6 +39,15 @@
     }
   ],
   "stories": [
+    {
+      "title": "NEW SIGNING INTERVIEW: Henrik Meister",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Fei1zdWN3OW5UU25TVHBmM1dQbzBNNmNETFFfaEtJb2Y2UG02RVdWTXlQUHgxa18xZjhfT0dXQzREaGUyT3MydkoyOS1QVGFwQmpad2FjQ3FRazRwRlBjaWRPSjViQkhrRVh4dWV6eXk2THdJMnNNM3pjLTI?oc=5",
+      "source": "Derby County",
+      "published": "2026-08-30T16:03:49.000Z",
+      "summary": "NEW SIGNING INTERVIEW: Henrik Meister &nbsp;&nbsp; Derby County",
+      "image": "",
+      "type": "news"
+    },
     {
       "title": "Derby County complete much-needed transfer as John Eustace gets wish granted",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbF9GNjJUWFY5dTNFUS0wVFdhZlJEdDl4VmZEa3BhMU85REYxZGs1RkN3YjBoVmF4STVGWWgtbVdZU2pMaGtMdXRhdmpsNEZGVGRXbEFTT21DNnZtODNEOHBUcnpZczBGLW9uWUliZnE0UU1EUi1SRVB3UGNOajgzRkt5SjEtR3R1Q0hrWXpBMjdjekg5QlF4QWpfTmRXZUVjNWh5Z1p3?oc=5",
@@ -569,15 +578,6 @@
       "summary": "NEW SIGNING INTERVIEW: Filip Bilbija &nbsp;&nbsp; Derby County",
       "image": "",
       "type": "news"
-    },
-    {
-      "title": "Derby County complete third summer signing as Rams move for midfielder",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQR25zZlhqeHE0SmdBVjVabWRQSGF2YWkweVJJX0s3VFZBMF9aSHNQenhuSUZXOFFILUctTVdKdW1meWx3S3VLRzdwUURvZ1E2U002ZWswT0RZNnA2dlpwc2ktUlJMbk5wbktXWFI1OFpRZURGNG5lZ1RYRXE5dVhmNTJ1bHdfNW05MXMyaUlVakF5Yjh0WTBlbm40NmdqWVJNT0NJU0NNakXSAa4BQVVfeXFMTUJMaVBVTHM2RFgwb210RUdQVF9Ici1qWVo1VmYzNHMzajZxeEs2REhyMl9mcTRvTHBHeUNPV2QyMjdVZGV1alJIeU5zSjRwN1liUks2Uy16MnotVERkb3FrUk1GNGlYZE8yZklqQ3Y2WXdEVVRjT3BvM0s5Q2x6d0h3ODdkY0hlRFZRYmVHV3ZGSmViS1p6OFZLSFczMGZvd1hfX3JqYXNmZ0hmVVRR?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-07-22T07:00:00.000Z",
-      "summary": "Derby County complete third summer signing as Rams move for midfielder &nbsp;&nbsp; Derbyshire Live",
-      "image": "",
-      "type": "rumour"
     }
   ]
 }
