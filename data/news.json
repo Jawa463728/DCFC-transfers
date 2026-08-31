@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T10:03:50.184Z",
+  "updatedAt": "2026-08-31T10:16:11.050Z",
   "targets": [
     {
       "name": "Leicester City",
@@ -256,15 +256,6 @@
       "type": "rumour"
     },
     {
-      "title": "Gossip: Derby County target Mikey Johnston and Anis Mehmeti",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9WUlFnUkp0U0UwcFJMOFJjWlpBYkozN3FOYWJVeTluVG9UaXk2ZlZVbDlZb1dmVTVCdzhncEZTRXpITzllOXN0RFFJWW1SaTlKbHZTTGZ6NlVpZkdCcmZNaHNPTG5MR00?oc=5",
-      "source": "BBC",
-      "published": "2026-08-24T10:25:26.000Z",
-      "summary": "Gossip: Derby County target Mikey Johnston and Anis Mehmeti &nbsp;&nbsp; BBC",
-      "image": "",
-      "type": "rumour"
-    },
-    {
       "title": "Derby County transfer state of play amid triple pursuit and John Eustace speaks on duo",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZi1HdnA2T2VmZkpuMGpXQ2l5RWhZQm5EaXZTQmFkLXNMb2d5Wm5Ha2FxdTBLVkJJTlZYNjlTTkZ3V1dOR0R6T29NZERwSnNYUUpOQUViWlRPUU5ZN0FLc3hzMDZORDY0bERWZW9yZ2hfcEFqZ2pZN2FDZl9IeDB4UXdJY2hncF9pTkJxOXYxbXAyTjd1bmQyQngxUzhzSnpXVk1STW9LUU9YUQ?oc=5",
       "source": "Derbyshire Live",
@@ -371,6 +362,15 @@
       "summary": "ACADEMY NEWS: Turley makes Dunfermline loan return &nbsp;&nbsp; Derby County",
       "image": "",
       "type": "news"
+    },
+    {
+      "title": "SIGNING: Alex Mowatt joins Derby County",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLU3JuWDM0QzRad2ZZVEExNjFucG5vMmZpd3ZVUWlBM2E1Ri1wZkprd1V3TGRmbzVyVHJHd09hODdWQWk2QnlzcWJYUFhlTHJKZkJoV1JXMEJoLXlLRnNmenlRUTc3dkdDaVVXdTlOS0x3SWpRcGxNTWp3TjZBSFE?oc=5",
+      "source": "Derby County",
+      "published": "2026-08-14T07:00:00.000Z",
+      "summary": "SIGNING: Alex Mowatt joins Derby County &nbsp;&nbsp; Derby County",
+      "image": "",
+      "type": "done"
     },
     {
       "title": "Gossip: Derby County target West Brom's Alex Mowatt",
@@ -526,6 +526,15 @@
       "type": "done"
     },
     {
+      "title": "Portsmouth rivals closing in on ambitious Manchester City swoop as Derby County eye £5m Crystal Palace talent",
+      "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPNjBCb3VWNTd4MFFuY0JuWXZ6TkdGUDY0RFBtNzFvSnBua0xmWTZYVjlDbFRvbEJVaVdnZ2szMW5wTG1NZU4yNjBXQzVXSkJ3bXo0UUU0NzlXMGZHTmxoOTlHbVJ5dXU2bXlBQUZFTXA2MDJsN3ZLUEhjT3p5RXAtUFMzQjFqb2ZxOXM1TnZseGZhcGs0QkNqZ0VwRUNpV2EtZnk5WmdRVmdIWWVZZ09rTUJ2V2IyZ2VlZFJyUVhYbGlSQzlCaV9XOEs1aWlHdUV3eDM2LUUzcXVON0gyN2hpVDRQaEg4UjR5VkUxekFKQ21rWUwxaWtLSnM2X1pud2VPZVJKSDcxTmJfWWxpd0p6Y09OU3V3MGtjZlFIdTBsMA?oc=5",
+      "source": "portsmouth.co.uk",
+      "published": "2026-07-30T07:00:00.000Z",
+      "summary": "Portsmouth rivals closing in on ambitious Manchester City swoop as Derby County eye £5m Crystal Palace talent &nbsp;&nbsp; portsmouth.co.uk",
+      "image": "",
+      "type": "news"
+    },
+    {
       "title": "Derby County transfer review: A £6m signing, more deals, and the expectations on Rams",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORGhCVm9YbHVqcGVfMzFXSTFiMWp5cjlYZzZKTDN6LThobjNTWjkyZHlBMldYNTFZMHJRMVNFdWRTSGVqLVoxTGxhaEtCX2lMRDh1ZjlLQXVjRDBUUGlnRk5QMlE5Q29MdUg1bnd0V2FINzhNZmlTS1EwRlVpa3pXOVFMYnJJcGNON3J5Y19vcTRlZC1SYWo0ZndqRWFZVUItR2NWVUx5dFJoQzFMaFRvMGZPVdIBuAFBVV95cUxNSDA3REs3TnhFYUhoSXNxUGNLRlliV1BLZ21GYWpvVW5aN25ZTm90NHNVRnBmNVhKaXdsZlBFbFl3Q2NkYjdobHdEeHVpNU1Lc3BzQnlpaExxcFNEc2hoYUxTUEZ0SFc4aHlnaC1GMzVHRXYzQXJwWG54cXh2NFVGWVp3VkpoX2pmUHdTS0MxQUFmYzhKRVF3NGVVa21XWGRVZUptLVR3WEprTzNDWHpXYWlya1p5NjE4?oc=5",
       "source": "Derbyshire Live",
@@ -569,15 +578,6 @@
       "summary": "NEW SIGNING INTERVIEW: Filip Bilbija &nbsp;&nbsp; Derby County",
       "image": "",
       "type": "news"
-    },
-    {
-      "title": "Derby County complete third summer signing as Rams move for midfielder",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQR25zZlhqeHE0SmdBVjVabWRQSGF2YWkweVJJX0s3VFZBMF9aSHNQenhuSUZXOFFILUctTVdKdW1meWx3S3VLRzdwUURvZ1E2U002ZWswT0RZNnA2dlpwc2ktUlJMbk5wbktXWFI1OFpRZURGNG5lZ1RYRXE5dVhmNTJ1bHdfNW05MXMyaUlVakF5Yjh0WTBlbm40NmdqWVJNT0NJU0NNakXSAa4BQVVfeXFMTUJMaVBVTHM2RFgwb210RUdQVF9Ici1qWVo1VmYzNHMzajZxeEs2REhyMl9mcTRvTHBHeUNPV2QyMjdVZGV1alJIeU5zSjRwN1liUks2Uy16MnotVERkb3FrUk1GNGlYZE8yZklqQ3Y2WXdEVVRjT3BvM0s5Q2x6d0h3ODdkY0hlRFZRYmVHV3ZGSmViS1p6OFZLSFczMGZvd1hfX3JqYXNmZ0hmVVRR?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-07-22T07:00:00.000Z",
-      "summary": "Derby County complete third summer signing as Rams move for midfielder &nbsp;&nbsp; Derbyshire Live",
-      "image": "",
-      "type": "rumour"
     }
   ]
 }
