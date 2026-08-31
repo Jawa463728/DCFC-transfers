@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T14:24:06.825Z",
+  "updatedAt": "2026-08-31T14:36:26.357Z",
   "targets": [
     {
       "name": "Leicester City",
@@ -26,19 +26,28 @@
       "context": "Fresh media link"
     },
     {
-      "name": "Henrik Meister",
+      "name": "Coventry City",
       "mentions": 1,
       "score": 34,
       "context": "Fresh media link"
     },
     {
-      "name": "Ben Brereton Diaz",
+      "name": "Henrik Meister",
       "mentions": 1,
       "score": 34,
       "context": "Fresh media link"
     }
   ],
   "stories": [
+    {
+      "title": "Derby County, Burnley interested in loan deal for Coventry City defender",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTW1RZ1p4N2s5Q0pyLWJUbzV0QTFoRkxkRDRQR3k5TVNQV2d5bDNIYTJQbVY5ZHMtWmk2TFY5ZWV3dm90TEhzTTktVWdaNmpMdnpsSVBOOXRhaTBfLW90VzNETU5CbWRTYnNZdXhqd3ZrLXNLdHNJbEZjaVNfams3T3M4c0Z6bFFUNW9lOQ?oc=5",
+      "source": "Yahoo Sports UK",
+      "published": "2026-08-31T13:16:47.000Z",
+      "summary": "Derby County, Burnley interested in loan deal for Coventry City defender &nbsp;&nbsp; Yahoo Sports UK",
+      "image": "",
+      "type": "rumour"
+    },
     {
       "title": "Henrik Meister makes 'big' Derby County statement as he waits to be unleashed on Championship",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPM05EN3lVbTQ1TWNLX2p5cFNDYTUzUkx1SGN0emU5d1pOOWJ1T2hveVdXSHZhemZCY3ZIaGtmM29MV0o1WERkZUtYc1M2LTYtNkpDay1UVjRRbDl2M1FUSHBVU0Nxck1aOWhKc0lsbVVFckpPSjhLbzhoa1RTcEtnSDl4VGhjc0ZuRVBCUGRPa2dWYldEMkJ2aDlhX0ZaNEoydW5R?oc=5",
@@ -569,15 +578,6 @@
       "summary": "NEW SIGNING INTERVIEW: Filip Bilbija &nbsp;&nbsp; Derby County",
       "image": "",
       "type": "news"
-    },
-    {
-      "title": "Derby County complete third summer signing as Rams move for midfielder",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQR25zZlhqeHE0SmdBVjVabWRQSGF2YWkweVJJX0s3VFZBMF9aSHNQenhuSUZXOFFILUctTVdKdW1meWx3S3VLRzdwUURvZ1E2U002ZWswT0RZNnA2dlpwc2ktUlJMbk5wbktXWFI1OFpRZURGNG5lZ1RYRXE5dVhmNTJ1bHdfNW05MXMyaUlVakF5Yjh0WTBlbm40NmdqWVJNT0NJU0NNakXSAa4BQVVfeXFMTUJMaVBVTHM2RFgwb210RUdQVF9Ici1qWVo1VmYzNHMzajZxeEs2REhyMl9mcTRvTHBHeUNPV2QyMjdVZGV1alJIeU5zSjRwN1liUks2Uy16MnotVERkb3FrUk1GNGlYZE8yZklqQ3Y2WXdEVVRjT3BvM0s5Q2x6d0h3ODdkY0hlRFZRYmVHV3ZGSmViS1p6OFZLSFczMGZvd1hfX3JqYXNmZ0hmVVRR?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-07-22T07:00:00.000Z",
-      "summary": "Derby County complete third summer signing as Rams move for midfielder &nbsp;&nbsp; Derbyshire Live",
-      "image": "",
-      "type": "rumour"
     }
   ]
 }
