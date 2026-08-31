@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T13:34:27.537Z",
+  "updatedAt": "2026-08-31T13:46:48.199Z",
   "targets": [
     {
       "name": "Leicester City",
@@ -26,13 +26,13 @@
       "context": "Fresh media link"
     },
     {
-      "name": "Henrik Meister",
+      "name": "Coventry City",
       "mentions": 1,
       "score": 34,
       "context": "Fresh media link"
     },
     {
-      "name": "Ben Brereton Diaz",
+      "name": "Henrik Meister",
       "mentions": 1,
       "score": 34,
       "context": "Fresh media link"
@@ -40,11 +40,29 @@
   ],
   "stories": [
     {
+      "title": "Derby County, Burnley interested in loan deal for Coventry City defender",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOeTA1QWxGWkpXc1h2cVE1VnZpU0hMcXliaV96OWZBSWhxdjlDZWhQUkdMazFNNktUQmNRSzlYdXZheUpNckZCQ3lhUHpaNGhIb00yQ3UySVZ6bFk2N3o5SGJJandOWVMzazdZZUtTZjVCZGxWa2YxWDktbk5PNlp5SEgtT1UwaldhUjlhNDZnVjlyOGppTFBTejUxcHFrWTRNSHhNU3FiQTNtM0F3TmZJUzhESWNMb1hjXzlGM3drMmhpamo3Y3diWTdUUGhTOWlwQTRFTUtySnVWa3ZqN3hqNEZURlRPSDc2MkNqWFJhdm9qUnhLUWtnemdEempld2tjWmNETzc2Z05DV19Iai1CaFJ3?oc=5",
+      "source": "The72",
+      "published": "2026-08-31T13:18:52.000Z",
+      "summary": "Derby County, Burnley interested in loan deal for Coventry City defender &nbsp;&nbsp; The72",
+      "image": "",
+      "type": "rumour"
+    },
+    {
       "title": "Henrik Meister makes 'big' Derby County statement as he waits to be unleashed on Championship",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPM05EN3lVbTQ1TWNLX2p5cFNDYTUzUkx1SGN0emU5d1pOOWJ1T2hveVdXSHZhemZCY3ZIaGtmM29MV0o1WERkZUtYc1M2LTYtNkpDay1UVjRRbDl2M1FUSHBVU0Nxck1aOWhKc0lsbVVFckpPSjhLbzhoa1RTcEtnSDl4VGhjc0ZuRVBCUGRPa2dWYldEMkJ2aDlhX0ZaNEoydW5R?oc=5",
       "source": "Derbyshire Live",
       "published": "2026-08-31T11:16:00.000Z",
       "summary": "Henrik Meister makes 'big' Derby County statement as he waits to be unleashed on Championship &nbsp;&nbsp; Derbyshire Live",
+      "image": "",
+      "type": "news"
+    },
+    {
+      "title": "Derby County eye 24-year-old with Millwall and Wrexham",
+      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPNV9ReHRSSS14S0xhaGNIeHppVmRvNUJ5VG5XV0JSR0lVeFFRa0l5akpVeXF6WmhDY3Y0YTU3a1BDcHdGZm5FbnNJR1B3M19zLThRVnZDRGJJekM4eW1QUjRNXzVheElfUTJ4alhEYjJVTjdhVUwxVGkzVU9TMGd5ZkJwWXhBMkxXX0JrY1NQSC1YS2pJQUl3MEU0Z2ZITkxfSndYbnl2c2dMcGlvVFozaUpqZjEya0RheWFybGV1MlRBXzNyQjB0NDRDTVJhY1EyVEhtR2txYTY3TjUwTHV2aU5KX1VhYmF1Q2wxbTQtcldrMFRsVWpnMFNsbWNlWkR0RzI2OHhXX0RWNTl5V2hOcTVfQVRheUU?oc=5",
+      "source": "The72",
+      "published": "2026-08-31T07:57:40.000Z",
+      "summary": "Derby County eye 24-year-old with Millwall and Wrexham &nbsp;&nbsp; The72",
       "image": "",
       "type": "news"
     },
@@ -198,6 +216,15 @@
       "source": "Yorkshire Post",
       "published": "2026-08-28T09:06:00.000Z",
       "summary": "Forward 'due' for Sheffield United medical despite Stoke City and Derby County links &nbsp;&nbsp; Yorkshire Post",
+      "image": "",
+      "type": "news"
+    },
+    {
+      "title": "Derby County manager hints at Hamza Choudhury transfer as Leicester City exit 'close'",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMUZ6MUNjOVM5a3ZzbmZlZ2t6SXBaM3g3Qzl5cFpBby02ZTJqS3MtcTVPWVN4QjJ3bjVmcFBFMzIwRkZYcTFWZGtfbS05WlFqcmxhOWUyblZoc3owNWE3emloWEwyYzhhNnJnZGMtODIxREVuMjRNeXBwckdhcnNjNXFuUDZLS3BCb1RTZ0pYd0hNQjhJMWpuY3NrYW5aTEFPV1ItcWgxQlQ1elU2eUE?oc=5",
+      "source": "Leicester Mercury",
+      "published": "2026-08-28T08:24:00.000Z",
+      "summary": "Derby County manager hints at Hamza Choudhury transfer as Leicester City exit 'close' &nbsp;&nbsp; Leicester Mercury",
       "image": "",
       "type": "news"
     },
@@ -391,6 +418,15 @@
       "type": "rumour"
     },
     {
+      "title": "The latest on Derby County's interest in re-signing 2025/26 loan ace",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQME92c3F1MVkzY1RydU4tUTc4bm4xYmFLUTVyM2VYSmJmaWJrdDBabzNscFJBWTBwLVg4cWpNTXVJbWRTR0VodkZNd1J1Rkxyd2NGTm10bUt0cmh4QjZyMXZaMWY2dHkyYUZoSjFveUNRUUkzVTRwMnAzZWFvMTNqc0JCMEw?oc=5",
+      "source": "The72",
+      "published": "2026-08-13T07:00:00.000Z",
+      "summary": "The latest on Derby County's interest in re-signing 2025/26 loan ace &nbsp;&nbsp; The72",
+      "image": "",
+      "type": "rumour"
+    },
+    {
       "title": "Captain sets out Derby County target for the new season as he says 'I don't see why we can't'",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQjNKRGRQVTFvUTlsZXNDNFA0UWttU1BTOGJicjFzUEsxMUJCWWdzZVJMV3UtV2VHZ2FzZ1pjb1paNjR5bHlOT1JWeUgzUUE1WkhncjJOWkoxMVN0ZUdlcTUwN18wOHkzYjczNmpNc2dPVVItQWlvcmtibjZBd0JiQUlPdzMwWlRuZTJBN2dwVnhHY3hTckNMYk1YTkE1Tkc5cklha19hZw?oc=5",
       "source": "Derbyshire Live",
@@ -436,15 +472,6 @@
       "type": "news"
     },
     {
-      "title": "Saudi boxing chief Turki Alalshikh gives statement as he pulls out of running to buy Derby County",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTFZZT1hScjBLWGpYLXlaUFlIVWxRZXVHSmtYVjJ2Sm82WWJXdW9KSWhSS0ROX0sySTFHV3ZNMHY4WV9XakNBU0dRRkR1Um5JMVcxb3JlMHczTkdRampMUVVYZjhKOVYtbzdUcVZSWTVHNzNGSm9jYXoteDkxV2pVdXZvc2Jhcjd0Z004Qm1SZXRKNVBxbnhz?oc=5",
-      "source": "talkSPORT",
-      "published": "2026-08-10T07:00:00.000Z",
-      "summary": "Saudi boxing chief Turki Alalshikh gives statement as he pulls out of running to buy Derby County &nbsp;&nbsp; talkSPORT",
-      "image": "",
-      "type": "news"
-    },
-    {
       "title": "Dajaune Brown seals Derby County transfer as EFL club confirms swoop for striker",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOExDTW8zWVl5Rkg3RUZDT0pGSnZLaHZac3RlaTJmX2tjS2ZqRmVJbGk5RUctM0ZmYVRpcU9wUDVCZzNqdGlseDhfTW1vdnRITmIzY1c4ckZ3bDh4N095bXdBV2tmN1NWU2ZYdmxQbnpfVUc0ajdUdDRTYUo4bFdOcnh4U194emRLNU0wN1BRdFQ1UXVFQzVLcFV6Wk1mVGEzNTdkSXlR?oc=5",
       "source": "Derbyshire Live",
@@ -486,15 +513,6 @@
       "source": "Yorkshire Post",
       "published": "2026-08-05T07:00:00.000Z",
       "summary": "Derby County 'want' Huddersfield Town midfielder after successful loan &nbsp;&nbsp; Yorkshire Post",
-      "image": "",
-      "type": "news"
-    },
-    {
-      "title": "Derby County ready to splash out on 'explosive' Europa League star as transfer price set",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOanQzdVhJdnNteVBwNGhTNUFaYWhtaFplZDhIMVZ4N2h3V25aX2IySnhab2dUaEdOMjNTWW1EbmtMMUhUT1FkbGVXWGh3YTA0VVZNZlFyYmN3YU1fc2V4VG91bV96dmpZVVlDWXJkOWd1d2ZYdHY0VzlSS09tXy1PLTVMWUVMY3N2bzhLSEZqQjhRaVMwU0NrWE5uZ2VSdEhGNWFMcFVpUELSAa4BQVVfeXFMTWkwd0lKSlNzRU1xUHlHMzFPYnl0bFVUMHAycjN6UEhmdkhoUVMzR0VtRkU1R3NZTW1PWXhYRTZmbHp4cnNCRHIxSEtmSTlHbUxOMzNNZmdORkJjTGwxMG5LZTBwMXRON0g4WlJPcjR4cGRsb3ZlRHhVMlhNcjN4a09xUHc5Rk9IWGt0SlUyeFpNNU9YLVdYMjZERmQtM1ZKUlJuUjNPS1JhcUpxUE53?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-08-03T07:00:00.000Z",
-      "summary": "Derby County ready to splash out on 'explosive' Europa League star as transfer price set &nbsp;&nbsp; Derbyshire Live",
       "image": "",
       "type": "news"
     },
@@ -560,24 +578,6 @@
       "summary": "Bristol City Seek To Hijack Derby County Transfer Pursuit &nbsp;&nbsp; The Stacey West",
       "image": "",
       "type": "rumour"
-    },
-    {
-      "title": "Sammie Szmodics: Derby County looking to sign Ipswich forward",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94eEI2QTVOVFBMOUhXcXBvTUJ3MlVwVEFSTkNxNEtSeHFPNHVCYXRXSXJyQWVXRGs4RWpEbjUxSk1QMVBEMTlxS2hyazlaYV9CT2RPVEI3dy1jMGllRkh1YkQwMThaT28?oc=5",
-      "source": "BBC",
-      "published": "2026-07-23T07:00:00.000Z",
-      "summary": "Sammie Szmodics: Derby County looking to sign Ipswich forward &nbsp;&nbsp; BBC",
-      "image": "",
-      "type": "news"
-    },
-    {
-      "title": "Jacob Widell Zetterstrom: Lyon keen on Derby County goalkeeper - gossip",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9KMmRxUlRuck8wWlVxUUF4WWJzMXZ0T2xyQ1JjcS1meHFncVhfNjhqT3J6bUpKdDBpTlg2cUgtN1ZESHVkVHp5S21vSFpNS3NwRzN2Q3d2MWVXVzU1elN3ZDhRbHBlWU0?oc=5",
-      "source": "BBC",
-      "published": "2026-07-23T07:00:00.000Z",
-      "summary": "Jacob Widell Zetterstrom: Lyon keen on Derby County goalkeeper - gossip &nbsp;&nbsp; BBC",
-      "image": "",
-      "type": "news"
     }
   ]
 }
