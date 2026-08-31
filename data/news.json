@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T09:01:55.129Z",
+  "updatedAt": "2026-08-31T09:14:13.469Z",
   "targets": [
     {
       "name": "Leicester City",
@@ -56,15 +56,6 @@
       "summary": "SIGNING: Henrik Meister is a Ram &nbsp;&nbsp; Derby County",
       "image": "",
       "type": "news"
-    },
-    {
-      "title": "Shots on target per 90 - Derby County stats for Championship 2026/2027",
-      "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQRzVPeklZa1h0a1NjcTh5ZHlodHE0b3dwWkxGb081UnRDSnhheDBTdGtTYlRUVGF4RmdNeWREQ3BjSkZxa0RUWjJCS2I0N0toSk5EUWtmcFlvWUk2RzQwaEF0VU9DaVkzNC14TkcwQjRUYXpOUTFyY1YybVR3WEZCamZyNGNybElzZEgzZE42SnhLYnQ4UVR2a3hrSVp1UGw2T1dqR1NNMUFsVldISEZfUzYya2lkdGNVQ1FsczN4V1RHZElSTXJGRnoxbjNJNGVIMzBHS0ZJcEZXaTF3VXR4OTZjRXNLZjJ0VElKSS15cXk5dktEX3lhTm92QkVGUzRyV25EbGNOSDNCVnJkUjI5VnlmYlNEUzBodXZlaGpNZks1Zjh2RlY5MFJR?oc=5",
-      "source": "FotMob",
-      "published": "2026-08-30T16:43:35.000Z",
-      "summary": "Shots on target per 90 - Derby County stats for Championship 2026/2027 &nbsp;&nbsp; FotMob",
-      "image": "",
-      "type": "rumour"
     },
     {
       "title": "TRANSFER NEWS: Introducing…Henrik Meister",
@@ -373,6 +364,15 @@
       "type": "news"
     },
     {
+      "title": "SIGNING: Alex Mowatt joins Derby County",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLU3JuWDM0QzRad2ZZVEExNjFucG5vMmZpd3ZVUWlBM2E1Ri1wZkprd1V3TGRmbzVyVHJHd09hODdWQWk2QnlzcWJYUFhlTHJKZkJoV1JXMEJoLXlLRnNmenlRUTc3dkdDaVVXdTlOS0x3SWpRcGxNTWp3TjZBSFE?oc=5",
+      "source": "Derby County",
+      "published": "2026-08-14T07:00:00.000Z",
+      "summary": "SIGNING: Alex Mowatt joins Derby County &nbsp;&nbsp; Derby County",
+      "image": "",
+      "type": "done"
+    },
+    {
       "title": "Gossip: Derby County target West Brom's Alex Mowatt",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBvdERlUlpJNDRKZFFYZWFMUUE2SE9WZ1ZqOXVGUjBoN2FKc3VzRHlFMFppaWo2VDl4OXU4TDJidUxFOFMwck1seVEzZEViTklaa2JZRWpWSW1LNjFfdTZSWE1PMjVmVms?oc=5",
       "source": "BBC",
@@ -499,15 +499,6 @@
       "type": "news"
     },
     {
-      "title": "Derby County complete fourth transfer as Turki Alalshikh closes in on seismic investment deal",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORjJtVTFEVktydzNWMFdLQVcwM2lnbkRxTHRTV0NaS0g0UXc2VTM3UnozcFpqZ090cjlUVzNuU3dCQlN6cWZCZG5DcFFDU1BLNzdDMjNQNExXakRoT1J5ODVMT1d5WXFBSFVFbzZBVmR6eW5TV1FtZ0NIOXQ3ZnNVVURwd0xuVWJjdVJ5bV9jWXlJZFh3dnpLWHE2VkdNVTZqZHVCcUh1SXM?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-08-01T07:00:00.000Z",
-      "summary": "Derby County complete fourth transfer as Turki Alalshikh closes in on seismic investment deal &nbsp;&nbsp; Derbyshire Live",
-      "image": "",
-      "type": "rumour"
-    },
-    {
       "title": "Sam Szmodics: Derby County re-sign Ipswich Town forward on loan",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1TOTM4bGZESWxnWkhSMjMyc2gtVEV3MS16OUMzNU5RdGhJbW9LbDRldjRMRzNBVFo1VE1sVjdrRTZjQTd2elc0dGtjcFktSmxQSHdOTGlpLUk2Z2c1allIWEFuWHlERkE?oc=5",
       "source": "BBC",
@@ -515,6 +506,15 @@
       "summary": "Sam Szmodics: Derby County re-sign Ipswich Town forward on loan &nbsp;&nbsp; BBC",
       "image": "",
       "type": "news"
+    },
+    {
+      "title": "Derby County complete fourth transfer as Turki Alalshikh closes in on seismic investment deal",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORjJtVTFEVktydzNWMFdLQVcwM2lnbkRxTHRTV0NaS0g0UXc2VTM3UnozcFpqZ090cjlUVzNuU3dCQlN6cWZCZG5DcFFDU1BLNzdDMjNQNExXakRoT1J5ODVMT1d5WXFBSFVFbzZBVmR6eW5TV1FtZ0NIOXQ3ZnNVVURwd0xuVWJjdVJ5bV9jWXlJZFh3dnpLWHE2VkdNVTZqZHVCcUh1SXM?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-08-01T07:00:00.000Z",
+      "summary": "Derby County complete fourth transfer as Turki Alalshikh closes in on seismic investment deal &nbsp;&nbsp; Derbyshire Live",
+      "image": "",
+      "type": "rumour"
     },
     {
       "title": "Ebonie Locke joins Derby County on loan | BWSL2",
