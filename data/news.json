@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T14:36:26.357Z",
+  "updatedAt": "2026-08-31T14:48:47.605Z",
   "targets": [
     {
       "name": "Leicester City",
@@ -26,28 +26,19 @@
       "context": "Fresh media link"
     },
     {
-      "name": "Coventry City",
+      "name": "Henrik Meister",
       "mentions": 1,
       "score": 34,
       "context": "Fresh media link"
     },
     {
-      "name": "Henrik Meister",
+      "name": "Ben Brereton Diaz",
       "mentions": 1,
       "score": 34,
       "context": "Fresh media link"
     }
   ],
   "stories": [
-    {
-      "title": "Derby County, Burnley interested in loan deal for Coventry City defender",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTW1RZ1p4N2s5Q0pyLWJUbzV0QTFoRkxkRDRQR3k5TVNQV2d5bDNIYTJQbVY5ZHMtWmk2TFY5ZWV3dm90TEhzTTktVWdaNmpMdnpsSVBOOXRhaTBfLW90VzNETU5CbWRTYnNZdXhqd3ZrLXNLdHNJbEZjaVNfams3T3M4c0Z6bFFUNW9lOQ?oc=5",
-      "source": "Yahoo Sports UK",
-      "published": "2026-08-31T13:16:47.000Z",
-      "summary": "Derby County, Burnley interested in loan deal for Coventry City defender &nbsp;&nbsp; Yahoo Sports UK",
-      "image": "",
-      "type": "rumour"
-    },
     {
       "title": "Henrik Meister makes 'big' Derby County statement as he waits to be unleashed on Championship",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPM05EN3lVbTQ1TWNLX2p5cFNDYTUzUkx1SGN0emU5d1pOOWJ1T2hveVdXSHZhemZCY3ZIaGtmM29MV0o1WERkZUtYc1M2LTYtNkpDay1UVjRRbDl2M1FUSHBVU0Nxck1aOWhKc0lsbVVFckpPSjhLbzhoa1RTcEtnSDl4VGhjc0ZuRVBCUGRPa2dWYldEMkJ2aDlhX0ZaNEoydW5R?oc=5",
@@ -153,6 +144,15 @@
       "source": "Football Lowdown",
       "published": "2026-08-29T18:51:03.000Z",
       "summary": "Sheffield United Enter Derby County Chase For Versatile Leicester City Star &nbsp;&nbsp; Football Lowdown",
+      "image": "",
+      "type": "news"
+    },
+    {
+      "title": "John Eustace issues Carlton Morris injury update and defends Derby County team selection",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRHhBRF9TR0N4d2lWVE96NEhhcHVla1UyY0tsemZabFZNaFJ6U2Z6QzhpZ3R4ZEZrRm1CZjI0bk5DcnhYaHFjSjN0eEtNSnR5aGZ6c0c5T3hZdmhidmVSS2cyaGt5RjI5YW1qSlptRXZSeHY4NjRjSzN4bzNXWXk2c1RUVFhNLUFNNThud1JlNnVlMDZCVmhGWWdPYUVhMVpzMDVZYlVGeTg?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-08-29T14:46:48.000Z",
+      "summary": "John Eustace issues Carlton Morris injury update and defends Derby County team selection &nbsp;&nbsp; Derbyshire Live",
       "image": "",
       "type": "news"
     },
@@ -571,11 +571,11 @@
       "type": "news"
     },
     {
-      "title": "NEW SIGNING INTERVIEW: Filip Bilbija",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUzRENDExNVdOZDZZY3lzaEt6aWZvS0EwaTlQN0x5cXEwV3BzU0ZZM0JWaEoydHRuU2lPcG5LUFdVeHdKRkx0bjlZYUo0UjNGeGhwV0ItV2lCNnpPaFlmOGpXdUsxWTEydWxldHNKSFlEbHpseFpxNmVGTWxaNHN2ZTFlc2d0R1pvanVPQzVtMnFEQnhTV1BrSDlGRUpuRmxuTVRfTlBjN3U?oc=5",
-      "source": "Derby County",
-      "published": "2026-07-22T07:00:00.000Z",
-      "summary": "NEW SIGNING INTERVIEW: Filip Bilbija &nbsp;&nbsp; Derby County",
+      "title": "Jacob Widell Zetterstrom: Lyon keen on Derby County goalkeeper - gossip",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9KMmRxUlRuck8wWlVxUUF4WWJzMXZ0T2xyQ1JjcS1meHFncVhfNjhqT3J6bUpKdDBpTlg2cUgtN1ZESHVkVHp5S21vSFpNS3NwRzN2Q3d2MWVXVzU1elN3ZDhRbHBlWU0?oc=5",
+      "source": "BBC",
+      "published": "2026-07-23T07:00:00.000Z",
+      "summary": "Jacob Widell Zetterstrom: Lyon keen on Derby County goalkeeper - gossip &nbsp;&nbsp; BBC",
       "image": "",
       "type": "news"
     }
