@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T05:43:23.829Z",
+  "updatedAt": "2026-09-01T05:55:51.337Z",
   "targets": [
     {
       "name": "Leicester City",
@@ -436,6 +436,15 @@
       "type": "rumour"
     },
     {
+      "title": "Derby County takeover collapses as Lion Sport walks away",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeklGcFZ0eW5JUkpUWUhyMEpWaUhrbVNZTUMwX1FYRHQ1OWVtd3FlaTVpSnp5eHkzTGdEQ3lPamdWVmVZQk9MOGdmRkNiTS1xbW5oY3dsVFVhYV81ejB1MjN0eFR0TFJUZGZpSmZ6UzlIbmxjcjZycXllNHRyeVVIbUFmVU1CakN4Um16b2s5MEw2cFZ6allMNFVuZVNWRUVJaENDMXNWaXhmTjVpekM1dDVEdWQ?oc=5",
+      "source": "TheBusinessDesk.com",
+      "published": "2026-08-11T07:00:00.000Z",
+      "summary": "Derby County takeover collapses as Lion Sport walks away &nbsp;&nbsp; TheBusinessDesk.com",
+      "image": "",
+      "type": "news"
+    },
+    {
       "title": "Derby County takeover: Deal off as Turki Alalshikh shelves plans",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA5a0psVjRiQlV1WGd6YnM4czVGc1dNamRzY2RXSGxYLWNzdlNvQ2RLYkVISTBmT3ExOS1OZmZXZFFhTlh5MXA2Wkd6OHk5eFlzM29pdmxsWEYxREkyRDhBUlZ6VHllS0U?oc=5",
       "source": "BBC",
@@ -569,15 +578,6 @@
       "summary": "Bristol City Seek To Hijack Derby County Transfer Pursuit &nbsp;&nbsp; The Stacey West",
       "image": "",
       "type": "rumour"
-    },
-    {
-      "title": "Sammie Szmodics: Derby County looking to sign Ipswich forward",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94eEI2QTVOVFBMOUhXcXBvTUJ3MlVwVEFSTkNxNEtSeHFPNHVCYXRXSXJyQWVXRGs4RWpEbjUxSk1QMVBEMTlxS2hyazlaYV9CT2RPVEI3dy1jMGllRkh1YkQwMThaT28?oc=5",
-      "source": "BBC",
-      "published": "2026-07-23T07:00:00.000Z",
-      "summary": "Sammie Szmodics: Derby County looking to sign Ipswich forward &nbsp;&nbsp; BBC",
-      "image": "",
-      "type": "news"
     }
   ]
 }
