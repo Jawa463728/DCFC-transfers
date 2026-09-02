@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T15:50:52.409Z",
+  "updatedAt": "2026-09-02T16:06:08.686Z",
   "targets": [
     {
       "name": "Hamza Choudhury",
@@ -27,12 +27,6 @@
     },
     {
       "name": "Russell Martin",
-      "mentions": 1,
-      "score": 27,
-      "context": "Fresh media link"
-    },
-    {
-      "name": "World Cup",
       "mentions": 1,
       "score": 27,
       "context": "Fresh media link"
@@ -81,15 +75,6 @@
       "source": "Derbyshire Live",
       "published": "2026-09-01T18:50:56.000Z",
       "summary": "Derby County complete eighth signing of transfer window as home-grown defender returns &nbsp;&nbsp; Derbyshire Live",
-      "image": "",
-      "type": "news"
-    },
-    {
-      "title": "Derby County transfer state of play on crucial deadline day as key duo meet",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNjQxY09rNUx6MkcyY1FVLWtLMHVsdHg2bXpoMGU2dWt3UzlCNllwc2dDd2U3M014Z2ZSTE9UQi0zd3d6dEF0TmQyaXZTZWpINTF3TWpSeTU4RUNVTjBvN3RGaHpoS3V6TnJOUF9kNmNMUDd5N21ZaEl1dzhoNDZ2bzNlMm1FLWQxSElXZWZwSHdVZGEyR3RDZ2Nad1B4WWx3MXYxc2ZFR0Y?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-09-01T12:59:46.000Z",
-      "summary": "Derby County transfer state of play on crucial deadline day as key duo meet &nbsp;&nbsp; Derbyshire Live",
       "image": "",
       "type": "news"
     },
@@ -220,6 +205,15 @@
       "type": "news"
     },
     {
+      "title": "Charlton Athletic plot late move for Derby County, Stoke City transfer target",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUEdFZTFXQXFqSGNqRkZzbVh1cHdsRENVTHN5bG90ODZZcDVGeUJ5UUhTUXBQbFlIMGk2VmdGazNWTnBpSmtOWWJnVGtjSThmcUh1WlpzS0x5V0NiNXZTSlUwb2VsUkhkQ29UWnpIV2d2WGc4bEE3aS1zWFNFVGN2Vm10dmRhMG51?oc=5",
+      "source": "Yahoo Sports UK",
+      "published": "2026-08-28T15:17:18.000Z",
+      "summary": "Charlton Athletic plot late move for Derby County, Stoke City transfer target &nbsp;&nbsp; Yahoo Sports UK",
+      "image": "",
+      "type": "rumour"
+    },
+    {
       "title": "Southampton's Ben Brereton Diaz 'due' for Sheffield United medical despite Stoke City and Derby County links",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbF9Xc2k3bE9QWXlGLXV5SHRjODVpemJiYl81Nk8xVDdsRUtGN3lqUVJUaVBYcUFfUVpHbVBGVlFLLVkyaDl2a0JZWGNVLXc1NmdqS2M5MS13dHIwVGdHdHRjbHMtNlVzdnJyM3hGUmJpTkg1UUJQLURsYlU3ZzJIZ1dLZ0ctTTNMSEZ6VzQzX0xqQm5fN1k0VDkxelR1VGdKWlhxYTRDRkhHTmVyLTlWdGJEVU1fblBPTkVuc3RzdzN2Vmc?oc=5",
       "source": "Yorkshire Post",
@@ -310,6 +304,15 @@
       "type": "news"
     },
     {
+      "title": "Bobby Clark stats, profile and news | Derby County - Celtic news now",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MTlY5WGxndjkwb1d3c3Rlaks5cTgxaEFybnllQVNtOTFXbHhPVEkxWmhjQlM1VFJlR3AyLXJFX3pOcGdVQlRHOXZOSEhzbHNrZGxKc0ZYRV9kejg?oc=5",
+      "source": "Celtic news now - Celtic FC News",
+      "published": "2026-08-16T07:00:00.000Z",
+      "summary": "Bobby Clark stats, profile and news | Derby County &nbsp;&nbsp; Celtic news now - Celtic FC News",
+      "image": "",
+      "type": "news"
+    },
+    {
       "title": "Captain sets out Derby County target for the new season as he says 'I don't see why we can't'",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQjNKRGRQVTFvUTlsZXNDNFA0UWttU1BTOGJicjFzUEsxMUJCWWdzZVJMV3UtV2VHZ2FzZ1pjb1paNjR5bHlOT1JWeUgzUUE1WkhncjJOWkoxMVN0ZUdlcTUwN18wOHkzYjczNmpNc2dPVVItQWlvcmtibjZBd0JiQUlPdzMwWlRuZTJBN2dwVnhHY3hTckNMYk1YTkE1Tkc5cklha19hZw?oc=5",
       "source": "Derbyshire Live",
@@ -348,9 +351,9 @@
     {
       "title": "Saudi boxing chief Turki Alalshikh gives statement as he pulls out of running to buy Derby County",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTFZZT1hScjBLWGpYLXlaUFlIVWxRZXVHSmtYVjJ2Sm82WWJXdW9KSWhSS0ROX0sySTFHV3ZNMHY4WV9XakNBU0dRRkR1Um5JMVcxb3JlMHczTkdRampMUVVYZjhKOVYtbzdUcVZSWTVHNzNGSm9jYXoteDkxV2pVdXZvc2Jhcjd0Z004Qm1SZXRKNVBxbnhz?oc=5",
-      "source": "talkSPORT",
+      "source": "talksport.com",
       "published": "2026-08-10T07:00:00.000Z",
-      "summary": "Saudi boxing chief Turki Alalshikh gives statement as he pulls out of running to buy Derby County &nbsp;&nbsp; talkSPORT",
+      "summary": "Saudi boxing chief Turki Alalshikh gives statement as he pulls out of running to buy Derby County &nbsp;&nbsp; talksport.com",
       "image": "",
       "type": "news"
     },
@@ -407,15 +410,6 @@
       "summary": "Sam Szmodics: Derby County re-sign Ipswich Town forward on loan &nbsp;&nbsp; BBC",
       "image": "",
       "type": "news"
-    },
-    {
-      "title": "World Cup striker linked with Derby County pulls out of transfer",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdTIxd3liSXhjS09QQV9rMlQ3TFMtQkdqWjV2bzY0c2Z3enphVk5acUpyWnpxLTJzTmZUTXJVbE9ITU5FSmZlNjRvLTdDQUxKaTdqeGJDUlltclRDMGljeDREeXBoUk13MjFUWDZsR0pCc1BWZ0cyY3JnOWRad2YzS1hoVmdUSnFsX1Z3cXdiZWJzZ3Q1VjYwV1NxMTBBOXNCdXFEUHJTZw?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-07-29T07:00:00.000Z",
-      "summary": "World Cup striker linked with Derby County pulls out of transfer &nbsp;&nbsp; Derbyshire Live",
-      "image": "",
-      "type": "rumour"
     },
     {
       "title": "The real reason John Eustace is desperate to bring Sam Szmodics back to Derby County",
