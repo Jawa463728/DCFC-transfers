@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T16:25:57.435Z",
+  "updatedAt": "2026-09-02T16:44:11.053Z",
   "targets": [
     {
       "name": "Hamza Choudhury",
@@ -30,9 +30,24 @@
       "mentions": 1,
       "score": 27,
       "context": "Fresh media link"
+    },
+    {
+      "name": "World Cup",
+      "mentions": 1,
+      "score": 27,
+      "context": "Fresh media link"
     }
   ],
   "stories": [
+    {
+      "title": "Inside Derby County’s dramatic deadline day as tension transforms into £10m statement",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZHJqQ0NpX1V0VzFPdTc0eFdYOWxBamt6YTA2QVdhZE5YMzJadDRHeTg3X1pZRGlfMGxKalphQmVtVmU3NmNpcUxlS3U1ZnktY1hVUWpKeE9tOFRpaFFjYzQ2TU85QkVVdU1xbjNDUnNqTzBISlRYbGdNNGdTRE5RYWo4ZjY0d2VhME12b3ZnbllXYm12SjBSOVUyRE8xOVMtYlZMRnJld0M?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-09-02T07:32:57.000Z",
+      "summary": "Inside Derby County’s dramatic deadline day as tension transforms into £10m statement &nbsp;&nbsp; Derbyshire Live",
+      "image": "",
+      "type": "news"
+    },
     {
       "title": "TRANSFER NEWS: Introducing...Mohammed Fuseini",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQM1VKODFKcW0zVUdWenBKbmFOXzVESnF0SUFtYnUtNVYzeU1pdVVzQ0tDd285U1MtLVdUdUR5TjFnd0NXWFlWNjlFbWpBNWJ2aXZFZzVIQXJSUkdnTjlBcmhOejJBcXdJOEVWdEZtUVdtZURUNS1OTUduNmZBcTR3WWdFRQ?oc=5",
@@ -68,15 +83,6 @@
       "summary": "SIGNING: Fuseini makes Derby loan switch &nbsp;&nbsp; Derby County",
       "image": "",
       "type": "news"
-    },
-    {
-      "title": "Fuseini set to join Derby County on loan after Birmingham move collapse",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORDZnbjdadHBoWGpYZlE2elZiWHNzaG1hOEZnTHBzQkgtOXQ1V014RjdBU1REdlVRYmRRNFhQQjdRUUtzaEdmUXFxWV9GbEd2aXEtMS10N001YW9IQUx3WEdmWnhxYnNzMExRaWNqZzVvQS0wT2hzLVhWU2NrVkxEVmdCT0I3a0s3clp2NVFQWEQyUzByQ3oweFVXUXF1cUo2YjRoZUVndmU0V0hjZEZpUnlYRVBjdw?oc=5",
-      "source": "Flashscore UK",
-      "published": "2026-09-01T19:28:55.000Z",
-      "summary": "Fuseini set to join Derby County on loan after Birmingham move collapse &nbsp;&nbsp; Flashscore UK",
-      "image": "",
-      "type": "rumour"
     },
     {
       "title": "Derby County complete eighth signing of transfer window as home-grown defender returns",
@@ -313,15 +319,6 @@
       "type": "news"
     },
     {
-      "title": "Bobby Clark stats, profile and news | Derby County - Celtic news now",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MTlY5WGxndjkwb1d3c3Rlaks5cTgxaEFybnllQVNtOTFXbHhPVEkxWmhjQlM1VFJlR3AyLXJFX3pOcGdVQlRHOXZOSEhzbHNrZGxKc0ZYRV9kejg?oc=5",
-      "source": "Celtic news now - Celtic FC News",
-      "published": "2026-08-16T07:00:00.000Z",
-      "summary": "Bobby Clark stats, profile and news | Derby County &nbsp;&nbsp; Celtic news now - Celtic FC News",
-      "image": "",
-      "type": "news"
-    },
-    {
       "title": "Captain sets out Derby County target for the new season as he says 'I don't see why we can't'",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQjNKRGRQVTFvUTlsZXNDNFA0UWttU1BTOGJicjFzUEsxMUJCWWdzZVJMV3UtV2VHZ2FzZ1pjb1paNjR5bHlOT1JWeUgzUUE1WkhncjJOWkoxMVN0ZUdlcTUwN18wOHkzYjczNmpNc2dPVVItQWlvcmtibjZBd0JiQUlPdzMwWlRuZTJBN2dwVnhHY3hTckNMYk1YTkE1Tkc5cklha19hZw?oc=5",
       "source": "Derbyshire Live",
@@ -419,6 +416,15 @@
       "summary": "Sam Szmodics: Derby County re-sign Ipswich Town forward on loan &nbsp;&nbsp; BBC",
       "image": "",
       "type": "news"
+    },
+    {
+      "title": "World Cup striker linked with Derby County pulls out of transfer",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdTIxd3liSXhjS09QQV9rMlQ3TFMtQkdqWjV2bzY0c2Z3enphVk5acUpyWnpxLTJzTmZUTXJVbE9ITU5FSmZlNjRvLTdDQUxKaTdqeGJDUlltclRDMGljeDREeXBoUk13MjFUWDZsR0pCc1BWZ0cyY3JnOWRad2YzS1hoVmdUSnFsX1Z3cXdiZWJzZ3Q1VjYwV1NxMTBBOXNCdXFEUHJTZw?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-07-29T07:00:00.000Z",
+      "summary": "World Cup striker linked with Derby County pulls out of transfer &nbsp;&nbsp; Derbyshire Live",
+      "image": "",
+      "type": "rumour"
     },
     {
       "title": "The real reason John Eustace is desperate to bring Sam Szmodics back to Derby County",
