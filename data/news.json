@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T22:44:44.071Z",
+  "updatedAt": "2026-09-02T22:56:45.357Z",
   "targets": [
     {
       "name": "Henrik Meister",
@@ -61,6 +61,15 @@
       "type": "news"
     },
     {
+      "title": "SIGNING: David Ozoh Signs For Derby County On Permanent Deal",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQT081TkR3V2dwaUFUV0pRdS13UzU0Y05SR1hrUl91WmlnVksxZG5NNy1WWU04b0c0X1M4ZjZpRmVla0hKRV92YWpsTHNodGRFS2VWbEFPWGVzRTdnbF9tNHk2b1M2V1hoUXk4MG1fVGIwUm51MHZINVBxOHQzczlfTHVZN1JWYUEzVWFCMnZoWC1aMzVaREZiNlI1OA?oc=5",
+      "source": "Derby County",
+      "published": "2026-09-02T00:10:51.000Z",
+      "summary": "SIGNING: David Ozoh Signs For Derby County On Permanent Deal &nbsp;&nbsp; Derby County",
+      "image": "",
+      "type": "done"
+    },
+    {
       "title": "Derby County complete ninth summer transfer as winger signs after Birmingham City drama",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOczJxQ2trQ3N6M3BTSXllcllxSmNyQnZCLUdpRzFuclhBNDFpcFFMOXNJM3pyeU80QnE4RnNLSDh1cjEwQVRTWUxDeWVLM2RQM1YxTjVlWWstbmMyUXh3ek11eXFKZklGRTZWRnZfLW1rWmNRemQ5MDM3ZWVKUGtadENhaS1Yc0NaeHZCRmx4VXNuUWlXcloxV3ZGSTJLZ1ItV1NwNUtINzIySTBKb2xV?oc=5",
       "source": "Derbyshire Live",
@@ -86,6 +95,24 @@
       "summary": "Derby County player ratings v Portsmouth as superb duo take the plaudits after transfer announced &nbsp;&nbsp; Derbyshire Live",
       "image": "",
       "type": "done"
+    },
+    {
+      "title": "Fuseini set to join Derby County on loan after Birmingham move collapse",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORDZnbjdadHBoWGpYZlE2elZiWHNzaG1hOEZnTHBzQkgtOXQ1V014RjdBU1REdlVRYmRRNFhQQjdRUUtzaEdmUXFxWV9GbEd2aXEtMS10N001YW9IQUx3WEdmWnhxYnNzMExRaWNqZzVvQS0wT2hzLVhWU2NrVkxEVmdCT0I3a0s3clp2NVFQWEQyUzByQ3oweFVXUXF1cUo2YjRoZUVndmU0V0hjZEZpUnlYRVBjdw?oc=5",
+      "source": "Flashscore UK",
+      "published": "2026-09-01T19:28:55.000Z",
+      "summary": "Fuseini set to join Derby County on loan after Birmingham move collapse &nbsp;&nbsp; Flashscore UK",
+      "image": "",
+      "type": "rumour"
+    },
+    {
+      "title": "Derby County: David Ozoh rejoins as Eiran Cashin and Mohammed Fuseini sign on loan",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UcnRVY3JhaFhrTmNwTVFLSnMzaGNKQTJtbHlUWE1kN1Zuejhia2hHblFjcXl3VVYzcWtQMjRxd0VYbWtlVXp1NFlXUFd2bFhmOWxRQy1tVEVDTXk0UVJzVnBYMFcxUHM?oc=5",
+      "source": "BBC",
+      "published": "2026-09-01T19:15:16.000Z",
+      "summary": "Derby County: David Ozoh rejoins as Eiran Cashin and Mohammed Fuseini sign on loan &nbsp;&nbsp; BBC",
+      "image": "",
+      "type": "news"
     },
     {
       "title": "Former Derby County winger set for record-breaking deadline day transfer",
@@ -277,11 +304,11 @@
       "type": "news"
     },
     {
-      "title": "Bobby Clark stats, profile and news | Derby County",
+      "title": "Bobby Clark stats, profile and news | Derby County - Celtic news now",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MTlY5WGxndjkwb1d3c3Rlaks5cTgxaEFybnllQVNtOTFXbHhPVEkxWmhjQlM1VFJlR3AyLXJFX3pOcGdVQlRHOXZOSEhzbHNrZGxKc0ZYRV9kejg?oc=5",
-      "source": "celticnewsnow.com",
+      "source": "Celtic news now - Celtic FC News",
       "published": "2026-08-16T07:00:00.000Z",
-      "summary": "Bobby Clark stats, profile and news | Derby County &nbsp;&nbsp; celticnewsnow.com",
+      "summary": "Bobby Clark stats, profile and news | Derby County &nbsp;&nbsp; Celtic news now - Celtic FC News",
       "image": "",
       "type": "news"
     },
@@ -468,9 +495,9 @@
     {
       "title": "Derby County’s Jacob Widell Zetterström attracts interest from Lyon",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeVZxOGU5SWV2LTQxUGNuWmpnYklOcDk5SWl0UG94S0ZpeG9YY2pYVzlKakFmcC1ock1CdHl6N1JvV0NWOEFoZkxHZkd2cnJPRDcyZmk5anZlQVR4RXBJY2VZNEFBU1E2c05zMUttVU1CS3ZJSEN6cDJ1N1lsdkU1VW9KQTZyNEpqZ2Y3WGhXX0h2eUJpQ3E0dk9vZ3ZyZ0Fxc0M0R2pIUTZKTTlqVktj?oc=5",
-      "source": "getfootballnewsfrance.com",
+      "source": "Get French Football News",
       "published": "2026-07-22T07:00:00.000Z",
-      "summary": "Derby County’s Jacob Widell Zetterström attracts interest from Lyon &nbsp;&nbsp; getfootballnewsfrance.com",
+      "summary": "Derby County’s Jacob Widell Zetterström attracts interest from Lyon &nbsp;&nbsp; Get French Football News",
       "image": "",
       "type": "rumour"
     },
@@ -545,33 +572,6 @@
       "summary": "The 19 players linked with Derby County in the transfer window so far &nbsp;&nbsp; Derbyshire Live",
       "image": "",
       "type": "rumour"
-    },
-    {
-      "title": "Derby County 'register an interest' in £10m Wembley hero",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOX1k5eC1oUU9zbmpmMU1XWTVPaUJJdUFYdC1lZ0xxY3JMOFQzY19jRkh6XzJmN3AxaXprdjk5X3FibXdYcTNRUXdMSFBydGJlQWpxRjIyYWZBOTFRaDNXeDdHT0lVMXNjaVh2emdGNGUwZENGRkZzTVY1U2FRMUxTNWpycHRobG44WU13eTVJVk9GRnlHYkx5VlVzTnhZX3JFYlJaSkc0Uy0?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-07-12T07:00:00.000Z",
-      "summary": "Derby County 'register an interest' in £10m Wembley hero &nbsp;&nbsp; Derbyshire Live",
-      "image": "",
-      "type": "rumour"
-    },
-    {
-      "title": "Derby County can get Divin Mubama transfer audition amid 25-player trial match",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcC1qVGVrcnIzRW92LThKbTZLMDdSYnlRVU8yNHpESUlnYUpWRU9OTGNyeGt4TWpJekY3RHYwNDd4TGdUbmkxcktHNjgzUUZDVWFHcHRSdWc5UnBCa3lOZGhmS3BVV0RjZkJkMlBkSzM0SGFtM3RzNXliNnN4MDlIVkZrOHU0WWRCYmRfYjh6dVo1UTBsU2tWbGlXRjVma1BFUllsMy1SQ294Xzd1?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-07-12T07:00:00.000Z",
-      "summary": "Derby County can get Divin Mubama transfer audition amid 25-player trial match &nbsp;&nbsp; Derbyshire Live",
-      "image": "",
-      "type": "news"
-    },
-    {
-      "title": "John Eustace has 'fingers crossed' over permanent Derby County transfer",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRGpvMjJqS1JHbzBiYjc0UG42M1pVcEZNOTZNUUp2OTl6Y05YZ00yV0t2ZUZreHlRd0xVejF0VWVUVDBJM2pqV1FZcjUwbnItM25HcU1YTmdmMXVVWXF3bW5qbTJkVUFfV2V2WWdVNWZZZ0s4YXdRYW5sSXVZWm1VbjB5c2dVVGxIQ0lWWkZQSGtra3JhU0lvdExnZHFiNjNaaE5tZnN6NNIBrAFBVV95cUxNdzV4SzBnVzRGZDlPVGFCbXhsbnpKWkxaWnZDY29rdUNnN0ZyeTFNWHpkM1NHblBvbzFScUJCYm9OOUlYOXkweFFBQmFEaDJlaEc4aEpxMmh0OTROZld0anBKeVVjenAteGI2SkFzZFZyc2phbGhKdFNYWVM4dk80QnRuTVJndUcyVDhDdTFCOUhnSnk3dVVMck1YaGZPN1g1LS1NOXVORFM4QVJf?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-07-08T07:00:00.000Z",
-      "summary": "John Eustace has 'fingers crossed' over permanent Derby County transfer &nbsp;&nbsp; Derbyshire Live",
-      "image": "",
-      "type": "news"
     }
   ]
 }
