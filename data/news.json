@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T10:11:42.946Z",
+  "updatedAt": "2026-09-03T10:29:57.032Z",
   "targets": [
     {
       "name": "Leicester City",
@@ -26,15 +26,15 @@
       "context": "Fresh media link"
     },
     {
-      "name": "Jacob Widell Zetterstrom's",
+      "name": "Man City",
       "mentions": 1,
       "score": 34,
       "context": "Fresh media link"
     },
     {
-      "name": "Russell Martin",
+      "name": "Jacob Widell Zetterstrom's",
       "mentions": 1,
-      "score": 27,
+      "score": 34,
       "context": "Fresh media link"
     }
   ],
@@ -364,15 +364,6 @@
       "type": "rumour"
     },
     {
-      "title": "The real reason John Eustace is desperate to bring Sam Szmodics back to Derby County",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQd2VtdDR5ODBHWTZlZVhsa2pVZ2VzV2VTa0h1Q0NWalVzX0YxZ2xKNVVlaVlaUE1LWGdMMk1mTXlNNDVGM0dKdC1PdXlrMmtjRlA0aE9IaDR6RVFaWEdsWHA5UnlkTlpxRFg0cml6UzJkTWFZRDQ4Tk51YURFU0tsS29PdHh5ZTBzMFhUaFNNdXFJWks4b3k5cGJ5dUlGZHRKZUtXeFdXRkrSAa4BQVVfeXFMTjBHcTBXcWUySjM3NFktSU1HRm85dGNQYl9CVl95a1lBQjlVNjAyVlpfdG16MXlNQ2xralRFTlNSMWpNMkgtWnN0WEYtcGRPVVJRdko3N3RGSEw2eEZ5RlNCUTAzb3R3RWVTQkhlcUJNaG9KVGxLc1hHOFpLNEVKTlVSbElwZ29rUXRSTVM1OGJlbk9sa2laZlNCbjdzWWlxa0hqT2NjVF9HRk1pTFhB?oc=5",
-      "source": "derbytelegraph.co.uk",
-      "published": "2026-07-28T07:00:00.000Z",
-      "summary": "The real reason John Eustace is desperate to bring Sam Szmodics back to Derby County &nbsp;&nbsp; derbytelegraph.co.uk",
-      "image": "",
-      "type": "news"
-    },
-    {
       "title": "Derby County transfer review: A £6m signing, more deals, and the expectations on Rams",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORGhCVm9YbHVqcGVfMzFXSTFiMWp5cjlYZzZKTDN6LThobjNTWjkyZHlBMldYNTFZMHJRMVNFdWRTSGVqLVoxTGxhaEtCX2lMRDh1ZjlLQXVjRDBUUGlnRk5QMlE5Q29MdUg1bnd0V2FINzhNZmlTS1EwRlVpa3pXOVFMYnJJcGNON3J5Y19vcTRlZC1SYWo0ZndqRWFZVUItR2NWVUx5dFJoQzFMaFRvMGZPVdIBuAFBVV95cUxNSDA3REs3TnhFYUhoSXNxUGNLRlliV1BLZ21GYWpvVW5aN25ZTm90NHNVRnBmNVhKaXdsZlBFbFl3Q2NkYjdobHdEeHVpNU1Lc3BzQnlpaExxcFNEc2hoYUxTUEZ0SFc4aHlnaC1GMzVHRXYzQXJwWG54cXh2NFVGWVp3VkpoX2pmUHdTS0MxQUFmYzhKRVF3NGVVa21XWGRVZUptLVR3WEprTzNDWHpXYWlya1p5NjE4?oc=5",
       "source": "derbytelegraph.co.uk",
@@ -481,6 +472,15 @@
       "type": "news"
     },
     {
+      "title": "Charlie Taylor's first words after 'no brainer' Derby County free transfer",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSkRPMXB3cGhxX0VIYUY3R0FLVzlkblU5YUViMW5QZ2hxYzVVa0lhT2x3X3lsalozVmhNdlIySGlCREF1VVJ1al9mSkdsQ1dSeTlmbThTM2JuTXdLLUhIR0cyN1RoUU5QRkdkaHZ6WGZyWFhpZFhMeXpfOXJiVGVjVk96ZWFMMjRSeTZSWEU3RjMwN1FfZkZhN18tcjdWYWZXRmp1alVTYw?oc=5",
+      "source": "derbytelegraph.co.uk",
+      "published": "2026-07-14T07:00:00.000Z",
+      "summary": "Charlie Taylor's first words after 'no brainer' Derby County free transfer &nbsp;&nbsp; derbytelegraph.co.uk",
+      "image": "",
+      "type": "news"
+    },
+    {
       "title": "The 19 players linked with Derby County in the transfer window so far",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOd2o0Tlg1RmR1Vlh1OHkxU1FTY3pZdXRPTFRPdFdOUVJMazkwX21ESXFlSlFxX2dOZWRvQ1pVOWFuaDNCVVBXMGVicmdkZGJvR2xpQm84bWRJaTFOVDlyRXRzNlp4VVpRb2xoc1V0Um1XUEFxX0YwMGxwWnJTaUJtMDh2d0JZc193dlpvNXN0ck5MOEptbVV2Z3h6LUs1RGFUUExEMGdhQ3dHeDQ?oc=5",
       "source": "derbytelegraph.co.uk",
@@ -535,6 +535,15 @@
       "type": "rumour"
     },
     {
+      "title": "Man City forward attracts widespread Championship loan interest as Derby County decision looms",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPS1c1aDBpcGtEXzhsWDMxanJhbDB6X2YzMHVBYV80THB1Nk45dVk1STFYcktqdXVmNHNUUkpqZG4wTlVEQXJWOVcwY0RfSnllWDBYU0Nhcl9sSGtnc0RkRzdrZHpIZVdfeEJRMk93NHVmUGVwX1U5R3R3S2Ftcy1NVF9kN0k1c0Fjc1FiNHpJRFdISTBXYUpyeEFPeDltTjQydlNSMmhhN3Jkb3ZuZVRsTzQ4RG15VlhEb1paNTVLVV9makZFckFEUVpDVnlVWnNp?oc=5",
+      "source": "onefootball.com",
+      "published": "2026-07-06T19:08:24.000Z",
+      "summary": "Man City forward attracts widespread Championship loan interest as Derby County decision looms &nbsp;&nbsp; onefootball.com",
+      "image": "",
+      "type": "rumour"
+    },
+    {
       "title": "Sky Sports pundit issues Derby County investment verdict but fires double warning",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQR2Fpcnpsa2dDTmxnM2ViTEN2NDVDcUpXQTVvVk10clBoalRWNDRnRHZHZ1pBcjdheTV2OXJyMjF2MldFTU5WTjR1dGt1cFpmemtNclBsUHJqSkI0R2wzUXc5ZUlreWlQV1RRRjJKNzNDNmNYUjJjQnl4QzJTWmZoeWF0MkROSF8yRzV4OTQwaVYzeEdULVZadHNEVFRqLU51MUE4dVdOeFNrc0pxZVZj?oc=5",
       "source": "derbytelegraph.co.uk",
@@ -569,15 +578,6 @@
       "summary": "Four players will leave Derby County today as Rams plot further transfers &nbsp;&nbsp; derbytelegraph.co.uk",
       "image": "",
       "type": "news"
-    },
-    {
-      "title": "Derby County linked defender subject of bids from two Championship rivals",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQY25ZT1FDTXh2OUszaElSX3RFQXYyMG5SdGdtZnppN2ZCNS1uWnVISlR6ZmhGdUg2Sm9LX3RpZUltUllZQ3A5bUpISGU5Z3NmNE0yLXVKZkE1UWpVWC03eXhOTVVTTjZ1OWRBVzR5V0Jqd2pGWXY4TGNhTXVxX1BFSmQ5Q3JoX2I3cjFnNGhEMklFYmZRX01QeWRvTGxsbHVKZFdDY0x6aHQ?oc=5",
-      "source": "derbytelegraph.co.uk",
-      "published": "2026-06-30T07:00:00.000Z",
-      "summary": "Derby County linked defender subject of bids from two Championship rivals &nbsp;&nbsp; derbytelegraph.co.uk",
-      "image": "",
-      "type": "rumour"
     }
   ]
 }
