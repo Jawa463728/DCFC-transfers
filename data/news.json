@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T23:09:19.245Z",
+  "updatedAt": "2026-09-03T23:23:32.519Z",
   "targets": [
     {
       "name": "Leicester City",
@@ -11,6 +11,12 @@
       "name": "Jacob Widell Zetterstrom",
       "mentions": 1,
       "score": 43,
+      "context": "Fresh media link"
+    },
+    {
+      "name": "Move To",
+      "mentions": 1,
+      "score": 34,
       "context": "Fresh media link"
     },
     {
@@ -27,12 +33,6 @@
     },
     {
       "name": "Henrik Meister",
-      "mentions": 1,
-      "score": 34,
-      "context": "Fresh media link"
-    },
-    {
-      "name": "West Brom",
       "mentions": 1,
       "score": 34,
       "context": "Fresh media link"
@@ -63,6 +63,15 @@
       "source": "Derbyshire Live",
       "published": "2026-09-03T14:03:22.000Z",
       "summary": "Derby County confirm Owen Eames transfer as move sanctioned &nbsp;&nbsp; Derbyshire Live",
+      "image": "",
+      "type": "rumour"
+    },
+    {
+      "title": "21 Year Old Midfielder Target Super Eagles Spot After Move To Derby County",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdk0wS2tqYXFFVXFrRmhrMmplamRNZWItaTRVa0E4SUQxaG1QcHhxV0NiZW1EOGg2ZUI3M3RjUHo5SWg4UW1IbTM4a0V1MFJTeVlmNTZRNWJoTlJxb2FZbmNJQ0U2aHJKbGZIeHBNTDE4Rm5fa3ZNOXc5V054aGVCNnpQaDg3SVpjMEFTdmlCWlN0RmFrbmNpV3pwcWJHWWVtSWlmbXl1czRHckZmS0tNUXNkMA?oc=5",
+      "source": "OwnGoal Nigeria",
+      "published": "2026-09-03T12:42:29.000Z",
+      "summary": "21 Year Old Midfielder Target Super Eagles Spot After Move To Derby County &nbsp;&nbsp; OwnGoal Nigeria",
       "image": "",
       "type": "rumour"
     },
@@ -108,6 +117,15 @@
       "source": "Derbyshire Live",
       "published": "2026-09-02T15:01:00.000Z",
       "summary": "Derby County have filled transfer holes but John Eustace still has a big job on his hands &nbsp;&nbsp; Derbyshire Live",
+      "image": "",
+      "type": "news"
+    },
+    {
+      "title": "POLL: Join the big debate on Derby County's transfer window",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcFc4b1hJVzd3X3JxQWh5RkxDQXBJbDhhaGx5Ql83dEpTZlJ1ZUdoSE5rR2E4ZzVvU0JKMDJfZThQTnJPamk0T2Q0REYwSzhUWW91WEs0Q1l6a3NkS3U2SjFiRlRTTDdscGI5cnhzanFlcU1Hd0lfZFN6eF93bFlBRkJadFFmTzZrQUJ3amNka2tCZmIzbERfdC1DUThEQQ?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-09-02T10:37:18.000Z",
+      "summary": "POLL: Join the big debate on Derby County's transfer window &nbsp;&nbsp; Derbyshire Live",
       "image": "",
       "type": "news"
     },
@@ -249,9 +267,9 @@
     {
       "title": "Shots on target per 90 - Derby County stats for Championship 2026/2027",
       "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQRzVPeklZa1h0a1NjcTh5ZHlodHE0b3dwWkxGb081UnRDSnhheDBTdGtTYlRUVGF4RmdNeWREQ3BjSkZxa0RUWjJCS2I0N0toSk5EUWtmcFlvWUk2RzQwaEF0VU9DaVkzNC14TkcwQjRUYXpOUTFyY1YybVR3WEZCamZyNGNybElzZEgzZE42SnhLYnQ4UVR2a3hrSVp1UGw2T1dqR1NNMUFsVldISEZfUzYya2lkdGNVQ1FsczN4V1RHZElSTXJGRnoxbjNJNGVIMzBHS0ZJcEZXaTF3VXR4OTZjRXNLZjJ0VElKSS15cXk5dktEX3lhTm92QkVGUzRyV25EbGNOSDNCVnJkUjI5VnlmYlNEUzBodXZlaGpNZks1Zjh2RlY5MFJR?oc=5",
-      "source": "fotmob.com",
+      "source": "FotMob",
       "published": "2026-08-30T16:43:35.000Z",
-      "summary": "Shots on target per 90 - Derby County stats for Championship 2026/2027 &nbsp;&nbsp; fotmob.com",
+      "summary": "Shots on target per 90 - Derby County stats for Championship 2026/2027 &nbsp;&nbsp; FotMob",
       "image": "",
       "type": "rumour"
     },
@@ -321,9 +339,9 @@
     {
       "title": "Expected goals on target (xGOT) - Derby County stats for Championship 2026/2027",
       "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOb3lNRl9oZTktdW1ISmN4dmR1OWM4YUpneE9CVnBqRjZtZTFIWGZJRG56R3FYX1A2MDJ0MmdxZHcwdlRzNUF6b1ZYUDNIUWdqc25wV2pyOG1QdkZidGNzZUNOWnJ1NlBzemVoN3A0TmkyZC1iQkhDeHlRblpOLTdpN2M5MlpSaEUySmVfQkd1dHJiVWI5b1BGeDB3UW1nZjdpTVNtTGVhVXVkbnNKWnRzRzVfY3g3LXpTdmFtQlpfMlhWMzEwNExNY2l6aEZmaXYtbGlSZDF5Snk1REMyZThGblpVR2w5aTc1U3R2eVd1bnlaQkEtSXI0bXdPc2VVT1BMTzJhWDRoam53UDVYWkdFN0ZqOA?oc=5",
-      "source": "fotmob.com",
+      "source": "FotMob",
       "published": "2026-08-29T03:17:20.000Z",
-      "summary": "Expected goals on target (xGOT) - Derby County stats for Championship 2026/2027 &nbsp;&nbsp; fotmob.com",
+      "summary": "Expected goals on target (xGOT) - Derby County stats for Championship 2026/2027 &nbsp;&nbsp; FotMob",
       "image": "",
       "type": "rumour"
     },
@@ -558,24 +576,6 @@
       "source": "BBC",
       "published": "2026-07-24T07:00:00.000Z",
       "summary": "Derby County podcast: Would Sammie Szmodics be a good signing? &nbsp;&nbsp; BBC",
-      "image": "",
-      "type": "news"
-    },
-    {
-      "title": "Derby County chasing Premier League deal as John Eustace targets reunion",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUWd5anUxTXluLWFuSTdrV2FSdnNmTUZnLUJYOFE3a053ZVFSa0JpRlliLVZvdzJnUmE5QWh5cjhVRHhRYlpjUHJJczRsLVpHSGQ2Mk1nUUM1c2tITlBQX0h6eFF5SUphYk1FTXhuM29iNVpZS3pwelZEdUR5REZXREpidVhRWGJpM01VTVQ4RTAwVGhFOGdJS0k4ZzM4TXRGNUdtLWdWUW02dw?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-07-23T07:00:00.000Z",
-      "summary": "Derby County chasing Premier League deal as John Eustace targets reunion &nbsp;&nbsp; Derbyshire Live",
-      "image": "",
-      "type": "rumour"
-    },
-    {
-      "title": "Sammie Szmodics: Derby County looking to sign Ipswich forward",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94eEI2QTVOVFBMOUhXcXBvTUJ3MlVwVEFSTkNxNEtSeHFPNHVCYXRXSXJyQWVXRGs4RWpEbjUxSk1QMVBEMTlxS2hyazlaYV9CT2RPVEI3dy1jMGllRkh1YkQwMThaT28?oc=5",
-      "source": "BBC",
-      "published": "2026-07-23T07:00:00.000Z",
-      "summary": "Sammie Szmodics: Derby County looking to sign Ipswich forward &nbsp;&nbsp; BBC",
       "image": "",
       "type": "news"
     }
