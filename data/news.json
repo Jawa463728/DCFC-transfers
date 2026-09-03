@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T00:58:37.441Z",
+  "updatedAt": "2026-09-03T01:22:27.421Z",
   "targets": [
     {
       "name": "Henrik Meister",
@@ -20,15 +20,21 @@
       "context": "Fresh media link"
     },
     {
-      "name": "Russell Martin",
+      "name": "Hull City",
       "mentions": 1,
-      "score": 27,
+      "score": 34,
       "context": "Fresh media link"
     },
     {
-      "name": "Hamza Choudhury",
+      "name": "Crystal Palace",
       "mentions": 1,
-      "score": 27,
+      "score": 34,
+      "context": "Fresh media link"
+    },
+    {
+      "name": "David Ozoh",
+      "mentions": 1,
+      "score": 34,
       "context": "Fresh media link"
     }
   ],
@@ -79,15 +85,6 @@
       "type": "done"
     },
     {
-      "title": "Derby County complete ninth summer transfer as winger signs after Birmingham City drama",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOczJxQ2trQ3N6M3BTSXllcllxSmNyQnZCLUdpRzFuclhBNDFpcFFMOXNJM3pyeU80QnE4RnNLSDh1cjEwQVRTWUxDeWVLM2RQM1YxTjVlWWstbmMyUXh3ek11eXFKZklGRTZWRnZfLW1rWmNRemQ5MDM3ZWVKUGtadENhaS1Yc0NaeHZCRmx4VXNuUWlXcloxV3ZGSTJLZ1ItV1NwNUtINzIySTBKb2xV?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-09-01T22:02:00.000Z",
-      "summary": "Derby County complete ninth summer transfer as winger signs after Birmingham City drama &nbsp;&nbsp; Derbyshire Live",
-      "image": "",
-      "type": "done"
-    },
-    {
       "title": "SIGNING: Fuseini makes Derby loan switch",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORHFOU1I2c3c2OXRqWGwtRkRZbUZ0WHpnR2VkaERFM3FzZlpsVnBkVUJGTWNOUllvdVNXZS1UVDNUYXFpXy1KdE1PTTg2dloxbjM1bDd0MzB2T2xwMnpBWl9wZUhYNmtITk9JV21KQVBMYm9wcDg2dUNYRjFiY0pqSg?oc=5",
       "source": "Derby County",
@@ -113,6 +110,15 @@
       "summary": "Fuseini set to join Derby County on loan after Birmingham move collapse &nbsp;&nbsp; Flashscore UK",
       "image": "",
       "type": "rumour"
+    },
+    {
+      "title": "Derby County: David Ozoh rejoins as Eiran Cashin and Mohammed Fuseini sign on loan",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UcnRVY3JhaFhrTmNwTVFLSnMzaGNKQTJtbHlUWE1kN1Zuejhia2hHblFjcXl3VVYzcWtQMjRxd0VYbWtlVXp1NFlXUFd2bFhmOWxRQy1tVEVDTXk0UVJzVnBYMFcxUHM?oc=5",
+      "source": "BBC",
+      "published": "2026-09-01T19:15:16.000Z",
+      "summary": "Derby County: David Ozoh rejoins as Eiran Cashin and Mohammed Fuseini sign on loan &nbsp;&nbsp; BBC",
+      "image": "",
+      "type": "news"
     },
     {
       "title": "€5m Pompey signing unleashed against Derby County as John Mousinho makes four changes",
@@ -158,15 +164,6 @@
       "summary": "Shots on target per 90 - Derby County stats for Championship 2026/2027 &nbsp;&nbsp; FotMob",
       "image": "",
       "type": "rumour"
-    },
-    {
-      "title": "TRANSFER NEWS: Introducing…Henrik Meister",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSk9XVENiMWM4M184aHd5RS1CMFBiazVoZlJ2b25BUG1qSzZQQmIxd3NkR25DWDBBUklZcU1YT182aFV3SW1qTU9zTXY0RkpYU1lveEdsOEJ5Q2FCbFVZSkdYc1R0S3AtWXk1YTlwV19vbW5ZMUgxZS1kell4ZmhjOQ?oc=5",
-      "source": "Derby County",
-      "published": "2026-08-30T16:19:31.000Z",
-      "summary": "TRANSFER NEWS: Introducing…Henrik Meister &nbsp;&nbsp; Derby County",
-      "image": "",
-      "type": "news"
     },
     {
       "title": "INTERVIEW: Meister ‘excited for Championship intensity’",
@@ -367,6 +364,24 @@
       "type": "news"
     },
     {
+      "title": "Hull City and Derby County 'keen' on striking deal for Crystal Palace midfielder David Ozoh",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZzNiTnB1eVJJODZZQXlCa09SRGgtYm5WbW9YT3VDWm5ndXdPQl84ckRUNldvSWN2X2RIVDZKRDJWTUNwZzl0X3k1TkNmOElySkQzQzBYUDN0aGsyV0pvUW52UXJSZGp5azFvRlRqWXRkWTU3a0ZUdXo3Rm5NN3R6MjJyb1MzUXRIOHV6UnJWNTA0akltVHhLanZzZENFd21CZjE1MU5n?oc=5",
+      "source": "Yorkshire Post",
+      "published": "2026-08-05T07:00:00.000Z",
+      "summary": "Hull City and Derby County 'keen' on striking deal for Crystal Palace midfielder David Ozoh &nbsp;&nbsp; Yorkshire Post",
+      "image": "",
+      "type": "rumour"
+    },
+    {
+      "title": "REPORT: Derby County XI 1-1 Port Vale",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5qdTVBUm1XVHNqekxMcENfQWQtVF9pNUNvMDZOblRQLWtJTUR5ei1NRnJBLVhSRlFfX000T3RwZjVOSmV6am5Ublg4anY0aVY4dE5SbGpRUmtxeGFHTzF4RW1aVV9qUGJlVkI1ckQ2ZWd4S3owUjJxSjJjVnE?oc=5",
+      "source": "Derby County",
+      "published": "2026-08-04T07:00:00.000Z",
+      "summary": "REPORT: Derby County XI 1-1 Port Vale &nbsp;&nbsp; Derby County",
+      "image": "",
+      "type": "news"
+    },
+    {
       "title": "Derby County ready to splash out on 'explosive' Europa League star as transfer price set",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOanQzdVhJdnNteVBwNGhTNUFaYWhtaFplZDhIMVZ4N2h3V25aX2IySnhab2dUaEdOMjNTWW1EbmtMMUhUT1FkbGVXWGh3YTA0VVZNZlFyYmN3YU1fc2V4VG91bV96dmpZVVlDWXJkOWd1d2ZYdHY0VzlSS09tXy1PLTVMWUVMY3N2bzhLSEZqQjhRaVMwU0NrWE5uZ2VSdEhGNWFMcFVpUELSAa4BQVVfeXFMTWkwd0lKSlNzRU1xUHlHMzFPYnl0bFVUMHAycjN6UEhmdkhoUVMzR0VtRkU1R3NZTW1PWXhYRTZmbHp4cnNCRHIxSEtmSTlHbUxOMzNNZmdORkJjTGwxMG5LZTBwMXRON0g4WlJPcjR4cGRsb3ZlRHhVMlhNcjN4a09xUHc5Rk9IWGt0SlUyeFpNNU9YLVdYMjZERmQtM1ZKUlJuUjNPS1JhcUpxUE53?oc=5",
       "source": "Derbyshire Live",
@@ -482,15 +497,6 @@
       "summary": "Derby County complete third summer signing as Rams move for midfielder &nbsp;&nbsp; Derbyshire Live",
       "image": "",
       "type": "rumour"
-    },
-    {
-      "title": "Filip Bilbija: Derby County sign former Paderborn midfielder",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zVTNJbEtFNlBwTkpRSjV5NVUzdzNzaks4NDNZVWJRdHVFTUQtY0k2UWtRNlZ0WXVBQ3QxcjNFamFzU3ZGMjhzdWIzNFhtS2VHR000LWJpSm10aUdMVE5rcjBuSTRuSEk?oc=5",
-      "source": "BBC",
-      "published": "2026-07-22T07:00:00.000Z",
-      "summary": "Filip Bilbija: Derby County sign former Paderborn midfielder &nbsp;&nbsp; BBC",
-      "image": "",
-      "type": "news"
     },
     {
       "title": "A £9.6m transfer, Pep Guardiola invite and the big question mark after Derby County link",
