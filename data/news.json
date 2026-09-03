@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T20:09:26.314Z",
+  "updatedAt": "2026-09-03T20:26:31.374Z",
   "targets": [
     {
       "name": "Leicester City",
@@ -11,12 +11,6 @@
       "name": "Jacob Widell Zetterstrom",
       "mentions": 1,
       "score": 43,
-      "context": "Fresh media link"
-    },
-    {
-      "name": "Move To",
-      "mentions": 1,
-      "score": 34,
       "context": "Fresh media link"
     },
     {
@@ -33,6 +27,12 @@
     },
     {
       "name": "Henrik Meister",
+      "mentions": 1,
+      "score": 34,
+      "context": "Fresh media link"
+    },
+    {
+      "name": "Mikey Johnston",
       "mentions": 1,
       "score": 34,
       "context": "Fresh media link"
@@ -67,13 +67,13 @@
       "type": "rumour"
     },
     {
-      "title": "21 Year Old Midfielder Target Super Eagles Spot After Move To Derby County",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdk0wS2tqYXFFVXFrRmhrMmplamRNZWItaTRVa0E4SUQxaG1QcHhxV0NiZW1EOGg2ZUI3M3RjUHo5SWg4UW1IbTM4a0V1MFJTeVlmNTZRNWJoTlJxb2FZbmNJQ0U2aHJKbGZIeHBNTDE4Rm5fa3ZNOXc5V054aGVCNnpQaDg3SVpjMEFTdmlCWlN0RmFrbmNpV3pwcWJHWWVtSWlmbXl1czRHckZmS0tNUXNkMA?oc=5",
-      "source": "OwnGoal Nigeria",
-      "published": "2026-09-03T12:42:29.000Z",
-      "summary": "21 Year Old Midfielder Target Super Eagles Spot After Move To Derby County &nbsp;&nbsp; OwnGoal Nigeria",
+      "title": "NEW SIGNING INTERVIEW: Eiran Cashin",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE54VnFKUnlQMDROWmktVzV3bzMyUU8xV0lOdW1EbnZ1c1VwZ1hMaEhNVU1YSm9EZHJnd3pFako3Tkt3SGxINU1SZVhIRmttLXVvT0V0bEo0eFotVk1SdXJWSUZxVF9pR1dZZEdIQkdyRTE3TlJrdEF6QW1R?oc=5",
+      "source": "Derby County",
+      "published": "2026-09-03T12:20:38.000Z",
+      "summary": "NEW SIGNING INTERVIEW: Eiran Cashin &nbsp;&nbsp; Derby County",
       "image": "",
-      "type": "rumour"
+      "type": "news"
     },
     {
       "title": "Opinion: Should Leicester City Target Former Derby County Man Following Jakub Stolarczyk Injury Blow?",
@@ -204,9 +204,9 @@
     {
       "title": "Derby County eye 24-year-old with Millwall and Wrexham",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4yRUtLVlJiejgwU0VnRWR4cXFqQ2VFT2VHZDVQdEZURjJPT2xvS1J5c0lXODhMZGRoWmVtTGRLdk9ad3RjRG5uZVdYQWNzNW0xdC05UGI4c1AxMTk3MHZIaFlFRjlsUUZIaEdEQ1p5THlRTjlvTE1DQ3ZPbw?oc=5",
-      "source": "Yahoo Sports UK",
+      "source": "uk.sports.yahoo.com",
       "published": "2026-08-31T07:56:53.000Z",
-      "summary": "Derby County eye 24-year-old with Millwall and Wrexham &nbsp;&nbsp; Yahoo Sports UK",
+      "summary": "Derby County eye 24-year-old with Millwall and Wrexham &nbsp;&nbsp; uk.sports.yahoo.com",
       "image": "",
       "type": "news"
     },
@@ -267,9 +267,9 @@
     {
       "title": "Sheffield United set to sign Leicester City utility man after Derby County transfer interest",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOa0lvU1o3OGRxaUpCUTF6MG0xc1dnaGNVX25QTUtiSDc1XzdfTU5pOTdlakZ5OXVOM3NHVURFM0xPXzVFWmtFbHlaSjNUMl9iRDY0Z3lGSUhVRER5SU9FMDBVaFJORURYNzhwYTlqS3V1czRFdHdyN2xUVjAyQWNmT2tXandwTFVPdU1R?oc=5",
-      "source": "Yahoo Sports UK",
+      "source": "uk.sports.yahoo.com",
       "published": "2026-08-30T11:10:31.000Z",
-      "summary": "Sheffield United set to sign Leicester City utility man after Derby County transfer interest &nbsp;&nbsp; Yahoo Sports UK",
+      "summary": "Sheffield United set to sign Leicester City utility man after Derby County transfer interest &nbsp;&nbsp; uk.sports.yahoo.com",
       "image": "",
       "type": "rumour"
     },
