@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-09-03T06:03:34.907Z",
+  "updatedAt": "2026-09-03T06:28:55.921Z",
   "targets": [
+    {
+      "name": "Leicester City",
+      "mentions": 1,
+      "score": 69,
+      "context": "Fresh media link"
+    },
     {
       "name": "Jacob Widell Zetterstrom",
       "mentions": 2,
@@ -27,12 +33,6 @@
     },
     {
       "name": "Divin Mubama",
-      "mentions": 1,
-      "score": 34,
-      "context": "Fresh media link"
-    },
-    {
-      "name": "Jacob Widell Zetterstrom's",
       "mentions": 1,
       "score": 34,
       "context": "Fresh media link"
@@ -103,6 +103,15 @@
       "type": "news"
     },
     {
+      "title": "Derby County aiming for winger deal after Birmingham City transfer collapses",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYThLQlJpek1mYVRXSjAtUXJHZXZaYzRKZ0hCbUlHN3E1d2I1Nk96R0xSZ1o0aFZ2ZDRxdjdqaV83LTFKNDJNbHVOWXd6ODB4NkY4alM5aVQ3TG1TYmJqUXRpM2NfcmppbkY2TC1ZT2RpTjF3T0VRRGpsMlZVZVpwZTVTOG5wMF81ZF8tSE44dklTS29Cbkpqa0RNT0N6UVJQNjVqc2x4bmkta0R3bGc?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-09-01T18:04:35.000Z",
+      "summary": "Derby County aiming for winger deal after Birmingham City transfer collapses &nbsp;&nbsp; Derbyshire Live",
+      "image": "",
+      "type": "rumour"
+    },
+    {
       "title": "€5m Pompey signing unleashed against Derby County as John Mousinho makes four changes",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOMnBaUldMVkw4bTRiTVV1NkZ2S3JYTmhiTnh3eXZlYjZoU2pYVHd2OE56aXJHTzlIUkNYbU9DdDFFRHpmRmJyVUhrUW9vUDFvaVpJWExIckQ2eE90S0lIcVhxSk00ZEtid3hMdloyNVBoTGV1NUxwXzNGZlBJYmV0bjlvRG1rSXhORVlCRjAzcWhMTDhrbzRXN1k2WWtxTmhZSkFvZ19KUUtZZVNpVkp2aTlmWkpIOTRORTNPaHJORFFkeExSb0tRWVg3LU1zOTQ4b3Y0NmFZYmJ3UWpHeEJiUXQxMHQ0Zw?oc=5",
       "source": "portsmouth.co.uk",
@@ -141,9 +150,9 @@
     {
       "title": "Shots on target per 90 - Derby County stats for Championship 2026/2027",
       "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQRzVPeklZa1h0a1NjcTh5ZHlodHE0b3dwWkxGb081UnRDSnhheDBTdGtTYlRUVGF4RmdNeWREQ3BjSkZxa0RUWjJCS2I0N0toSk5EUWtmcFlvWUk2RzQwaEF0VU9DaVkzNC14TkcwQjRUYXpOUTFyY1YybVR3WEZCamZyNGNybElzZEgzZE42SnhLYnQ4UVR2a3hrSVp1UGw2T1dqR1NNMUFsVldISEZfUzYya2lkdGNVQ1FsczN4V1RHZElSTXJGRnoxbjNJNGVIMzBHS0ZJcEZXaTF3VXR4OTZjRXNLZjJ0VElKSS15cXk5dktEX3lhTm92QkVGUzRyV25EbGNOSDNCVnJkUjI5VnlmYlNEUzBodXZlaGpNZks1Zjh2RlY5MFJR?oc=5",
-      "source": "FotMob",
+      "source": "fotmob.com",
       "published": "2026-08-30T16:43:35.000Z",
-      "summary": "Shots on target per 90 - Derby County stats for Championship 2026/2027 &nbsp;&nbsp; FotMob",
+      "summary": "Shots on target per 90 - Derby County stats for Championship 2026/2027 &nbsp;&nbsp; fotmob.com",
       "image": "",
       "type": "rumour"
     },
@@ -175,6 +184,15 @@
       "type": "news"
     },
     {
+      "title": "Sheffield United set to sign Leicester City utility man after Derby County transfer interest",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOa0lvU1o3OGRxaUpCUTF6MG0xc1dnaGNVX25QTUtiSDc1XzdfTU5pOTdlakZ5OXVOM3NHVURFM0xPXzVFWmtFbHlaSjNUMl9iRDY0Z3lGSUhVRER5SU9FMDBVaFJORURYNzhwYTlqS3V1czRFdHdyN2xUVjAyQWNmT2tXandwTFVPdU1R?oc=5",
+      "source": "uk.sports.yahoo.com",
+      "published": "2026-08-30T11:10:31.000Z",
+      "summary": "Sheffield United set to sign Leicester City utility man after Derby County transfer interest &nbsp;&nbsp; uk.sports.yahoo.com",
+      "image": "",
+      "type": "rumour"
+    },
+    {
       "title": "John Eustace issues Henrik Meister update and sets Derby County transfer deadline target",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOC1kTWt5V0MyRU5pUkpKSWplc2lzNFlLY2Y4TUprUEl3ZU1tYjl5NWRqbjJ4a1Bvc2FVOW51ZnFUcGVCcDBOSXN0Ml9lMkU0QUVKendTSTJCOUlab1hQaC1UT25JOVJrN1MzMVhKTmFBT1VGbG5pLXlCYkVkVlR2clBrc0ZTTHpwMXdFazc5WGNWYV9rOHdYTTlUN3lOLXlZMDNHdEJEcw?oc=5",
       "source": "Derbyshire Live",
@@ -186,9 +204,9 @@
     {
       "title": "Expected goals on target (xGOT) - Derby County stats for Championship 2026/2027",
       "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOb3lNRl9oZTktdW1ISmN4dmR1OWM4YUpneE9CVnBqRjZtZTFIWGZJRG56R3FYX1A2MDJ0MmdxZHcwdlRzNUF6b1ZYUDNIUWdqc25wV2pyOG1QdkZidGNzZUNOWnJ1NlBzemVoN3A0TmkyZC1iQkhDeHlRblpOLTdpN2M5MlpSaEUySmVfQkd1dHJiVWI5b1BGeDB3UW1nZjdpTVNtTGVhVXVkbnNKWnRzRzVfY3g3LXpTdmFtQlpfMlhWMzEwNExNY2l6aEZmaXYtbGlSZDF5Snk1REMyZThGblpVR2w5aTc1U3R2eVd1bnlaQkEtSXI0bXdPc2VVT1BMTzJhWDRoam53UDVYWkdFN0ZqOA?oc=5",
-      "source": "FotMob",
+      "source": "fotmob.com",
       "published": "2026-08-29T03:17:20.000Z",
-      "summary": "Expected goals on target (xGOT) - Derby County stats for Championship 2026/2027 &nbsp;&nbsp; FotMob",
+      "summary": "Expected goals on target (xGOT) - Derby County stats for Championship 2026/2027 &nbsp;&nbsp; fotmob.com",
       "image": "",
       "type": "rumour"
     },
@@ -204,9 +222,9 @@
     {
       "title": "Charlton Athletic plot late move for Derby County, Stoke City transfer target",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUEdFZTFXQXFqSGNqRkZzbVh1cHdsRENVTHN5bG90ODZZcDVGeUJ5UUhTUXBQbFlIMGk2VmdGazNWTnBpSmtOWWJnVGtjSThmcUh1WlpzS0x5V0NiNXZTSlUwb2VsUkhkQ29UWnpIV2d2WGc4bEE3aS1zWFNFVGN2Vm10dmRhMG51?oc=5",
-      "source": "Yahoo Sports UK",
+      "source": "uk.sports.yahoo.com",
       "published": "2026-08-28T15:17:18.000Z",
-      "summary": "Charlton Athletic plot late move for Derby County, Stoke City transfer target &nbsp;&nbsp; Yahoo Sports UK",
+      "summary": "Charlton Athletic plot late move for Derby County, Stoke City transfer target &nbsp;&nbsp; uk.sports.yahoo.com",
       "image": "",
       "type": "rumour"
     },
@@ -294,9 +312,9 @@
     {
       "title": "Saudi boxing chief Turki Alalshikh gives statement as he pulls out of running to buy Derby County",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTFZZT1hScjBLWGpYLXlaUFlIVWxRZXVHSmtYVjJ2Sm82WWJXdW9KSWhSS0ROX0sySTFHV3ZNMHY4WV9XakNBU0dRRkR1Um5JMVcxb3JlMHczTkdRampMUVVYZjhKOVYtbzdUcVZSWTVHNzNGSm9jYXoteDkxV2pVdXZvc2Jhcjd0Z004Qm1SZXRKNVBxbnhz?oc=5",
-      "source": "talkSPORT",
+      "source": "talksport.com",
       "published": "2026-08-10T07:00:00.000Z",
-      "summary": "Saudi boxing chief Turki Alalshikh gives statement as he pulls out of running to buy Derby County &nbsp;&nbsp; talkSPORT",
+      "summary": "Saudi boxing chief Turki Alalshikh gives statement as he pulls out of running to buy Derby County &nbsp;&nbsp; talksport.com",
       "image": "",
       "type": "news"
     },
@@ -312,9 +330,9 @@
     {
       "title": "Derby County 'want' Huddersfield Town midfielder after successful loan",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeTRwZmVPQTlUY05xVXJjYUlCZFZwd1F6c291NWhISFBiQ0NxaEtocndCTWZ2czFneDE3MXk4Rk1WTG9lU0xNRWp4UEwzRjFhaThLT3A4eGxDZjFNN2tSN0xkNmU3czZnX0I0b3lLeWJELUlOUl8wRS03UmNGY29nQnkydm92WWt0VE5zQk9mdDZpQlpUeW55TWZKUVJYek11Q0NTZWZOWWN4Ti1RZGMybw?oc=5",
-      "source": "Yorkshire Post",
+      "source": "yorkshirepost.co.uk",
       "published": "2026-08-05T07:00:00.000Z",
-      "summary": "Derby County 'want' Huddersfield Town midfielder after successful loan &nbsp;&nbsp; Yorkshire Post",
+      "summary": "Derby County 'want' Huddersfield Town midfielder after successful loan &nbsp;&nbsp; yorkshirepost.co.uk",
       "image": "",
       "type": "news"
     },
@@ -382,15 +400,6 @@
       "type": "news"
     },
     {
-      "title": "Jacob Widell Zetterstrom: Lyon keen on Derby County goalkeeper - gossip",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9KMmRxUlRuck8wWlVxUUF4WWJzMXZ0T2xyQ1JjcS1meHFncVhfNjhqT3J6bUpKdDBpTlg2cUgtN1ZESHVkVHp5S21vSFpNS3NwRzN2Q3d2MWVXVzU1elN3ZDhRbHBlWU0?oc=5",
-      "source": "BBC",
-      "published": "2026-07-23T07:00:00.000Z",
-      "summary": "Jacob Widell Zetterstrom: Lyon keen on Derby County goalkeeper - gossip &nbsp;&nbsp; BBC",
-      "image": "",
-      "type": "news"
-    },
-    {
       "title": "SIGNING: Filip Bilbija Joins as Derby County’s Third Summer Recruit",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZjFna0NqSXV0VHNVc3RaOUE0WjJlOXRaVGJFZnNuU1g1LUxsSERYaFdyakRVMTdZbWRzckJOMGNQTFl4M3BvNU9NbHdFUUpUbE1xRkdiOVJBSEJOVmRwbzIwMFlzYXoyYWh0dmpjRUFEcnpJekl6bEhTdkRjZWp4N2hram5ocU5LRmR3dTZtRG4ydEttbFFGa3poaXV5d2IxUGdMaGJn?oc=5",
       "source": "Derby County",
@@ -418,15 +427,6 @@
       "type": "news"
     },
     {
-      "title": "Derby County ace makes Erling Haaland request as superstar responds to Sondre Langas return",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbjMyWk9hU3YxUGNzNGxoYWQxWWZndTRrc0hqc3AySE9xSXFuQWVZX2YycVNEQjNENW1zMVptM0cxM24wVEhod1hwOUJ6eXExM3BxdTl3TTBUSEdCOExVc0NiUmlxaEowMm5jdmZVWmhIWFJIZ1Z2N0tQaDc4NEdJQTZKRi1qeW5EX0h3X0dsWXNHMEx2Ti0wS3M0TS1aYkkxdmtUbDN2WEZ3UQ?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-07-22T07:00:00.000Z",
-      "summary": "Derby County ace makes Erling Haaland request as superstar responds to Sondre Langas return &nbsp;&nbsp; Derbyshire Live",
-      "image": "",
-      "type": "news"
-    },
-    {
       "title": "Derby County’s Jacob Widell Zetterström attracts interest from Lyon",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeVZxOGU5SWV2LTQxUGNuWmpnYklOcDk5SWl0UG94S0ZpeG9YY2pYVzlKakFmcC1ock1CdHl6N1JvV0NWOEFoZkxHZkd2cnJPRDcyZmk5anZlQVR4RXBJY2VZNEFBU1E2c05zMUttVU1CS3ZJSEN6cDJ1N1lsdkU1VW9KQTZyNEpqZ2Y3WGhXX0h2eUJpQ3E0dk9vZ3ZyZ0Fxc0M0R2pIUTZKTTlqVktj?oc=5",
       "source": "Get French Football News",
@@ -438,9 +438,9 @@
     {
       "title": "Derby County’s FIFA World Cup star draws new interest from Ligue 1 side",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRi1RUGYwdVNKZl9pVDdFSXcxaTBXa2d0NElqMUNNMFFuanJSaHFfNl9yMHdaVF9ZcDhtUmtRckdRUG9CYjd6cXd3RVphVW9WdW1md2FORVlod0N4dVRLMDVfWHh6a1VRMUhFcVliRWsyZF85ZkNSajZNbWlhdFNiUQ?oc=5",
-      "source": "Yahoo Sports UK",
+      "source": "uk.sports.yahoo.com",
       "published": "2026-07-22T07:00:00.000Z",
-      "summary": "Derby County’s FIFA World Cup star draws new interest from Ligue 1 side &nbsp;&nbsp; Yahoo Sports UK",
+      "summary": "Derby County’s FIFA World Cup star draws new interest from Ligue 1 side &nbsp;&nbsp; uk.sports.yahoo.com",
       "image": "",
       "type": "rumour"
     },
@@ -528,9 +528,9 @@
     {
       "title": "Where Derby County star is keen on moving as summer transfer interest steps up",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNeWpPdzZtQ3ZtNGYxVTJsSm1OVUg4OXlKQjNkdEk1WnFocF85TEdKaWpfUlZ0OWtZdzR6OHYyb0dKNE9hXy1jVHk5TjdmbDZJQ1V0YXpRV3lBYXdBNHBPRmI2ekpoRGN1aWNScDNyYTBCajNDNjBCLTZHSGY3d0JreEt3?oc=5",
-      "source": "Yahoo Sports UK",
+      "source": "uk.sports.yahoo.com",
       "published": "2026-07-08T07:00:00.000Z",
-      "summary": "Where Derby County star is keen on moving as summer transfer interest steps up &nbsp;&nbsp; Yahoo Sports UK",
+      "summary": "Where Derby County star is keen on moving as summer transfer interest steps up &nbsp;&nbsp; uk.sports.yahoo.com",
       "image": "",
       "type": "rumour"
     },
