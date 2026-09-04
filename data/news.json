@@ -1,12 +1,6 @@
 {
-  "updatedAt": "2026-09-04T17:32:47.966Z",
+  "updatedAt": "2026-09-04T17:44:50.181Z",
   "targets": [
-    {
-      "name": "Jacob Widell Zetterstrom",
-      "mentions": 2,
-      "score": 76,
-      "context": "More than one recent link"
-    },
     {
       "name": "Leicester City",
       "mentions": 1,
@@ -36,6 +30,12 @@
       "mentions": 1,
       "score": 34,
       "context": "Fresh media link"
+    },
+    {
+      "name": "Coventry City",
+      "mentions": 1,
+      "score": 34,
+      "context": "Fresh media link"
     }
   ],
   "stories": [
@@ -45,6 +45,15 @@
       "source": "BBC",
       "published": "2026-09-04T17:03:27.000Z",
       "summary": "Nicholas Bilokapic: Derby County sign goalkeeper on free transfer &nbsp;&nbsp; BBC",
+      "image": "",
+      "type": "news"
+    },
+    {
+      "title": "TRANSFER NEWS: Bilokapic added to goalkeeping group",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRjRibVdCSERoWl9xN0w1bHZXZVNjSkxXMklMVXRhcUpHQWFwUTROUzZCc0NySFJrMC15d0s0N3I1eDhJVlpYTU1qOXMwaTBkRUdyZHdOZ01qdnlyd2d6ZjRIb2RDMGY0LU5KN05ZMVpndHBOXzJFU0dSTEc2bzdLNW9UVHlXUGQxQ3VRTUxOQQ?oc=5",
+      "source": "Derby County",
+      "published": "2026-09-04T14:03:46.000Z",
+      "summary": "TRANSFER NEWS: Bilokapic added to goalkeeping group &nbsp;&nbsp; Derby County",
       "image": "",
       "type": "news"
     },
@@ -247,15 +256,6 @@
       "type": "news"
     },
     {
-      "title": "Former Derby County winger set for record-breaking deadline day transfer",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOR3pmSEhic19yaWxpaDlVSEFaa0hkSTZQenJ1Yk4zd05nNW9VcVpxM2tfX25ncTM4S1VKVExQQjdKSHR6aHptSHBDN20xNmFrVGFtQlpIRTN5elluQUJXM0QtZEhkY29aOERiSWdIWmdQQjBUdnd5TzQ3VHhBYnpwWXZmRjNYeGNjVXlUczlGbzlQRWVOcU1yX1N1aE8xWng2ZTBiUlBaY1JTeWVmLXc?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-09-01T14:29:00.000Z",
-      "summary": "Former Derby County winger set for record-breaking deadline day transfer &nbsp;&nbsp; Derbyshire Live",
-      "image": "",
-      "type": "news"
-    },
-    {
       "title": "Derby County transfer state of play on crucial deadline day as key duo meet",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNjQxY09rNUx6MkcyY1FVLWtLMHVsdHg2bXpoMGU2dWt3UzlCNllwc2dDd2U3M014Z2ZSTE9UQi0zd3d6dEF0TmQyaXZTZWpINTF3TWpSeTU4RUNVTjBvN3RGaHpoS3V6TnJOUF9kNmNMUDd5N21ZaEl1dzhoNDZ2bzNlMm1FLWQxSElXZWZwSHdVZGEyR3RDZ2Nad1B4WWx3MXYxc2ZFR0Y?oc=5",
       "source": "Derbyshire Live",
@@ -276,18 +276,18 @@
     {
       "title": "Championship side to keep Derby County, Millwall and Wrexham target",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVHZJWlVtczQ3ZURDNkU1Z2RVR1JEdmoxVFpPV1VGQ2VSQ1p4eTR5dmdNYUEtZm1FT3oyOHBnWEVlYjJmUWVKNEhyQXl6bWFWbEl1V0ptM3Q3TXo5TmtjeWZrVUNEYm9wSU9Eb25FaVI3RXlHOG45Yk9zcTdCUFV2YXdrX1FhYWRrSFBr?oc=5",
-      "source": "uk.sports.yahoo.com",
+      "source": "Yahoo Sports UK",
       "published": "2026-09-01T06:12:00.000Z",
-      "summary": "Championship side to keep Derby County, Millwall and Wrexham target &nbsp;&nbsp; uk.sports.yahoo.com",
+      "summary": "Championship side to keep Derby County, Millwall and Wrexham target &nbsp;&nbsp; Yahoo Sports UK",
       "image": "",
       "type": "rumour"
     },
     {
       "title": "Derby County, Burnley interested in loan deal for Coventry City defender",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTW1RZ1p4N2s5Q0pyLWJUbzV0QTFoRkxkRDRQR3k5TVNQV2d5bDNIYTJQbVY5ZHMtWmk2TFY5ZWV3dm90TEhzTTktVWdaNmpMdnpsSVBOOXRhaTBfLW90VzNETU5CbWRTYnNZdXhqd3ZrLXNLdHNJbEZjaVNfams3T3M4c0Z6bFFUNW9lOQ?oc=5",
-      "source": "uk.sports.yahoo.com",
+      "source": "Yahoo Sports UK",
       "published": "2026-08-31T13:16:47.000Z",
-      "summary": "Derby County, Burnley interested in loan deal for Coventry City defender &nbsp;&nbsp; uk.sports.yahoo.com",
+      "summary": "Derby County, Burnley interested in loan deal for Coventry City defender &nbsp;&nbsp; Yahoo Sports UK",
       "image": "",
       "type": "rumour"
     },
@@ -321,18 +321,18 @@
     {
       "title": "Fresh Anis Mehmeti update emerges as Birmingham City, Wrexham and Derby County eye deal",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbDlVZHc2MGxpMi1TTVNCSTZDRXRBcEVIal9MbEZxci1GQ2FLaDFJam93UmMyVTk3TWs5RzlhSFFwOG1SbXZlZ0lQMXJQdEVKTVMtelJGODhWY2U3NUZSVzEyZkI3dmw3ZzZCaXJESnVYR1ozVXFzNnJHU3RUTlpwc0s5MUIzQ21aYVoxeHBB?oc=5",
-      "source": "uk.sports.yahoo.com",
+      "source": "Yahoo Sports UK",
       "published": "2026-08-30T13:24:07.000Z",
-      "summary": "Fresh Anis Mehmeti update emerges as Birmingham City, Wrexham and Derby County eye deal &nbsp;&nbsp; uk.sports.yahoo.com",
+      "summary": "Fresh Anis Mehmeti update emerges as Birmingham City, Wrexham and Derby County eye deal &nbsp;&nbsp; Yahoo Sports UK",
       "image": "",
       "type": "rumour"
     },
     {
       "title": "Sheffield United set to sign Leicester City utility man after Derby County transfer interest",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOa0lvU1o3OGRxaUpCUTF6MG0xc1dnaGNVX25QTUtiSDc1XzdfTU5pOTdlakZ5OXVOM3NHVURFM0xPXzVFWmtFbHlaSjNUMl9iRDY0Z3lGSUhVRER5SU9FMDBVaFJORURYNzhwYTlqS3V1czRFdHdyN2xUVjAyQWNmT2tXandwTFVPdU1R?oc=5",
-      "source": "uk.sports.yahoo.com",
+      "source": "Yahoo Sports UK",
       "published": "2026-08-30T11:10:31.000Z",
-      "summary": "Sheffield United set to sign Leicester City utility man after Derby County transfer interest &nbsp;&nbsp; uk.sports.yahoo.com",
+      "summary": "Sheffield United set to sign Leicester City utility man after Derby County transfer interest &nbsp;&nbsp; Yahoo Sports UK",
       "image": "",
       "type": "rumour"
     },
@@ -445,20 +445,29 @@
       "type": "news"
     },
     {
-      "title": "Derby County take firm stance after Jacob Widell Zetterstrom bid amid pivotal contract option | Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRjVyb1p0andySEJVNDVGYUpCNkZLWHdsc2FtaTRCQ1NHcEkzYllYREJ6Q25TUmJXM2NQc1d1aFkwTEdrZ0NCQUdfVVhwSW9TMk56SmVYV1pjVkZ3QzZJbXJaV012NnA4R0h4d2UwN2xFQVdaQWoxeV9fdHlCVGZVVWZlcmFXQS1rNTdhN3pjV3FnekZUdWRoN1dqMmRkbzRnbEpjbXQxdUxEeWNJ?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-08-19T07:00:00.000Z",
-      "summary": "Derby County take firm stance after Jacob Widell Zetterstrom bid amid pivotal contract option | Derbyshire Live &nbsp;&nbsp; Derbyshire Live",
+      "title": "SIGNING: Ryan Hedges signs for Derby",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE94cGNVRVJlWXMyN0JUM0NHNDRLUmdpM01xTUh2cjRvb2RNcHlvYTNyM1VGNU9ZVnVsS2V0UU1YOXNoUVpzV01TSGE3LTQtSDJ1MmdGaWIwcHlKTV9PMWxXckdXYlVKS2Q1RG5sanFXOV9IN19ZZHB3T2lGNA?oc=5",
+      "source": "Derby County",
+      "published": "2026-08-20T17:05:19.000Z",
+      "summary": "SIGNING: Ryan Hedges signs for Derby &nbsp;&nbsp; Derby County",
       "image": "",
-      "type": "rumour"
+      "type": "done"
     },
     {
-      "title": "Derby County centre of Jacob Widell Zetterstrom bid claim as Serie A club seek transfer",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOb1I0YS1oYU8wUHVKU05MOExmVnc3cEZUOEVJdk9IYWxiRmFIbTJ0MFRpWVVaWnAycjlCQjJqWno4VGpLMFo4VVFvSjg2cGJXWVpLWXVEMUJnUUhleERQeUpMZXVlZVN5UEZVRGIwUTJjVEE0NjdoYUQ2eFRMZThEcHhrcFFiZlBMbktMX1pQSmxGRXY1eWg2MnpFRzlfem9sbU9tWGFwOEVYM05Z?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-08-18T07:00:00.000Z",
-      "summary": "Derby County centre of Jacob Widell Zetterstrom bid claim as Serie A club seek transfer &nbsp;&nbsp; Derbyshire Live",
+      "title": "NEW SIGNING INTERVIEW: Ryan Hedges",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNYWxhdHJwbEVkZ25DMkp6LU91UURlUkhaWVVETmI2UmVrWnhRRENrckdsVlNxVFUyMkxLQnVUTnIzR004UVFILV9Yd09DOElrckp4Wno2eDgzbHcwS1pCZi1OUVJyVE9fRjQ5ZVlFVi0wa3VsTExmMVF3eURPS0lPOEtR?oc=5",
+      "source": "Derby County",
+      "published": "2026-08-20T07:00:00.000Z",
+      "summary": "NEW SIGNING INTERVIEW: Ryan Hedges &nbsp;&nbsp; Derby County",
+      "image": "",
+      "type": "news"
+    },
+    {
+      "title": "INTERVIEW: Hedges ‘delighted’ after Derby move",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOFZQcWRKTGdmRTk5TTNheFF6cUtkZnpscWpJSWtENWpNaDYwQ3J4Wjh2RHBqVlpFU0JBeXlmOWpzY1hhTDc1bkF0b2FhVWFINzR1XzMtSXNaZDJ2X2YtQlJaQ0hxUXpkWTNWMzk0STNxUVdEbVFZV25ZNUdPVE5mTlhuMEI2Zw?oc=5",
+      "source": "Derby County",
+      "published": "2026-08-20T07:00:00.000Z",
+      "summary": "INTERVIEW: Hedges ‘delighted’ after Derby move &nbsp;&nbsp; Derby County",
       "image": "",
       "type": "rumour"
     },
@@ -528,9 +537,9 @@
     {
       "title": "Saudi boxing chief Turki Alalshikh gives statement as he pulls out of running to buy Derby County",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTFZZT1hScjBLWGpYLXlaUFlIVWxRZXVHSmtYVjJ2Sm82WWJXdW9KSWhSS0ROX0sySTFHV3ZNMHY4WV9XakNBU0dRRkR1Um5JMVcxb3JlMHczTkdRampMUVVYZjhKOVYtbzdUcVZSWTVHNzNGSm9jYXoteDkxV2pVdXZvc2Jhcjd0Z004Qm1SZXRKNVBxbnhz?oc=5",
-      "source": "talksport.com",
+      "source": "talkSPORT",
       "published": "2026-08-10T07:00:00.000Z",
-      "summary": "Saudi boxing chief Turki Alalshikh gives statement as he pulls out of running to buy Derby County &nbsp;&nbsp; talksport.com",
+      "summary": "Saudi boxing chief Turki Alalshikh gives statement as he pulls out of running to buy Derby County &nbsp;&nbsp; talkSPORT",
       "image": "",
       "type": "news"
     },
@@ -540,15 +549,6 @@
       "source": "Derbyshire Live",
       "published": "2026-08-06T07:00:00.000Z",
       "summary": "Dajaune Brown seals Derby County transfer as EFL club confirms swoop for striker &nbsp;&nbsp; Derbyshire Live",
-      "image": "",
-      "type": "news"
-    },
-    {
-      "title": "John Eustace responds to Derby County transfer and what he couldn't 'guarantee'",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcFQ4MHQtektQWHJpWVR5MGJSVDlpSndBeVpVNW1tckpMR05kQ25mUC16RjNEYlNfWHJsSmNrbjdvRzJyY1M1Z2F1dFNmYUZaOUFIU290bV82Y0Vsei1sUGJPOWYxRE85azJad2V3X1I1cXE4ZHltZ1pGc09EQmM3ZlBMX1BGUzAxWXphU3FrMlplVEZRN1I4dFI4cGZPVzBCVm8tM3pibGNvRG8?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-08-06T07:00:00.000Z",
-      "summary": "John Eustace responds to Derby County transfer and what he couldn't 'guarantee' &nbsp;&nbsp; Derbyshire Live",
       "image": "",
       "type": "news"
     },
