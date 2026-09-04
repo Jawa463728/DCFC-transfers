@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T12:28:25.728Z",
+  "updatedAt": "2026-09-04T12:49:16.379Z",
   "targets": [
     {
       "name": "Leicester City",
@@ -12,6 +12,12 @@
       "mentions": 2,
       "score": 51,
       "context": "More than one recent link"
+    },
+    {
+      "name": "Jacob Widell Zetterstrom",
+      "mentions": 1,
+      "score": 43,
+      "context": "Fresh media link"
     },
     {
       "name": "Move To",
@@ -27,12 +33,6 @@
     },
     {
       "name": "Injury Blow",
-      "mentions": 1,
-      "score": 34,
-      "context": "Fresh media link"
-    },
-    {
-      "name": "Coventry City",
       "mentions": 1,
       "score": 34,
       "context": "Fresh media link"
@@ -87,9 +87,9 @@
     {
       "title": "21 Year Old Midfielder Target Super Eagles Spot After Move To Derby County",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdk0wS2tqYXFFVXFrRmhrMmplamRNZWItaTRVa0E4SUQxaG1QcHhxV0NiZW1EOGg2ZUI3M3RjUHo5SWg4UW1IbTM4a0V1MFJTeVlmNTZRNWJoTlJxb2FZbmNJQ0U2aHJKbGZIeHBNTDE4Rm5fa3ZNOXc5V054aGVCNnpQaDg3SVpjMEFTdmlCWlN0RmFrbmNpV3pwcWJHWWVtSWlmbXl1czRHckZmS0tNUXNkMA?oc=5",
-      "source": "OwnGoal Nigeria",
+      "source": "owngoalnigeria.com",
       "published": "2026-09-03T12:42:29.000Z",
-      "summary": "21 Year Old Midfielder Target Super Eagles Spot After Move To Derby County &nbsp;&nbsp; OwnGoal Nigeria",
+      "summary": "21 Year Old Midfielder Target Super Eagles Spot After Move To Derby County &nbsp;&nbsp; owngoalnigeria.com",
       "image": "",
       "type": "rumour"
     },
@@ -420,9 +420,9 @@
     {
       "title": "Former Celtic star to Derby County transfer talk addressed amid summer 'rush' claim",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTWxyMWJmb3VvVTJ4MWFBR3E3QzRnRU4yZVkwVC1tVXdtRE9qR2ZZQ2JHV1FvR29BQVFEazhrcTVxUXpPWktoenZWVXp3Q3B1UmtMMGdkY0tKVVhmUmlCcUNBcTZRck15ZGlYb0hEWWRCX2VQMnJ2dmxiQVh2RC01ZEZYM3FEUWI4TFdnOXpxQ3hyYzRBUmlfRWhpSzdJNklSZWh6ZUZTTTRhUmxRelNNUjVrUmZOb05DcXZyZHFxYTBfQlFISWxPbTZMRVNWMm5L?oc=5",
-      "source": "glasgowworld.com",
+      "source": "GlasgowWorld",
       "published": "2026-08-24T07:00:00.000Z",
-      "summary": "Former Celtic star to Derby County transfer talk addressed amid summer 'rush' claim &nbsp;&nbsp; glasgowworld.com",
+      "summary": "Former Celtic star to Derby County transfer talk addressed amid summer 'rush' claim &nbsp;&nbsp; GlasgowWorld",
       "image": "",
       "type": "news"
     },
@@ -445,6 +445,15 @@
       "type": "news"
     },
     {
+      "title": "SIGNING: Ryan Hedges signs for Derby",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE94cGNVRVJlWXMyN0JUM0NHNDRLUmdpM01xTUh2cjRvb2RNcHlvYTNyM1VGNU9ZVnVsS2V0UU1YOXNoUVpzV01TSGE3LTQtSDJ1MmdGaWIwcHlKTV9PMWxXckdXYlVKS2Q1RG5sanFXOV9IN19ZZHB3T2lGNA?oc=5",
+      "source": "Derby County",
+      "published": "2026-08-20T17:05:19.000Z",
+      "summary": "SIGNING: Ryan Hedges signs for Derby &nbsp;&nbsp; Derby County",
+      "image": "",
+      "type": "done"
+    },
+    {
       "title": "NEW SIGNING INTERVIEW: Ryan Hedges",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNYWxhdHJwbEVkZ25DMkp6LU91UURlUkhaWVVETmI2UmVrWnhRRENrckdsVlNxVFUyMkxLQnVUTnIzR004UVFILV9Yd09DOElrckp4Wno2eDgzbHcwS1pCZi1OUVJyVE9fRjQ5ZVlFVi0wa3VsTExmMVF3eURPS0lPOEtR?oc=5",
       "source": "Derby County",
@@ -454,22 +463,13 @@
       "type": "news"
     },
     {
-      "title": "INTERVIEW: Hedges ‘delighted’ after Derby move",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOFZQcWRKTGdmRTk5TTNheFF6cUtkZnpscWpJSWtENWpNaDYwQ3J4Wjh2RHBqVlpFU0JBeXlmOWpzY1hhTDc1bkF0b2FhVWFINzR1XzMtSXNaZDJ2X2YtQlJaQ0hxUXpkWTNWMzk0STNxUVdEbVFZV25ZNUdPVE5mTlhuMEI2Zw?oc=5",
-      "source": "Derby County",
-      "published": "2026-08-20T07:00:00.000Z",
-      "summary": "INTERVIEW: Hedges ‘delighted’ after Derby move &nbsp;&nbsp; Derby County",
+      "title": "Derby County take firm stance after Jacob Widell Zetterstrom bid amid pivotal contract option | Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRjVyb1p0andySEJVNDVGYUpCNkZLWHdsc2FtaTRCQ1NHcEkzYllYREJ6Q25TUmJXM2NQc1d1aFkwTEdrZ0NCQUdfVVhwSW9TMk56SmVYV1pjVkZ3QzZJbXJaV012NnA4R0h4d2UwN2xFQVdaQWoxeV9fdHlCVGZVVWZlcmFXQS1rNTdhN3pjV3FnekZUdWRoN1dqMmRkbzRnbEpjbXQxdUxEeWNJ?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-08-19T07:00:00.000Z",
+      "summary": "Derby County take firm stance after Jacob Widell Zetterstrom bid amid pivotal contract option | Derbyshire Live &nbsp;&nbsp; Derbyshire Live",
       "image": "",
       "type": "rumour"
-    },
-    {
-      "title": "Derby County star subject of Serie A transfer offer including huge sell-on clause",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVGVLYVRodWhJT2RxZEx3RlVTZTBOZUhYQVN5YUxGN19QWGE1ckxwVENWVkw4eEVfNHZjOEhjYUdKM3NVWlFMbVEyRHF5Y1lHOUZSSEk4QWk3SXlMNUU3V0xid0lBUXJyYlJHa3o2M2JaUFQtUXJhd0JCRUF0STJPYmJhN29rUQ?oc=5",
-      "source": "Yahoo Sports UK",
-      "published": "2026-08-18T07:00:00.000Z",
-      "summary": "Derby County star subject of Serie A transfer offer including huge sell-on clause &nbsp;&nbsp; Yahoo Sports UK",
-      "image": "",
-      "type": "news"
     },
     {
       "title": "West Brom boss reacts to Derby County transfer and admits 'I didn't expect it'",
@@ -504,15 +504,6 @@
       "source": "bbc.com",
       "published": "2026-08-12T07:00:00.000Z",
       "summary": "Alex Mowatt: West Bromwich Albion reject Derby County bid for midfielder &nbsp;&nbsp; bbc.com",
-      "image": "",
-      "type": "rumour"
-    },
-    {
-      "title": "Derby County takeover: Deal off as Turki Alalshikh shelves plans",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA5a0psVjRiQlV1WGd6YnM4czVGc1dNamRzY2RXSGxYLWNzdlNvQ2RLYkVISTBmT3ExOS1OZmZXZFFhTlh5MXA2Wkd6OHk5eFlzM29pdmxsWEYxREkyRDhBUlZ6VHllS0U?oc=5",
-      "source": "bbc.com",
-      "published": "2026-08-10T07:00:00.000Z",
-      "summary": "Derby County takeover: Deal off as Turki Alalshikh shelves plans &nbsp;&nbsp; bbc.com",
       "image": "",
       "type": "rumour"
     },
@@ -576,6 +567,15 @@
       "source": "Yorkshire Post",
       "published": "2026-08-05T07:00:00.000Z",
       "summary": "Derby County 'want' Huddersfield Town midfielder after successful loan &nbsp;&nbsp; Yorkshire Post",
+      "image": "",
+      "type": "news"
+    },
+    {
+      "title": "REPORT: Derby County XI 1-1 Port Vale",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5qdTVBUm1XVHNqekxMcENfQWQtVF9pNUNvMDZOblRQLWtJTUR5ei1NRnJBLVhSRlFfX000T3RwZjVOSmV6am5Ublg4anY0aVY4dE5SbGpRUmtxeGFHTzF4RW1aVV9qUGJlVkI1ckQ2ZWd4S3owUjJxSjJjVnE?oc=5",
+      "source": "Derby County",
+      "published": "2026-08-04T07:00:00.000Z",
+      "summary": "REPORT: Derby County XI 1-1 Port Vale &nbsp;&nbsp; Derby County",
       "image": "",
       "type": "news"
     }
