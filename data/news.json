@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T19:42:34.958Z",
+  "updatedAt": "2026-09-04T19:54:52.385Z",
   "targets": [
     {
       "name": "Leicester City",
@@ -12,6 +12,12 @@
       "mentions": 2,
       "score": 51,
       "context": "More than one recent link"
+    },
+    {
+      "name": "Jacob Widell Zetterstrom",
+      "mentions": 1,
+      "score": 43,
+      "context": "Fresh media link"
     },
     {
       "name": "Move To",
@@ -27,12 +33,6 @@
     },
     {
       "name": "Injury Blow",
-      "mentions": 1,
-      "score": 34,
-      "context": "Fresh media link"
-    },
-    {
-      "name": "Coventry City",
       "mentions": 1,
       "score": 34,
       "context": "Fresh media link"
@@ -481,6 +481,24 @@
       "type": "rumour"
     },
     {
+      "title": "Derby County take firm stance after Jacob Widell Zetterstrom bid amid pivotal contract option | Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRjVyb1p0andySEJVNDVGYUpCNkZLWHdsc2FtaTRCQ1NHcEkzYllYREJ6Q25TUmJXM2NQc1d1aFkwTEdrZ0NCQUdfVVhwSW9TMk56SmVYV1pjVkZ3QzZJbXJaV012NnA4R0h4d2UwN2xFQVdaQWoxeV9fdHlCVGZVVWZlcmFXQS1rNTdhN3pjV3FnekZUdWRoN1dqMmRkbzRnbEpjbXQxdUxEeWNJ?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-08-19T07:00:00.000Z",
+      "summary": "Derby County take firm stance after Jacob Widell Zetterstrom bid amid pivotal contract option | Derbyshire Live &nbsp;&nbsp; Derbyshire Live",
+      "image": "",
+      "type": "rumour"
+    },
+    {
+      "title": "Derby County star subject of Serie A transfer offer including huge sell-on clause",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVGVLYVRodWhJT2RxZEx3RlVTZTBOZUhYQVN5YUxGN19QWGE1ckxwVENWVkw4eEVfNHZjOEhjYUdKM3NVWlFMbVEyRHF5Y1lHOUZSSEk4QWk3SXlMNUU3V0xid0lBUXJyYlJHa3o2M2JaUFQtUXJhd0JCRUF0STJPYmJhN29rUQ?oc=5",
+      "source": "Yahoo Sports UK",
+      "published": "2026-08-18T07:00:00.000Z",
+      "summary": "Derby County star subject of Serie A transfer offer including huge sell-on clause &nbsp;&nbsp; Yahoo Sports UK",
+      "image": "",
+      "type": "news"
+    },
+    {
       "title": "West Brom boss reacts to Derby County transfer and admits 'I didn't expect it'",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTW5COW93Z0JzWnhvOGt5d09QczlkZUpCajZ3aExfUG9PdUxFSmswZTFNcFFWNk1aOXBjbUU3ZVpmUUhyYmdqU2Y0NW9DV01TVWFvSFRpNzdhRUp4OXpBWDhXaXBTeFRsU2Fja3p2T21WalljUnhac0N1eTN0R0Y3MmZacnJyWXg4S21zSFJoZzV3WUdvZHJIYmViYVExRGZxdjB1TkkxYw?oc=5",
       "source": "Derbyshire Live",
@@ -558,24 +576,6 @@
       "source": "Derbyshire Live",
       "published": "2026-08-06T07:00:00.000Z",
       "summary": "Dajaune Brown seals Derby County transfer as EFL club confirms swoop for striker &nbsp;&nbsp; Derbyshire Live",
-      "image": "",
-      "type": "news"
-    },
-    {
-      "title": "Dajaune Brown: Rochdale sign Derby County forward on season-long loan",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9NRG9tYTFTSVllVTZiaTdFanFWRllQaUE2UHdxYk9OemNLbmNUdFEyVUxiSnBxS0lMNkJMQUswbUJ3MzdwSFZCaHY2WVVRWEU0YVMyczcyTFVFVl83Ym9FdnZBX090dFk?oc=5",
-      "source": "BBC",
-      "published": "2026-08-06T07:00:00.000Z",
-      "summary": "Dajaune Brown: Rochdale sign Derby County forward on season-long loan &nbsp;&nbsp; BBC",
-      "image": "",
-      "type": "news"
-    },
-    {
-      "title": "COMMUNITY: Derby County Community Trust publishes ‘Not Just Football’ 2026-2031 Strategy",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVl9vdFZXRHNtS1ljdlRlTk13dHpNVU9XTHdlRkN0VW5JRTdCQVBGUnMtYlV0LU52VUhvLW5xTzF2M01sM1pGcTdPb2Z2UXZkNks4Q0g2YkhJUWpWOVZHMHNkWHNqejlxbW5McTlQTzFZNlN2d2x3dGpqa2V3a1hqT04ycE1xeExqaUhvYjBVQXgyVkJqNHhwTVBlT1ZpTWJ2ZFlqWm9xb0oya2JRWFF5djUzUVlvcVNESGZfdmp3?oc=5",
-      "source": "Derby County",
-      "published": "2026-08-05T07:00:00.000Z",
-      "summary": "COMMUNITY: Derby County Community Trust publishes ‘Not Just Football’ 2026-2031 Strategy &nbsp;&nbsp; Derby County",
       "image": "",
       "type": "news"
     }
