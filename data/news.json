@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T20:43:26.480Z",
+  "updatedAt": "2026-09-04T20:55:22.797Z",
   "targets": [
     {
       "name": "Leicester City",
@@ -90,6 +90,15 @@
       "source": "Derbyshire Live",
       "published": "2026-09-03T15:30:00.000Z",
       "summary": "John Eustace responds as Derby County make 'real statement of intent' &nbsp;&nbsp; Derbyshire Live",
+      "image": "",
+      "type": "news"
+    },
+    {
+      "title": "John Eustace issues Derby County injury update as timeline set for duo's return after scans",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSHNzd2lNV3dlY0VsemxnVG85QV9aYUthTURxenVGVnZkekZjZ05FZnpIMW1WRnpyZlRJc2ZSRHd0cFVFc2tpZ0t6dkVfRnN5U1VhUFpXUkZudUJ5X2hOOExJT215ZnRtTklUR2tXRVU4RjdHOV9aUkppbldocWYzSDBETkMxNUhVWXY2NkRyVEVLUEhJTk9oeEJvREhKeUlKUndqQjI0UVI?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-09-03T15:01:52.000Z",
+      "summary": "John Eustace issues Derby County injury update as timeline set for duo's return after scans &nbsp;&nbsp; Derbyshire Live",
       "image": "",
       "type": "news"
     },
@@ -510,27 +519,27 @@
     {
       "title": "Alex Mowatt: Derby County sign midfielder from West Bromwich Albion",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBWOE5mNTY1OW1qY3hrR0dRa0VpOGZPRHY2bzlPdzZKS1pfeEhYcHVsU0cyQjdFVkZRekRqTXVDNTQ1RWhRMjVuSGRiTC1XUzQ4RGFoV1FPWjV5RnJiQXRwT01FdFl5UDQ?oc=5",
-      "source": "BBC",
+      "source": "bbc.com",
       "published": "2026-08-14T07:00:00.000Z",
-      "summary": "Alex Mowatt: Derby County sign midfielder from West Bromwich Albion &nbsp;&nbsp; BBC",
+      "summary": "Alex Mowatt: Derby County sign midfielder from West Bromwich Albion &nbsp;&nbsp; bbc.com",
       "image": "",
       "type": "news"
     },
     {
       "title": "John Eustace: Derby County boss 'glad drama is over' after takeover saga",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5mZHdCVWUwZXNOSnZPTUllTkF0M1BYNEpwXzNrc0o2dktRcnYtN3ZoOVZfZjNvM0dpUEs1RVJWSmtyQ1RmUlItSUNUNTJYZUtJUFVWRlFibnFYNGgzWG5Qbm9oanY5WUE?oc=5",
-      "source": "BBC",
+      "source": "bbc.com",
       "published": "2026-08-13T07:00:00.000Z",
-      "summary": "John Eustace: Derby County boss 'glad drama is over' after takeover saga &nbsp;&nbsp; BBC",
+      "summary": "John Eustace: Derby County boss 'glad drama is over' after takeover saga &nbsp;&nbsp; bbc.com",
       "image": "",
       "type": "news"
     },
     {
       "title": "Gossip: Derby County target West Brom's Alex Mowatt",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBvdERlUlpJNDRKZFFYZWFMUUE2SE9WZ1ZqOXVGUjBoN2FKc3VzRHlFMFppaWo2VDl4OXU4TDJidUxFOFMwck1seVEzZEViTklaa2JZRWpWSW1LNjFfdTZSWE1PMjVmVms?oc=5",
-      "source": "BBC",
+      "source": "bbc.com",
       "published": "2026-08-13T07:00:00.000Z",
-      "summary": "Gossip: Derby County target West Brom's Alex Mowatt &nbsp;&nbsp; BBC",
+      "summary": "Gossip: Derby County target West Brom's Alex Mowatt &nbsp;&nbsp; bbc.com",
       "image": "",
       "type": "rumour"
     },
@@ -546,9 +555,9 @@
     {
       "title": "Alex Mowatt: West Bromwich Albion reject Derby County bid for midfielder",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE91REE2dTBvcXNCTENHQ3Nzc1pyU3cyLVFMNk9xNi12ak84WFlIWjllMlI5aENjWkl0ZmpXQVlaSmFKQUprckltbk0tcG9OVWNLdkoyOFZUbmZTVDM4WTY4aDdCcTFFWVE?oc=5",
-      "source": "BBC",
+      "source": "bbc.com",
       "published": "2026-08-12T07:00:00.000Z",
-      "summary": "Alex Mowatt: West Bromwich Albion reject Derby County bid for midfielder &nbsp;&nbsp; BBC",
+      "summary": "Alex Mowatt: West Bromwich Albion reject Derby County bid for midfielder &nbsp;&nbsp; bbc.com",
       "image": "",
       "type": "rumour"
     },
@@ -567,15 +576,6 @@
       "source": "talkSPORT",
       "published": "2026-08-10T07:00:00.000Z",
       "summary": "Saudi boxing chief Turki Alalshikh gives statement as he pulls out of running to buy Derby County &nbsp;&nbsp; talkSPORT",
-      "image": "",
-      "type": "news"
-    },
-    {
-      "title": "Dajaune Brown seals Derby County transfer as EFL club confirms swoop for striker",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOExDTW8zWVl5Rkg3RUZDT0pGSnZLaHZac3RlaTJmX2tjS2ZqRmVJbGk5RUctM0ZmYVRpcU9wUDVCZzNqdGlseDhfTW1vdnRITmIzY1c4ckZ3bDh4N095bXdBV2tmN1NWU2ZYdmxQbnpfVUc0ajdUdDRTYUo4bFdOcnh4U194emRLNU0wN1BRdFQ1UXVFQzVLcFV6Wk1mVGEzNTdkSXlR?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-08-06T07:00:00.000Z",
-      "summary": "Dajaune Brown seals Derby County transfer as EFL club confirms swoop for striker &nbsp;&nbsp; Derbyshire Live",
       "image": "",
       "type": "news"
     }
