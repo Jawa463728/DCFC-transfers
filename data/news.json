@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T01:02:17.939Z",
+  "updatedAt": "2026-09-05T01:18:45.905Z",
   "targets": [
     {
       "name": "Leicester City",
@@ -45,6 +45,15 @@
       "source": "BBC",
       "published": "2026-09-04T17:03:27.000Z",
       "summary": "Nicholas Bilokapic: Derby County sign goalkeeper on free transfer &nbsp;&nbsp; BBC",
+      "image": "",
+      "type": "news"
+    },
+    {
+      "title": "Derby County: Takeover collapse took wind out of sails, says Stephen Pearce",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9TalR5X1JTRU1udVBUVHVHZ2x3Yi1ZZWhRQ2NWcmd2b28wblVxb0JQZjRSZUc3RG1hdDFEUHhWWm1oZWtHbVkydEtKSjNvcDlnamdwRld5SjRYQnFTVWtvM21TY0RoaEs4S2c?oc=5",
+      "source": "BBC",
+      "published": "2026-09-04T16:02:33.000Z",
+      "summary": "Derby County: Takeover collapse took wind out of sails, says Stephen Pearce &nbsp;&nbsp; BBC",
       "image": "",
       "type": "news"
     },
@@ -393,9 +402,9 @@
     {
       "title": "Sheffield United and Derby County 'vying' for signature of Southampton's Ben Brereton Diaz",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeU9FQkdmMUNqTldSaEJaZE5TZ1NvNWw3amJjLTBmZ19BU0RWMUkyVmRHZnZya2IyQXJQMUxfMHZZTHpFdXVFY29YM0FmSlJndFhBT0UxN0Z5b19ZOUlNcnNQWkR0ZEp3c18tMUYxWG11TDZpSEdwa3pKMEhpYTBPUkF5aXZrbVpkWEVMUkxUck92cUczNV9Qa2lMR2RvUEthZGlpTU1LUGotb0dVNUgtc1lFWW0?oc=5",
-      "source": "Yorkshire Post",
+      "source": "yorkshirepost.co.uk",
       "published": "2026-08-26T07:00:00.000Z",
-      "summary": "Sheffield United and Derby County 'vying' for signature of Southampton's Ben Brereton Diaz &nbsp;&nbsp; Yorkshire Post",
+      "summary": "Sheffield United and Derby County 'vying' for signature of Southampton's Ben Brereton Diaz &nbsp;&nbsp; yorkshirepost.co.uk",
       "image": "",
       "type": "news"
     },
@@ -567,15 +576,6 @@
       "source": "BBC",
       "published": "2026-08-06T07:00:00.000Z",
       "summary": "Dajaune Brown: Rochdale sign Derby County forward on season-long loan &nbsp;&nbsp; BBC",
-      "image": "",
-      "type": "news"
-    },
-    {
-      "title": "COMMUNITY: Derby County Community Trust publishes ‘Not Just Football’ 2026-2031 Strategy",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVl9vdFZXRHNtS1ljdlRlTk13dHpNVU9XTHdlRkN0VW5JRTdCQVBGUnMtYlV0LU52VUhvLW5xTzF2M01sM1pGcTdPb2Z2UXZkNks4Q0g2YkhJUWpWOVZHMHNkWHNqejlxbW5McTlQTzFZNlN2d2x3dGpqa2V3a1hqT04ycE1xeExqaUhvYjBVQXgyVkJqNHhwTVBlT1ZpTWJ2ZFlqWm9xb0oya2JRWFF5djUzUVlvcVNESGZfdmp3?oc=5",
-      "source": "Derby County",
-      "published": "2026-08-05T07:00:00.000Z",
-      "summary": "COMMUNITY: Derby County Community Trust publishes ‘Not Just Football’ 2026-2031 Strategy &nbsp;&nbsp; Derby County",
       "image": "",
       "type": "news"
     }
