@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T17:30:27.170Z",
+  "updatedAt": "2026-09-05T17:43:18.017Z",
   "targets": [
     {
       "name": "Leicester City",
@@ -72,6 +72,15 @@
       "source": "BBC",
       "published": "2026-09-04T17:03:27.000Z",
       "summary": "Nicholas Bilokapic: Derby County sign goalkeeper on free transfer &nbsp;&nbsp; BBC",
+      "image": "",
+      "type": "news"
+    },
+    {
+      "title": "Derby County: Takeover collapse took wind out of sails, says Stephen Pearce",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9TalR5X1JTRU1udVBUVHVHZ2x3Yi1ZZWhRQ2NWcmd2b28wblVxb0JQZjRSZUc3RG1hdDFEUHhWWm1oZWtHbVkydEtKSjNvcDlnamdwRld5SjRYQnFTVWtvM21TY0RoaEs4S2c?oc=5",
+      "source": "BBC",
+      "published": "2026-09-04T16:02:33.000Z",
+      "summary": "Derby County: Takeover collapse took wind out of sails, says Stephen Pearce &nbsp;&nbsp; BBC",
       "image": "",
       "type": "news"
     },
@@ -567,15 +576,6 @@
       "source": "Yorkshire Post",
       "published": "2026-08-05T07:00:00.000Z",
       "summary": "Derby County 'want' Huddersfield Town midfielder after successful loan &nbsp;&nbsp; Yorkshire Post",
-      "image": "",
-      "type": "news"
-    },
-    {
-      "title": "REPORT: Derby County XI 1-1 Port Vale",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5qdTVBUm1XVHNqekxMcENfQWQtVF9pNUNvMDZOblRQLWtJTUR5ei1NRnJBLVhSRlFfX000T3RwZjVOSmV6am5Ublg4anY0aVY4dE5SbGpRUmtxeGFHTzF4RW1aVV9qUGJlVkI1ckQ2ZWd4S3owUjJxSjJjVnE?oc=5",
-      "source": "Derby County",
-      "published": "2026-08-04T07:00:00.000Z",
-      "summary": "REPORT: Derby County XI 1-1 Port Vale &nbsp;&nbsp; Derby County",
       "image": "",
       "type": "news"
     }
