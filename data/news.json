@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T15:50:10.904Z",
+  "updatedAt": "2026-09-05T16:04:26.566Z",
   "targets": [
     {
       "name": "Leicester City",
@@ -51,9 +51,9 @@
     {
       "title": "Confirmed Transfer: Derby County signs Nicholas Bilokapic.",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5PNHNRR19RMEcyWUZ0MlBpYVhRZ2V2Q3h3dlkybnpjdGdrY01mUGNDSkkzVzhrM3dWcDF3bU9VcE9SVzFNTHBrMmxrWmVWT1pQYzk4M01fTTI?oc=5",
-      "source": "onefootball.com",
+      "source": "OneFootball",
       "published": "2026-09-05T04:45:48.000Z",
-      "summary": "Confirmed Transfer: Derby County signs Nicholas Bilokapic. &nbsp;&nbsp; onefootball.com",
+      "summary": "Confirmed Transfer: Derby County signs Nicholas Bilokapic. &nbsp;&nbsp; OneFootball",
       "image": "",
       "type": "done"
     },
@@ -117,15 +117,6 @@
       "source": "Derby County",
       "published": "2026-09-04T00:40:57.000Z",
       "summary": "NEW SIGNING INTERVIEW: Eiran Cashin &nbsp;&nbsp; Derby County",
-      "image": "",
-      "type": "news"
-    },
-    {
-      "title": "RAMSTV LIVE: West Ham United (A)",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE14Q3pNR0pxcDlFejE1MDgtcm10elQwZUhiQUdsRXljTDR6YzlSQWw4RVlOWnpaZVV1TWkwdjJDbHQyNDBXeldrYzdpclpsNXhaNDdJU1FBZmV0ODBJekZBM1dVVUlXUzA1akhNMTFhclV3S2s?oc=5",
-      "source": "Derby County",
-      "published": "2026-09-03T15:48:25.000Z",
-      "summary": "RAMSTV LIVE: West Ham United (A) &nbsp;&nbsp; Derby County",
       "image": "",
       "type": "news"
     },
@@ -375,9 +366,9 @@
     {
       "title": "Preview | Derby County v Swansea City",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5HSERLejlFZnRfSHZOZGdfR29xcUVaNzlnczc2QnlPNnhVZVVtTU5zYzFZRGpaekR0TVhETk5KdkdhUXQtbWRxa3Q2YjNYcVltT0FQRkFabkxTR2FQNmlUVlY3a19pU1NLX2hwa3dHVHFldkJFRVpjaXJB?oc=5",
-      "source": "Swansea City",
+      "source": "swanseacity.com",
       "published": "2026-08-29T06:03:43.000Z",
-      "summary": "Preview | Derby County v Swansea City &nbsp;&nbsp; Swansea City",
+      "summary": "Preview | Derby County v Swansea City &nbsp;&nbsp; swanseacity.com",
       "image": "",
       "type": "news"
     },
@@ -576,6 +567,15 @@
       "source": "Derbyshire Live",
       "published": "2026-08-06T07:00:00.000Z",
       "summary": "John Eustace responds to Derby County transfer and what he couldn't 'guarantee' &nbsp;&nbsp; Derbyshire Live",
+      "image": "",
+      "type": "news"
+    },
+    {
+      "title": "Dajaune Brown: Rochdale sign Derby County forward on season-long loan",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9NRG9tYTFTSVllVTZiaTdFanFWRllQaUE2UHdxYk9OemNLbmNUdFEyVUxiSnBxS0lMNkJMQUswbUJ3MzdwSFZCaHY2WVVRWEU0YVMyczcyTFVFVl83Ym9FdnZBX090dFk?oc=5",
+      "source": "BBC",
+      "published": "2026-08-06T07:00:00.000Z",
+      "summary": "Dajaune Brown: Rochdale sign Derby County forward on season-long loan &nbsp;&nbsp; BBC",
       "image": "",
       "type": "news"
     }
