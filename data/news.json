@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T05:15:40.758Z",
+  "updatedAt": "2026-09-05T05:30:30.856Z",
   "targets": [
     {
       "name": "Leicester City",
@@ -12,6 +12,12 @@
       "mentions": 2,
       "score": 51,
       "context": "More than one recent link"
+    },
+    {
+      "name": "Move To",
+      "mentions": 1,
+      "score": 34,
+      "context": "Fresh media link"
     },
     {
       "name": "Target Former",
@@ -27,12 +33,6 @@
     },
     {
       "name": "Coventry City",
-      "mentions": 1,
-      "score": 34,
-      "context": "Fresh media link"
-    },
-    {
-      "name": "Henrik Meister",
       "mentions": 1,
       "score": 34,
       "context": "Fresh media link"
@@ -117,6 +117,15 @@
       "source": "Derbyshire Live",
       "published": "2026-09-03T14:03:22.000Z",
       "summary": "Derby County confirm Owen Eames transfer as move sanctioned &nbsp;&nbsp; Derbyshire Live",
+      "image": "",
+      "type": "rumour"
+    },
+    {
+      "title": "21 Year Old Midfielder Target Super Eagles Spot After Move To Derby County",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdk0wS2tqYXFFVXFrRmhrMmplamRNZWItaTRVa0E4SUQxaG1QcHhxV0NiZW1EOGg2ZUI3M3RjUHo5SWg4UW1IbTM4a0V1MFJTeVlmNTZRNWJoTlJxb2FZbmNJQ0U2aHJKbGZIeHBNTDE4Rm5fa3ZNOXc5V054aGVCNnpQaDg3SVpjMEFTdmlCWlN0RmFrbmNpV3pwcWJHWWVtSWlmbXl1czRHckZmS0tNUXNkMA?oc=5",
+      "source": "OwnGoal Nigeria",
+      "published": "2026-09-03T12:42:29.000Z",
+      "summary": "21 Year Old Midfielder Target Super Eagles Spot After Move To Derby County &nbsp;&nbsp; OwnGoal Nigeria",
       "image": "",
       "type": "rumour"
     },
@@ -463,15 +472,6 @@
       "type": "news"
     },
     {
-      "title": "SIGNING: Ryan Hedges signs for Derby",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE94cGNVRVJlWXMyN0JUM0NHNDRLUmdpM01xTUh2cjRvb2RNcHlvYTNyM1VGNU9ZVnVsS2V0UU1YOXNoUVpzV01TSGE3LTQtSDJ1MmdGaWIwcHlKTV9PMWxXckdXYlVKS2Q1RG5sanFXOV9IN19ZZHB3T2lGNA?oc=5",
-      "source": "Derby County",
-      "published": "2026-08-20T07:00:00.000Z",
-      "summary": "SIGNING: Ryan Hedges signs for Derby &nbsp;&nbsp; Derby County",
-      "image": "",
-      "type": "done"
-    },
-    {
       "title": "NEW SIGNING INTERVIEW: Ryan Hedges",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNYWxhdHJwbEVkZ25DMkp6LU91UURlUkhaWVVETmI2UmVrWnhRRENrckdsVlNxVFUyMkxLQnVUTnIzR004UVFILV9Yd09DOElrckp4Wno2eDgzbHcwS1pCZi1OUVJyVE9fRjQ5ZVlFVi0wa3VsTExmMVF3eURPS0lPOEtR?oc=5",
       "source": "Derby County",
@@ -488,15 +488,6 @@
       "summary": "INTERVIEW: Hedges ‘delighted’ after Derby move &nbsp;&nbsp; Derby County",
       "image": "",
       "type": "rumour"
-    },
-    {
-      "title": "Derby County star subject of Serie A transfer offer including huge sell-on clause",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVGVLYVRodWhJT2RxZEx3RlVTZTBOZUhYQVN5YUxGN19QWGE1ckxwVENWVkw4eEVfNHZjOEhjYUdKM3NVWlFMbVEyRHF5Y1lHOUZSSEk4QWk3SXlMNUU3V0xid0lBUXJyYlJHa3o2M2JaUFQtUXJhd0JCRUF0STJPYmJhN29rUQ?oc=5",
-      "source": "Yahoo Sports UK",
-      "published": "2026-08-18T07:00:00.000Z",
-      "summary": "Derby County star subject of Serie A transfer offer including huge sell-on clause &nbsp;&nbsp; Yahoo Sports UK",
-      "image": "",
-      "type": "news"
     },
     {
       "title": "Alex Mowatt: Derby County sign midfielder from West Bromwich Albion",
@@ -576,6 +567,15 @@
       "source": "Derbyshire Live",
       "published": "2026-08-06T07:00:00.000Z",
       "summary": "John Eustace responds to Derby County transfer and what he couldn't 'guarantee' &nbsp;&nbsp; Derbyshire Live",
+      "image": "",
+      "type": "news"
+    },
+    {
+      "title": "Dajaune Brown: Rochdale sign Derby County forward on season-long loan",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9NRG9tYTFTSVllVTZiaTdFanFWRllQaUE2UHdxYk9OemNLbmNUdFEyVUxiSnBxS0lMNkJMQUswbUJ3MzdwSFZCaHY2WVVRWEU0YVMyczcyTFVFVl83Ym9FdnZBX090dFk?oc=5",
+      "source": "BBC",
+      "published": "2026-08-06T07:00:00.000Z",
+      "summary": "Dajaune Brown: Rochdale sign Derby County forward on season-long loan &nbsp;&nbsp; BBC",
       "image": "",
       "type": "news"
     }
