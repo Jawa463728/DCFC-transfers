@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T05:55:55.163Z",
+  "updatedAt": "2026-09-05T06:19:07.653Z",
   "targets": [
     {
       "name": "Leicester City",
@@ -40,11 +40,20 @@
   ],
   "stories": [
     {
+      "title": "Confirmed Transfer: Derby County signs Nicholas Bilokapic.",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5PNHNRR19RMEcyWUZ0MlBpYVhRZ2V2Q3h3dlkybnpjdGdrY01mUGNDSkkzVzhrM3dWcDF3bU9VcE9SVzFNTHBrMmxrWmVWT1pQYzk4M01fTTI?oc=5",
+      "source": "OneFootball",
+      "published": "2026-09-05T04:45:48.000Z",
+      "summary": "Confirmed Transfer: Derby County signs Nicholas Bilokapic. &nbsp;&nbsp; OneFootball",
+      "image": "",
+      "type": "done"
+    },
+    {
       "title": "John McGlynn on Derby County loan signing and 'strong' squad to face Dundee United",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObm5xNWxWVVA0Ql8tX1M2bjJWMGhLTkFKNEtzWDdsQ2ZFSTB5TEI0LW5ib3o3T29wb21sQ3hmbnE4OWNCa3E0M3JBWkUwZHZpR2VrNDJCeWpnNHJHSFMyYmNPVk5sTW1ScU9MV1NNdnNQU1dHOU1GNlNBcnRhS2VKZjRPX3FiR2pFdGp2V01Ybl82M3QzMUE?oc=5",
-      "source": "Falkirk Herald",
+      "source": "falkirkherald.co.uk",
       "published": "2026-09-05T01:32:00.000Z",
-      "summary": "John McGlynn on Derby County loan signing and 'strong' squad to face Dundee United &nbsp;&nbsp; Falkirk Herald",
+      "summary": "John McGlynn on Derby County loan signing and 'strong' squad to face Dundee United &nbsp;&nbsp; falkirkherald.co.uk",
       "image": "",
       "type": "news"
     },
@@ -457,7 +466,7 @@
       "title": "John Eustace issues challenge to new Derby County signing Ryan Hedges amid 'numbers' point",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRDhvLTlMZENtLW1WR0puNTJ3MGM0bjZiMmluVFVHSVYtencyWUtQd1hpWGtueldjbFBheFNyRGxRRmtpV25rNXItdmtkRDY0UHc2SWtvLU5QQjEwTVo5emxTVWFONjV6ZkxwWjV2MnFKT21BNWhtNWphNE9LYzg0cHNDcVZyUDhUcmxmZmhqSlM0OFJnLTRDVWhOYUg3Z2pMQW9sUXBOUQ?oc=5",
       "source": "Derbyshire Live",
-      "published": "2026-08-22T06:00:00.000Z",
+      "published": "2026-08-22T07:00:00.000Z",
       "summary": "John Eustace issues challenge to new Derby County signing Ryan Hedges amid 'numbers' point &nbsp;&nbsp; Derbyshire Live",
       "image": "",
       "type": "news"
@@ -488,15 +497,6 @@
       "summary": "INTERVIEW: Hedges ‘delighted’ after Derby move &nbsp;&nbsp; Derby County",
       "image": "",
       "type": "rumour"
-    },
-    {
-      "title": "Derby County star subject of Serie A transfer offer including huge sell-on clause",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVGVLYVRodWhJT2RxZEx3RlVTZTBOZUhYQVN5YUxGN19QWGE1ckxwVENWVkw4eEVfNHZjOEhjYUdKM3NVWlFMbVEyRHF5Y1lHOUZSSEk4QWk3SXlMNUU3V0xid0lBUXJyYlJHa3o2M2JaUFQtUXJhd0JCRUF0STJPYmJhN29rUQ?oc=5",
-      "source": "Yahoo Sports UK",
-      "published": "2026-08-18T07:00:00.000Z",
-      "summary": "Derby County star subject of Serie A transfer offer including huge sell-on clause &nbsp;&nbsp; Yahoo Sports UK",
-      "image": "",
-      "type": "news"
     },
     {
       "title": "Alex Mowatt: Derby County sign midfielder from West Bromwich Albion",
@@ -544,6 +544,15 @@
       "type": "rumour"
     },
     {
+      "title": "Derby County: Analysis on Turki Alalshikh pulling out of takeover",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBTT1NjekNaRWlwR0NPWGhXY1c4dnlTVjI5cEdBMVVtd0ZHdS15Mm5xX3hJQWtONHUzOUpObVF2UEx0MTJndTdadF9LbFZSZ0hMME0tUDNPd005ZGxCQmtZaGFEZnYtWWs?oc=5",
+      "source": "BBC",
+      "published": "2026-08-11T07:00:00.000Z",
+      "summary": "Derby County: Analysis on Turki Alalshikh pulling out of takeover &nbsp;&nbsp; BBC",
+      "image": "",
+      "type": "news"
+    },
+    {
       "title": "Derby County drop bombshell Turki Alalshikh statement",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQlVvVEg3Q2Z5alN3SzQtZVZ5cGdmMFBuRWZRNG8wa3B2R1BwRDlGajB2M1JsblFIOTItQlVuQk5hRUt6NkFUa2pQTTlUcGxjb1ptVXBac195MFZYQUk1WS1tX2cxT2RkcUdIdVctenV4bTlXdlZyQUZuLTJmMUFLck9oblZhT3BZMU9zOW5LeHk1LXBvV2c4OVRDVTBwWDlwUENaeUJwaHNBcmVl?oc=5",
       "source": "Derbyshire Live",
@@ -567,15 +576,6 @@
       "source": "Derbyshire Live",
       "published": "2026-08-06T07:00:00.000Z",
       "summary": "Dajaune Brown seals Derby County transfer as EFL club confirms swoop for striker &nbsp;&nbsp; Derbyshire Live",
-      "image": "",
-      "type": "news"
-    },
-    {
-      "title": "John Eustace responds to Derby County transfer and what he couldn't 'guarantee'",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcFQ4MHQtektQWHJpWVR5MGJSVDlpSndBeVpVNW1tckpMR05kQ25mUC16RjNEYlNfWHJsSmNrbjdvRzJyY1M1Z2F1dFNmYUZaOUFIU290bV82Y0Vsei1sUGJPOWYxRE85azJad2V3X1I1cXE4ZHltZ1pGc09EQmM3ZlBMX1BGUzAxWXphU3FrMlplVEZRN1I4dFI4cGZPVzBCVm8tM3pibGNvRG8?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-08-06T07:00:00.000Z",
-      "summary": "John Eustace responds to Derby County transfer and what he couldn't 'guarantee' &nbsp;&nbsp; Derbyshire Live",
       "image": "",
       "type": "news"
     }
