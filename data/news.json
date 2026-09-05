@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T11:09:53.500Z",
+  "updatedAt": "2026-09-05T11:24:45.653Z",
   "targets": [
     {
       "name": "Leicester City",
@@ -51,18 +51,18 @@
     {
       "title": "Confirmed Transfer: Derby County signs Nicholas Bilokapic.",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5PNHNRR19RMEcyWUZ0MlBpYVhRZ2V2Q3h3dlkybnpjdGdrY01mUGNDSkkzVzhrM3dWcDF3bU9VcE9SVzFNTHBrMmxrWmVWT1pQYzk4M01fTTI?oc=5",
-      "source": "onefootball.com",
+      "source": "OneFootball",
       "published": "2026-09-05T04:45:48.000Z",
-      "summary": "Confirmed Transfer: Derby County signs Nicholas Bilokapic. &nbsp;&nbsp; onefootball.com",
+      "summary": "Confirmed Transfer: Derby County signs Nicholas Bilokapic. &nbsp;&nbsp; OneFootball",
       "image": "",
       "type": "done"
     },
     {
       "title": "John McGlynn on Derby County loan signing and 'strong' squad to face Dundee United",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObm5xNWxWVVA0Ql8tX1M2bjJWMGhLTkFKNEtzWDdsQ2ZFSTB5TEI0LW5ib3o3T29wb21sQ3hmbnE4OWNCa3E0M3JBWkUwZHZpR2VrNDJCeWpnNHJHSFMyYmNPVk5sTW1ScU9MV1NNdnNQU1dHOU1GNlNBcnRhS2VKZjRPX3FiR2pFdGp2V01Ybl82M3QzMUE?oc=5",
-      "source": "falkirkherald.co.uk",
+      "source": "Falkirk Herald",
       "published": "2026-09-05T01:32:00.000Z",
-      "summary": "John McGlynn on Derby County loan signing and 'strong' squad to face Dundee United &nbsp;&nbsp; falkirkherald.co.uk",
+      "summary": "John McGlynn on Derby County loan signing and 'strong' squad to face Dundee United &nbsp;&nbsp; Falkirk Herald",
       "image": "",
       "type": "news"
     },
@@ -238,15 +238,6 @@
       "type": "news"
     },
     {
-      "title": "Derby County player ratings v Portsmouth as superb duo take the plaudits after transfer announced",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQV3V2Z0diMVB6U0J1ZVRIVU1YZ01saTFjSjJtS1dVcXN6WlFRTTNtVEd1ZXg0UFVWRzllNVJXcG9NU0lFT2RIcmVhUlBkcFJFa1R1YjZ2V1FOYlk1V2JJRE5EMWFvcWZYdTk3THdaaFNmV0FkaEFURVVERHJJa1lCcFdXaW54ZHBWVVMyZjNMaDVMMGJsNHB2RnI3UnJlRWZUbnFWNzZrN1RCdDVNU3c?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-09-01T20:49:16.000Z",
-      "summary": "Derby County player ratings v Portsmouth as superb duo take the plaudits after transfer announced &nbsp;&nbsp; Derbyshire Live",
-      "image": "",
-      "type": "done"
-    },
-    {
       "title": "Derby County: David Ozoh rejoins as Eiran Cashin and Mohammed Fuseini sign on loan",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tRGdVWVhfbnItM1lVVjktMGRXdGJaTXl2TlNmX3U2NGJFQnFITXZWVk9DcjhHdG93LWRUUkdaV3lDSzRHZFE0ZnROZkNlX3gwMTVKYThIVlJXX0Q0ME5sZXdoMXdyMXI1enc?oc=5",
       "source": "BBC",
@@ -411,9 +402,9 @@
     {
       "title": "Sheffield United and Derby County 'vying' for signature of Southampton's Ben Brereton Diaz",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeU9FQkdmMUNqTldSaEJaZE5TZ1NvNWw3amJjLTBmZ19BU0RWMUkyVmRHZnZya2IyQXJQMUxfMHZZTHpFdXVFY29YM0FmSlJndFhBT0UxN0Z5b19ZOUlNcnNQWkR0ZEp3c18tMUYxWG11TDZpSEdwa3pKMEhpYTBPUkF5aXZrbVpkWEVMUkxUck92cUczNV9Qa2lMR2RvUEthZGlpTU1LUGotb0dVNUgtc1lFWW0?oc=5",
-      "source": "yorkshirepost.co.uk",
+      "source": "Yorkshire Post",
       "published": "2026-08-26T07:00:00.000Z",
-      "summary": "Sheffield United and Derby County 'vying' for signature of Southampton's Ben Brereton Diaz &nbsp;&nbsp; yorkshirepost.co.uk",
+      "summary": "Sheffield United and Derby County 'vying' for signature of Southampton's Ben Brereton Diaz &nbsp;&nbsp; Yorkshire Post",
       "image": "",
       "type": "news"
     },
@@ -542,6 +533,15 @@
       "summary": "Alex Mowatt: West Bromwich Albion reject Derby County bid for midfielder &nbsp;&nbsp; BBC",
       "image": "",
       "type": "rumour"
+    },
+    {
+      "title": "Derby County: Analysis on Turki Alalshikh pulling out of takeover",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBTT1NjekNaRWlwR0NPWGhXY1c4dnlTVjI5cEdBMVVtd0ZHdS15Mm5xX3hJQWtONHUzOUpObVF2UEx0MTJndTdadF9LbFZSZ0hMME0tUDNPd005ZGxCQmtZaGFEZnYtWWs?oc=5",
+      "source": "BBC",
+      "published": "2026-08-11T07:00:00.000Z",
+      "summary": "Derby County: Analysis on Turki Alalshikh pulling out of takeover &nbsp;&nbsp; BBC",
+      "image": "",
+      "type": "news"
     },
     {
       "title": "Derby County drop bombshell Turki Alalshikh statement",
