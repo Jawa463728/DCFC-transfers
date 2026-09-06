@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T04:35:47.846Z",
+  "updatedAt": "2026-09-06T04:49:05.498Z",
   "targets": [
     {
       "name": "Leicester City",
@@ -227,15 +227,6 @@
       "summary": "SIGNING: Cashin returns to the Rams &nbsp;&nbsp; Derby County",
       "image": "",
       "type": "news"
-    },
-    {
-      "title": "Derby County aiming for winger deal after Birmingham City transfer collapses",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYThLQlJpek1mYVRXSjAtUXJHZXZaYzRKZ0hCbUlHN3E1d2I1Nk96R0xSZ1o0aFZ2ZDRxdjdqaV83LTFKNDJNbHVOWXd6ODB4NkY4alM5aVQ3TG1TYmJqUXRpM2NfcmppbkY2TC1ZT2RpTjF3T0VRRGpsMlZVZVpwZTVTOG5wMF81ZF8tSE44dklTS29Cbkpqa0RNT0N6UVJQNjVqc2x4bmkta0R3bGc?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-09-01T18:04:35.000Z",
-      "summary": "Derby County aiming for winger deal after Birmingham City transfer collapses &nbsp;&nbsp; Derbyshire Live",
-      "image": "",
-      "type": "rumour"
     },
     {
       "title": "€5m Pompey signing unleashed against Derby County as John Mousinho makes four changes",
@@ -576,6 +567,15 @@
       "source": "BBC",
       "published": "2026-08-01T07:00:00.000Z",
       "summary": "Sam Szmodics: Derby County re-sign Ipswich Town forward on loan &nbsp;&nbsp; BBC",
+      "image": "",
+      "type": "news"
+    },
+    {
+      "title": "Portsmouth rivals closing in on ambitious Manchester City swoop as Derby County eye £5m Crystal Palace talent",
+      "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPNjBCb3VWNTd4MFFuY0JuWXZ6TkdGUDY0RFBtNzFvSnBua0xmWTZYVjlDbFRvbEJVaVdnZ2szMW5wTG1NZU4yNjBXQzVXSkJ3bXo0UUU0NzlXMGZHTmxoOTlHbVJ5dXU2bXlBQUZFTXA2MDJsN3ZLUEhjT3p5RXAtUFMzQjFqb2ZxOXM1TnZseGZhcGs0QkNqZ0VwRUNpV2EtZnk5WmdRVmdIWWVZZ09rTUJ2V2IyZ2VlZFJyUVhYbGlSQzlCaV9XOEs1aWlHdUV3eDM2LUUzcXVON0gyN2hpVDRQaEg4UjR5VkUxekFKQ21rWUwxaWtLSnM2X1pud2VPZVJKSDcxTmJfWWxpd0p6Y09OU3V3MGtjZlFIdTBsMA?oc=5",
+      "source": "portsmouth.co.uk",
+      "published": "2026-07-30T07:00:00.000Z",
+      "summary": "Portsmouth rivals closing in on ambitious Manchester City swoop as Derby County eye £5m Crystal Palace talent &nbsp;&nbsp; portsmouth.co.uk",
       "image": "",
       "type": "news"
     }
