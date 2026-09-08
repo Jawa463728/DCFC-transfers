@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T07:35:54.507Z",
+  "updatedAt": "2026-09-08T07:52:25.188Z",
   "targets": [
     {
       "name": "Leicester City",
@@ -65,15 +65,6 @@
       "summary": "John Eustace responds to Derby County defeat amid fresh injury blow and Eiran Cashin absence explained &nbsp;&nbsp; Derbyshire Live",
       "image": "",
       "type": "news"
-    },
-    {
-      "title": "Confirmed Transfer: Derby County signs Nicholas Bilokapic.",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5PNHNRR19RMEcyWUZ0MlBpYVhRZ2V2Q3h3dlkybnpjdGdrY01mUGNDSkkzVzhrM3dWcDF3bU9VcE9SVzFNTHBrMmxrWmVWT1pQYzk4M01fTTI?oc=5",
-      "source": "OneFootball",
-      "published": "2026-09-05T10:00:00.000Z",
-      "summary": "Confirmed Transfer: Derby County signs Nicholas Bilokapic. &nbsp;&nbsp; OneFootball",
-      "image": "",
-      "type": "done"
     },
     {
       "title": "From takeover turmoil to Derby County’s deadline-day triumph — and the bid leaked in 30 seconds",
@@ -310,15 +301,6 @@
       "type": "news"
     },
     {
-      "title": "John Eustace issues challenge to new Derby County signing Ryan Hedges amid 'numbers' point",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRDhvLTlMZENtLW1WR0puNTJ3MGM0bjZiMmluVFVHSVYtencyWUtQd1hpWGtueldjbFBheFNyRGxRRmtpV25rNXItdmtkRDY0UHc2SWtvLU5QQjEwTVo5emxTVWFONjV6ZkxwWjV2MnFKT21BNWhtNWphNE9LYzg0cHNDcVZyUDhUcmxmZmhqSlM0OFJnLTRDVWhOYUg3Z2pMQW9sUXBOUQ?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-08-22T07:00:00.000Z",
-      "summary": "John Eustace issues challenge to new Derby County signing Ryan Hedges amid 'numbers' point &nbsp;&nbsp; Derbyshire Live",
-      "image": "",
-      "type": "news"
-    },
-    {
       "title": "SIGNING: Ryan Hedges signs for Derby",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE94cGNVRVJlWXMyN0JUM0NHNDRLUmdpM01xTUh2cjRvb2RNcHlvYTNyM1VGNU9ZVnVsS2V0UU1YOXNoUVpzV01TSGE3LTQtSDJ1MmdGaWIwcHlKTV9PMWxXckdXYlVKS2Q1RG5sanFXOV9IN19ZZHB3T2lGNA?oc=5",
       "source": "Derby County",
@@ -326,6 +308,15 @@
       "summary": "SIGNING: Ryan Hedges signs for Derby &nbsp;&nbsp; Derby County",
       "image": "",
       "type": "done"
+    },
+    {
+      "title": "Monza sent 'insult' message after Derby County transfer bid",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMHlSNXozWDJ3QmQ4eUo4WWtGRlFFWUticGJiT1d0VnN5MGpwMF9Ud05IUEVfanlTLVozRS1BVk9STnhKRjlDN3NZd1BUTW91VjZtSGJjMVBGWEZsd3EtYkNlQjgwa05IWVVhbnVFVWcwN1pBNm9LNkNyTjBXdlN5VmR2MzVEWXp3WDhqZjVXLXZ6YUI2TE53Z0RYZDJQeEdVYVNHNkIxbm9FMzRS?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-08-19T07:00:00.000Z",
+      "summary": "Monza sent 'insult' message after Derby County transfer bid &nbsp;&nbsp; Derbyshire Live",
+      "image": "",
+      "type": "rumour"
     },
     {
       "title": "TRANSFER NEWS: Introducing…Alex Mowatt",
@@ -477,6 +468,15 @@
       "source": "portsmouth.co.uk",
       "published": "2026-07-30T07:00:00.000Z",
       "summary": "Portsmouth rivals closing in on ambitious Manchester City swoop as Derby County eye £5m Crystal Palace talent &nbsp;&nbsp; portsmouth.co.uk",
+      "image": "",
+      "type": "news"
+    },
+    {
+      "title": "Derby County: Saudi Arabia's Turki Al-Sheikh set to finalise Rams investment",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Wdy16S1huOVBlV3hSYW9ScUI3NnRxUVAwMjhXdEd4S1kyS1dBQy1JUnlTUkRDd2NycUlRek9sVW5jRmoxUGJQZERzN1p6ZUp2elhzRGh5aDJ0aExxdEVqOV9pQXA2TEU?oc=5",
+      "source": "BBC",
+      "published": "2026-07-29T07:00:00.000Z",
+      "summary": "Derby County: Saudi Arabia's Turki Al-Sheikh set to finalise Rams investment &nbsp;&nbsp; BBC",
       "image": "",
       "type": "news"
     },
