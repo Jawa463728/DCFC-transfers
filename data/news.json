@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T21:16:35.241Z",
+  "updatedAt": "2026-09-09T21:32:19.656Z",
   "targets": [
     {
       "name": "Manchester City",
@@ -63,6 +63,15 @@
       "source": "BBC",
       "published": "2026-09-09T16:03:50.000Z",
       "summary": "Derby County: How Henrik Meister could follow Patrick Agyemang's example &nbsp;&nbsp; BBC",
+      "image": "",
+      "type": "news"
+    },
+    {
+      "title": "“Not great”: EFL expert reacts to Derby County’s poor start to the season",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcHhGQVQ4b2x3WkJob3AwUWNEX1RhLUlPV0hMZTROdkJwSTZxTFVkamNiWnhVZ09IVEFiYV9xN1A2Rkt6WnByOHBXazc3MTJBcWJaaENfdVFSNDA3R1VnNEUtRHlaV3VOOWtjaEVGZi1rU3dxVU1hVUotX0t5Uk43Zg?oc=5",
+      "source": "Yahoo Sports UK",
+      "published": "2026-09-09T08:46:39.000Z",
+      "summary": "“Not great”: EFL expert reacts to Derby County’s poor start to the season &nbsp;&nbsp; Yahoo Sports UK",
       "image": "",
       "type": "news"
     },
@@ -387,15 +396,6 @@
       "source": "Derbyshire Live",
       "published": "2026-08-10T07:00:00.000Z",
       "summary": "Derby County drop bombshell Turki Alalshikh statement &nbsp;&nbsp; Derbyshire Live",
-      "image": "",
-      "type": "news"
-    },
-    {
-      "title": "Derby County investment latest as Turki Alalshikh announcement made",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYW93YVVmQ3ZfVzJ6eUI3dndTQ29NZTlPemVCTFl1OE1sZVNpUjBYUWwtUG9QaXhtenlwQ1hLTXpTYTl1WWtweGVYZVNETTgzdkU4Q0taZ1ViQ3BKUElDOFltaENvcUFFQUthWVZqRUFlOEdydnVwT0c5d2IyQ0lZVExiRGptTHBjSTNXZWgxbDJyUVVHdWlXM2M1d3NidVp4ZlJTNDJSRDR3alRkMlE?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-08-10T07:00:00.000Z",
-      "summary": "Derby County investment latest as Turki Alalshikh announcement made &nbsp;&nbsp; Derbyshire Live",
       "image": "",
       "type": "news"
     },
