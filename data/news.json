@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T06:04:44.071Z",
+  "updatedAt": "2026-09-09T06:29:30.775Z",
   "targets": [
     {
       "name": "Leicester City",
@@ -32,7 +32,7 @@
       "context": "Fresh media link"
     },
     {
-      "name": "Coventry City",
+      "name": "Henrik Meister",
       "mentions": 1,
       "score": 34,
       "context": "Fresh media link"
@@ -162,15 +162,6 @@
       "source": "Yahoo Sports UK",
       "published": "2026-09-01T06:12:00.000Z",
       "summary": "Championship side to keep Derby County, Millwall and Wrexham target &nbsp;&nbsp; Yahoo Sports UK",
-      "image": "",
-      "type": "rumour"
-    },
-    {
-      "title": "Derby County, Burnley interested in loan deal for Coventry City defender",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTW1RZ1p4N2s5Q0pyLWJUbzV0QTFoRkxkRDRQR3k5TVNQV2d5bDNIYTJQbVY5ZHMtWmk2TFY5ZWV3dm90TEhzTTktVWdaNmpMdnpsSVBOOXRhaTBfLW90VzNETU5CbWRTYnNZdXhqd3ZrLXNLdHNJbEZjaVNfams3T3M4c0Z6bFFUNW9lOQ?oc=5",
-      "source": "Yahoo Sports UK",
-      "published": "2026-08-31T13:16:47.000Z",
-      "summary": "Derby County, Burnley interested in loan deal for Coventry City defender &nbsp;&nbsp; Yahoo Sports UK",
       "image": "",
       "type": "rumour"
     },
@@ -578,6 +569,15 @@
       "summary": "Derby County linked with former Rangers winger but Championship rivals in the driving seat &nbsp;&nbsp; Derbyshire Live",
       "image": "",
       "type": "rumour"
+    },
+    {
+      "title": "TRANSFER NEWS: Introducing...Charlie Taylor",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVGczOFVQWVNQUUFPQTdNN2VNS2hpS3lPYTY4RFZUa01aNFk4cjMzdDhmdGx5YTNrX3FCWEphaDVyWHlVOGZyTk1abUUxeU1DMGJuSG9rX2ItN2dmMGxXQjlQR3dyUllSN1RZQWVUZm9DdTVuUHpyNnlNc2IwREdIZw?oc=5",
+      "source": "Derby County",
+      "published": "2026-07-14T07:00:00.000Z",
+      "summary": "TRANSFER NEWS: Introducing...Charlie Taylor &nbsp;&nbsp; Derby County",
+      "image": "",
+      "type": "news"
     }
   ]
 }
