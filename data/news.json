@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-09-09T17:57:50.919Z",
+  "updatedAt": "2026-09-09T18:22:19.896Z",
   "targets": [
+    {
+      "name": "Manchester City",
+      "mentions": 1,
+      "score": 78,
+      "context": "Fresh media link"
+    },
     {
       "name": "Leicester City",
       "mentions": 1,
@@ -27,12 +33,6 @@
     },
     {
       "name": "Injury Blow",
-      "mentions": 1,
-      "score": 34,
-      "context": "Fresh media link"
-    },
-    {
-      "name": "Henrik Meister",
       "mentions": 1,
       "score": 34,
       "context": "Fresh media link"
@@ -328,6 +328,15 @@
       "type": "rumour"
     },
     {
+      "title": "Derby County in advanced talks to sign Manchester City striker on loan",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOU3hVc0drQVVpTmxtdkRMX1NfRnBKZ1NjcUpEXy11cFkyMlFtZS1DMnJraUpjWUVSZ2dOeGIxQmZWX0lPTkwtdm9LSTVVSUlUd09abnlFelhzV3QwUHkyMy1MNXZ0UWhkcFNQYlRGYnlmeG9Fei16TUFsUnFOZTNXN3pfODhBWGV4QWtjOUtlVllQN0xXbXl2VTZ2MFItbU9XNDJjZVJB?oc=5",
+      "source": "cityxtra.co.uk",
+      "published": "2026-08-12T18:47:21.000Z",
+      "summary": "Derby County in advanced talks to sign Manchester City striker on loan &nbsp;&nbsp; cityxtra.co.uk",
+      "image": "",
+      "type": "rumour"
+    },
+    {
       "title": "Captain sets out Derby County target for the new season as he says 'I don't see why we can't'",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQjNKRGRQVTFvUTlsZXNDNFA0UWttU1BTOGJicjFzUEsxMUJCWWdzZVJMV3UtV2VHZ2FzZ1pjb1paNjR5bHlOT1JWeUgzUUE1WkhncjJOWkoxMVN0ZUdlcTUwN18wOHkzYjczNmpNc2dPVVItQWlvcmtibjZBd0JiQUlPdzMwWlRuZTJBN2dwVnhHY3hTckNMYk1YTkE1Tkc5cklha19hZw?oc=5",
       "source": "Derbyshire Live",
@@ -355,6 +364,15 @@
       "type": "news"
     },
     {
+      "title": "Saudi boxing chief Turki Alalshikh gives statement as he pulls out of running to buy Derby County",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTFZZT1hScjBLWGpYLXlaUFlIVWxRZXVHSmtYVjJ2Sm82WWJXdW9KSWhSS0ROX0sySTFHV3ZNMHY4WV9XakNBU0dRRkR1Um5JMVcxb3JlMHczTkdRampMUVVYZjhKOVYtbzdUcVZSWTVHNzNGSm9jYXoteDkxV2pVdXZvc2Jhcjd0Z004Qm1SZXRKNVBxbnhz?oc=5",
+      "source": "talkSPORT",
+      "published": "2026-08-10T07:00:00.000Z",
+      "summary": "Saudi boxing chief Turki Alalshikh gives statement as he pulls out of running to buy Derby County &nbsp;&nbsp; talkSPORT",
+      "image": "",
+      "type": "news"
+    },
+    {
       "title": "Derby County ‘off the market’ as Turki Alalshikh abandons proposed takeover",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYXB5R2pqUm5aUkhTT2tfd2hqQXdINERicFV4Z3NYamR5M3U1NXpGam0xR0tFWTlWYXlJUjdXTHZWWEh1MFpQXzcxVW0yV0djOXFVOHlSM29wYi12QzRJcUgwNmllT0sybVIzSE1DN3BLWUp0THhCSkh1bHhqQm9Oc01GX2FmLVdzQ0xiQmpKSklOSFJENjEyejNrYk5KQ0tscEFGNGRmako1dw?oc=5",
       "source": "The Independent",
@@ -364,11 +382,11 @@
       "type": "news"
     },
     {
-      "title": "Saudi boxing chief Turki Alalshikh gives statement as he pulls out of running to buy Derby County",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTFZZT1hScjBLWGpYLXlaUFlIVWxRZXVHSmtYVjJ2Sm82WWJXdW9KSWhSS0ROX0sySTFHV3ZNMHY4WV9XakNBU0dRRkR1Um5JMVcxb3JlMHczTkdRampMUVVYZjhKOVYtbzdUcVZSWTVHNzNGSm9jYXoteDkxV2pVdXZvc2Jhcjd0Z004Qm1SZXRKNVBxbnhz?oc=5",
-      "source": "talkSPORT",
-      "published": "2026-08-10T07:00:00.000Z",
-      "summary": "Saudi boxing chief Turki Alalshikh gives statement as he pulls out of running to buy Derby County &nbsp;&nbsp; talkSPORT",
+      "title": "SQUAD NEWS: Squad Numbers For 2026/27 Season Confirmed",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbHhLNXNlZGxRcnFjUm45UGFmc1ZrQ282QjRuaGgxOGd4VU9oV2s5dTRHZU45N3hweklaOHppRFptdzRRSmxDS1F4NWxkbUQtWGZrWFFzQV83NmJQWnZCcG9udXBwQmdPRWN0ZFUxbGs3STlZbGJRNGpoNGJzaGJ4TG5qeDF4NzZWUVZ6RnlKZ3Z3Zw?oc=5",
+      "source": "Derby County",
+      "published": "2026-08-07T07:00:00.000Z",
+      "summary": "SQUAD NEWS: Squad Numbers For 2026/27 Season Confirmed &nbsp;&nbsp; Derby County",
       "image": "",
       "type": "news"
     },
@@ -560,24 +578,6 @@
       "summary": "Filip Bilbija: Derby County sign former Paderborn midfielder &nbsp;&nbsp; BBC",
       "image": "",
       "type": "news"
-    },
-    {
-      "title": "Derby County ace makes Erling Haaland request as superstar responds to Sondre Langas return",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbjMyWk9hU3YxUGNzNGxoYWQxWWZndTRrc0hqc3AySE9xSXFuQWVZX2YycVNEQjNENW1zMVptM0cxM24wVEhod1hwOUJ6eXExM3BxdTl3TTBUSEdCOExVc0NiUmlxaEowMm5jdmZVWmhIWFJIZ1Z2N0tQaDc4NEdJQTZKRi1qeW5EX0h3X0dsWXNHMEx2Ti0wS3M0TS1aYkkxdmtUbDN2WEZ3UQ?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-07-22T07:00:00.000Z",
-      "summary": "Derby County ace makes Erling Haaland request as superstar responds to Sondre Langas return &nbsp;&nbsp; Derbyshire Live",
-      "image": "",
-      "type": "news"
-    },
-    {
-      "title": "Derby County’s FIFA World Cup star draws new interest from Ligue 1 side",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRi1RUGYwdVNKZl9pVDdFSXcxaTBXa2d0NElqMUNNMFFuanJSaHFfNl9yMHdaVF9ZcDhtUmtRckdRUG9CYjd6cXd3RVphVW9WdW1md2FORVlod0N4dVRLMDVfWHh6a1VRMUhFcVliRWsyZF85ZkNSajZNbWlhdFNiUQ?oc=5",
-      "source": "Yahoo Sports UK",
-      "published": "2026-07-22T07:00:00.000Z",
-      "summary": "Derby County’s FIFA World Cup star draws new interest from Ligue 1 side &nbsp;&nbsp; Yahoo Sports UK",
-      "image": "",
-      "type": "rumour"
     }
   ]
 }
