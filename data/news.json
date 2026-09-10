@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T18:20:48.951Z",
+  "updatedAt": "2026-09-10T18:39:53.373Z",
   "targets": [
     {
       "name": "Leicester City",
@@ -39,15 +39,6 @@
     }
   ],
   "stories": [
-    {
-      "title": "*&𝚆𝙰𝚃𝙲𝙷 Derby County vs West Brom LIVE'",
-      "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNVHRXb3lYZzBKVXllWldXRXF0YWtwYk45U3pQS0VHNG53M2syaWROVkhxaXBQWVdLT052VnJ6bkQ5YTlKdlItNTB6Z2EyQU9qSmRKN3haa1VmSy1OUWNpMkw4ZjZxYVVNa0xLdEdxNlZZeTJtalhodWZlVlMyWklxUmpmTE9Za21EM0lzMF9icHJGNWFTeFBGWXNCMmpuMVZRaDl3c1NCUU1kRHhXa29uTG5aNUt2anJfSGxBNVJPeFl4T2ZWTk5xQ0VzMEpDeUotaGJrSnFpZUhvQWVHNDJpZjNQSkhrLXBJMG9GNVhwbTlsRVFuZllxOFZ3aHpzTnFTbnBnLVNlekVBUURkTDZqR0hkS2d3NVlVQjRXcEg0RVgtbjFsTGNJQg?oc=5",
-      "source": "大分トリニータオフィシャルサイト",
-      "published": "2026-09-09T19:28:13.000Z",
-      "summary": "*&𝚆𝙰𝚃𝙲𝙷 Derby County vs West Brom LIVE' &nbsp;&nbsp; 大分トリニータオフィシャルサイト",
-      "image": "",
-      "type": "news"
-    },
     {
       "title": "“Not great”: EFL expert reacts to Derby County’s poor start to the season",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcHhGQVQ4b2x3WkJob3AwUWNEX1RhLUlPV0hMZTROdkJwSTZxTFVkamNiWnhVZ09IVEFiYV9xN1A2Rkt6WnByOHBXazc3MTJBcWJaaENfdVFSNDA3R1VnNEUtRHlaV3VOOWtjaEVGZi1rU3dxVU1hVUotX0t5Uk43Zg?oc=5",
@@ -362,6 +353,15 @@
       "summary": "Alex Mowatt: West Bromwich Albion reject Derby County bid for midfielder &nbsp;&nbsp; BBC",
       "image": "",
       "type": "rumour"
+    },
+    {
+      "title": "Derby County investment latest as Turki Alalshikh announcement made",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYW93YVVmQ3ZfVzJ6eUI3dndTQ29NZTlPemVCTFl1OE1sZVNpUjBYUWwtUG9QaXhtenlwQ1hLTXpTYTl1WWtweGVYZVNETTgzdkU4Q0taZ1ViQ3BKUElDOFltaENvcUFFQUthWVZqRUFlOEdydnVwT0c5d2IyQ0lZVExiRGptTHBjSTNXZWgxbDJyUVVHdWlXM2M1d3NidVp4ZlJTNDJSRDR3alRkMlE?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-08-10T07:00:00.000Z",
+      "summary": "Derby County investment latest as Turki Alalshikh announcement made &nbsp;&nbsp; Derbyshire Live",
+      "image": "",
+      "type": "news"
     },
     {
       "title": "Derby County drop bombshell Turki Alalshikh statement",
