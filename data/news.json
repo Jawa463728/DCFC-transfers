@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-09-10T11:27:22.008Z",
+  "updatedAt": "2026-09-10T11:44:20.169Z",
   "targets": [
-    {
-      "name": "Manchester City",
-      "mentions": 1,
-      "score": 78,
-      "context": "Fresh media link"
-    },
     {
       "name": "Leicester City",
       "mentions": 1,
       "score": 69,
       "context": "Fresh media link"
+    },
+    {
+      "name": "Hamza Choudhury",
+      "mentions": 2,
+      "score": 51,
+      "context": "More than one recent link"
     },
     {
       "name": "Patrick Agyemang",
@@ -54,15 +54,6 @@
       "source": "大分トリニータオフィシャルサイト",
       "published": "2026-09-09T19:08:40.000Z",
       "summary": "[𝐖𝐀𝐓𝐂𝐇𝐋𝐈𝐕𝐄]𝐓𝐕！] Derby County v West Bromwich Albion LIVE FREE &nbsp;&nbsp; 大分トリニータオフィシャルサイト",
-      "image": "",
-      "type": "news"
-    },
-    {
-      "title": "[[MESSI#$%]] Derby County vs West Brom LIVE'",
-      "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQaGp4NG1Ob0IxUENIbklYWjFldlFlSnlQZGJFWkh4b1VfTDFTM2NWRTFPUVo3bHJ1TkFlUUxOWkZsd1hoM19aM1p5aDBRVksxLW45VUt6Wm51U2RnZlcxNk9VdGpvNk9wT2kxSDg1RlBmMmVIMC1NNVpIOGtnNDJrZjM4ckFrQ3RILW9HWXotNzRLMkhHRDc3eXpZNUw1dnBsc2lvRmhnQXVycE9VN3hkYm5HS3ZmdmtHOFVWU09vMEQyZk1GU2VES1d3MDYtMHFhVHBhSG9sakJjYkJXSlphTVRDREhXQXZPRThwVnA1YUlQSjhpVHFxNU1lTEpLTXU1LUgycmxwTnNCZWZoYmg0amFUaEw3NEhEMENOM293TTJYODB0UGZ4QQ?oc=5",
-      "source": "大分トリニータオフィシャルサイト",
-      "published": "2026-09-09T18:26:21.000Z",
-      "summary": "[[MESSI#$%]] Derby County vs West Brom LIVE' &nbsp;&nbsp; 大分トリニータオフィシャルサイト",
       "image": "",
       "type": "news"
     },
@@ -137,15 +128,6 @@
       "summary": "John Eustace responds as Derby County make 'real statement of intent' &nbsp;&nbsp; Yahoo Sports UK",
       "image": "",
       "type": "news"
-    },
-    {
-      "title": "Derby County confirm Owen Eames transfer as move sanctioned",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUjV3eTkxbGY0ZEZwTWJvUHBRM25JYVp5U3B2X1UxcGJsVkxta0JOWEN3SHI0cHhDUjBBdk5DekppemEwR1RRdDFlLXZkVTNWcW4tUjJTclVicTBOY0ExMUtKdExVR29WTVFVb0RiNFVVYkdUWTBrOWhWRGp5Z05yTGt6RTN1dw?oc=5",
-      "source": "Yahoo Sports UK",
-      "published": "2026-09-03T14:09:17.000Z",
-      "summary": "Derby County confirm Owen Eames transfer as move sanctioned &nbsp;&nbsp; Yahoo Sports UK",
-      "image": "",
-      "type": "rumour"
     },
     {
       "title": "Derby County",
@@ -265,6 +247,15 @@
       "type": "news"
     },
     {
+      "title": "Derby County target Hamza Choudhury transfer as Rams step up signing search | Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORTZlcjkyWVA0Mk9GNEY2T0pydUlFUnpSZEV1enFndndTRURiSmo0MXRjb3JiU0tZNFluUlZWOWY3aTU5bTBBc19WSnRCRHA5MlNqS1BYbldHSG9ydmkwRTA2SVNYWkNYSUdtSG8xV3F5bEhIYVZ0Ykh6ZHljRkVzbmFsSllrdV95Q1oyajZZb25CSzNQME41RTlyV3FKZkRCQ1NwQjl2enZZZFU3dVE?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-08-25T07:00:00.000Z",
+      "summary": "Derby County target Hamza Choudhury transfer as Rams step up signing search | Derbyshire Live &nbsp;&nbsp; Derbyshire Live",
+      "image": "",
+      "type": "rumour"
+    },
+    {
       "title": "West Brom stance on Derby County target as absence explained amid transfer claim",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOS1FuWVlIcGxjVWZfM0dSWmxaZnJjV2N5Zy1TUlJva3lZMDNOcVVpVWVQa1M3TFpsM2JVbllabEM4cEw3NkUwR2I1ZDdaRnI1Y2ttVWJpOE1KOTZqUnNHbzFkamJpbEtnQnRhb1B1TXlUaF9ub1dobVRiRmptUUVRT3JUeHhYTkJDUG1fYXJCQlM4eU9zZFREX0VHc1pnajY0dHI5M0R6bERqalBE?oc=5",
       "source": "Derbyshire Live",
@@ -299,15 +290,6 @@
       "summary": "SIGNING: Ryan Hedges signs for Derby &nbsp;&nbsp; Derby County",
       "image": "",
       "type": "done"
-    },
-    {
-      "title": "Derby County verdict issued by EFL expert and 'important' transfer need",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOGJxek9CUExCdmpDZk1KU01jRlp5dGQ5SUx1amZrbE5VajFIcTFKZ3NxdDZfSl9yWkNsREdOMVZvVGx3S2dFbm1MM3c0Z1Q0MnVQSklFVDlyME13azJfc1ItcTNpeGkxMmlKV3lDVWhMWWJCMURFV1hRelBMbDE1NENRVkhUZ2lmdWRpbWNTaXBubkt6Wmd4S1d4OWpfMlJrUVB2b0ZMQkU3UQ?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-08-19T07:00:00.000Z",
-      "summary": "Derby County verdict issued by EFL expert and 'important' transfer need &nbsp;&nbsp; Derbyshire Live",
-      "image": "",
-      "type": "news"
     },
     {
       "title": "Monza sent 'insult' message after Derby County transfer bid",
@@ -351,15 +333,6 @@
       "source": "BBC",
       "published": "2026-08-13T07:00:00.000Z",
       "summary": "Gossip: Derby County target West Brom's Alex Mowatt &nbsp;&nbsp; BBC",
-      "image": "",
-      "type": "rumour"
-    },
-    {
-      "title": "Derby County in advanced talks to sign Manchester City striker on loan",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOU3hVc0drQVVpTmxtdkRMX1NfRnBKZ1NjcUpEXy11cFkyMlFtZS1DMnJraUpjWUVSZ2dOeGIxQmZWX0lPTkwtdm9LSTVVSUlUd09abnlFelhzV3QwUHkyMy1MNXZ0UWhkcFNQYlRGYnlmeG9Fei16TUFsUnFOZTNXN3pfODhBWGV4QWtjOUtlVllQN0xXbXl2VTZ2MFItbU9XNDJjZVJB?oc=5",
-      "source": "cityxtra.co.uk",
-      "published": "2026-08-12T18:47:21.000Z",
-      "summary": "Derby County in advanced talks to sign Manchester City striker on loan &nbsp;&nbsp; cityxtra.co.uk",
       "image": "",
       "type": "rumour"
     },
@@ -517,6 +490,15 @@
       "type": "news"
     },
     {
+      "title": "Derby County: Saudi Arabia's Turki Al-Sheikh set to finalise Rams investment",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Wdy16S1huOVBlV3hSYW9ScUI3NnRxUVAwMjhXdEd4S1kyS1dBQy1JUnlTUkRDd2NycUlRek9sVW5jRmoxUGJQZERzN1p6ZUp2elhzRGh5aDJ0aExxdEVqOV9pQXA2TEU?oc=5",
+      "source": "BBC",
+      "published": "2026-07-29T07:00:00.000Z",
+      "summary": "Derby County: Saudi Arabia's Turki Al-Sheikh set to finalise Rams investment &nbsp;&nbsp; BBC",
+      "image": "",
+      "type": "news"
+    },
+    {
       "title": "World Cup striker linked with Derby County pulls out of transfer",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdTIxd3liSXhjS09QQV9rMlQ3TFMtQkdqWjV2bzY0c2Z3enphVk5acUpyWnpxLTJzTmZUTXJVbE9ITU5FSmZlNjRvLTdDQUxKaTdqeGJDUlltclRDMGljeDREeXBoUk13MjFUWDZsR0pCc1BWZ0cyY3JnOWRad2YzS1hoVmdUSnFsX1Z3cXdiZWJzZ3Q1VjYwV1NxMTBBOXNCdXFEUHJTZw?oc=5",
       "source": "Derbyshire Live",
@@ -578,6 +560,24 @@
       "summary": "NEW SIGNING INTERVIEW: Filip Bilbija &nbsp;&nbsp; Derby County",
       "image": "",
       "type": "news"
+    },
+    {
+      "title": "INTERVIEW: Bilbija ‘Confident and Excited’ After Joining the Rams",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRURCX0wzMWx4emZIV2UyelBUSi1Ca3RzTHVjN1ZrVzFaeXVZWjR2bGdVbDlfbklDekxUdmZzZndUakphR2d2RnB6MnBCTEluYjVHYzM1S1ZIODRkWWU4N2dKeWMzejR6V1BNSjd5QU5sblNVaTByd29kaWk2Nmx6a09mMXgxYzluT0k3bmVoX0VWU3VqLXNaWDFCOWNpUjg?oc=5",
+      "source": "Derby County",
+      "published": "2026-07-22T07:00:00.000Z",
+      "summary": "INTERVIEW: Bilbija ‘Confident and Excited’ After Joining the Rams &nbsp;&nbsp; Derby County",
+      "image": "",
+      "type": "news"
+    },
+    {
+      "title": "Derby County complete third summer signing as Rams move for midfielder",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQR25zZlhqeHE0SmdBVjVabWRQSGF2YWkweVJJX0s3VFZBMF9aSHNQenhuSUZXOFFILUctTVdKdW1meWx3S3VLRzdwUURvZ1E2U002ZWswT0RZNnA2dlpwc2ktUlJMbk5wbktXWFI1OFpRZURGNG5lZ1RYRXE5dVhmNTJ1bHdfNW05MXMyaUlVakF5Yjh0WTBlbm40NmdqWVJNT0NJU0NNakXSAa4BQVVfeXFMTUJMaVBVTHM2RFgwb210RUdQVF9Ici1qWVo1VmYzNHMzajZxeEs2REhyMl9mcTRvTHBHeUNPV2QyMjdVZGV1alJIeU5zSjRwN1liUks2Uy16MnotVERkb3FrUk1GNGlYZE8yZklqQ3Y2WXdEVVRjT3BvM0s5Q2x6d0h3ODdkY0hlRFZRYmVHV3ZGSmViS1p6OFZLSFczMGZvd1hfX3JqYXNmZ0hmVVRR?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-07-22T07:00:00.000Z",
+      "summary": "Derby County complete third summer signing as Rams move for midfielder &nbsp;&nbsp; Derbyshire Live",
+      "image": "",
+      "type": "rumour"
     }
   ]
 }
