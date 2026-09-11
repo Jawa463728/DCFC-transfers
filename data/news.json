@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T19:34:56.345Z",
+  "updatedAt": "2026-09-11T19:47:09.187Z",
   "targets": [
     {
       "name": "Leicester City",
@@ -9,6 +9,12 @@
     },
     {
       "name": "Henrik Meister",
+      "mentions": 1,
+      "score": 34,
+      "context": "Fresh media link"
+    },
+    {
+      "name": "Ben Brereton Diaz",
       "mentions": 1,
       "score": 34,
       "context": "Fresh media link"
@@ -27,12 +33,6 @@
     },
     {
       "name": "Anis Mehmeti",
-      "mentions": 1,
-      "score": 34,
-      "context": "Fresh media link"
-    },
-    {
-      "name": "Man City",
       "mentions": 1,
       "score": 34,
       "context": "Fresh media link"
@@ -247,6 +247,15 @@
       "type": "news"
     },
     {
+      "title": "Ben Brereton Diaz transfer latest as Southampton boss delivers update on Derby County target",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdHF3NVhhVWlFRTBjdk1xOFdtNE9rZG45VnlHeklFblZNaTdWZWV5NXlBSTE5OV9TSjNEckI2SzVUeVkxSlR5dURxUEpuTHNWdXJHaVBKY21ndEJ3ZURrSzdsQ0lrVVZ1SHZsUDV2VmJsd0NSWUs1M1lNVTU3ZmhrSHBWZUduTVNmMzZZYnhtZFNwM0tISHNidlJHLXNlZ004RUJEY1NZRlA5NFE?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-08-26T07:00:00.000Z",
+      "summary": "Ben Brereton Diaz transfer latest as Southampton boss delivers update on Derby County target &nbsp;&nbsp; Derbyshire Live",
+      "image": "",
+      "type": "rumour"
+    },
+    {
       "title": "Derby County target Danish striker as Italian club set to sanction exit",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNmYxVWpvVFFXQlcyU0IxVDNGTXZOUEI0aUNlQnRGOWtQYmpiZEFtd2pnQVNsMEw5MV94Z2VLMzhUTDhUejRsWTR5eUUycF85MEItOGk2YmFVXzhMemFqRmE4amRPb1hzSUZYNVhhY2NwZUNUZkgtZ1dwNUhMeEpZY1VTVjZQRlJTakhMbndiSjZsV3Q5b0NkVEJQV1pyVGd3UkJ3SWlBLWRmRUZh?oc=5",
       "source": "Derbyshire Live",
@@ -274,6 +283,15 @@
       "type": "rumour"
     },
     {
+      "title": "Derby County transfer state of play amid triple pursuit and John Eustace speaks on duo",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZi1HdnA2T2VmZkpuMGpXQ2l5RWhZQm5EaXZTQmFkLXNMb2d5Wm5Ha2FxdTBLVkJJTlZYNjlTTkZ3V1dOR0R6T29NZERwSnNYUUpOQUViWlRPUU5ZN0FLc3hzMDZORDY0bERWZW9yZ2hfcEFqZ2pZN2FDZl9IeDB4UXdJY2hncF9pTkJxOXYxbXAyTjd1bmQyQngxUzhzSnpXVk1STW9LUU9YUQ?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-08-24T07:00:00.000Z",
+      "summary": "Derby County transfer state of play amid triple pursuit and John Eustace speaks on duo &nbsp;&nbsp; Derbyshire Live",
+      "image": "",
+      "type": "rumour"
+    },
+    {
       "title": "Gossip: Derby County target Mikey Johnston and Anis Mehmeti",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9WUlFnUkp0U0UwcFJMOFJjWlpBYkozN3FOYWJVeTluVG9UaXk2ZlZVbDlZb1dmVTVCdzhncEZTRXpITzllOXN0RFFJWW1SaTlKbHZTTGZ6NlVpZkdCcmZNaHNPTG5MR00?oc=5",
       "source": "BBC",
@@ -290,15 +308,6 @@
       "summary": "Sam Szmodics latest as John Eustace expresses Derby County transfer hope &nbsp;&nbsp; Derbyshire Live",
       "image": "",
       "type": "news"
-    },
-    {
-      "title": "SIGNING: Ryan Hedges signs for Derby",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE94cGNVRVJlWXMyN0JUM0NHNDRLUmdpM01xTUh2cjRvb2RNcHlvYTNyM1VGNU9ZVnVsS2V0UU1YOXNoUVpzV01TSGE3LTQtSDJ1MmdGaWIwcHlKTV9PMWxXckdXYlVKS2Q1RG5sanFXOV9IN19ZZHB3T2lGNA?oc=5",
-      "source": "Derby County",
-      "published": "2026-08-20T07:00:00.000Z",
-      "summary": "SIGNING: Ryan Hedges signs for Derby &nbsp;&nbsp; Derby County",
-      "image": "",
-      "type": "done"
     },
     {
       "title": "Derby County verdict issued by EFL expert and 'important' transfer need",
@@ -472,6 +481,15 @@
       "type": "news"
     },
     {
+      "title": "TRANSFER NEWS: Reintroducing...Sam Szmodics",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbEdIUmhGVFNodlFWVUIzcU5xck1VcF80MjEwYWZfRkNGWnVrb2U1U3E0NW1VRHFKcDcyZWxsakZRaldRdlBGbnpabFZZZUY0T1dzTlEzYVIwVjI1a0lhZ3JvVk1FcThjQnpjaE5UMVo5N2VucWlib1VSX2NGM19SbA?oc=5",
+      "source": "Derby County",
+      "published": "2026-08-01T07:00:00.000Z",
+      "summary": "TRANSFER NEWS: Reintroducing...Sam Szmodics &nbsp;&nbsp; Derby County",
+      "image": "",
+      "type": "news"
+    },
+    {
       "title": "SIGNING: Sam Szmodics rejoins the Rams",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBUR0Fxd2NKRlh1OS1yYmNPV0JWWHJoRFFLNzlrc211Y2RWeXdXS1ZTbExDRUdOMGRROFdnSWRtQ1VIVXZZUEUtWlRnVnQ3QkFvbHAtUjBNbmVHOFppRkd4ajdoQ2ZMcTVEcU9zOF9xcDhhRno2Rlh6LVFqY251QQ?oc=5",
       "source": "Derby County",
@@ -479,6 +497,15 @@
       "summary": "SIGNING: Sam Szmodics rejoins the Rams &nbsp;&nbsp; Derby County",
       "image": "",
       "type": "news"
+    },
+    {
+      "title": "Derby County complete fourth transfer as Turki Alalshikh closes in on seismic investment deal",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORjJtVTFEVktydzNWMFdLQVcwM2lnbkRxTHRTV0NaS0g0UXc2VTM3UnozcFpqZ090cjlUVzNuU3dCQlN6cWZCZG5DcFFDU1BLNzdDMjNQNExXakRoT1J5ODVMT1d5WXFBSFVFbzZBVmR6eW5TV1FtZ0NIOXQ3ZnNVVURwd0xuVWJjdVJ5bV9jWXlJZFh3dnpLWHE2VkdNVTZqZHVCcUh1SXM?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-08-01T07:00:00.000Z",
+      "summary": "Derby County complete fourth transfer as Turki Alalshikh closes in on seismic investment deal &nbsp;&nbsp; Derbyshire Live",
+      "image": "",
+      "type": "rumour"
     },
     {
       "title": "Sam Szmodics: Derby County re-sign Ipswich Town forward on loan",
@@ -551,33 +578,6 @@
       "summary": "Bristol City Seek To Hijack Derby County Transfer Pursuit &nbsp;&nbsp; The Stacey West",
       "image": "",
       "type": "rumour"
-    },
-    {
-      "title": "Sammie Szmodics: Derby County looking to sign Ipswich forward",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94eEI2QTVOVFBMOUhXcXBvTUJ3MlVwVEFSTkNxNEtSeHFPNHVCYXRXSXJyQWVXRGs4RWpEbjUxSk1QMVBEMTlxS2hyazlaYV9CT2RPVEI3dy1jMGllRkh1YkQwMThaT28?oc=5",
-      "source": "BBC",
-      "published": "2026-07-23T07:00:00.000Z",
-      "summary": "Sammie Szmodics: Derby County looking to sign Ipswich forward &nbsp;&nbsp; BBC",
-      "image": "",
-      "type": "news"
-    },
-    {
-      "title": "Jacob Widell Zetterstrom: Lyon keen on Derby County goalkeeper - gossip",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9KMmRxUlRuck8wWlVxUUF4WWJzMXZ0T2xyQ1JjcS1meHFncVhfNjhqT3J6bUpKdDBpTlg2cUgtN1ZESHVkVHp5S21vSFpNS3NwRzN2Q3d2MWVXVzU1elN3ZDhRbHBlWU0?oc=5",
-      "source": "BBC",
-      "published": "2026-07-23T07:00:00.000Z",
-      "summary": "Jacob Widell Zetterstrom: Lyon keen on Derby County goalkeeper - gossip &nbsp;&nbsp; BBC",
-      "image": "",
-      "type": "news"
-    },
-    {
-      "title": "NEW SIGNING INTERVIEW: Filip Bilbija",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUzRENDExNVdOZDZZY3lzaEt6aWZvS0EwaTlQN0x5cXEwV3BzU0ZZM0JWaEoydHRuU2lPcG5LUFdVeHdKRkx0bjlZYUo0UjNGeGhwV0ItV2lCNnpPaFlmOGpXdUsxWTEydWxldHNKSFlEbHpseFpxNmVGTWxaNHN2ZTFlc2d0R1pvanVPQzVtMnFEQnhTV1BrSDlGRUpuRmxuTVRfTlBjN3U?oc=5",
-      "source": "Derby County",
-      "published": "2026-07-22T07:00:00.000Z",
-      "summary": "NEW SIGNING INTERVIEW: Filip Bilbija &nbsp;&nbsp; Derby County",
-      "image": "",
-      "type": "news"
     }
   ]
 }
