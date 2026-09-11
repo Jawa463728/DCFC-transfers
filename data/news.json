@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T10:52:01.479Z",
+  "updatedAt": "2026-09-11T11:08:08.580Z",
   "targets": [
     {
       "name": "Leicester City",
@@ -40,6 +40,15 @@
   ],
   "stories": [
     {
+      "title": "Turki Alalshikh 'sounded out' after Derby County takeover collapse as Leicester City seek £200m deal",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYVphMnhzMWRSc09wbW9uN0dJMXhfc1BkLU9yNDFyQnRpdHdNMm1ZdU9yXzBVWEJKNzJlU19hMTJCaEowUTBvNU1rQzY0eXNPUGx4M0hIYUc0UU5taGFNcjRPNmRHcjEyRmQxNGhvM3BzQ2taemVGQThZUEN6M1JONlcyeVlXNE9pbzhDTjdxVmlBZ0tob0wzcnA4d1pzNjRId0xRekZHVGNaaWpV?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-09-11T08:27:00.000Z",
+      "summary": "Turki Alalshikh 'sounded out' after Derby County takeover collapse as Leicester City seek £200m deal &nbsp;&nbsp; Derbyshire Live",
+      "image": "",
+      "type": "rumour"
+    },
+    {
       "title": "When I spotted Mohammed Fuseini he was the little one on the wing now he's ready for Derby County",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZXdibnJFcHRheGlFM3ZtLVFGcXdMSGNXRWw3SEI4NER6cUd0SkNHZHdEOHNiVkdsZGNnX3N6c0Nfc09HeGdrMzhIbzdFbU5mek85OXlDNW1QcEZEeUtPb19HSjFqdzFDX3AyZ3NSWlJabFZnVUdHUDNlWHRDcXdXaG56VTNuTlVjZ2lvclF1YlZVSDZLVXpRc3RvRFNlRGktRTBPWmJXT1V3aU1XTkE?oc=5",
       "source": "Derbyshire Live",
@@ -54,15 +63,6 @@
       "source": "BBC",
       "published": "2026-09-09T16:03:50.000Z",
       "summary": "Derby County: How Henrik Meister could follow Patrick Agyemang's example &nbsp;&nbsp; BBC",
-      "image": "",
-      "type": "news"
-    },
-    {
-      "title": "“Not great”: EFL expert reacts to Derby County’s poor start to the season",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcHhGQVQ4b2x3WkJob3AwUWNEX1RhLUlPV0hMZTROdkJwSTZxTFVkamNiWnhVZ09IVEFiYV9xN1A2Rkt6WnByOHBXazc3MTJBcWJaaENfdVFSNDA3R1VnNEUtRHlaV3VOOWtjaEVGZi1rU3dxVU1hVUotX0t5Uk43Zg?oc=5",
-      "source": "Yahoo Sports UK",
-      "published": "2026-09-09T08:46:39.000Z",
-      "summary": "“Not great”: EFL expert reacts to Derby County’s poor start to the season &nbsp;&nbsp; Yahoo Sports UK",
       "image": "",
       "type": "news"
     },
@@ -105,9 +105,9 @@
     {
       "title": "John McGlynn on Derby County loan signing and 'strong' squad to face Dundee United",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObm5xNWxWVVA0Ql8tX1M2bjJWMGhLTkFKNEtzWDdsQ2ZFSTB5TEI0LW5ib3o3T29wb21sQ3hmbnE4OWNCa3E0M3JBWkUwZHZpR2VrNDJCeWpnNHJHSFMyYmNPVk5sTW1ScU9MV1NNdnNQU1dHOU1GNlNBcnRhS2VKZjRPX3FiR2pFdGp2V01Ybl82M3QzMUE?oc=5",
-      "source": "falkirkherald.co.uk",
+      "source": "Falkirk Herald",
       "published": "2026-09-05T01:32:00.000Z",
-      "summary": "John McGlynn on Derby County loan signing and 'strong' squad to face Dundee United &nbsp;&nbsp; falkirkherald.co.uk",
+      "summary": "John McGlynn on Derby County loan signing and 'strong' squad to face Dundee United &nbsp;&nbsp; Falkirk Herald",
       "image": "",
       "type": "news"
     },
@@ -474,9 +474,9 @@
     {
       "title": "Ebonie Locke joins Derby County on loan | BWSL2",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQW9Fbl9pUkRSMGVKR1ZZRllwRjk1bFl2Tl9BZHBUdlZSbGwxREhTV1JHd3BrSVViMHpHSFpJSklDeEM4c2VRTklYa0pSa2FGR2V0bW5oVGw3azBPTTV1NXhpa0lMbzVPTGl1Mll6Z1AzcjNndDVUT3REdnFZYkZsTXpVNA?oc=5",
-      "source": "WSL Football",
+      "source": "wslfootball.com",
       "published": "2026-08-01T07:00:00.000Z",
-      "summary": "Ebonie Locke joins Derby County on loan | BWSL2 &nbsp;&nbsp; WSL Football",
+      "summary": "Ebonie Locke joins Derby County on loan | BWSL2 &nbsp;&nbsp; wslfootball.com",
       "image": "",
       "type": "done"
     },
