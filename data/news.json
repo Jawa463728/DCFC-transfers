@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T01:27:19.302Z",
+  "updatedAt": "2026-09-11T01:44:19.015Z",
   "targets": [
     {
       "name": "Manchester City",
@@ -39,6 +39,15 @@
     }
   ],
   "stories": [
+    {
+      "title": "Derby County: How Henrik Meister could follow Patrick Agyemang's example",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9VUExYU1JSbDM2Nm9oR0V1OWc4SGNmcG9mWlpHTC1udnNWUDNubjl3dmJQV1NhcWdLWDhvYWZIY2pvMnN0WVZqWmUzSFMyNzRJdTFVRUhrYVJYNm82NXlXRHhVVmxjQTQ?oc=5",
+      "source": "BBC",
+      "published": "2026-09-09T16:03:50.000Z",
+      "summary": "Derby County: How Henrik Meister could follow Patrick Agyemang's example &nbsp;&nbsp; BBC",
+      "image": "",
+      "type": "news"
+    },
     {
       "title": "“Not great”: EFL expert reacts to Derby County’s poor start to the season",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcHhGQVQ4b2x3WkJob3AwUWNEX1RhLUlPV0hMZTROdkJwSTZxTFVkamNiWnhVZ09IVEFiYV9xN1A2Rkt6WnByOHBXazc3MTJBcWJaaENfdVFSNDA3R1VnNEUtRHlaV3VOOWtjaEVGZi1rU3dxVU1hVUotX0t5Uk43Zg?oc=5",
@@ -357,9 +366,9 @@
     {
       "title": "Derby County ‘off the market’ as Turki Alalshikh abandons proposed takeover",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYXB5R2pqUm5aUkhTT2tfd2hqQXdINERicFV4Z3NYamR5M3U1NXpGam0xR0tFWTlWYXlJUjdXTHZWWEh1MFpQXzcxVW0yV0djOXFVOHlSM29wYi12QzRJcUgwNmllT0sybVIzSE1DN3BLWUp0THhCSkh1bHhqQm9Oc01GX2FmLVdzQ0xiQmpKSklOSFJENjEyejNrYk5KQ0tscEFGNGRmako1dw?oc=5",
-      "source": "independent.co.uk",
+      "source": "The Independent",
       "published": "2026-08-10T07:00:00.000Z",
-      "summary": "Derby County ‘off the market’ as Turki Alalshikh abandons proposed takeover &nbsp;&nbsp; independent.co.uk",
+      "summary": "Derby County ‘off the market’ as Turki Alalshikh abandons proposed takeover &nbsp;&nbsp; The Independent",
       "image": "",
       "type": "news"
     },
@@ -569,15 +578,6 @@
       "summary": "Derby County complete third summer signing as Rams move for midfielder &nbsp;&nbsp; Derbyshire Live",
       "image": "",
       "type": "rumour"
-    },
-    {
-      "title": "Filip Bilbija: Derby County sign former Paderborn midfielder",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zVTNJbEtFNlBwTkpRSjV5NVUzdzNzaks4NDNZVWJRdHVFTUQtY0k2UWtRNlZ0WXVBQ3QxcjNFamFzU3ZGMjhzdWIzNFhtS2VHR000LWJpSm10aUdMVE5rcjBuSTRuSEk?oc=5",
-      "source": "BBC",
-      "published": "2026-07-22T07:00:00.000Z",
-      "summary": "Filip Bilbija: Derby County sign former Paderborn midfielder &nbsp;&nbsp; BBC",
-      "image": "",
-      "type": "news"
     }
   ]
 }
