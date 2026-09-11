@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T14:42:23.586Z",
+  "updatedAt": "2026-09-11T14:57:20.887Z",
   "targets": [
     {
       "name": "Leicester City",
@@ -39,15 +39,6 @@
     }
   ],
   "stories": [
-    {
-      "title": "Turki Alalshikh 'sounded out' after Derby County takeover collapse as Leicester City seek £200m deal",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYVphMnhzMWRSc09wbW9uN0dJMXhfc1BkLU9yNDFyQnRpdHdNMm1ZdU9yXzBVWEJKNzJlU19hMTJCaEowUTBvNU1rQzY0eXNPUGx4M0hIYUc0UU5taGFNcjRPNmRHcjEyRmQxNGhvM3BzQ2taemVGQThZUEN6M1JONlcyeVlXNE9pbzhDTjdxVmlBZ0tob0wzcnA4d1pzNjRId0xRekZHVGNaaWpV?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-09-11T08:27:00.000Z",
-      "summary": "Turki Alalshikh 'sounded out' after Derby County takeover collapse as Leicester City seek £200m deal &nbsp;&nbsp; Derbyshire Live",
-      "image": "",
-      "type": "rumour"
-    },
     {
       "title": "When I spotted Mohammed Fuseini he was the little one on the wing now he's ready for Derby County",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZXdibnJFcHRheGlFM3ZtLVFGcXdMSGNXRWw3SEI4NER6cUd0SkNHZHdEOHNiVkdsZGNnX3N6c0Nfc09HeGdrMzhIbzdFbU5mek85OXlDNW1QcEZEeUtPb19HSjFqdzFDX3AyZ3NSWlJabFZnVUdHUDNlWHRDcXdXaG56VTNuTlVjZ2lvclF1YlZVSDZLVXpRc3RvRFNlRGktRTBPWmJXT1V3aU1XTkE?oc=5",
@@ -402,9 +393,9 @@
     {
       "title": "Saudi boxing chief Turki Alalshikh gives statement as he pulls out of running to buy Derby County",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTFZZT1hScjBLWGpYLXlaUFlIVWxRZXVHSmtYVjJ2Sm82WWJXdW9KSWhSS0ROX0sySTFHV3ZNMHY4WV9XakNBU0dRRkR1Um5JMVcxb3JlMHczTkdRampMUVVYZjhKOVYtbzdUcVZSWTVHNzNGSm9jYXoteDkxV2pVdXZvc2Jhcjd0Z004Qm1SZXRKNVBxbnhz?oc=5",
-      "source": "talkSPORT",
+      "source": "talksport.com",
       "published": "2026-08-10T07:00:00.000Z",
-      "summary": "Saudi boxing chief Turki Alalshikh gives statement as he pulls out of running to buy Derby County &nbsp;&nbsp; talkSPORT",
+      "summary": "Saudi boxing chief Turki Alalshikh gives statement as he pulls out of running to buy Derby County &nbsp;&nbsp; talksport.com",
       "image": "",
       "type": "news"
     },
@@ -578,6 +569,15 @@
       "summary": "NEW SIGNING INTERVIEW: Filip Bilbija &nbsp;&nbsp; Derby County",
       "image": "",
       "type": "news"
+    },
+    {
+      "title": "Derby County complete third summer signing as Rams move for midfielder",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQR25zZlhqeHE0SmdBVjVabWRQSGF2YWkweVJJX0s3VFZBMF9aSHNQenhuSUZXOFFILUctTVdKdW1meWx3S3VLRzdwUURvZ1E2U002ZWswT0RZNnA2dlpwc2ktUlJMbk5wbktXWFI1OFpRZURGNG5lZ1RYRXE5dVhmNTJ1bHdfNW05MXMyaUlVakF5Yjh0WTBlbm40NmdqWVJNT0NJU0NNakXSAa4BQVVfeXFMTUJMaVBVTHM2RFgwb210RUdQVF9Ici1qWVo1VmYzNHMzajZxeEs2REhyMl9mcTRvTHBHeUNPV2QyMjdVZGV1alJIeU5zSjRwN1liUks2Uy16MnotVERkb3FrUk1GNGlYZE8yZklqQ3Y2WXdEVVRjT3BvM0s5Q2x6d0h3ODdkY0hlRFZRYmVHV3ZGSmViS1p6OFZLSFczMGZvd1hfX3JqYXNmZ0hmVVRR?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-07-22T07:00:00.000Z",
+      "summary": "Derby County complete third summer signing as Rams move for midfielder &nbsp;&nbsp; Derbyshire Live",
+      "image": "",
+      "type": "rumour"
     }
   ]
 }
