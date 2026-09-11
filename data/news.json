@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T08:53:53.465Z",
+  "updatedAt": "2026-09-11T09:11:55.574Z",
   "targets": [
     {
       "name": "Leicester City",
@@ -39,15 +39,6 @@
     }
   ],
   "stories": [
-    {
-      "title": "When I spotted Mohammed Fuseini he was the little one on the wing now he's ready for Derby County",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZXdibnJFcHRheGlFM3ZtLVFGcXdMSGNXRWw3SEI4NER6cUd0SkNHZHdEOHNiVkdsZGNnX3N6c0Nfc09HeGdrMzhIbzdFbU5mek85OXlDNW1QcEZEeUtPb19HSjFqdzFDX3AyZ3NSWlJabFZnVUdHUDNlWHRDcXdXaG56VTNuTlVjZ2lvclF1YlZVSDZLVXpRc3RvRFNlRGktRTBPWmJXT1V3aU1XTkE?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-09-11T06:00:00.000Z",
-      "summary": "When I spotted Mohammed Fuseini he was the little one on the wing now he's ready for Derby County &nbsp;&nbsp; Derbyshire Live",
-      "image": "",
-      "type": "news"
-    },
     {
       "title": "Derby County: How Henrik Meister could follow Patrick Agyemang's example",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9VUExYU1JSbDM2Nm9oR0V1OWc4SGNmcG9mWlpHTC1udnNWUDNubjl3dmJQV1NhcWdLWDhvYWZIY2pvMnN0WVZqWmUzSFMyNzRJdTFVRUhrYVJYNm82NXlXRHhVVmxjQTQ?oc=5",
@@ -348,9 +339,9 @@
     {
       "title": "Derby County ‘off the market’ as Turki Alalshikh abandons proposed takeover",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYXB5R2pqUm5aUkhTT2tfd2hqQXdINERicFV4Z3NYamR5M3U1NXpGam0xR0tFWTlWYXlJUjdXTHZWWEh1MFpQXzcxVW0yV0djOXFVOHlSM29wYi12QzRJcUgwNmllT0sybVIzSE1DN3BLWUp0THhCSkh1bHhqQm9Oc01GX2FmLVdzQ0xiQmpKSklOSFJENjEyejNrYk5KQ0tscEFGNGRmako1dw?oc=5",
-      "source": "independent.co.uk",
+      "source": "The Independent",
       "published": "2026-08-10T07:00:00.000Z",
-      "summary": "Derby County ‘off the market’ as Turki Alalshikh abandons proposed takeover &nbsp;&nbsp; independent.co.uk",
+      "summary": "Derby County ‘off the market’ as Turki Alalshikh abandons proposed takeover &nbsp;&nbsp; The Independent",
       "image": "",
       "type": "news"
     },
@@ -576,6 +567,15 @@
       "source": "Derbyshire Live",
       "published": "2026-07-12T07:00:00.000Z",
       "summary": "The huge transfer checklist facing Derby County and the five positions they will target &nbsp;&nbsp; Derbyshire Live",
+      "image": "",
+      "type": "rumour"
+    },
+    {
+      "title": "The 19 players linked with Derby County in the transfer window so far",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOd2o0Tlg1RmR1Vlh1OHkxU1FTY3pZdXRPTFRPdFdOUVJMazkwX21ESXFlSlFxX2dOZWRvQ1pVOWFuaDNCVVBXMGVicmdkZGJvR2xpQm84bWRJaTFOVDlyRXRzNlp4VVpRb2xoc1V0Um1XUEFxX0YwMGxwWnJTaUJtMDh2d0JZc193dlpvNXN0ck5MOEptbVV2Z3h6LUs1RGFUUExEMGdhQ3dHeDQ?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-07-12T07:00:00.000Z",
+      "summary": "The 19 players linked with Derby County in the transfer window so far &nbsp;&nbsp; Derbyshire Live",
       "image": "",
       "type": "rumour"
     }
