@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T02:46:08.751Z",
+  "updatedAt": "2026-09-12T02:58:11.499Z",
   "targets": [
     {
       "name": "Leicester City",
@@ -9,12 +9,6 @@
     },
     {
       "name": "Henrik Meister",
-      "mentions": 1,
-      "score": 34,
-      "context": "Fresh media link"
-    },
-    {
-      "name": "Ben Brereton Diaz",
       "mentions": 1,
       "score": 34,
       "context": "Fresh media link"
@@ -33,6 +27,12 @@
     },
     {
       "name": "Anis Mehmeti",
+      "mentions": 1,
+      "score": 34,
+      "context": "Fresh media link"
+    },
+    {
+      "name": "Man City",
       "mentions": 1,
       "score": 34,
       "context": "Fresh media link"
@@ -67,6 +67,15 @@
       "type": "news"
     },
     {
+      "title": "“Not great”: EFL expert reacts to Derby County’s poor start to the season",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcHhGQVQ4b2x3WkJob3AwUWNEX1RhLUlPV0hMZTROdkJwSTZxTFVkamNiWnhVZ09IVEFiYV9xN1A2Rkt6WnByOHBXazc3MTJBcWJaaENfdVFSNDA3R1VnNEUtRHlaV3VOOWtjaEVGZi1rU3dxVU1hVUotX0t5Uk43Zg?oc=5",
+      "source": "Yahoo Sports UK",
+      "published": "2026-09-09T08:46:39.000Z",
+      "summary": "“Not great”: EFL expert reacts to Derby County’s poor start to the season &nbsp;&nbsp; Yahoo Sports UK",
+      "image": "",
+      "type": "news"
+    },
+    {
       "title": "Derby County midfielder Kenzo Goudmijn joins Grasshoppers on loan",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAtaWFHM3NXY3A4ZHdaT0VjZWF1M2QzTTFsNHlacC13c0Y4SFpaUkgzazBrN2h0YUxHWEs1T1pCSmJSdmhwZUFJVE5NeUlhUjJJZTgtUjVxRFdpeGZSbnpDWWY2U0ZlVXM?oc=5",
       "source": "BBC",
@@ -94,6 +103,15 @@
       "type": "news"
     },
     {
+      "title": "Confirmed Transfer: Derby County signs Nicholas Bilokapic.",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5PNHNRR19RMEcyWUZ0MlBpYVhRZ2V2Q3h3dlkybnpjdGdrY01mUGNDSkkzVzhrM3dWcDF3bU9VcE9SVzFNTHBrMmxrWmVWT1pQYzk4M01fTTI?oc=5",
+      "source": "OneFootball",
+      "published": "2026-09-05T04:45:48.000Z",
+      "summary": "Confirmed Transfer: Derby County signs Nicholas Bilokapic. &nbsp;&nbsp; OneFootball",
+      "image": "",
+      "type": "done"
+    },
+    {
       "title": "John McGlynn on Derby County loan signing and 'strong' squad to face Dundee United",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObm5xNWxWVVA0Ql8tX1M2bjJWMGhLTkFKNEtzWDdsQ2ZFSTB5TEI0LW5ib3o3T29wb21sQ3hmbnE4OWNCa3E0M3JBWkUwZHZpR2VrNDJCeWpnNHJHSFMyYmNPVk5sTW1ScU9MV1NNdnNQU1dHOU1GNlNBcnRhS2VKZjRPX3FiR2pFdGp2V01Ybl82M3QzMUE?oc=5",
       "source": "Falkirk Herald",
@@ -112,13 +130,22 @@
       "type": "news"
     },
     {
-      "title": "Derby County",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZ0JOX1FKUFgwUHp6YXdMa3lBRHZ6VGFNbWJvWmZFdVlGTjFlZGxFMkNBTnJqMTNEbm1RRXpLcjNYb3AtOC1scWRUZjE1VXFnTGUxQmxHNkV1UkZsNWpaSjhIVzBoWjAtcWltQjA0N0dUWV9YSU1HMFZfN0lWQ25Fc05IOW94b2RjZlRZSGx0MkZWNElv?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-09-02T19:34:15.000Z",
-      "summary": "Derby County &nbsp;&nbsp; Transfermarkt",
+      "title": "John Eustace responds as Derby County make 'real statement of intent'",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZDJodjF4RnRfZEJRdF9MckxRNUhFOF9waGY5T1VkOEJWRXRheHZfcktsQ3FLY1VZSUtmV1Q2dXZneFlyZmZjNjBJT1BqWVlxd3dVdnp0S3dfbm05NlRIUm1taWotVHlxRGtJTENsUF9mYkhsaDdad0NkMDJERE1WQUhPNWJnYUJSOGc?oc=5",
+      "source": "Yahoo Sports UK",
+      "published": "2026-09-03T15:30:25.000Z",
+      "summary": "John Eustace responds as Derby County make 'real statement of intent' &nbsp;&nbsp; Yahoo Sports UK",
       "image": "",
       "type": "news"
+    },
+    {
+      "title": "Derby County confirm Owen Eames transfer as move sanctioned",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUjV3eTkxbGY0ZEZwTWJvUHBRM25JYVp5U3B2X1UxcGJsVkxta0JOWEN3SHI0cHhDUjBBdk5DekppemEwR1RRdDFlLXZkVTNWcW4tUjJTclVicTBOY0ExMUtKdExVR29WTVFVb0RiNFVVYkdUWTBrOWhWRGp5Z05yTGt6RTN1dw?oc=5",
+      "source": "Yahoo Sports UK",
+      "published": "2026-09-03T07:00:00.000Z",
+      "summary": "Derby County confirm Owen Eames transfer as move sanctioned &nbsp;&nbsp; Yahoo Sports UK",
+      "image": "",
+      "type": "rumour"
     },
     {
       "title": "Derby County have filled transfer holes but John Eustace still has a big job on his hands",
@@ -220,15 +247,6 @@
       "type": "news"
     },
     {
-      "title": "Ben Brereton Diaz transfer latest as Southampton boss delivers update on Derby County target",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdHF3NVhhVWlFRTBjdk1xOFdtNE9rZG45VnlHeklFblZNaTdWZWV5NXlBSTE5OV9TSjNEckI2SzVUeVkxSlR5dURxUEpuTHNWdXJHaVBKY21ndEJ3ZURrSzdsQ0lrVVZ1SHZsUDV2VmJsd0NSWUs1M1lNVTU3ZmhrSHBWZUduTVNmMzZZYnhtZFNwM0tISHNidlJHLXNlZ004RUJEY1NZRlA5NFE?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-08-26T07:00:00.000Z",
-      "summary": "Ben Brereton Diaz transfer latest as Southampton boss delivers update on Derby County target &nbsp;&nbsp; Derbyshire Live",
-      "image": "",
-      "type": "rumour"
-    },
-    {
       "title": "Derby County target Danish striker as Italian club set to sanction exit",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNmYxVWpvVFFXQlcyU0IxVDNGTXZOUEI0aUNlQnRGOWtQYmpiZEFtd2pnQVNsMEw5MV94Z2VLMzhUTDhUejRsWTR5eUUycF85MEItOGk2YmFVXzhMemFqRmE4amRPb1hzSUZYNVhhY2NwZUNUZkgtZ1dwNUhMeEpZY1VTVjZQRlJTakhMbndiSjZsV3Q5b0NkVEJQV1pyVGd3UkJ3SWlBLWRmRUZh?oc=5",
       "source": "Derbyshire Live",
@@ -272,6 +290,15 @@
       "summary": "Sam Szmodics latest as John Eustace expresses Derby County transfer hope &nbsp;&nbsp; Derbyshire Live",
       "image": "",
       "type": "news"
+    },
+    {
+      "title": "SIGNING: Ryan Hedges signs for Derby",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE94cGNVRVJlWXMyN0JUM0NHNDRLUmdpM01xTUh2cjRvb2RNcHlvYTNyM1VGNU9ZVnVsS2V0UU1YOXNoUVpzV01TSGE3LTQtSDJ1MmdGaWIwcHlKTV9PMWxXckdXYlVKS2Q1RG5sanFXOV9IN19ZZHB3T2lGNA?oc=5",
+      "source": "Derby County",
+      "published": "2026-08-20T07:00:00.000Z",
+      "summary": "SIGNING: Ryan Hedges signs for Derby &nbsp;&nbsp; Derby County",
+      "image": "",
+      "type": "done"
     },
     {
       "title": "Derby County verdict issued by EFL expert and 'important' transfer need",
@@ -375,9 +402,9 @@
     {
       "title": "Saudi boxing chief Turki Alalshikh gives statement as he pulls out of running to buy Derby County",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTFZZT1hScjBLWGpYLXlaUFlIVWxRZXVHSmtYVjJ2Sm82WWJXdW9KSWhSS0ROX0sySTFHV3ZNMHY4WV9XakNBU0dRRkR1Um5JMVcxb3JlMHczTkdRampMUVVYZjhKOVYtbzdUcVZSWTVHNzNGSm9jYXoteDkxV2pVdXZvc2Jhcjd0Z004Qm1SZXRKNVBxbnhz?oc=5",
-      "source": "talksport.com",
+      "source": "talkSPORT",
       "published": "2026-08-10T07:00:00.000Z",
-      "summary": "Saudi boxing chief Turki Alalshikh gives statement as he pulls out of running to buy Derby County &nbsp;&nbsp; talksport.com",
+      "summary": "Saudi boxing chief Turki Alalshikh gives statement as he pulls out of running to buy Derby County &nbsp;&nbsp; talkSPORT",
       "image": "",
       "type": "news"
     },
@@ -427,15 +454,6 @@
       "type": "news"
     },
     {
-      "title": "TRANSFER NEWS: Reintroducing...Sam Szmodics",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbEdIUmhGVFNodlFWVUIzcU5xck1VcF80MjEwYWZfRkNGWnVrb2U1U3E0NW1VRHFKcDcyZWxsakZRaldRdlBGbnpabFZZZUY0T1dzTlEzYVIwVjI1a0lhZ3JvVk1FcThjQnpjaE5UMVo5N2VucWlib1VSX2NGM19SbA?oc=5",
-      "source": "Derby County",
-      "published": "2026-08-01T07:00:00.000Z",
-      "summary": "TRANSFER NEWS: Reintroducing...Sam Szmodics &nbsp;&nbsp; Derby County",
-      "image": "",
-      "type": "news"
-    },
-    {
       "title": "SIGNING: Sam Szmodics rejoins the Rams",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBUR0Fxd2NKRlh1OS1yYmNPV0JWWHJoRFFLNzlrc211Y2RWeXdXS1ZTbExDRUdOMGRROFdnSWRtQ1VIVXZZUEUtWlRnVnQ3QkFvbHAtUjBNbmVHOFppRkd4ajdoQ2ZMcTVEcU9zOF9xcDhhRno2Rlh6LVFqY251QQ?oc=5",
       "source": "Derby County",
@@ -443,15 +461,6 @@
       "summary": "SIGNING: Sam Szmodics rejoins the Rams &nbsp;&nbsp; Derby County",
       "image": "",
       "type": "news"
-    },
-    {
-      "title": "Derby County complete fourth transfer as Turki Alalshikh closes in on seismic investment deal",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORjJtVTFEVktydzNWMFdLQVcwM2lnbkRxTHRTV0NaS0g0UXc2VTM3UnozcFpqZ090cjlUVzNuU3dCQlN6cWZCZG5DcFFDU1BLNzdDMjNQNExXakRoT1J5ODVMT1d5WXFBSFVFbzZBVmR6eW5TV1FtZ0NIOXQ3ZnNVVURwd0xuVWJjdVJ5bV9jWXlJZFh3dnpLWHE2VkdNVTZqZHVCcUh1SXM?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-08-01T07:00:00.000Z",
-      "summary": "Derby County complete fourth transfer as Turki Alalshikh closes in on seismic investment deal &nbsp;&nbsp; Derbyshire Live",
-      "image": "",
-      "type": "rumour"
     },
     {
       "title": "Sam Szmodics: Derby County re-sign Ipswich Town forward on loan",
@@ -526,15 +535,6 @@
       "type": "rumour"
     },
     {
-      "title": "Jake Rooney: Boston United sign former Derby County defender",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ROTBhT2JSY0cybWJnOVBRc0NieDYxRmI4Y2k5eXJtdE1pZl9VdGFDdDNwMk16UUxCS0xSOWwzMGhYM2k1dFNxQVg0d0t5a0ZHRGw0V1dwOHNXTHNMVlVlZUxycGRTMnBYM3c?oc=5",
-      "source": "BBC",
-      "published": "2026-07-23T07:00:00.000Z",
-      "summary": "Jake Rooney: Boston United sign former Derby County defender &nbsp;&nbsp; BBC",
-      "image": "",
-      "type": "news"
-    },
-    {
       "title": "Sammie Szmodics: Derby County looking to sign Ipswich forward",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94eEI2QTVOVFBMOUhXcXBvTUJ3MlVwVEFSTkNxNEtSeHFPNHVCYXRXSXJyQWVXRGs4RWpEbjUxSk1QMVBEMTlxS2hyazlaYV9CT2RPVEI3dy1jMGllRkh1YkQwMThaT28?oc=5",
       "source": "BBC",
@@ -571,11 +571,11 @@
       "type": "rumour"
     },
     {
-      "title": "Filip Bilbija: Derby County sign former Paderborn midfielder",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zVTNJbEtFNlBwTkpRSjV5NVUzdzNzaks4NDNZVWJRdHVFTUQtY0k2UWtRNlZ0WXVBQ3QxcjNFamFzU3ZGMjhzdWIzNFhtS2VHR000LWJpSm10aUdMVE5rcjBuSTRuSEk?oc=5",
-      "source": "BBC",
+      "title": "Derby County ace makes Erling Haaland request as superstar responds to Sondre Langas return",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbjMyWk9hU3YxUGNzNGxoYWQxWWZndTRrc0hqc3AySE9xSXFuQWVZX2YycVNEQjNENW1zMVptM0cxM24wVEhod1hwOUJ6eXExM3BxdTl3TTBUSEdCOExVc0NiUmlxaEowMm5jdmZVWmhIWFJIZ1Z2N0tQaDc4NEdJQTZKRi1qeW5EX0h3X0dsWXNHMEx2Ti0wS3M0TS1aYkkxdmtUbDN2WEZ3UQ?oc=5",
+      "source": "Derbyshire Live",
       "published": "2026-07-22T07:00:00.000Z",
-      "summary": "Filip Bilbija: Derby County sign former Paderborn midfielder &nbsp;&nbsp; BBC",
+      "summary": "Derby County ace makes Erling Haaland request as superstar responds to Sondre Langas return &nbsp;&nbsp; Derbyshire Live",
       "image": "",
       "type": "news"
     }
