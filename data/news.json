@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T13:37:52.820Z",
+  "updatedAt": "2026-09-12T13:50:26.805Z",
   "targets": [
     {
       "name": "Manchester City",
@@ -110,6 +110,15 @@
       "summary": "Derby County confirm Owen Eames transfer as move sanctioned &nbsp;&nbsp; Yahoo Sports UK",
       "image": "",
       "type": "rumour"
+    },
+    {
+      "title": "John Eustace responds as Derby County make 'real statement of intent'",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZDJodjF4RnRfZEJRdF9MckxRNUhFOF9waGY5T1VkOEJWRXRheHZfcktsQ3FLY1VZSUtmV1Q2dXZneFlyZmZjNjBJT1BqWVlxd3dVdnp0S3dfbm05NlRIUm1taWotVHlxRGtJTENsUF9mYkhsaDdad0NkMDJERE1WQUhPNWJnYUJSOGc?oc=5",
+      "source": "Yahoo Sports UK",
+      "published": "2026-09-03T07:00:00.000Z",
+      "summary": "John Eustace responds as Derby County make 'real statement of intent' &nbsp;&nbsp; Yahoo Sports UK",
+      "image": "",
+      "type": "news"
     },
     {
       "title": "Derby County",
@@ -569,15 +578,6 @@
       "summary": "Derby County linked with former Rangers winger but Championship rivals in the driving seat &nbsp;&nbsp; Derbyshire Live",
       "image": "",
       "type": "rumour"
-    },
-    {
-      "title": "Ryan Hedges: Winger not expected to sign for Derby County",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53d3FIZTRxNTNqNkhtM2ZLWmNaYjRRdWxBTE9tazZaOFFhdW5LM0ctcGNGNTMxOUFhSmhsMUQ5bm5xcm1ENFhTUU15LTEzRzdJanhjWVd2UE9JQkNJZ1A1blBBOVp2c1MzWFE?oc=5",
-      "source": "BBC",
-      "published": "2026-07-17T07:00:00.000Z",
-      "summary": "Ryan Hedges: Winger not expected to sign for Derby County &nbsp;&nbsp; BBC",
-      "image": "",
-      "type": "news"
     }
   ]
 }
