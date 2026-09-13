@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T00:20:01.571Z",
+  "updatedAt": "2026-09-13T00:41:22.916Z",
   "targets": [
     {
       "name": "Manchester City",
@@ -39,15 +39,6 @@
     }
   ],
   "stories": [
-    {
-      "title": "Turki Alalshikh 'sounded out' after Derby County takeover collapse as Leicester City seek £200m deal",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYVphMnhzMWRSc09wbW9uN0dJMXhfc1BkLU9yNDFyQnRpdHdNMm1ZdU9yXzBVWEJKNzJlU19hMTJCaEowUTBvNU1rQzY0eXNPUGx4M0hIYUc0UU5taGFNcjRPNmRHcjEyRmQxNGhvM3BzQ2taemVGQThZUEN6M1JONlcyeVlXNE9pbzhDTjdxVmlBZ0tob0wzcnA4d1pzNjRId0xRekZHVGNaaWpV?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-09-11T08:27:00.000Z",
-      "summary": "Turki Alalshikh 'sounded out' after Derby County takeover collapse as Leicester City seek £200m deal &nbsp;&nbsp; Derbyshire Live",
-      "image": "",
-      "type": "rumour"
-    },
     {
       "title": "Derby County midfielder Kenzo Goudmijn joins Grasshoppers on loan",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAtaWFHM3NXY3A4ZHdaT0VjZWF1M2QzTTFsNHlacC13c0Y4SFpaUkgzazBrN2h0YUxHWEs1T1pCSmJSdmhwZUFJVE5NeUlhUjJJZTgtUjVxRFdpeGZSbnpDWWY2U0ZlVXM?oc=5",
@@ -105,9 +96,9 @@
     {
       "title": "Derby County",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZ0JOX1FKUFgwUHp6YXdMa3lBRHZ6VGFNbWJvWmZFdVlGTjFlZGxFMkNBTnJqMTNEbm1RRXpLcjNYb3AtOC1scWRUZjE1VXFnTGUxQmxHNkV1UkZsNWpaSjhIVzBoWjAtcWltQjA0N0dUWV9YSU1HMFZfN0lWQ25Fc05IOW94b2RjZlRZSGx0MkZWNElv?oc=5",
-      "source": "transfermarkt.com",
+      "source": "Transfermarkt",
       "published": "2026-09-02T19:34:15.000Z",
-      "summary": "Derby County &nbsp;&nbsp; transfermarkt.com",
+      "summary": "Derby County &nbsp;&nbsp; Transfermarkt",
       "image": "",
       "type": "news"
     },
@@ -283,15 +274,6 @@
       "type": "news"
     },
     {
-      "title": "SIGNING: Alex Mowatt joins Derby County",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLU3JuWDM0QzRad2ZZVEExNjFucG5vMmZpd3ZVUWlBM2E1Ri1wZkprd1V3TGRmbzVyVHJHd09hODdWQWk2QnlzcWJYUFhlTHJKZkJoV1JXMEJoLXlLRnNmenlRUTc3dkdDaVVXdTlOS0x3SWpRcGxNTWp3TjZBSFE?oc=5",
-      "source": "Derby County",
-      "published": "2026-08-14T07:00:00.000Z",
-      "summary": "SIGNING: Alex Mowatt joins Derby County &nbsp;&nbsp; Derby County",
-      "image": "",
-      "type": "done"
-    },
-    {
       "title": "Alex Mowatt: Derby County sign midfielder from West Bromwich Albion",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBWOE5mNTY1OW1qY3hrR0dRa0VpOGZPRHY2bzlPdzZKS1pfeEhYcHVsU0cyQjdFVkZRekRqTXVDNTQ1RWhRMjVuSGRiTC1XUzQ4RGFoV1FPWjV5RnJiQXRwT01FdFl5UDQ?oc=5",
       "source": "BBC",
@@ -436,6 +418,15 @@
       "type": "news"
     },
     {
+      "title": "SIGNING: Sam Szmodics rejoins the Rams",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBUR0Fxd2NKRlh1OS1yYmNPV0JWWHJoRFFLNzlrc211Y2RWeXdXS1ZTbExDRUdOMGRROFdnSWRtQ1VIVXZZUEUtWlRnVnQ3QkFvbHAtUjBNbmVHOFppRkd4ajdoQ2ZMcTVEcU9zOF9xcDhhRno2Rlh6LVFqY251QQ?oc=5",
+      "source": "Derby County",
+      "published": "2026-08-01T07:00:00.000Z",
+      "summary": "SIGNING: Sam Szmodics rejoins the Rams &nbsp;&nbsp; Derby County",
+      "image": "",
+      "type": "news"
+    },
+    {
       "title": "Sam Szmodics: Derby County re-sign Ipswich Town forward on loan",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1TOTM4bGZESWxnWkhSMjMyc2gtVEV3MS16OUMzNU5RdGhJbW9LbDRldjRMRzNBVFo1VE1sVjdrRTZjQTd2elc0dGtjcFktSmxQSHdOTGlpLUk2Z2c1allIWEFuWHlERkE?oc=5",
       "source": "BBC",
@@ -465,9 +456,9 @@
     {
       "title": "Derby County: Saudi Arabia's Turki Al-Sheikh set to finalise Rams investment",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XVWdpb2E3NTFtRUF0ejRXOE95Ym1wMTNGcDRVaWRWWDVvSzRJcmttNE1pYVAtMlhfYndTTXl3MHRQZFpKVF8xSmxYbHB0TnVnZWZ0MDNxM0NuVnpHdHRqc21FaXh4bVVDWHc?oc=5",
-      "source": "BBC",
+      "source": "bbc.co.uk",
       "published": "2026-07-29T07:00:00.000Z",
-      "summary": "Derby County: Saudi Arabia's Turki Al-Sheikh set to finalise Rams investment &nbsp;&nbsp; BBC",
+      "summary": "Derby County: Saudi Arabia's Turki Al-Sheikh set to finalise Rams investment &nbsp;&nbsp; bbc.co.uk",
       "image": "",
       "type": "news"
     },
@@ -576,6 +567,15 @@
       "source": "Yahoo Sports Canada",
       "published": "2026-07-22T07:00:00.000Z",
       "summary": "Derby County’s Jacob Widell Zetterström attracts interest from Lyon &nbsp;&nbsp; Yahoo Sports Canada",
+      "image": "",
+      "type": "rumour"
+    },
+    {
+      "title": "Derby County linked with former Rangers winger but Championship rivals in the driving seat",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcElkc1o0VWp6YjB2U1hwbWh1Z2xzaUFZOHBwMTRLT0NDa2o0Vnk4QVVweEFLQlNlSTdNX3JjYjJQR1pYcjZjbnpySUozazN5NVRhUTB5Y21PTW1neDdNSzVKUEFFUW15UUNjbUFFUWdlZUlRX3djc3FGQ216MDV1SDJKbFVzZ1NZMkRYTkpick1FNlA5U1FDQmloMWxKUWc3UnlZUlROQ3FyOVk?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-07-21T07:00:00.000Z",
+      "summary": "Derby County linked with former Rangers winger but Championship rivals in the driving seat &nbsp;&nbsp; Derbyshire Live",
       "image": "",
       "type": "rumour"
     }
