@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T12:16:50.255Z",
+  "updatedAt": "2026-09-13T12:36:18.384Z",
   "targets": [
     {
       "name": "Manchester City",
@@ -375,9 +375,9 @@
     {
       "title": "Derby County ‘off the market’ as Turki Alalshikh abandons proposed takeover",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYXB5R2pqUm5aUkhTT2tfd2hqQXdINERicFV4Z3NYamR5M3U1NXpGam0xR0tFWTlWYXlJUjdXTHZWWEh1MFpQXzcxVW0yV0djOXFVOHlSM29wYi12QzRJcUgwNmllT0sybVIzSE1DN3BLWUp0THhCSkh1bHhqQm9Oc01GX2FmLVdzQ0xiQmpKSklOSFJENjEyejNrYk5KQ0tscEFGNGRmako1dw?oc=5",
-      "source": "independent.co.uk",
+      "source": "The Independent",
       "published": "2026-08-10T07:00:00.000Z",
-      "summary": "Derby County ‘off the market’ as Turki Alalshikh abandons proposed takeover &nbsp;&nbsp; independent.co.uk",
+      "summary": "Derby County ‘off the market’ as Turki Alalshikh abandons proposed takeover &nbsp;&nbsp; The Independent",
       "image": "",
       "type": "news"
     },
@@ -562,15 +562,6 @@
       "type": "rumour"
     },
     {
-      "title": "Ryan Hedges: Winger not expected to sign for Derby County",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53d3FIZTRxNTNqNkhtM2ZLWmNaYjRRdWxBTE9tazZaOFFhdW5LM0ctcGNGNTMxOUFhSmhsMUQ5bm5xcm1ENFhTUU15LTEzRzdJanhjWVd2UE9JQkNJZ1A1blBBOVp2c1MzWFE?oc=5",
-      "source": "BBC",
-      "published": "2026-07-17T07:00:00.000Z",
-      "summary": "Ryan Hedges: Winger not expected to sign for Derby County &nbsp;&nbsp; BBC",
-      "image": "",
-      "type": "news"
-    },
-    {
       "title": "TRANSFER NEWS: Introducing...Charlie Taylor",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVGczOFVQWVNQUUFPQTdNN2VNS2hpS3lPYTY4RFZUa01aNFk4cjMzdDhmdGx5YTNrX3FCWEphaDVyWHlVOGZyTk1abUUxeU1DMGJuSG9rX2ItN2dmMGxXQjlQR3dyUllSN1RZQWVUZm9DdTVuUHpyNnlNc2IwREdIZw?oc=5",
       "source": "Derby County",
@@ -578,6 +569,15 @@
       "summary": "TRANSFER NEWS: Introducing...Charlie Taylor &nbsp;&nbsp; Derby County",
       "image": "",
       "type": "news"
+    },
+    {
+      "title": "SIGNING: Defender Charlie Taylor signs for Derby County",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeDRPTWRMTExjbkNiNUIwdURWNHNRNHcxdHpGZGg0SHlqMjlGeXpIcjRqRkxBWW9DZXQ1M1pWQlpVcWh6d1l5TXlsbU81cWptRE00WFhTMHpob05ZTWF6ZndzekpXM21IOHJsTWZTQXhIRTBUNnE4eHRTY1FmRUREbHZXR1JYc1dPcXd2cTRUeXV6RFVE?oc=5",
+      "source": "Derby County",
+      "published": "2026-07-14T07:00:00.000Z",
+      "summary": "SIGNING: Defender Charlie Taylor signs for Derby County &nbsp;&nbsp; Derby County",
+      "image": "",
+      "type": "done"
     }
   ]
 }
