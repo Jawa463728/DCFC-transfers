@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-09-14T08:36:27.158Z",
+  "updatedAt": "2026-09-14T08:53:50.637Z",
   "targets": [
-    {
-      "name": "Leicester City",
-      "mentions": 2,
-      "score": 92,
-      "context": "More than one recent link"
-    },
     {
       "name": "Manchester City",
       "mentions": 1,
       "score": 78,
+      "context": "Fresh media link"
+    },
+    {
+      "name": "Leicester City",
+      "mentions": 1,
+      "score": 34,
       "context": "Fresh media link"
     },
     {
@@ -39,15 +39,6 @@
     }
   ],
   "stories": [
-    {
-      "title": "Turki Alalshikh 'sounded out' after Derby County takeover collapse as Leicester City seek £200m deal",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYVphMnhzMWRSc09wbW9uN0dJMXhfc1BkLU9yNDFyQnRpdHdNMm1ZdU9yXzBVWEJKNzJlU19hMTJCaEowUTBvNU1rQzY0eXNPUGx4M0hIYUc0UU5taGFNcjRPNmRHcjEyRmQxNGhvM3BzQ2taemVGQThZUEN6M1JONlcyeVlXNE9pbzhDTjdxVmlBZ0tob0wzcnA4d1pzNjRId0xRekZHVGNaaWpV?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-09-11T08:27:00.000Z",
-      "summary": "Turki Alalshikh 'sounded out' after Derby County takeover collapse as Leicester City seek £200m deal &nbsp;&nbsp; Derbyshire Live",
-      "image": "",
-      "type": "rumour"
-    },
     {
       "title": "Businessman confirms Leicester City takeover interest with Turki Alalshikh also lurking after Derby County collapse",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTUtOLW0zN3ZvRWI1OHVGXzZtX0c4MHgwS2h6c3VGcTRPQU15YmNQdzFSOTNraWZsdXoxb0Y1MldkV2l3bnlXUVAwMGFDUTdFWXFxZVp1TTVkMTljY2h6MUl3VjQ5X0FVWHVNWkhmYUUxUThiRlkwVnJsYUFUcDJPUFdBOXNlSUhFbFd2ZnNzY2dlYlRISHNr?oc=5",
@@ -173,15 +164,6 @@
       "summary": "NEW SIGNING INTERVIEW: Henrik Meister &nbsp;&nbsp; Derby County",
       "image": "",
       "type": "news"
-    },
-    {
-      "title": "Sheffield United set to sign Leicester City utility man after Derby County transfer interest",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOa0lvU1o3OGRxaUpCUTF6MG0xc1dnaGNVX25QTUtiSDc1XzdfTU5pOTdlakZ5OXVOM3NHVURFM0xPXzVFWmtFbHlaSjNUMl9iRDY0Z3lGSUhVRER5SU9FMDBVaFJORURYNzhwYTlqS3V1czRFdHdyN2xUVjAyQWNmT2tXandwTFVPdU1R?oc=5",
-      "source": "Yahoo Sports UK",
-      "published": "2026-08-30T07:00:00.000Z",
-      "summary": "Sheffield United set to sign Leicester City utility man after Derby County transfer interest &nbsp;&nbsp; Yahoo Sports UK",
-      "image": "",
-      "type": "rumour"
     },
     {
       "title": "Fresh Anis Mehmeti update emerges as Birmingham City, Wrexham and Derby County eye deal",
@@ -366,9 +348,9 @@
     {
       "title": "Saudi boxing chief Turki Alalshikh gives statement as he pulls out of running to buy Derby County",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTFZZT1hScjBLWGpYLXlaUFlIVWxRZXVHSmtYVjJ2Sm82WWJXdW9KSWhSS0ROX0sySTFHV3ZNMHY4WV9XakNBU0dRRkR1Um5JMVcxb3JlMHczTkdRampMUVVYZjhKOVYtbzdUcVZSWTVHNzNGSm9jYXoteDkxV2pVdXZvc2Jhcjd0Z004Qm1SZXRKNVBxbnhz?oc=5",
-      "source": "talksport.com",
+      "source": "talkSPORT",
       "published": "2026-08-10T07:00:00.000Z",
-      "summary": "Saudi boxing chief Turki Alalshikh gives statement as he pulls out of running to buy Derby County &nbsp;&nbsp; talksport.com",
+      "summary": "Saudi boxing chief Turki Alalshikh gives statement as he pulls out of running to buy Derby County &nbsp;&nbsp; talkSPORT",
       "image": "",
       "type": "news"
     },
@@ -578,6 +560,24 @@
       "summary": "Ryan Hedges: Winger not expected to sign for Derby County &nbsp;&nbsp; BBC",
       "image": "",
       "type": "news"
+    },
+    {
+      "title": "TRANSFER NEWS: Introducing...Charlie Taylor",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVGczOFVQWVNQUUFPQTdNN2VNS2hpS3lPYTY4RFZUa01aNFk4cjMzdDhmdGx5YTNrX3FCWEphaDVyWHlVOGZyTk1abUUxeU1DMGJuSG9rX2ItN2dmMGxXQjlQR3dyUllSN1RZQWVUZm9DdTVuUHpyNnlNc2IwREdIZw?oc=5",
+      "source": "Derby County",
+      "published": "2026-07-14T07:00:00.000Z",
+      "summary": "TRANSFER NEWS: Introducing...Charlie Taylor &nbsp;&nbsp; Derby County",
+      "image": "",
+      "type": "news"
+    },
+    {
+      "title": "SIGNING: Defender Charlie Taylor signs for Derby County",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeDRPTWRMTExjbkNiNUIwdURWNHNRNHcxdHpGZGg0SHlqMjlGeXpIcjRqRkxBWW9DZXQ1M1pWQlpVcWh6d1l5TXlsbU81cWptRE00WFhTMHpob05ZTWF6ZndzekpXM21IOHJsTWZTQXhIRTBUNnE4eHRTY1FmRUREbHZXR1JYc1dPcXd2cTRUeXV6RFVE?oc=5",
+      "source": "Derby County",
+      "published": "2026-07-14T07:00:00.000Z",
+      "summary": "SIGNING: Defender Charlie Taylor signs for Derby County &nbsp;&nbsp; Derby County",
+      "image": "",
+      "type": "done"
     }
   ]
 }
