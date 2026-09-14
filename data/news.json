@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T19:31:39.189Z",
+  "updatedAt": "2026-09-14T19:46:15.479Z",
   "targets": [
     {
       "name": "Manchester City",
@@ -20,19 +20,7 @@
       "context": "Fresh media link"
     },
     {
-      "name": "Divin Mubama",
-      "mentions": 1,
-      "score": 34,
-      "context": "Fresh media link"
-    },
-    {
       "name": "World Cup",
-      "mentions": 1,
-      "score": 27,
-      "context": "Fresh media link"
-    },
-    {
-      "name": "Jacob Widell Zetterstrom",
       "mentions": 1,
       "score": 27,
       "context": "Fresh media link"
@@ -365,7 +353,7 @@
     },
     {
       "title": "Derby County: Saudi Arabia's Turki Al-Sheikh set to finalise Rams investment",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XVWdpb2E3NTFtRUF0ejRXOE95Ym1wMTNGcDRVaWRWWDVvSzRJcmttNE1pYVAtMlhfYndTTXl3MHRQZFpKVF8xSmxYbHB0TnVnZWZ0MDNxM0NuVnpHdHRqc21FaXh4bVVDWHc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Wdy16S1huOVBlV3hSYW9ScUI3NnRxUVAwMjhXdEd4S1kyS1dBQy1JUnlTUkRDd2NycUlRek9sVW5jRmoxUGJQZERzN1p6ZUp2elhzRGh5aDJ0aExxdEVqOV9pQXA2TEU?oc=5",
       "source": "BBC",
       "published": "2026-07-29T07:00:00.000Z",
       "summary": "Derby County: Saudi Arabia's Turki Al-Sheikh set to finalise Rams investment &nbsp;&nbsp; BBC",
@@ -434,6 +422,24 @@
       "summary": "Derby County complete third summer signing as Rams move for midfielder &nbsp;&nbsp; Derbyshire Live",
       "image": "",
       "type": "rumour"
+    },
+    {
+      "title": "Filip Bilbija: Derby County sign former Paderborn midfielder",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zVTNJbEtFNlBwTkpRSjV5NVUzdzNzaks4NDNZVWJRdHVFTUQtY0k2UWtRNlZ0WXVBQ3QxcjNFamFzU3ZGMjhzdWIzNFhtS2VHR000LWJpSm10aUdMVE5rcjBuSTRuSEk?oc=5",
+      "source": "BBC",
+      "published": "2026-07-22T07:00:00.000Z",
+      "summary": "Filip Bilbija: Derby County sign former Paderborn midfielder &nbsp;&nbsp; BBC",
+      "image": "",
+      "type": "news"
+    },
+    {
+      "title": "A £9.6m transfer, Pep Guardiola invite and the big question mark after Derby County link",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPazZfcU1QSWt6cVVfSWJ5cFZDNnRvRXJwaXQ2STlaUi0xdFprSnZkcEtqZnBqb19OdEtxTzdhV3A2RWxxamVneFFnbUpyUTYwcjBNYlRjcDg1eERidFctTi1WRTRWTGlTSlRXYU5fZXUzNkV2WXdJMFk5MjN6aXZoNlRJWWo3TkVTXzhKN1RrRzBkdHVyejNabW9FaEdWZUZ0dW53dmp4TDQyam8?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-07-22T07:00:00.000Z",
+      "summary": "A £9.6m transfer, Pep Guardiola invite and the big question mark after Derby County link &nbsp;&nbsp; Derbyshire Live",
+      "image": "",
+      "type": "news"
     },
     {
       "title": "Derby County ace makes Erling Haaland request as superstar responds to Sondre Langas return",
@@ -560,24 +566,6 @@
       "summary": "Ben Brereton Diaz sparks Derby County transfer hope as he opens up on Pride Park switch &nbsp;&nbsp; Derbyshire Live",
       "image": "",
       "type": "news"
-    },
-    {
-      "title": "Derby County linked with Southampton goalkeeper amid Jacob Widell Zetterstrom rumours",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQS0N2X1A3Z1o0N3FLa1ZLSHNwWk9EakJ3TjdxZzFYN3ZrNmZ3WjJ5ZTdZaHktWG51Qm4zSnVJRDZUTnJYbHFuUmhvVXRZOV80ek5HZ29UVHRzeHhzbUVieTZNT29oZVlzSmQ3NUxHYTg4TmVMUEFYdFo5WkEwbmtOY3BKWHdnVzVIVzZpOXNKOWJNSGVyT1U4Ql9PRktMX1JVSUg4NGNYdUxQY1lQbXRjbXJ3?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-07-07T07:00:00.000Z",
-      "summary": "Derby County linked with Southampton goalkeeper amid Jacob Widell Zetterstrom rumours &nbsp;&nbsp; Derbyshire Live",
-      "image": "",
-      "type": "rumour"
-    },
-    {
-      "title": "Divin Mubama and Derby County's transfer interest - here's all you need to know",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTERRbEcwMlYwMHM1ZlhKMFdTU0h3VWdtVS1VM3BRT0d5ZE5RTGlsQURlMTZVRVNidm5vMjY0N3ZfMjBDTVhVbTh3aHdEVE84VTFmWDRRUEdmelNlRVJLWjBGQ1ZRYzZveDdXcmQ2Qk5xOG1sTDlQbHJiUHVxOGFLci05Wi1oVlNseXZGcUZyRXBJQzhWXzZNZkdvOFNBbnhES1ZoX19Wdnhmdw?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-07-07T07:00:00.000Z",
-      "summary": "Divin Mubama and Derby County's transfer interest - here's all you need to know &nbsp;&nbsp; Derbyshire Live",
-      "image": "",
-      "type": "rumour"
     }
   ]
 }
