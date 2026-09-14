@@ -1,12 +1,6 @@
 {
-  "updatedAt": "2026-09-14T09:50:50.315Z",
+  "updatedAt": "2026-09-14T10:05:51.672Z",
   "targets": [
-    {
-      "name": "Leicester City",
-      "mentions": 2,
-      "score": 92,
-      "context": "More than one recent link"
-    },
     {
       "name": "Manchester City",
       "mentions": 1,
@@ -14,9 +8,9 @@
       "context": "Fresh media link"
     },
     {
-      "name": "Turki Alalshikh",
+      "name": "Leicester City",
       "mentions": 1,
-      "score": 34,
+      "score": 69,
       "context": "Fresh media link"
     },
     {
@@ -36,18 +30,15 @@
       "mentions": 1,
       "score": 34,
       "context": "Fresh media link"
+    },
+    {
+      "name": "Anis Mehmeti",
+      "mentions": 1,
+      "score": 34,
+      "context": "Fresh media link"
     }
   ],
   "stories": [
-    {
-      "title": "Businessman confirms Leicester City takeover interest with Turki Alalshikh also lurking after Derby County collapse",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTUtOLW0zN3ZvRWI1OHVGXzZtX0c4MHgwS2h6c3VGcTRPQU15YmNQdzFSOTNraWZsdXoxb0Y1MldkV2l3bnlXUVAwMGFDUTdFWXFxZVp1TTVkMTljY2h6MUl3VjQ5X0FVWHVNWkhmYUUxUThiRlkwVnJsYUFUcDJPUFdBOXNlSUhFbFd2ZnNzY2dlYlRISHNr?oc=5",
-      "source": "Yahoo Sports UK",
-      "published": "2026-09-11T07:59:19.000Z",
-      "summary": "Businessman confirms Leicester City takeover interest with Turki Alalshikh also lurking after Derby County collapse &nbsp;&nbsp; Yahoo Sports UK",
-      "image": "",
-      "type": "rumour"
-    },
     {
       "title": "Derby County midfielder Kenzo Goudmijn joins Grasshoppers on loan",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kWG1ORmxEVnI3WFN6VUQwZlZPMHVBUnZTY0gzclhVVzJveFdRaTYtQlhNaUVldkF2dTM1X3B5a3c1eGZyZWZVLV96N3JZQThRb1E4bXQ4RUVmR0JON25vZ2VzQmdoUGgwU3c?oc=5",
@@ -578,6 +569,15 @@
       "summary": "TRANSFER NEWS: Introducing...Charlie Taylor &nbsp;&nbsp; Derby County",
       "image": "",
       "type": "news"
+    },
+    {
+      "title": "SIGNING: Defender Charlie Taylor signs for Derby County",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeDRPTWRMTExjbkNiNUIwdURWNHNRNHcxdHpGZGg0SHlqMjlGeXpIcjRqRkxBWW9DZXQ1M1pWQlpVcWh6d1l5TXlsbU81cWptRE00WFhTMHpob05ZTWF6ZndzekpXM21IOHJsTWZTQXhIRTBUNnE4eHRTY1FmRUREbHZXR1JYc1dPcXd2cTRUeXV6RFVE?oc=5",
+      "source": "Derby County",
+      "published": "2026-07-14T07:00:00.000Z",
+      "summary": "SIGNING: Defender Charlie Taylor signs for Derby County &nbsp;&nbsp; Derby County",
+      "image": "",
+      "type": "done"
     }
   ]
 }
