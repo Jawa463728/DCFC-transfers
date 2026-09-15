@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T00:27:21.892Z",
+  "updatedAt": "2026-09-15T00:49:45.467Z",
   "targets": [
     {
       "name": "Manchester City",
@@ -496,6 +496,15 @@
       "type": "news"
     },
     {
+      "title": "A £9.6m transfer, Pep Guardiola invite and the big question mark after Derby County link",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPazZfcU1QSWt6cVVfSWJ5cFZDNnRvRXJwaXQ2STlaUi0xdFprSnZkcEtqZnBqb19OdEtxTzdhV3A2RWxxamVneFFnbUpyUTYwcjBNYlRjcDg1eERidFctTi1WRTRWTGlTSlRXYU5fZXUzNkV2WXdJMFk5MjN6aXZoNlRJWWo3TkVTXzhKN1RrRzBkdHVyejNabW9FaEdWZUZ0dW53dmp4TDQyam8?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-07-22T07:00:00.000Z",
+      "summary": "A £9.6m transfer, Pep Guardiola invite and the big question mark after Derby County link &nbsp;&nbsp; Derbyshire Live",
+      "image": "",
+      "type": "news"
+    },
+    {
       "title": "Derby County ace makes Erling Haaland request as superstar responds to Sondre Langas return",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbjMyWk9hU3YxUGNzNGxoYWQxWWZndTRrc0hqc3AySE9xSXFuQWVZX2YycVNEQjNENW1zMVptM0cxM24wVEhod1hwOUJ6eXExM3BxdTl3TTBUSEdCOExVc0NiUmlxaEowMm5jdmZVWmhIWFJIZ1Z2N0tQaDc4NEdJQTZKRi1qeW5EX0h3X0dsWXNHMEx2Ti0wS3M0TS1aYkkxdmtUbDN2WEZ3UQ?oc=5",
       "source": "Derbyshire Live",
@@ -557,15 +566,6 @@
       "summary": "SIGNING: Defender Charlie Taylor signs for Derby County &nbsp;&nbsp; Derby County",
       "image": "",
       "type": "done"
-    },
-    {
-      "title": "NEW SIGNING INTERVIEW: Charlie Taylor",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAtdkhZbU8tbFNPRm9BMWxoOEhxY3F3YjU4Qkl2VVVNVVhySm9BRjhIWTZzdUQxbEFiV1VuczJMbU5ET3JPY2pKN19kVzlWUnYzcmhCS3BKcWV3U3lwbl9xTUZPMjNWZ2l0U3hweGNSaHloMGF5VjJNSjNiemY?oc=5",
-      "source": "Derby County",
-      "published": "2026-07-14T07:00:00.000Z",
-      "summary": "NEW SIGNING INTERVIEW: Charlie Taylor &nbsp;&nbsp; Derby County",
-      "image": "",
-      "type": "news"
     }
   ]
 }
