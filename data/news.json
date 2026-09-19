@@ -1,8 +1,14 @@
 {
-  "updatedAt": "2026-09-18T22:26:53.927Z",
+  "updatedAt": "2026-09-19T00:32:22.942Z",
   "targets": [
     {
       "name": "Kyle Walker",
+      "mentions": 1,
+      "score": 34,
+      "context": "Fresh media link"
+    },
+    {
+      "name": "Wrexham Millwall",
       "mentions": 1,
       "score": 34,
       "context": "Fresh media link"
@@ -20,19 +26,13 @@
       "context": "Fresh media link"
     },
     {
+      "name": "Yahoo Sports",
+      "mentions": 1,
+      "score": 34,
+      "context": "Fresh media link"
+    },
+    {
       "name": "Henrik Meister",
-      "mentions": 1,
-      "score": 34,
-      "context": "Fresh media link"
-    },
-    {
-      "name": "Ben Brereton Diaz",
-      "mentions": 1,
-      "score": 34,
-      "context": "Fresh media link"
-    },
-    {
-      "name": "West Brom",
       "mentions": 1,
       "score": 34,
       "context": "Fresh media link"
@@ -50,10 +50,10 @@
     },
     {
       "title": "Eiran Cashin: Defender says Derby County still 'feels like home' after loan return",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE41dHJWNnVIRHJaN2dnUDI0aERTZ2NRMDBOaWN6QkIyM1l5TDF6YWxRS1hrVTNMeG9NRlFIbmJya2RiWUZZWGEtSUNYU1lockw5MmJtUGhtR3B4R281bXFlenc5eXRQU3ZfcVR3?oc=5",
-      "source": "bbc.co.uk",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNbFBSb3NNV3VRVlVVcWJja25VOUxSakp4SHNZVWhPZ095QjJlRkZKU215WGJnSFNDVlFLMmlGUnRZYWZyNFc1SS0wX0JzcEVNT3pYWG5HUmhEN05oeWxxOGx0Uy00NlVtYXlna2p5eHZ2R21XcWlhekROcmYtd1ZtZEREZ2tJejNzZTR4VWI1a2hOWGpUMm1CSk94aFVPTTdiZXZxSmlyRmRmdzJXbnJvQlVkTzFxQjI1alNhLVNXS1JVNkV5QTEtVzMtb1hyd2RvelZSSDFmR2hwb3BPSU9PYzVNeC1OZjBIckpSNFZQMXVJUQ?oc=5",
+      "source": "BBC",
       "published": "2026-09-18T13:54:22.000Z",
-      "summary": "Eiran Cashin: Defender says Derby County still 'feels like home' after loan return &nbsp;&nbsp; bbc.co.uk",
+      "summary": "Eiran Cashin: Defender says Derby County still 'feels like home' after loan return &nbsp;&nbsp; BBC",
       "image": "",
       "type": "news"
     },
@@ -76,6 +76,15 @@
       "type": "news"
     },
     {
+      "title": "Derby County, Wrexham, Millwall target shares key factor behind stay with Championship rivals after confirming summer ‘interest’",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbXBLQ0w5S2hMNlEwYzhYSkhURy1GaGxtZVFTY0UtcXpRdkFLYzI1Vm8zQUhzYXZURTVDUXFNZ3V2WXl2aUoxR0o1eGIxaW5rQ21WaGVhUmUwOE5LRmV3RnVQNGhmVkVOOV9MSDJqVUdFcDhmRWZNTzdPS1lza2kwS0FXWmxUTi1zamU1dg?oc=5",
+      "source": "Yahoo",
+      "published": "2026-09-16T07:22:37.000Z",
+      "summary": "Derby County, Wrexham, Millwall target shares key factor behind stay with Championship rivals after confirming summer ‘interest’ &nbsp;&nbsp; Yahoo",
+      "image": "",
+      "type": "rumour"
+    },
+    {
       "title": "Businessman confirms Leicester City takeover interest with Turki Alalshikh also lurking after Derby County collapse",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTUtOLW0zN3ZvRWI1OHVGXzZtX0c4MHgwS2h6c3VGcTRPQU15YmNQdzFSOTNraWZsdXoxb0Y1MldkV2l3bnlXUVAwMGFDUTdFWXFxZVp1TTVkMTljY2h6MUl3VjQ5X0FVWHVNWkhmYUUxUThiRlkwVnJsYUFUcDJPUFdBOXNlSUhFbFd2ZnNzY2dlYlRISHNr?oc=5",
       "source": "Yahoo",
@@ -96,9 +105,9 @@
     {
       "title": "West Ham 3-0 Derby County: Hammers earn back-to-back wins",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5aMldUZ0xIZVJnaVRlYjlOaXJ0cGVqcEtQc1pCcXBVZkp6c3JlckxkbC12R0xWVmhRcG5LYzhfZDVqVG84WGlreng3V0hUUEJLQ2x6QTg3Y2p1bjZhaEdLMzVqN1g5dw?oc=5",
-      "source": "bbc.co.uk",
+      "source": "BBC",
       "published": "2026-09-05T07:00:00.000Z",
-      "summary": "West Ham 3-0 Derby County: Hammers earn back-to-back wins &nbsp;&nbsp; bbc.co.uk",
+      "summary": "West Ham 3-0 Derby County: Hammers earn back-to-back wins &nbsp;&nbsp; BBC",
       "image": "",
       "type": "news"
     },
@@ -175,11 +184,11 @@
       "type": "news"
     },
     {
-      "title": "Championship side to keep Derby County, Millwall and Wrexham target",
+      "title": "Championship side to keep Derby County, Millwall and Wrexham target - Yahoo Sports",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVHZJWlVtczQ3ZURDNkU1Z2RVR1JEdmoxVFpPV1VGQ2VSQ1p4eTR5dmdNYUEtZm1FT3oyOHBnWEVlYjJmUWVKNEhyQXl6bWFWbEl1V0ptM3Q3TXo5TmtjeWZrVUNEYm9wSU9Eb25FaVI3RXlHOG45Yk9zcTdCUFV2YXdrX1FhYWRrSFBr?oc=5",
       "source": "Yahoo",
       "published": "2026-08-31T07:00:00.000Z",
-      "summary": "Championship side to keep Derby County, Millwall and Wrexham target &nbsp;&nbsp; Yahoo",
+      "summary": "Championship side to keep Derby County, Millwall and Wrexham target - Yahoo Sports &nbsp;&nbsp; Yahoo",
       "image": "",
       "type": "rumour"
     },
@@ -285,9 +294,9 @@
     {
       "title": "Derby County 2-2 Cardiff City: Rams fight back twice to earn draw in thriller with Bluebirds",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE51NkRUZlRucTdBMDdWUktPaERlZXgzVU9JOEVQYXpWNmo5Q1Z6cGFzalJPcTFwRjhpTklVTzB1OGVwZnF4SUR5UXdKQTlHbDlnWjdVQVpSNDdEbm1PdWdmWVlTbkY2UQ?oc=5",
-      "source": "bbc.co.uk",
+      "source": "BBC",
       "published": "2026-08-22T07:00:00.000Z",
-      "summary": "Derby County 2-2 Cardiff City: Rams fight back twice to earn draw in thriller with Bluebirds &nbsp;&nbsp; bbc.co.uk",
+      "summary": "Derby County 2-2 Cardiff City: Rams fight back twice to earn draw in thriller with Bluebirds &nbsp;&nbsp; BBC",
       "image": "",
       "type": "news"
     },
@@ -402,9 +411,9 @@
     {
       "title": "Saudi boxing chief Turki Alalshikh gives statement as he pulls out of running to buy Derby County",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTFZZT1hScjBLWGpYLXlaUFlIVWxRZXVHSmtYVjJ2Sm82WWJXdW9KSWhSS0ROX0sySTFHV3ZNMHY4WV9XakNBU0dRRkR1Um5JMVcxb3JlMHczTkdRampMUVVYZjhKOVYtbzdUcVZSWTVHNzNGSm9jYXoteDkxV2pVdXZvc2Jhcjd0Z004Qm1SZXRKNVBxbnhz?oc=5",
-      "source": "talksport.com",
+      "source": "talkSPORT",
       "published": "2026-08-10T07:00:00.000Z",
-      "summary": "Saudi boxing chief Turki Alalshikh gives statement as he pulls out of running to buy Derby County &nbsp;&nbsp; talksport.com",
+      "summary": "Saudi boxing chief Turki Alalshikh gives statement as he pulls out of running to buy Derby County &nbsp;&nbsp; talkSPORT",
       "image": "",
       "type": "news"
     },
@@ -569,15 +578,6 @@
       "summary": "Derby County ace makes Erling Haaland request as superstar responds to Sondre Langas return &nbsp;&nbsp; Derbyshire Live",
       "image": "",
       "type": "news"
-    },
-    {
-      "title": "Derby County’s FIFA World Cup star draws new interest from Ligue 1 side",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRi1RUGYwdVNKZl9pVDdFSXcxaTBXa2d0NElqMUNNMFFuanJSaHFfNl9yMHdaVF9ZcDhtUmtRckdRUG9CYjd6cXd3RVphVW9WdW1md2FORVlod0N4dVRLMDVfWHh6a1VRMUhFcVliRWsyZF85ZkNSajZNbWlhdFNiUQ?oc=5",
-      "source": "Yahoo",
-      "published": "2026-07-22T07:00:00.000Z",
-      "summary": "Derby County’s FIFA World Cup star draws new interest from Ligue 1 side &nbsp;&nbsp; Yahoo",
-      "image": "",
-      "type": "rumour"
     }
   ]
 }
