@@ -1,22 +1,16 @@
 {
-  "updatedAt": "2026-09-23T23:07:04.991Z",
+  "updatedAt": "2026-09-24T01:23:15.787Z",
   "targets": [
+    {
+      "name": "Leicester City",
+      "mentions": 1,
+      "score": 69,
+      "context": "Fresh media link"
+    },
     {
       "name": "Patrick Agyemang",
       "mentions": 1,
       "score": 43,
-      "context": "Fresh media link"
-    },
-    {
-      "name": "Leicester City",
-      "mentions": 1,
-      "score": 34,
-      "context": "Fresh media link"
-    },
-    {
-      "name": "Turki Alalshikh",
-      "mentions": 1,
-      "score": 34,
       "context": "Fresh media link"
     },
     {
@@ -33,6 +27,12 @@
     },
     {
       "name": "Mikey Johnston",
+      "mentions": 1,
+      "score": 34,
+      "context": "Fresh media link"
+    },
+    {
+      "name": "Anis Mehmeti",
       "mentions": 1,
       "score": 34,
       "context": "Fresh media link"
@@ -110,15 +110,6 @@
       "summary": "Derby County 1-2 Birmingham City: Paik Seung-Ho earns Blues win &nbsp;&nbsp; BBC",
       "image": "",
       "type": "news"
-    },
-    {
-      "title": "Businessman confirms Leicester City takeover interest with Turki Alalshikh also lurking after Derby County collapse",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTUtOLW0zN3ZvRWI1OHVGXzZtX0c4MHgwS2h6c3VGcTRPQU15YmNQdzFSOTNraWZsdXoxb0Y1MldkV2l3bnlXUVAwMGFDUTdFWXFxZVp1TTVkMTljY2h6MUl3VjQ5X0FVWHVNWkhmYUUxUThiRlkwVnJsYUFUcDJPUFdBOXNlSUhFbFd2ZnNzY2dlYlRISHNr?oc=5",
-      "source": "Yahoo",
-      "published": "2026-09-11T07:00:00.000Z",
-      "summary": "Businessman confirms Leicester City takeover interest with Turki Alalshikh also lurking after Derby County collapse &nbsp;&nbsp; Yahoo",
-      "image": "",
-      "type": "rumour"
     },
     {
       "title": "TRANSFER NEWS: Goudmijn makes Swiss loan switch",
@@ -200,6 +191,15 @@
       "summary": "Derby County complete much-needed transfer as John Eustace gets wish granted &nbsp;&nbsp; Derbyshire Live",
       "image": "",
       "type": "news"
+    },
+    {
+      "title": "Sheffield United set to sign Leicester City utility man after Derby County transfer interest",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOa0lvU1o3OGRxaUpCUTF6MG0xc1dnaGNVX25QTUtiSDc1XzdfTU5pOTdlakZ5OXVOM3NHVURFM0xPXzVFWmtFbHlaSjNUMl9iRDY0Z3lGSUhVRER5SU9FMDBVaFJORURYNzhwYTlqS3V1czRFdHdyN2xUVjAyQWNmT2tXandwTFVPdU1R?oc=5",
+      "source": "Yahoo",
+      "published": "2026-08-30T07:00:00.000Z",
+      "summary": "Sheffield United set to sign Leicester City utility man after Derby County transfer interest &nbsp;&nbsp; Yahoo",
+      "image": "",
+      "type": "rumour"
     },
     {
       "title": "Fresh Anis Mehmeti update emerges as Birmingham City, Wrexham and Derby County eye deal",
@@ -290,6 +290,15 @@
       "summary": "SIGNING: Ryan Hedges signs for Derby &nbsp;&nbsp; Derby County",
       "image": "",
       "type": "done"
+    },
+    {
+      "title": "Derby County verdict issued by EFL expert and 'important' transfer need",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOGJxek9CUExCdmpDZk1KU01jRlp5dGQ5SUx1amZrbE5VajFIcTFKZ3NxdDZfSl9yWkNsREdOMVZvVGx3S2dFbm1MM3c0Z1Q0MnVQSklFVDlyME13azJfc1ItcTNpeGkxMmlKV3lDVWhMWWJCMURFV1hRelBMbDE1NENRVkhUZ2lmdWRpbWNTaXBubkt6Wmd4S1d4OWpfMlJrUVB2b0ZMQkU3UQ?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-08-19T07:00:00.000Z",
+      "summary": "Derby County verdict issued by EFL expert and 'important' transfer need &nbsp;&nbsp; Derbyshire Live",
+      "image": "",
+      "type": "news"
     },
     {
       "title": "SIGNING: Alex Mowatt joins Derby County",
@@ -490,6 +499,15 @@
       "type": "rumour"
     },
     {
+      "title": "Filip Bilbija: Derby County sign former Paderborn midfielder",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zVTNJbEtFNlBwTkpRSjV5NVUzdzNzaks4NDNZVWJRdHVFTUQtY0k2UWtRNlZ0WXVBQ3QxcjNFamFzU3ZGMjhzdWIzNFhtS2VHR000LWJpSm10aUdMVE5rcjBuSTRuSEk?oc=5",
+      "source": "BBC",
+      "published": "2026-07-22T07:00:00.000Z",
+      "summary": "Filip Bilbija: Derby County sign former Paderborn midfielder &nbsp;&nbsp; BBC",
+      "image": "",
+      "type": "news"
+    },
+    {
       "title": "Derby County’s Jacob Widell Zetterström attracts interest from Lyon",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeVZxOGU5SWV2LTQxUGNuWmpnYklOcDk5SWl0UG94S0ZpeG9YY2pYVzlKakFmcC1ock1CdHl6N1JvV0NWOEFoZkxHZkd2cnJPRDcyZmk5anZlQVR4RXBJY2VZNEFBU1E2c05zMUttVU1CS3ZJSEN6cDJ1N1lsdkU1VW9KQTZyNEpqZ2Y3WGhXX0h2eUJpQ3E0dk9vZ3ZyZ0Fxc0M0R2pIUTZKTTlqVktj?oc=5",
       "source": "Get French Football News",
@@ -558,24 +576,6 @@
       "source": "Derby County",
       "published": "2026-07-14T07:00:00.000Z",
       "summary": "NEW SIGNING INTERVIEW: Charlie Taylor &nbsp;&nbsp; Derby County",
-      "image": "",
-      "type": "news"
-    },
-    {
-      "title": "Two Wembley heroes, rising Wales star and Man City talents who can solve Derby County transfer quest",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWVZSUHRtZVBwZkItcU9tLXBZQW1FcTNjWXNGa1pKOUJNeGhBbTNmeUNWc2tWdjBiRWtGb1E4SWhUZnJqbWwyOUlKdnJoSzJZdHRlQ0dva2JyOVI1eW5DejZUTXJwT2d5UnVSeGdCS2hSeE00cmtYUkJQYUpNd0E3aGNpSGNURUlTTThlZHdEaHZjVk03NlVfMVBVazByLXdndDlULW9Od0jSAa4BQVVfeXFMT1lyVzhTTVFxYWRYNWRtZmtmOHFqMExNYUxzOWs3YjVDZEFvcDJmbk1mNlNkU3BQSUE3LVVNMVBKMzFDdDQ4RVl0dHRGRlBxQm1IOF9kY2pic1hUZlFUQUo3VTdfb2xxbENqNm5LZFRIUTlfR21IaERkZ2hxdmxvTmlSYmt1dlNmdjI0eklPVThLMFhQN2lNV19YdTh5Qms5a1lXbmlxMlRHX05DbVh3?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-07-14T07:00:00.000Z",
-      "summary": "Two Wembley heroes, rising Wales star and Man City talents who can solve Derby County transfer quest &nbsp;&nbsp; Derbyshire Live",
-      "image": "",
-      "type": "news"
-    },
-    {
-      "title": "Derby County: Rams sign defender Charlie Taylor after Saints release",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Wa2c3aXZ3MU1mazk1NkVUWkhsRnRnSzJxQjVFMUd0NWZGdFFaY244MFdkQXFwOU1YLWFJeTEtVlRrSk1pbkR1V1QyQ3Zsc29BOHlvbmEtQkpTenFoOEtqbU0yemtCTW8?oc=5",
-      "source": "BBC",
-      "published": "2026-07-14T07:00:00.000Z",
-      "summary": "Derby County: Rams sign defender Charlie Taylor after Saints release &nbsp;&nbsp; BBC",
       "image": "",
       "type": "news"
     }
