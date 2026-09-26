@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T12:23:58.403Z",
+  "updatedAt": "2026-09-26T16:35:40.471Z",
   "targets": [
     {
       "name": "Leicester City",
@@ -81,6 +81,15 @@
       "source": "Derbyshire Live",
       "published": "2026-09-23T09:45:00.000Z",
       "summary": "Derby County receive warning as David Clowes presented with £1.5 billion proposal &nbsp;&nbsp; Derbyshire Live",
+      "image": "",
+      "type": "news"
+    },
+    {
+      "title": "“I like this sort of signing”: Derby County new boy hailed by EFL expert",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORlVCSXlmbWZGOFdMY1VvOHBUb1V6SWFzYWVsRldNTENsZ0M3SG1vc0kyMFJ1bFBiczJCNnBzM0FQTEJlNWlMUWU2N1J3dUR1bklVY0R5NGFnRnBTT05GekpYLXc4d0VOWlJjZ0NKMXAyNHNkWDZKZGNmLVMwQ1pqamVpUQ?oc=5",
+      "source": "Yahoo",
+      "published": "2026-09-22T08:12:29.000Z",
+      "summary": "“I like this sort of signing”: Derby County new boy hailed by EFL expert &nbsp;&nbsp; Yahoo",
       "image": "",
       "type": "news"
     },
@@ -265,15 +274,6 @@
       "type": "rumour"
     },
     {
-      "title": "Gossip: Derby County target Mikey Johnston and Anis Mehmeti",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XOTFHLUhNUWpiS05yUmtpNEhrMEVuQjBkT09RWFktNS1sOHQ5S0R4c0pjbGgxV1oySmczY0tnWmRraVo4aUxBZ2NtRzlkR0ZsRWNSelJoSXZzYkZYUnRXYzBaMXlpWUxrZ3c?oc=5",
-      "source": "BBC",
-      "published": "2026-08-24T07:00:00.000Z",
-      "summary": "Gossip: Derby County target Mikey Johnston and Anis Mehmeti &nbsp;&nbsp; BBC",
-      "image": "",
-      "type": "rumour"
-    },
-    {
       "title": "Sam Szmodics latest as John Eustace expresses Derby County transfer hope",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRXAyZ1lEYnJKQnJ3aHF1UjVRemJJeWhnendOREJNck9qaFl1SDRlY0FuZmpOaVFYOFVWS0c5OUhXSHRQRzhxWThIU3lmSDZTTW1YSWNlMXRZM1F6QVpIYVRuNjZSbWZsZ2oycFBIX25nWlVCT0xmb0czeU9nYWlPWWNSZG9PZENOM050cnNPQkhMTllNM3JNSmdnVHRCWU1zcVZKdDJn?oc=5",
       "source": "Derbyshire Live",
@@ -402,9 +402,9 @@
     {
       "title": "Saudi boxing chief Turki Alalshikh gives statement as he pulls out of running to buy Derby County",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTFZZT1hScjBLWGpYLXlaUFlIVWxRZXVHSmtYVjJ2Sm82WWJXdW9KSWhSS0ROX0sySTFHV3ZNMHY4WV9XakNBU0dRRkR1Um5JMVcxb3JlMHczTkdRampMUVVYZjhKOVYtbzdUcVZSWTVHNzNGSm9jYXoteDkxV2pVdXZvc2Jhcjd0Z004Qm1SZXRKNVBxbnhz?oc=5",
-      "source": "talkSPORT",
+      "source": "talksport.com",
       "published": "2026-08-10T07:00:00.000Z",
-      "summary": "Saudi boxing chief Turki Alalshikh gives statement as he pulls out of running to buy Derby County &nbsp;&nbsp; talkSPORT",
+      "summary": "Saudi boxing chief Turki Alalshikh gives statement as he pulls out of running to buy Derby County &nbsp;&nbsp; talksport.com",
       "image": "",
       "type": "news"
     },
@@ -447,9 +447,9 @@
     {
       "title": "Derby County Eye League One Midfielder Swoop",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTkhQanY0enhGb1JrZk02SlMtWTBLdTJrSzRCMnZld19XTmhvTm5JUE1KZE43Y3pHcTNycFBLSDVyTG80OGxMdTcteG12U3pnVzRKb0dJcU10X3FySWQ2all6blRDMmY1Q2FwcHMyRjVDNG1iSU91MlcxQlJhdDZPbThySGZzdw?oc=5",
-      "source": "staceywest.net",
+      "source": "The Stacey West",
       "published": "2026-08-05T07:00:00.000Z",
-      "summary": "Derby County Eye League One Midfielder Swoop &nbsp;&nbsp; staceywest.net",
+      "summary": "Derby County Eye League One Midfielder Swoop &nbsp;&nbsp; The Stacey West",
       "image": "",
       "type": "news"
     },
@@ -528,9 +528,9 @@
     {
       "title": "Bristol City Seek To Hijack Derby County Transfer Pursuit",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOGFMWVpEd3p6MTJHV3lqZHhkcW1xelhBLWFMX0xiRXFFbE1DRHRHckM2ZnA4NVJhLTE2YkZQZ3FENV9jOV96LTlIVEl0YXVjcm01ekk0RGdfMVF5bW4xZ0dMSmdrcm04VkpyWVJFUTVMZElXWmJyMHZZUjRCd1d1TEpKY2tPWkVZLWYzOGRMVldINXJicUVz?oc=5",
-      "source": "staceywest.net",
+      "source": "The Stacey West",
       "published": "2026-07-23T07:00:00.000Z",
-      "summary": "Bristol City Seek To Hijack Derby County Transfer Pursuit &nbsp;&nbsp; staceywest.net",
+      "summary": "Bristol City Seek To Hijack Derby County Transfer Pursuit &nbsp;&nbsp; The Stacey West",
       "image": "",
       "type": "rumour"
     },
@@ -553,15 +553,6 @@
       "type": "news"
     },
     {
-      "title": "NEW SIGNING INTERVIEW: Filip Bilbija",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUzRENDExNVdOZDZZY3lzaEt6aWZvS0EwaTlQN0x5cXEwV3BzU0ZZM0JWaEoydHRuU2lPcG5LUFdVeHdKRkx0bjlZYUo0UjNGeGhwV0ItV2lCNnpPaFlmOGpXdUsxWTEydWxldHNKSFlEbHpseFpxNmVGTWxaNHN2ZTFlc2d0R1pvanVPQzVtMnFEQnhTV1BrSDlGRUpuRmxuTVRfTlBjN3U?oc=5",
-      "source": "Derby County",
-      "published": "2026-07-22T07:00:00.000Z",
-      "summary": "NEW SIGNING INTERVIEW: Filip Bilbija &nbsp;&nbsp; Derby County",
-      "image": "",
-      "type": "news"
-    },
-    {
       "title": "SIGNING: Filip Bilbija Joins as Derby County’s Third Summer Recruit",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZjFna0NqSXV0VHNVc3RaOUE0WjJlOXRaVGJFZnNuU1g1LUxsSERYaFdyakRVMTdZbWRzckJOMGNQTFl4M3BvNU9NbHdFUUpUbE1xRkdiOVJBSEJOVmRwbzIwMFlzYXoyYWh0dmpjRUFEcnpJekl6bEhTdkRjZWp4N2hram5ocU5LRmR3dTZtRG4ydEttbFFGa3poaXV5d2IxUGdMaGJn?oc=5",
       "source": "Derby County",
@@ -569,6 +560,15 @@
       "summary": "SIGNING: Filip Bilbija Joins as Derby County’s Third Summer Recruit &nbsp;&nbsp; Derby County",
       "image": "",
       "type": "done"
+    },
+    {
+      "title": "NEW SIGNING INTERVIEW: Filip Bilbija",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUzRENDExNVdOZDZZY3lzaEt6aWZvS0EwaTlQN0x5cXEwV3BzU0ZZM0JWaEoydHRuU2lPcG5LUFdVeHdKRkx0bjlZYUo0UjNGeGhwV0ItV2lCNnpPaFlmOGpXdUsxWTEydWxldHNKSFlEbHpseFpxNmVGTWxaNHN2ZTFlc2d0R1pvanVPQzVtMnFEQnhTV1BrSDlGRUpuRmxuTVRfTlBjN3U?oc=5",
+      "source": "Derby County",
+      "published": "2026-07-22T07:00:00.000Z",
+      "summary": "NEW SIGNING INTERVIEW: Filip Bilbija &nbsp;&nbsp; Derby County",
+      "image": "",
+      "type": "news"
     },
     {
       "title": "Derby County’s Jacob Widell Zetterström attracts interest from Lyon",
