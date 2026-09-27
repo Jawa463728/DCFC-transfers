@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T22:04:02.603Z",
+  "updatedAt": "2026-09-27T00:31:32.175Z",
   "targets": [
     {
       "name": "Leicester City",
@@ -20,12 +20,6 @@
       "context": "Fresh media link"
     },
     {
-      "name": "Coventry City",
-      "mentions": 1,
-      "score": 34,
-      "context": "Fresh media link"
-    },
-    {
       "name": "Henrik Meister",
       "mentions": 1,
       "score": 34,
@@ -36,6 +30,12 @@
       "mentions": 1,
       "score": 34,
       "context": "Fresh media link"
+    },
+    {
+      "name": "World Cup",
+      "mentions": 1,
+      "score": 27,
+      "context": "Fresh media link"
     }
   ],
   "stories": [
@@ -45,15 +45,6 @@
       "source": "Derbyshire Live",
       "published": "2026-09-25T07:35:59.000Z",
       "summary": "Inside Derby County's bold transfer model and the £20m clue that led to Henrik Meister &nbsp;&nbsp; Derbyshire Live",
-      "image": "",
-      "type": "news"
-    },
-    {
-      "title": "Derby County Youth",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYXd0NVZLVE1xd3VUZlNIV2FyTkJZYXRoWEhYdXhDSUFJNWVqai04SlJ6WjI1cURpRWVOb004YnpBU3hBV2V3MjU3ajJxMXIwT0JaRWlRVTFvdzVjM0xuVEcxM2hpVDE2NzJsSzlxUktFbzJacnZlbnhUcmEweWtXNERGWW1TYkJKNFR5Y2NxOVR4UQ?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-09-23T17:48:39.000Z",
-      "summary": "Derby County Youth &nbsp;&nbsp; Transfermarkt",
       "image": "",
       "type": "news"
     },
@@ -157,15 +148,6 @@
       "type": "news"
     },
     {
-      "title": "West Ham 3-0 Derby County: Hammers earn back-to-back wins",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5aMldUZ0xIZVJnaVRlYjlOaXJ0cGVqcEtQc1pCcXBVZkp6c3JlckxkbC12R0xWVmhRcG5LYzhfZDVqVG84WGlreng3V0hUUEJLQ2x6QTg3Y2p1bjZhaEdLMzVqN1g5dw?oc=5",
-      "source": "BBC",
-      "published": "2026-09-05T07:00:00.000Z",
-      "summary": "West Ham 3-0 Derby County: Hammers earn back-to-back wins &nbsp;&nbsp; BBC",
-      "image": "",
-      "type": "news"
-    },
-    {
       "title": "John McGlynn on Derby County loan signing and 'strong' squad to face Dundee United",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObm5xNWxWVVA0Ql8tX1M2bjJWMGhLTkFKNEtzWDdsQ2ZFSTB5TEI0LW5ib3o3T29wb21sQ3hmbnE4OWNCa3E0M3JBWkUwZHZpR2VrNDJCeWpnNHJHSFMyYmNPVk5sTW1ScU9MV1NNdnNQU1dHOU1GNlNBcnRhS2VKZjRPX3FiR2pFdGp2V01Ybl82M3QzMUE?oc=5",
       "source": "Falkirk Herald",
@@ -182,15 +164,6 @@
       "summary": "Derby County: David Ozoh rejoins as Eiran Cashin and Mohammed Fuseini sign on loan &nbsp;&nbsp; BBC",
       "image": "",
       "type": "news"
-    },
-    {
-      "title": "Derby County, Burnley interested in loan deal for Coventry City defender",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTW1RZ1p4N2s5Q0pyLWJUbzV0QTFoRkxkRDRQR3k5TVNQV2d5bDNIYTJQbVY5ZHMtWmk2TFY5ZWV3dm90TEhzTTktVWdaNmpMdnpsSVBOOXRhaTBfLW90VzNETU5CbWRTYnNZdXhqd3ZrLXNLdHNJbEZjaVNfams3T3M4c0Z6bFFUNW9lOQ?oc=5",
-      "source": "Yahoo",
-      "published": "2026-08-31T07:00:00.000Z",
-      "summary": "Derby County, Burnley interested in loan deal for Coventry City defender &nbsp;&nbsp; Yahoo",
-      "image": "",
-      "type": "rumour"
     },
     {
       "title": "Championship side to keep Derby County, Millwall and Wrexham target",
@@ -258,9 +231,9 @@
     {
       "title": "Sheffield United and Derby County 'vying' for signature of Southampton's Ben Brereton Diaz",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeU9FQkdmMUNqTldSaEJaZE5TZ1NvNWw3amJjLTBmZ19BU0RWMUkyVmRHZnZya2IyQXJQMUxfMHZZTHpFdXVFY29YM0FmSlJndFhBT0UxN0Z5b19ZOUlNcnNQWkR0ZEp3c18tMUYxWG11TDZpSEdwa3pKMEhpYTBPUkF5aXZrbVpkWEVMUkxUck92cUczNV9Qa2lMR2RvUEthZGlpTU1LUGotb0dVNUgtc1lFWW0?oc=5",
-      "source": "Yorkshire Post",
+      "source": "yorkshirepost.co.uk",
       "published": "2026-08-26T07:00:00.000Z",
-      "summary": "Sheffield United and Derby County 'vying' for signature of Southampton's Ben Brereton Diaz &nbsp;&nbsp; Yorkshire Post",
+      "summary": "Sheffield United and Derby County 'vying' for signature of Southampton's Ben Brereton Diaz &nbsp;&nbsp; yorkshirepost.co.uk",
       "image": "",
       "type": "news"
     },
@@ -472,6 +445,15 @@
       "type": "news"
     },
     {
+      "title": "TRANSFER NEWS: Reintroducing...Sam Szmodics",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbEdIUmhGVFNodlFWVUIzcU5xck1VcF80MjEwYWZfRkNGWnVrb2U1U3E0NW1VRHFKcDcyZWxsakZRaldRdlBGbnpabFZZZUY0T1dzTlEzYVIwVjI1a0lhZ3JvVk1FcThjQnpjaE5UMVo5N2VucWlib1VSX2NGM19SbA?oc=5",
+      "source": "Derby County",
+      "published": "2026-08-01T07:00:00.000Z",
+      "summary": "TRANSFER NEWS: Reintroducing...Sam Szmodics &nbsp;&nbsp; Derby County",
+      "image": "",
+      "type": "news"
+    },
+    {
       "title": "Sam Szmodics: Derby County re-sign Ipswich Town forward on loan",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1TOTM4bGZESWxnWkhSMjMyc2gtVEV3MS16OUMzNU5RdGhJbW9LbDRldjRMRzNBVFo1VE1sVjdrRTZjQTd2elc0dGtjcFktSmxQSHdOTGlpLUk2Z2c1allIWEFuWHlERkE?oc=5",
       "source": "BBC",
@@ -576,6 +558,24 @@
       "source": "Get French Football News",
       "published": "2026-07-22T07:00:00.000Z",
       "summary": "Derby County’s Jacob Widell Zetterström attracts interest from Lyon &nbsp;&nbsp; Get French Football News",
+      "image": "",
+      "type": "rumour"
+    },
+    {
+      "title": "Derby County ace makes Erling Haaland request as superstar responds to Sondre Langas return",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbjMyWk9hU3YxUGNzNGxoYWQxWWZndTRrc0hqc3AySE9xSXFuQWVZX2YycVNEQjNENW1zMVptM0cxM24wVEhod1hwOUJ6eXExM3BxdTl3TTBUSEdCOExVc0NiUmlxaEowMm5jdmZVWmhIWFJIZ1Z2N0tQaDc4NEdJQTZKRi1qeW5EX0h3X0dsWXNHMEx2Ti0wS3M0TS1aYkkxdmtUbDN2WEZ3UQ?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-07-22T07:00:00.000Z",
+      "summary": "Derby County ace makes Erling Haaland request as superstar responds to Sondre Langas return &nbsp;&nbsp; Derbyshire Live",
+      "image": "",
+      "type": "news"
+    },
+    {
+      "title": "Derby County’s FIFA World Cup star draws new interest from Ligue 1 side",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRi1RUGYwdVNKZl9pVDdFSXcxaTBXa2d0NElqMUNNMFFuanJSaHFfNl9yMHdaVF9ZcDhtUmtRckdRUG9CYjd6cXd3RVphVW9WdW1md2FORVlod0N4dVRLMDVfWHh6a1VRMUhFcVliRWsyZF85ZkNSajZNbWlhdFNiUQ?oc=5",
+      "source": "Yahoo",
+      "published": "2026-07-22T07:00:00.000Z",
+      "summary": "Derby County’s FIFA World Cup star draws new interest from Ligue 1 side &nbsp;&nbsp; Yahoo",
       "image": "",
       "type": "rumour"
     }
