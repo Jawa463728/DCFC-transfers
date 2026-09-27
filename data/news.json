@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T10:48:00.970Z",
+  "updatedAt": "2026-09-27T15:23:40.677Z",
   "targets": [
     {
       "name": "Leicester City",
@@ -81,15 +81,6 @@
       "source": "Derbyshire Live",
       "published": "2026-09-21T11:22:15.000Z",
       "summary": "Derby County starlets pass more landmarks as loan turns sour after 'thorough analysis' &nbsp;&nbsp; Derbyshire Live",
-      "image": "",
-      "type": "news"
-    },
-    {
-      "title": "“That’s a blow”: Derby County summer signing sustains injury, says John Eustace",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZlNBTW03eG1BajQtelVOZW40RHJrUVpqUEFObzFTUkNEajI4dTFwRm5aNVZoWDRIdk50bTEwd2FFWmJUTFdnZXZ3SW5Lalg2MG0yLUVlUkN2OW8tcE1nQWlneDFnRzhnQzVvTGNwYnM0Rk5EMGxLbGVoR1Y1SGExempETm5MZFU?oc=5",
-      "source": "Yahoo",
-      "published": "2026-09-21T10:27:59.000Z",
-      "summary": "“That’s a blow”: Derby County summer signing sustains injury, says John Eustace &nbsp;&nbsp; Yahoo",
       "image": "",
       "type": "news"
     },
@@ -236,15 +227,6 @@
       "summary": "John Eustace issues Henrik Meister update and sets Derby County transfer deadline target &nbsp;&nbsp; Derbyshire Live",
       "image": "",
       "type": "rumour"
-    },
-    {
-      "title": "Preview | Derby County v Swansea City",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5HSERLejlFZnRfSHZOZGdfR29xcUVaNzlnczc2QnlPNnhVZVVtTU5zYzFZRGpaekR0TVhETk5KdkdhUXQtbWRxa3Q2YjNYcVltT0FQRkFabkxTR2FQNmlUVlY3a19pU1NLX2hwa3dHVHFldkJFRVpjaXJB?oc=5",
-      "source": "Swansea City",
-      "published": "2026-08-29T07:00:00.000Z",
-      "summary": "Preview | Derby County v Swansea City &nbsp;&nbsp; Swansea City",
-      "image": "",
-      "type": "news"
     },
     {
       "title": "Sheffield United and Derby County 'vying' for signature of Southampton's Ben Brereton Diaz",
@@ -418,6 +400,15 @@
       "type": "news"
     },
     {
+      "title": "SQUAD NEWS: Squad Numbers For 2026/27 Season Confirmed",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbHhLNXNlZGxRcnFjUm45UGFmc1ZrQ282QjRuaGgxOGd4VU9oV2s5dTRHZU45N3hweklaOHppRFptdzRRSmxDS1F4NWxkbUQtWGZrWFFzQV83NmJQWnZCcG9udXBwQmdPRWN0ZFUxbGs3STlZbGJRNGpoNGJzaGJ4TG5qeDF4NzZWUVZ6RnlKZ3Z3Zw?oc=5",
+      "source": "Derby County",
+      "published": "2026-08-07T07:00:00.000Z",
+      "summary": "SQUAD NEWS: Squad Numbers For 2026/27 Season Confirmed &nbsp;&nbsp; Derby County",
+      "image": "",
+      "type": "news"
+    },
+    {
       "title": "Dajaune Brown: Rochdale sign Derby County forward on season-long loan",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9NRG9tYTFTSVllVTZiaTdFanFWRllQaUE2UHdxYk9OemNLbmNUdFEyVUxiSnBxS0lMNkJMQUswbUJ3MzdwSFZCaHY2WVVRWEU0YVMyczcyTFVFVl83Ym9FdnZBX090dFk?oc=5",
       "source": "BBC",
@@ -459,6 +450,15 @@
       "source": "Derbyshire Live",
       "published": "2026-08-03T07:00:00.000Z",
       "summary": "Derby County ready to splash out on 'explosive' Europa League star as transfer price set &nbsp;&nbsp; Derbyshire Live",
+      "image": "",
+      "type": "news"
+    },
+    {
+      "title": "TRANSFER NEWS: Reintroducing...Sam Szmodics",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbEdIUmhGVFNodlFWVUIzcU5xck1VcF80MjEwYWZfRkNGWnVrb2U1U3E0NW1VRHFKcDcyZWxsakZRaldRdlBGbnpabFZZZUY0T1dzTlEzYVIwVjI1a0lhZ3JvVk1FcThjQnpjaE5UMVo5N2VucWlib1VSX2NGM19SbA?oc=5",
+      "source": "Derby County",
+      "published": "2026-08-01T07:00:00.000Z",
+      "summary": "TRANSFER NEWS: Reintroducing...Sam Szmodics &nbsp;&nbsp; Derby County",
       "image": "",
       "type": "news"
     },
@@ -553,13 +553,13 @@
       "type": "news"
     },
     {
-      "title": "SIGNING: Filip Bilbija Joins as Derby County’s Third Summer Recruit",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZjFna0NqSXV0VHNVc3RaOUE0WjJlOXRaVGJFZnNuU1g1LUxsSERYaFdyakRVMTdZbWRzckJOMGNQTFl4M3BvNU9NbHdFUUpUbE1xRkdiOVJBSEJOVmRwbzIwMFlzYXoyYWh0dmpjRUFEcnpJekl6bEhTdkRjZWp4N2hram5ocU5LRmR3dTZtRG4ydEttbFFGa3poaXV5d2IxUGdMaGJn?oc=5",
-      "source": "Derby County",
+      "title": "Filip Bilbija: Derby County sign former Paderborn midfielder",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zVTNJbEtFNlBwTkpRSjV5NVUzdzNzaks4NDNZVWJRdHVFTUQtY0k2UWtRNlZ0WXVBQ3QxcjNFamFzU3ZGMjhzdWIzNFhtS2VHR000LWJpSm10aUdMVE5rcjBuSTRuSEk?oc=5",
+      "source": "BBC",
       "published": "2026-07-22T07:00:00.000Z",
-      "summary": "SIGNING: Filip Bilbija Joins as Derby County’s Third Summer Recruit &nbsp;&nbsp; Derby County",
+      "summary": "Filip Bilbija: Derby County sign former Paderborn midfielder &nbsp;&nbsp; BBC",
       "image": "",
-      "type": "done"
+      "type": "news"
     },
     {
       "title": "Derby County’s Jacob Widell Zetterström attracts interest from Lyon",
