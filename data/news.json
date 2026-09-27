@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T15:23:40.677Z",
+  "updatedAt": "2026-09-27T19:09:32.829Z",
   "targets": [
     {
       "name": "Leicester City",
@@ -49,15 +49,6 @@
       "type": "news"
     },
     {
-      "title": "Inside Derby County's bold transfer model and the £20m clue that led to Henrik Meister",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOY1RYbmxqdEJnV1ZhUE5oQlBYZkdPWks2eUJQcTZGblpPQnBjY210bEF6M3BJYzRUbURIa2tWM1ExSllVdnNaS2MzSXJ5Tl9oVWJOLURRdjZKWDRydDhNbkNCcEMxZWNOdUU3T0VaeGUwdWNFU2xLVmt1UHZ1UHZMa2liNE1wOEpHRWNBazNBdi1tcl9jMUk4RGhJRFlwZFRzbjYzdzBlcXlnZw?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-09-25T07:35:59.000Z",
-      "summary": "Inside Derby County's bold transfer model and the £20m clue that led to Henrik Meister &nbsp;&nbsp; Derbyshire Live",
-      "image": "",
-      "type": "news"
-    },
-    {
       "title": "Derby County Youth",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYXd0NVZLVE1xd3VUZlNIV2FyTkJZYXRoWEhYdXhDSUFJNWVqai04SlJ6WjI1cURpRWVOb004YnpBU3hBV2V3MjU3ajJxMXIwT0JaRWlRVTFvdzVjM0xuVEcxM2hpVDE2NzJsSzlxUktFbzJacnZlbnhUcmEweWtXNERGWW1TYkJKNFR5Y2NxOVR4UQ?oc=5",
       "source": "Transfermarkt",
@@ -69,9 +60,9 @@
     {
       "title": "“I like this sort of signing”: Derby County new boy hailed by EFL expert",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORlVCSXlmbWZGOFdMY1VvOHBUb1V6SWFzYWVsRldNTENsZ0M3SG1vc0kyMFJ1bFBiczJCNnBzM0FQTEJlNWlMUWU2N1J3dUR1bklVY0R5NGFnRnBTT05GekpYLXc4d0VOWlJjZ0NKMXAyNHNkWDZKZGNmLVMwQ1pqamVpUQ?oc=5",
-      "source": "Yahoo",
+      "source": "uk.sports.yahoo.com",
       "published": "2026-09-22T08:12:29.000Z",
-      "summary": "“I like this sort of signing”: Derby County new boy hailed by EFL expert &nbsp;&nbsp; Yahoo",
+      "summary": "“I like this sort of signing”: Derby County new boy hailed by EFL expert &nbsp;&nbsp; uk.sports.yahoo.com",
       "image": "",
       "type": "news"
     },
@@ -81,6 +72,15 @@
       "source": "Derbyshire Live",
       "published": "2026-09-21T11:22:15.000Z",
       "summary": "Derby County starlets pass more landmarks as loan turns sour after 'thorough analysis' &nbsp;&nbsp; Derbyshire Live",
+      "image": "",
+      "type": "news"
+    },
+    {
+      "title": "“That’s a blow”: Derby County summer signing sustains injury, says John Eustace",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZlNBTW03eG1BajQtelVOZW40RHJrUVpqUEFObzFTUkNEajI4dTFwRm5aNVZoWDRIdk50bTEwd2FFWmJUTFdnZXZ3SW5Lalg2MG0yLUVlUkN2OW8tcE1nQWlneDFnRzhnQzVvTGNwYnM0Rk5EMGxLbGVoR1Y1SGExempETm5MZFU?oc=5",
+      "source": "uk.sports.yahoo.com",
+      "published": "2026-09-21T10:27:59.000Z",
+      "summary": "“That’s a blow”: Derby County summer signing sustains injury, says John Eustace &nbsp;&nbsp; uk.sports.yahoo.com",
       "image": "",
       "type": "news"
     },
@@ -159,18 +159,18 @@
     {
       "title": "Derby County, Burnley interested in loan deal for Coventry City defender",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTW1RZ1p4N2s5Q0pyLWJUbzV0QTFoRkxkRDRQR3k5TVNQV2d5bDNIYTJQbVY5ZHMtWmk2TFY5ZWV3dm90TEhzTTktVWdaNmpMdnpsSVBOOXRhaTBfLW90VzNETU5CbWRTYnNZdXhqd3ZrLXNLdHNJbEZjaVNfams3T3M4c0Z6bFFUNW9lOQ?oc=5",
-      "source": "Yahoo",
+      "source": "uk.sports.yahoo.com",
       "published": "2026-08-31T07:00:00.000Z",
-      "summary": "Derby County, Burnley interested in loan deal for Coventry City defender &nbsp;&nbsp; Yahoo",
+      "summary": "Derby County, Burnley interested in loan deal for Coventry City defender &nbsp;&nbsp; uk.sports.yahoo.com",
       "image": "",
       "type": "rumour"
     },
     {
       "title": "Championship side to keep Derby County, Millwall and Wrexham target",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVHZJWlVtczQ3ZURDNkU1Z2RVR1JEdmoxVFpPV1VGQ2VSQ1p4eTR5dmdNYUEtZm1FT3oyOHBnWEVlYjJmUWVKNEhyQXl6bWFWbEl1V0ptM3Q3TXo5TmtjeWZrVUNEYm9wSU9Eb25FaVI3RXlHOG45Yk9zcTdCUFV2YXdrX1FhYWRrSFBr?oc=5",
-      "source": "Yahoo",
+      "source": "uk.sports.yahoo.com",
       "published": "2026-08-31T07:00:00.000Z",
-      "summary": "Championship side to keep Derby County, Millwall and Wrexham target &nbsp;&nbsp; Yahoo",
+      "summary": "Championship side to keep Derby County, Millwall and Wrexham target &nbsp;&nbsp; uk.sports.yahoo.com",
       "image": "",
       "type": "rumour"
     },
@@ -180,6 +180,15 @@
       "source": "Derby County",
       "published": "2026-08-30T07:00:00.000Z",
       "summary": "TRANSFER NEWS: Introducing…Henrik Meister &nbsp;&nbsp; Derby County",
+      "image": "",
+      "type": "news"
+    },
+    {
+      "title": "Derby County complete much-needed transfer as John Eustace gets wish granted",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbF9GNjJUWFY5dTNFUS0wVFdhZlJEdDl4VmZEa3BhMU85REYxZGs1RkN3YjBoVmF4STVGWWgtbVdZU2pMaGtMdXRhdmpsNEZGVGRXbEFTT21DNnZtODNEOHBUcnpZczBGLW9uWUliZnE0UU1EUi1SRVB3UGNOajgzRkt5SjEtR3R1Q0hrWXpBMjdjekg5QlF4QWpfTmRXZUVjNWh5Z1p3?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-08-30T07:00:00.000Z",
+      "summary": "Derby County complete much-needed transfer as John Eustace gets wish granted &nbsp;&nbsp; Derbyshire Live",
       "image": "",
       "type": "news"
     },
@@ -202,20 +211,11 @@
       "type": "news"
     },
     {
-      "title": "Derby County complete much-needed transfer as John Eustace gets wish granted",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbF9GNjJUWFY5dTNFUS0wVFdhZlJEdDl4VmZEa3BhMU85REYxZGs1RkN3YjBoVmF4STVGWWgtbVdZU2pMaGtMdXRhdmpsNEZGVGRXbEFTT21DNnZtODNEOHBUcnpZczBGLW9uWUliZnE0UU1EUi1SRVB3UGNOajgzRkt5SjEtR3R1Q0hrWXpBMjdjekg5QlF4QWpfTmRXZUVjNWh5Z1p3?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-08-30T07:00:00.000Z",
-      "summary": "Derby County complete much-needed transfer as John Eustace gets wish granted &nbsp;&nbsp; Derbyshire Live",
-      "image": "",
-      "type": "news"
-    },
-    {
       "title": "Sheffield United set to sign Leicester City utility man after Derby County transfer interest",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOa0lvU1o3OGRxaUpCUTF6MG0xc1dnaGNVX25QTUtiSDc1XzdfTU5pOTdlakZ5OXVOM3NHVURFM0xPXzVFWmtFbHlaSjNUMl9iRDY0Z3lGSUhVRER5SU9FMDBVaFJORURYNzhwYTlqS3V1czRFdHdyN2xUVjAyQWNmT2tXandwTFVPdU1R?oc=5",
-      "source": "Yahoo",
+      "source": "uk.sports.yahoo.com",
       "published": "2026-08-30T07:00:00.000Z",
-      "summary": "Sheffield United set to sign Leicester City utility man after Derby County transfer interest &nbsp;&nbsp; Yahoo",
+      "summary": "Sheffield United set to sign Leicester City utility man after Derby County transfer interest &nbsp;&nbsp; uk.sports.yahoo.com",
       "image": "",
       "type": "rumour"
     },
@@ -490,6 +490,15 @@
       "type": "done"
     },
     {
+      "title": "Derby County: Saudi Arabia's Turki Al-Sheikh set to finalise Rams investment",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Wdy16S1huOVBlV3hSYW9ScUI3NnRxUVAwMjhXdEd4S1kyS1dBQy1JUnlTUkRDd2NycUlRek9sVW5jRmoxUGJQZERzN1p6ZUp2elhzRGh5aDJ0aExxdEVqOV9pQXA2TEU?oc=5",
+      "source": "BBC",
+      "published": "2026-07-29T07:00:00.000Z",
+      "summary": "Derby County: Saudi Arabia's Turki Al-Sheikh set to finalise Rams investment &nbsp;&nbsp; BBC",
+      "image": "",
+      "type": "news"
+    },
+    {
       "title": "World Cup striker linked with Derby County pulls out of transfer",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdTIxd3liSXhjS09QQV9rMlQ3TFMtQkdqWjV2bzY0c2Z3enphVk5acUpyWnpxLTJzTmZUTXJVbE9ITU5FSmZlNjRvLTdDQUxKaTdqeGJDUlltclRDMGljeDREeXBoUk13MjFUWDZsR0pCc1BWZ0cyY3JnOWRad2YzS1hoVmdUSnFsX1Z3cXdiZWJzZ3Q1VjYwV1NxMTBBOXNCdXFEUHJTZw?oc=5",
       "source": "Derbyshire Live",
@@ -569,15 +578,6 @@
       "summary": "Derby County’s Jacob Widell Zetterström attracts interest from Lyon &nbsp;&nbsp; Get French Football News",
       "image": "",
       "type": "rumour"
-    },
-    {
-      "title": "Derby County ace makes Erling Haaland request as superstar responds to Sondre Langas return",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbjMyWk9hU3YxUGNzNGxoYWQxWWZndTRrc0hqc3AySE9xSXFuQWVZX2YycVNEQjNENW1zMVptM0cxM24wVEhod1hwOUJ6eXExM3BxdTl3TTBUSEdCOExVc0NiUmlxaEowMm5jdmZVWmhIWFJIZ1Z2N0tQaDc4NEdJQTZKRi1qeW5EX0h3X0dsWXNHMEx2Ti0wS3M0TS1aYkkxdmtUbDN2WEZ3UQ?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-07-22T07:00:00.000Z",
-      "summary": "Derby County ace makes Erling Haaland request as superstar responds to Sondre Langas return &nbsp;&nbsp; Derbyshire Live",
-      "image": "",
-      "type": "news"
     }
   ]
 }
