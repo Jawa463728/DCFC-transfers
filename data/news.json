@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T22:32:31.155Z",
+  "updatedAt": "2026-09-30T01:30:59.199Z",
   "targets": [
     {
       "name": "Leicester City",
@@ -148,15 +148,6 @@
       "type": "done"
     },
     {
-      "title": "West Ham 3-0 Derby County: Hammers earn back-to-back wins",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5aMldUZ0xIZVJnaVRlYjlOaXJ0cGVqcEtQc1pCcXBVZkp6c3JlckxkbC12R0xWVmhRcG5LYzhfZDVqVG84WGlreng3V0hUUEJLQ2x6QTg3Y2p1bjZhaEdLMzVqN1g5dw?oc=5",
-      "source": "BBC",
-      "published": "2026-09-05T07:00:00.000Z",
-      "summary": "West Ham 3-0 Derby County: Hammers earn back-to-back wins &nbsp;&nbsp; BBC",
-      "image": "",
-      "type": "news"
-    },
-    {
       "title": "John McGlynn on Derby County loan signing and 'strong' squad to face Dundee United",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObm5xNWxWVVA0Ql8tX1M2bjJWMGhLTkFKNEtzWDdsQ2ZFSTB5TEI0LW5ib3o3T29wb21sQ3hmbnE4OWNCa3E0M3JBWkUwZHZpR2VrNDJCeWpnNHJHSFMyYmNPVk5sTW1ScU9MV1NNdnNQU1dHOU1GNlNBcnRhS2VKZjRPX3FiR2pFdGp2V01Ybl82M3QzMUE?oc=5",
       "source": "Falkirk Herald",
@@ -180,15 +171,6 @@
       "source": "Yahoo",
       "published": "2026-08-31T07:00:00.000Z",
       "summary": "Derby County, Burnley interested in loan deal for Coventry City defender &nbsp;&nbsp; Yahoo",
-      "image": "",
-      "type": "rumour"
-    },
-    {
-      "title": "Championship side to keep Derby County, Millwall and Wrexham target",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVHZJWlVtczQ3ZURDNkU1Z2RVR1JEdmoxVFpPV1VGQ2VSQ1p4eTR5dmdNYUEtZm1FT3oyOHBnWEVlYjJmUWVKNEhyQXl6bWFWbEl1V0ptM3Q3TXo5TmtjeWZrVUNEYm9wSU9Eb25FaVI3RXlHOG45Yk9zcTdCUFV2YXdrX1FhYWRrSFBr?oc=5",
-      "source": "Yahoo",
-      "published": "2026-08-31T07:00:00.000Z",
-      "summary": "Championship side to keep Derby County, Millwall and Wrexham target &nbsp;&nbsp; Yahoo",
       "image": "",
       "type": "rumour"
     },
@@ -366,9 +348,9 @@
     {
       "title": "Saudi boxing chief pulls plug on Derby County takeover",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQXdtY0pILUZNMXhjZlhvTXE3RWV0YnBPS285a25sZ2psM3BoeVlKUTI2N0dId0p2WHo1ZV9aZzM1TWd0QnRPWDZrYTYzWVhLbV9ickpPVUdXVTRxWXpsZ0xTMjhBa20wa2RtcEdVb3BOM0RMNUJBMFo1alEyekRma1l3UDA4ckRIOTk4MHlnX05CZlFwU1UzOU9JSUQ1SnJrejlDMA?oc=5",
-      "source": "agbi.com",
+      "source": "Arabian Gulf Business Insight | AGBI",
       "published": "2026-08-11T07:00:00.000Z",
-      "summary": "Saudi boxing chief pulls plug on Derby County takeover &nbsp;&nbsp; agbi.com",
+      "summary": "Saudi boxing chief pulls plug on Derby County takeover &nbsp;&nbsp; Arabian Gulf Business Insight | AGBI",
       "image": "",
       "type": "news"
     },
@@ -576,6 +558,24 @@
       "source": "Derby County",
       "published": "2026-07-22T07:00:00.000Z",
       "summary": "NEW SIGNING INTERVIEW: Filip Bilbija &nbsp;&nbsp; Derby County",
+      "image": "",
+      "type": "news"
+    },
+    {
+      "title": "Derby County’s Jacob Widell Zetterström attracts interest from Lyon",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeVZxOGU5SWV2LTQxUGNuWmpnYklOcDk5SWl0UG94S0ZpeG9YY2pYVzlKakFmcC1ock1CdHl6N1JvV0NWOEFoZkxHZkd2cnJPRDcyZmk5anZlQVR4RXBJY2VZNEFBU1E2c05zMUttVU1CS3ZJSEN6cDJ1N1lsdkU1VW9KQTZyNEpqZ2Y3WGhXX0h2eUJpQ3E0dk9vZ3ZyZ0Fxc0M0R2pIUTZKTTlqVktj?oc=5",
+      "source": "Get French Football News",
+      "published": "2026-07-22T07:00:00.000Z",
+      "summary": "Derby County’s Jacob Widell Zetterström attracts interest from Lyon &nbsp;&nbsp; Get French Football News",
+      "image": "",
+      "type": "rumour"
+    },
+    {
+      "title": "Derby County ace makes Erling Haaland request as superstar responds to Sondre Langas return",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbjMyWk9hU3YxUGNzNGxoYWQxWWZndTRrc0hqc3AySE9xSXFuQWVZX2YycVNEQjNENW1zMVptM0cxM24wVEhod1hwOUJ6eXExM3BxdTl3TTBUSEdCOExVc0NiUmlxaEowMm5jdmZVWmhIWFJIZ1Z2N0tQaDc4NEdJQTZKRi1qeW5EX0h3X0dsWXNHMEx2Ti0wS3M0TS1aYkkxdmtUbDN2WEZ3UQ?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-07-22T07:00:00.000Z",
+      "summary": "Derby County ace makes Erling Haaland request as superstar responds to Sondre Langas return &nbsp;&nbsp; Derbyshire Live",
       "image": "",
       "type": "news"
     }
