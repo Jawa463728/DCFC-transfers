@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T16:47:18.629Z",
+  "updatedAt": "2026-10-02T21:03:35.649Z",
   "targets": [
     {
       "name": "Turki Alalshikh's",
@@ -42,9 +42,9 @@
     {
       "title": "Jason Knight RETURNING To Derby County?! HUGE Transfer Update! 🐏",
       "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5leFMwVGpqdVBmNF9wQzNzV25fbVg4OERHalFQUFF1NHhVQUpKWE1fdHY0Z1Vla1ZvcjdzYkRmaEYyUQ?oc=5",
-      "source": "YouTube",
+      "source": "youtu.be",
       "published": "2026-09-30T15:00:29.000Z",
-      "summary": "Jason Knight RETURNING To Derby County?! HUGE Transfer Update! 🐏 &nbsp;&nbsp; YouTube",
+      "summary": "Jason Knight RETURNING To Derby County?! HUGE Transfer Update! 🐏 &nbsp;&nbsp; youtu.be",
       "image": "",
       "type": "news"
     },
@@ -87,9 +87,9 @@
     {
       "title": "Derby County Youth",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYXd0NVZLVE1xd3VUZlNIV2FyTkJZYXRoWEhYdXhDSUFJNWVqai04SlJ6WjI1cURpRWVOb004YnpBU3hBV2V3MjU3ajJxMXIwT0JaRWlRVTFvdzVjM0xuVEcxM2hpVDE2NzJsSzlxUktFbzJacnZlbnhUcmEweWtXNERGWW1TYkJKNFR5Y2NxOVR4UQ?oc=5",
-      "source": "transfermarkt.com",
+      "source": "Transfermarkt",
       "published": "2026-09-23T17:48:39.000Z",
-      "summary": "Derby County Youth &nbsp;&nbsp; transfermarkt.com",
+      "summary": "Derby County Youth &nbsp;&nbsp; Transfermarkt",
       "image": "",
       "type": "news"
     },
@@ -243,6 +243,24 @@
       "source": "BBC",
       "published": "2026-08-20T07:00:00.000Z",
       "summary": "Ryan Hedges: Derby County sign ex-Blackburn Rovers winger &nbsp;&nbsp; BBC",
+      "image": "",
+      "type": "news"
+    },
+    {
+      "title": "West Brom boss reacts to Derby County transfer and admits 'I didn't expect it'",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTW5COW93Z0JzWnhvOGt5d09QczlkZUpCajZ3aExfUG9PdUxFSmswZTFNcFFWNk1aOXBjbUU3ZVpmUUhyYmdqU2Y0NW9DV01TVWFvSFRpNzdhRUp4OXpBWDhXaXBTeFRsU2Fja3p2T21WalljUnhac0N1eTN0R0Y3MmZacnJyWXg4S21zSFJoZzV3WUdvZHJIYmViYVExRGZxdjB1TkkxYw?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-08-16T07:00:00.000Z",
+      "summary": "West Brom boss reacts to Derby County transfer and admits 'I didn't expect it' &nbsp;&nbsp; Derbyshire Live",
+      "image": "",
+      "type": "news"
+    },
+    {
+      "title": "ACADEMY NEWS: Turley makes Dunfermline loan return",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcEJON1NJa2tLRWR6SXo5TE1Oc21obnVka0hsZHowbVNCWGJvSlVEU3JwZjM3Z3FTYWlWSUYyZHpYWloyM3lSQlRGRV9IRk9zbjh3N3c2MTdqRWcxRjdYdnEwYm9HUThTcTBHWGxwZVpSaHc1Y3FmWVBvX0N2dlFVZjB1SVFIUVVmNDZabzhB?oc=5",
+      "source": "Derby County",
+      "published": "2026-08-15T07:00:00.000Z",
+      "summary": "ACADEMY NEWS: Turley makes Dunfermline loan return &nbsp;&nbsp; Derby County",
       "image": "",
       "type": "news"
     },
@@ -411,9 +429,9 @@
     {
       "title": "Derby County Eye League One Midfielder Swoop",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTkhQanY0enhGb1JrZk02SlMtWTBLdTJrSzRCMnZld19XTmhvTm5JUE1KZE43Y3pHcTNycFBLSDVyTG80OGxMdTcteG12U3pnVzRKb0dJcU10X3FySWQ2all6blRDMmY1Q2FwcHMyRjVDNG1iSU91MlcxQlJhdDZPbThySGZzdw?oc=5",
-      "source": "staceywest.net",
+      "source": "The Stacey West",
       "published": "2026-08-05T07:00:00.000Z",
-      "summary": "Derby County Eye League One Midfielder Swoop &nbsp;&nbsp; staceywest.net",
+      "summary": "Derby County Eye League One Midfielder Swoop &nbsp;&nbsp; The Stacey West",
       "image": "",
       "type": "news"
     },
@@ -510,9 +528,9 @@
     {
       "title": "Bristol City Seek To Hijack Derby County Transfer Pursuit",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOGFMWVpEd3p6MTJHV3lqZHhkcW1xelhBLWFMX0xiRXFFbE1DRHRHckM2ZnA4NVJhLTE2YkZQZ3FENV9jOV96LTlIVEl0YXVjcm01ekk0RGdfMVF5bW4xZ0dMSmdrcm04VkpyWVJFUTVMZElXWmJyMHZZUjRCd1d1TEpKY2tPWkVZLWYzOGRMVldINXJicUVz?oc=5",
-      "source": "staceywest.net",
+      "source": "The Stacey West",
       "published": "2026-07-23T07:00:00.000Z",
-      "summary": "Bristol City Seek To Hijack Derby County Transfer Pursuit &nbsp;&nbsp; staceywest.net",
+      "summary": "Bristol City Seek To Hijack Derby County Transfer Pursuit &nbsp;&nbsp; The Stacey West",
       "image": "",
       "type": "rumour"
     },
@@ -542,24 +560,6 @@
       "summary": "TRANSFER NEWS: Introducing…Filip Bilbija &nbsp;&nbsp; Derby County",
       "image": "",
       "type": "news"
-    },
-    {
-      "title": "NEW SIGNING INTERVIEW: Filip Bilbija",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUzRENDExNVdOZDZZY3lzaEt6aWZvS0EwaTlQN0x5cXEwV3BzU0ZZM0JWaEoydHRuU2lPcG5LUFdVeHdKRkx0bjlZYUo0UjNGeGhwV0ItV2lCNnpPaFlmOGpXdUsxWTEydWxldHNKSFlEbHpseFpxNmVGTWxaNHN2ZTFlc2d0R1pvanVPQzVtMnFEQnhTV1BrSDlGRUpuRmxuTVRfTlBjN3U?oc=5",
-      "source": "Derby County",
-      "published": "2026-07-22T07:00:00.000Z",
-      "summary": "NEW SIGNING INTERVIEW: Filip Bilbija &nbsp;&nbsp; Derby County",
-      "image": "",
-      "type": "news"
-    },
-    {
-      "title": "SIGNING: Filip Bilbija Joins as Derby County’s Third Summer Recruit",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZjFna0NqSXV0VHNVc3RaOUE0WjJlOXRaVGJFZnNuU1g1LUxsSERYaFdyakRVMTdZbWRzckJOMGNQTFl4M3BvNU9NbHdFUUpUbE1xRkdiOVJBSEJOVmRwbzIwMFlzYXoyYWh0dmpjRUFEcnpJekl6bEhTdkRjZWp4N2hram5ocU5LRmR3dTZtRG4ydEttbFFGa3poaXV5d2IxUGdMaGJn?oc=5",
-      "source": "Derby County",
-      "published": "2026-07-22T07:00:00.000Z",
-      "summary": "SIGNING: Filip Bilbija Joins as Derby County’s Third Summer Recruit &nbsp;&nbsp; Derby County",
-      "image": "",
-      "type": "done"
     }
   ]
 }
