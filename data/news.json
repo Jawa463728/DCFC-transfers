@@ -1,16 +1,10 @@
 {
-  "updatedAt": "2026-10-02T11:26:12.841Z",
+  "updatedAt": "2026-10-02T16:47:18.629Z",
   "targets": [
     {
       "name": "Turki Alalshikh's",
       "mentions": 1,
       "score": 43,
-      "context": "Fresh media link"
-    },
-    {
-      "name": "Coventry City",
-      "mentions": 1,
-      "score": 34,
       "context": "Fresh media link"
     },
     {
@@ -31,7 +25,7 @@
       "title": "Bobby Clark value rockets after Derby County transfer in huge boost for David Clowes",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNS09OY1NzdEVodGxYN2cwUTFMYVJXc081VmJkbHNDTVozZnlpWEZzQVR0NFloMXdRRFJJMHRfeUVVNXdfX0ptVXZEWk8yb2I4Q2VfcG9DZ01sYzQtekRsYWU0SEQ2MFVpTHEzT3NEZzdwSFBpNnFaMXNSX3RrS2R1aGQ3VVhBRWxuNXRLZ1JBMzZzb1RFX0hWRXh1M0ZQSVlRTWxndkozcw?oc=5",
       "source": "Derbyshire Live",
-      "published": "2026-10-02T09:02:00.000Z",
+      "published": "2026-10-02T09:03:00.000Z",
       "summary": "Bobby Clark value rockets after Derby County transfer in huge boost for David Clowes &nbsp;&nbsp; Derbyshire Live",
       "image": "",
       "type": "news"
@@ -93,9 +87,9 @@
     {
       "title": "Derby County Youth",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYXd0NVZLVE1xd3VUZlNIV2FyTkJZYXRoWEhYdXhDSUFJNWVqai04SlJ6WjI1cURpRWVOb004YnpBU3hBV2V3MjU3ajJxMXIwT0JaRWlRVTFvdzVjM0xuVEcxM2hpVDE2NzJsSzlxUktFbzJacnZlbnhUcmEweWtXNERGWW1TYkJKNFR5Y2NxOVR4UQ?oc=5",
-      "source": "Transfermarkt",
+      "source": "transfermarkt.com",
       "published": "2026-09-23T17:48:39.000Z",
-      "summary": "Derby County Youth &nbsp;&nbsp; Transfermarkt",
+      "summary": "Derby County Youth &nbsp;&nbsp; transfermarkt.com",
       "image": "",
       "type": "news"
     },
@@ -161,15 +155,6 @@
       "summary": "Derby County: David Ozoh rejoins as Eiran Cashin and Mohammed Fuseini sign on loan &nbsp;&nbsp; BBC",
       "image": "",
       "type": "news"
-    },
-    {
-      "title": "Derby County, Burnley interested in loan deal for Coventry City defender",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTW1RZ1p4N2s5Q0pyLWJUbzV0QTFoRkxkRDRQR3k5TVNQV2d5bDNIYTJQbVY5ZHMtWmk2TFY5ZWV3dm90TEhzTTktVWdaNmpMdnpsSVBOOXRhaTBfLW90VzNETU5CbWRTYnNZdXhqd3ZrLXNLdHNJbEZjaVNfams3T3M4c0Z6bFFUNW9lOQ?oc=5",
-      "source": "Yahoo",
-      "published": "2026-08-31T07:00:00.000Z",
-      "summary": "Derby County, Burnley interested in loan deal for Coventry City defender &nbsp;&nbsp; Yahoo",
-      "image": "",
-      "type": "rumour"
     },
     {
       "title": "SIGNING: Henrik Meister is a Ram",
@@ -426,9 +411,9 @@
     {
       "title": "Derby County Eye League One Midfielder Swoop",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTkhQanY0enhGb1JrZk02SlMtWTBLdTJrSzRCMnZld19XTmhvTm5JUE1KZE43Y3pHcTNycFBLSDVyTG80OGxMdTcteG12U3pnVzRKb0dJcU10X3FySWQ2all6blRDMmY1Q2FwcHMyRjVDNG1iSU91MlcxQlJhdDZPbThySGZzdw?oc=5",
-      "source": "The Stacey West",
+      "source": "staceywest.net",
       "published": "2026-08-05T07:00:00.000Z",
-      "summary": "Derby County Eye League One Midfielder Swoop &nbsp;&nbsp; The Stacey West",
+      "summary": "Derby County Eye League One Midfielder Swoop &nbsp;&nbsp; staceywest.net",
       "image": "",
       "type": "news"
     },
@@ -525,9 +510,9 @@
     {
       "title": "Bristol City Seek To Hijack Derby County Transfer Pursuit",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOGFMWVpEd3p6MTJHV3lqZHhkcW1xelhBLWFMX0xiRXFFbE1DRHRHckM2ZnA4NVJhLTE2YkZQZ3FENV9jOV96LTlIVEl0YXVjcm01ekk0RGdfMVF5bW4xZ0dMSmdrcm04VkpyWVJFUTVMZElXWmJyMHZZUjRCd1d1TEpKY2tPWkVZLWYzOGRMVldINXJicUVz?oc=5",
-      "source": "The Stacey West",
+      "source": "staceywest.net",
       "published": "2026-07-23T07:00:00.000Z",
-      "summary": "Bristol City Seek To Hijack Derby County Transfer Pursuit &nbsp;&nbsp; The Stacey West",
+      "summary": "Bristol City Seek To Hijack Derby County Transfer Pursuit &nbsp;&nbsp; staceywest.net",
       "image": "",
       "type": "rumour"
     },
@@ -566,6 +551,15 @@
       "summary": "NEW SIGNING INTERVIEW: Filip Bilbija &nbsp;&nbsp; Derby County",
       "image": "",
       "type": "news"
+    },
+    {
+      "title": "SIGNING: Filip Bilbija Joins as Derby County’s Third Summer Recruit",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZjFna0NqSXV0VHNVc3RaOUE0WjJlOXRaVGJFZnNuU1g1LUxsSERYaFdyakRVMTdZbWRzckJOMGNQTFl4M3BvNU9NbHdFUUpUbE1xRkdiOVJBSEJOVmRwbzIwMFlzYXoyYWh0dmpjRUFEcnpJekl6bEhTdkRjZWp4N2hram5ocU5LRmR3dTZtRG4ydEttbFFGa3poaXV5d2IxUGdMaGJn?oc=5",
+      "source": "Derby County",
+      "published": "2026-07-22T07:00:00.000Z",
+      "summary": "SIGNING: Filip Bilbija Joins as Derby County’s Third Summer Recruit &nbsp;&nbsp; Derby County",
+      "image": "",
+      "type": "done"
     }
   ]
 }
