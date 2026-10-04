@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-10-04T11:43:41.950Z",
+  "updatedAt": "2026-10-04T15:59:47.831Z",
   "targets": [
+    {
+      "name": "Hamza Choudhury",
+      "mentions": 2,
+      "score": 51,
+      "context": "More than one recent link"
+    },
     {
       "name": "Turki Alalshikh's",
       "mentions": 1,
@@ -15,12 +21,6 @@
     },
     {
       "name": "Russell Martin",
-      "mentions": 1,
-      "score": 27,
-      "context": "Fresh media link"
-    },
-    {
-      "name": "Hamza Choudhury",
       "mentions": 1,
       "score": 27,
       "context": "Fresh media link"
@@ -207,11 +207,20 @@
     {
       "title": "Sheffield United and Derby County 'vying' for signature of Southampton's Ben Brereton Diaz",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeU9FQkdmMUNqTldSaEJaZE5TZ1NvNWw3amJjLTBmZ19BU0RWMUkyVmRHZnZya2IyQXJQMUxfMHZZTHpFdXVFY29YM0FmSlJndFhBT0UxN0Z5b19ZOUlNcnNQWkR0ZEp3c18tMUYxWG11TDZpSEdwa3pKMEhpYTBPUkF5aXZrbVpkWEVMUkxUck92cUczNV9Qa2lMR2RvUEthZGlpTU1LUGotb0dVNUgtc1lFWW0?oc=5",
-      "source": "Yorkshire Post",
+      "source": "yorkshirepost.co.uk",
       "published": "2026-08-26T07:00:00.000Z",
-      "summary": "Sheffield United and Derby County 'vying' for signature of Southampton's Ben Brereton Diaz &nbsp;&nbsp; Yorkshire Post",
+      "summary": "Sheffield United and Derby County 'vying' for signature of Southampton's Ben Brereton Diaz &nbsp;&nbsp; yorkshirepost.co.uk",
       "image": "",
       "type": "news"
+    },
+    {
+      "title": "Derby County target Hamza Choudhury transfer as Rams step up signing search | Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORTZlcjkyWVA0Mk9GNEY2T0pydUlFUnpSZEV1enFndndTRURiSmo0MXRjb3JiU0tZNFluUlZWOWY3aTU5bTBBc19WSnRCRHA5MlNqS1BYbldHSG9ydmkwRTA2SVNYWkNYSUdtSG8xV3F5bEhIYVZ0Ykh6ZHljRkVzbmFsSllrdV95Q1oyajZZb25CSzNQME41RTlyV3FKZkRCQ1NwQjl2enZZZFU3dVE?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-08-25T07:00:00.000Z",
+      "summary": "Derby County target Hamza Choudhury transfer as Rams step up signing search | Derbyshire Live &nbsp;&nbsp; Derbyshire Live",
+      "image": "",
+      "type": "rumour"
     },
     {
       "title": "West Brom stance on Derby County target as absence explained amid transfer claim",
@@ -241,15 +250,6 @@
       "type": "news"
     },
     {
-      "title": "John Eustace issues challenge to new Derby County signing Ryan Hedges amid 'numbers' point",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRDhvLTlMZENtLW1WR0puNTJ3MGM0bjZiMmluVFVHSVYtencyWUtQd1hpWGtueldjbFBheFNyRGxRRmtpV25rNXItdmtkRDY0UHc2SWtvLU5QQjEwTVo5emxTVWFONjV6ZkxwWjV2MnFKT21BNWhtNWphNE9LYzg0cHNDcVZyUDhUcmxmZmhqSlM0OFJnLTRDVWhOYUg3Z2pMQW9sUXBOUQ?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-08-22T07:00:00.000Z",
-      "summary": "John Eustace issues challenge to new Derby County signing Ryan Hedges amid 'numbers' point &nbsp;&nbsp; Derbyshire Live",
-      "image": "",
-      "type": "news"
-    },
-    {
       "title": "Derby County 2-2 Cardiff City: Rams fight back twice to earn draw in thriller with Bluebirds",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE51NkRUZlRucTdBMDdWUktPaERlZXgzVU9JOEVQYXpWNmo5Q1Z6cGFzalJPcTFwRjhpTklVTzB1OGVwZnF4SUR5UXdKQTlHbDlnWjdVQVpSNDdEbm1PdWdmWVlTbkY2UQ?oc=5",
       "source": "BBC",
@@ -257,6 +257,15 @@
       "summary": "Derby County 2-2 Cardiff City: Rams fight back twice to earn draw in thriller with Bluebirds &nbsp;&nbsp; BBC",
       "image": "",
       "type": "news"
+    },
+    {
+      "title": "SIGNING: Ryan Hedges signs for Derby",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE94cGNVRVJlWXMyN0JUM0NHNDRLUmdpM01xTUh2cjRvb2RNcHlvYTNyM1VGNU9ZVnVsS2V0UU1YOXNoUVpzV01TSGE3LTQtSDJ1MmdGaWIwcHlKTV9PMWxXckdXYlVKS2Q1RG5sanFXOV9IN19ZZHB3T2lGNA?oc=5",
+      "source": "Derby County",
+      "published": "2026-08-20T07:00:00.000Z",
+      "summary": "SIGNING: Ryan Hedges signs for Derby &nbsp;&nbsp; Derby County",
+      "image": "",
+      "type": "done"
     },
     {
       "title": "TRANSFER NEWS: Introducing…Ryan Hedges",
@@ -284,15 +293,6 @@
       "summary": "Monza sent 'insult' message after Derby County transfer bid &nbsp;&nbsp; Derbyshire Live",
       "image": "",
       "type": "rumour"
-    },
-    {
-      "title": "West Brom boss reacts to Derby County transfer and admits 'I didn't expect it'",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTW5COW93Z0JzWnhvOGt5d09QczlkZUpCajZ3aExfUG9PdUxFSmswZTFNcFFWNk1aOXBjbUU3ZVpmUUhyYmdqU2Y0NW9DV01TVWFvSFRpNzdhRUp4OXpBWDhXaXBTeFRsU2Fja3p2T21WalljUnhac0N1eTN0R0Y3MmZacnJyWXg4S21zSFJoZzV3WUdvZHJIYmViYVExRGZxdjB1TkkxYw?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-08-16T07:00:00.000Z",
-      "summary": "West Brom boss reacts to Derby County transfer and admits 'I didn't expect it' &nbsp;&nbsp; Derbyshire Live",
-      "image": "",
-      "type": "news"
     },
     {
       "title": "ACADEMY NEWS: Turley makes Dunfermline loan return",
@@ -383,15 +383,6 @@
       "summary": "Derby County’s sale of sought-after star just became even more important after Turki Alalshikh’s takeover collapse &nbsp;&nbsp; Yahoo",
       "image": "",
       "type": "news"
-    },
-    {
-      "title": "Derby County takeover: Deal off as Turki Alalshikh shelves plans",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA5a0psVjRiQlV1WGd6YnM4czVGc1dNamRzY2RXSGxYLWNzdlNvQ2RLYkVISTBmT3ExOS1OZmZXZFFhTlh5MXA2Wkd6OHk5eFlzM29pdmxsWEYxREkyRDhBUlZ6VHllS0U?oc=5",
-      "source": "BBC",
-      "published": "2026-08-10T07:00:00.000Z",
-      "summary": "Derby County takeover: Deal off as Turki Alalshikh shelves plans &nbsp;&nbsp; BBC",
-      "image": "",
-      "type": "rumour"
     },
     {
       "title": "Derby County drop bombshell Turki Alalshikh statement",
@@ -572,6 +563,15 @@
       "summary": "Derby County transfer review: A £6m signing, more deals, and the expectations on Rams &nbsp;&nbsp; Derbyshire Live",
       "image": "",
       "type": "news"
+    },
+    {
+      "title": "Bristol City Seek To Hijack Derby County Transfer Pursuit",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOGFMWVpEd3p6MTJHV3lqZHhkcW1xelhBLWFMX0xiRXFFbE1DRHRHckM2ZnA4NVJhLTE2YkZQZ3FENV9jOV96LTlIVEl0YXVjcm01ekk0RGdfMVF5bW4xZ0dMSmdrcm04VkpyWVJFUTVMZElXWmJyMHZZUjRCd1d1TEpKY2tPWkVZLWYzOGRMVldINXJicUVz?oc=5",
+      "source": "The Stacey West",
+      "published": "2026-07-23T07:00:00.000Z",
+      "summary": "Bristol City Seek To Hijack Derby County Transfer Pursuit &nbsp;&nbsp; The Stacey West",
+      "image": "",
+      "type": "rumour"
     }
   ]
 }
