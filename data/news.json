@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-10-07T06:26:46.080Z",
+  "updatedAt": "2026-10-07T13:47:21.475Z",
   "targets": [
+    {
+      "name": "Leicester City",
+      "mentions": 1,
+      "score": 69,
+      "context": "Fresh media link"
+    },
     {
       "name": "Hamza Choudhury",
       "mentions": 2,
@@ -14,21 +20,21 @@
       "context": "Fresh media link"
     },
     {
-      "name": "West Brom",
+      "name": "Coventry City",
       "mentions": 1,
       "score": 34,
       "context": "Fresh media link"
     },
     {
-      "name": "Russell Martin",
+      "name": "Henrik Meister",
       "mentions": 1,
-      "score": 27,
+      "score": 34,
       "context": "Fresh media link"
     },
     {
-      "name": "World Cup",
+      "name": "West Brom",
       "mentions": 1,
-      "score": 27,
+      "score": 34,
       "context": "Fresh media link"
     }
   ],
@@ -43,11 +49,11 @@
       "type": "news"
     },
     {
-      "title": "Derby County transfer triggered as fee could rise to £5m on one condition",
+      "title": "Derby County transfer triggered as fee could rise to £5m on one condition | Derbyshire Live",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUi1RT3ZYY3RYbEZIT19KTG0xRkg0MWN0UVVMVWc4RjlfOWM4Q2NKTlVpZkEzamhzQzNOQnlHbUNkZVlSUGo5bWFYZ2tFVXZoaVg2VlUyeUxWOVZNSm9NckxLYWxzdVdZTVVEMkxRdzJVTUMwSlh2Z3hXVVFlc0x6TkU5Vm0xOXZlOXBOUUNfNzdRei1DcnpSMi11TkM1blIyMGdkTmJTa2w?oc=5",
       "source": "Derbyshire Live",
       "published": "2026-10-06T11:38:00.000Z",
-      "summary": "Derby County transfer triggered as fee could rise to £5m on one condition &nbsp;&nbsp; Derbyshire Live",
+      "summary": "Derby County transfer triggered as fee could rise to £5m on one condition | Derbyshire Live &nbsp;&nbsp; Derbyshire Live",
       "image": "",
       "type": "news"
     },
@@ -169,6 +175,15 @@
       "type": "news"
     },
     {
+      "title": "Derby County, Burnley interested in loan deal for Coventry City defender",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTW1RZ1p4N2s5Q0pyLWJUbzV0QTFoRkxkRDRQR3k5TVNQV2d5bDNIYTJQbVY5ZHMtWmk2TFY5ZWV3dm90TEhzTTktVWdaNmpMdnpsSVBOOXRhaTBfLW90VzNETU5CbWRTYnNZdXhqd3ZrLXNLdHNJbEZjaVNfams3T3M4c0Z6bFFUNW9lOQ?oc=5",
+      "source": "Yahoo",
+      "published": "2026-08-31T07:00:00.000Z",
+      "summary": "Derby County, Burnley interested in loan deal for Coventry City defender &nbsp;&nbsp; Yahoo",
+      "image": "",
+      "type": "rumour"
+    },
+    {
       "title": "SIGNING: Henrik Meister is a Ram",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1XYlFER2JXTUppcnpSekRnWXVhc19yQlN3cWh2T3lFMHJ5akZjak5jbWhKN1FYOHltS1hFSVh2VHdReGFobWNXN3Y4NzhmTzRZYlo3OEZLNDBHdlFoWG1GLWFWNzFCeWhONFN5amdTRjZUZzVWT3c?oc=5",
       "source": "Derby County",
@@ -192,6 +207,33 @@
       "source": "Derbyshire Live",
       "published": "2026-08-30T07:00:00.000Z",
       "summary": "Derby County complete much-needed transfer as John Eustace gets wish granted &nbsp;&nbsp; Derbyshire Live",
+      "image": "",
+      "type": "news"
+    },
+    {
+      "title": "Sheffield United set to sign Leicester City utility man after Derby County transfer interest",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOa0lvU1o3OGRxaUpCUTF6MG0xc1dnaGNVX25QTUtiSDc1XzdfTU5pOTdlakZ5OXVOM3NHVURFM0xPXzVFWmtFbHlaSjNUMl9iRDY0Z3lGSUhVRER5SU9FMDBVaFJORURYNzhwYTlqS3V1czRFdHdyN2xUVjAyQWNmT2tXandwTFVPdU1R?oc=5",
+      "source": "Yahoo",
+      "published": "2026-08-30T07:00:00.000Z",
+      "summary": "Sheffield United set to sign Leicester City utility man after Derby County transfer interest &nbsp;&nbsp; Yahoo",
+      "image": "",
+      "type": "rumour"
+    },
+    {
+      "title": "John Eustace issues Henrik Meister update and sets Derby County transfer deadline target",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOC1kTWt5V0MyRU5pUkpKSWplc2lzNFlLY2Y4TUprUEl3ZU1tYjl5NWRqbjJ4a1Bvc2FVOW51ZnFUcGVCcDBOSXN0Ml9lMkU0QUVKendTSTJCOUlab1hQaC1UT25JOVJrN1MzMVhKTmFBT1VGbG5pLXlCYkVkVlR2clBrc0ZTTHpwMXdFazc5WGNWYV9rOHdYTTlUN3lOLXlZMDNHdEJEcw?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-08-29T07:00:00.000Z",
+      "summary": "John Eustace issues Henrik Meister update and sets Derby County transfer deadline target &nbsp;&nbsp; Derbyshire Live",
+      "image": "",
+      "type": "rumour"
+    },
+    {
+      "title": "Derby County 0-3 Swansea City: Joseph Opoku, Eom Ji-sung and Ronald give unbeaten Swans win",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5jbTYxWXpXTHBqUWg5SzMwVEdnWDBlbGJ1Q2tFUXJUM0JmajB5LU02ZWUwalg3MGpXRlVDVExpOTZqeUtmamg5OUd3Q0xockhYdXNHVWpOb0ZOQnM3LXJXV1NiVVhEUQ?oc=5",
+      "source": "BBC",
+      "published": "2026-08-29T07:00:00.000Z",
+      "summary": "Derby County 0-3 Swansea City: Joseph Opoku, Eom Ji-sung and Ronald give unbeaten Swans win &nbsp;&nbsp; BBC",
       "image": "",
       "type": "news"
     },
@@ -266,6 +308,15 @@
       "summary": "West Brom stance on Derby County target as absence explained amid transfer claim &nbsp;&nbsp; Derbyshire Live",
       "image": "",
       "type": "rumour"
+    },
+    {
+      "title": "Fan's Voice: Patience is key after Derby County's slow start",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBmRUdiWVpxbXVqWXNoUV9qWU02amVveERtZ1hKYWFyczYwOF9rTXN2QXJiQVlDNm94UXVKU3NMVE8xdlRLb1NKeEhQZTZsdjRUTTc2UG55cjJKcWJMbTlra2dORmtuUzRzbWc?oc=5",
+      "source": "BBC",
+      "published": "2026-08-24T07:00:00.000Z",
+      "summary": "Fan's Voice: Patience is key after Derby County's slow start &nbsp;&nbsp; BBC",
+      "image": "",
+      "type": "news"
     },
     {
       "title": "Former Celtic star to Derby County transfer talk addressed amid summer 'rush' claim",
@@ -525,51 +576,6 @@
       "source": "Derby County",
       "published": "2026-08-01T07:00:00.000Z",
       "summary": "SIGNING: Sam Szmodics rejoins the Rams &nbsp;&nbsp; Derby County",
-      "image": "",
-      "type": "news"
-    },
-    {
-      "title": "Sam Szmodics: Derby County re-sign Ipswich Town forward on loan",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1TOTM4bGZESWxnWkhSMjMyc2gtVEV3MS16OUMzNU5RdGhJbW9LbDRldjRMRzNBVFo1VE1sVjdrRTZjQTd2elc0dGtjcFktSmxQSHdOTGlpLUk2Z2c1allIWEFuWHlERkE?oc=5",
-      "source": "BBC",
-      "published": "2026-08-01T07:00:00.000Z",
-      "summary": "Sam Szmodics: Derby County re-sign Ipswich Town forward on loan &nbsp;&nbsp; BBC",
-      "image": "",
-      "type": "news"
-    },
-    {
-      "title": "Ebonie Locke joins Derby County on loan | BWSL2",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQW9Fbl9pUkRSMGVKR1ZZRllwRjk1bFl2Tl9BZHBUdlZSbGwxREhTV1JHd3BrSVViMHpHSFpJSklDeEM4c2VRTklYa0pSa2FGR2V0bW5oVGw3azBPTTV1NXhpa0lMbzVPTGl1Mll6Z1AzcjNndDVUT3REdnFZYkZsTXpVNA?oc=5",
-      "source": "WSL Football",
-      "published": "2026-08-01T07:00:00.000Z",
-      "summary": "Ebonie Locke joins Derby County on loan | BWSL2 &nbsp;&nbsp; WSL Football",
-      "image": "",
-      "type": "done"
-    },
-    {
-      "title": "Derby County: Saudi Arabia's Turki Al-Sheikh set to finalise Rams investment",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Wdy16S1huOVBlV3hSYW9ScUI3NnRxUVAwMjhXdEd4S1kyS1dBQy1JUnlTUkRDd2NycUlRek9sVW5jRmoxUGJQZERzN1p6ZUp2elhzRGh5aDJ0aExxdEVqOV9pQXA2TEU?oc=5",
-      "source": "BBC",
-      "published": "2026-07-29T07:00:00.000Z",
-      "summary": "Derby County: Saudi Arabia's Turki Al-Sheikh set to finalise Rams investment &nbsp;&nbsp; BBC",
-      "image": "",
-      "type": "news"
-    },
-    {
-      "title": "World Cup striker linked with Derby County pulls out of transfer",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdTIxd3liSXhjS09QQV9rMlQ3TFMtQkdqWjV2bzY0c2Z3enphVk5acUpyWnpxLTJzTmZUTXJVbE9ITU5FSmZlNjRvLTdDQUxKaTdqeGJDUlltclRDMGljeDREeXBoUk13MjFUWDZsR0pCc1BWZ0cyY3JnOWRad2YzS1hoVmdUSnFsX1Z3cXdiZWJzZ3Q1VjYwV1NxMTBBOXNCdXFEUHJTZw?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-07-29T07:00:00.000Z",
-      "summary": "World Cup striker linked with Derby County pulls out of transfer &nbsp;&nbsp; Derbyshire Live",
-      "image": "",
-      "type": "rumour"
-    },
-    {
-      "title": "The real reason John Eustace is desperate to bring Sam Szmodics back to Derby County",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQd2VtdDR5ODBHWTZlZVhsa2pVZ2VzV2VTa0h1Q0NWalVzX0YxZ2xKNVVlaVlaUE1LWGdMMk1mTXlNNDVGM0dKdC1PdXlrMmtjRlA0aE9IaDR6RVFaWEdsWHA5UnlkTlpxRFg0cml6UzJkTWFZRDQ4Tk51YURFU0tsS29PdHh5ZTBzMFhUaFNNdXFJWks4b3k5cGJ5dUlGZHRKZUtXeFdXRkrSAa4BQVVfeXFMTjBHcTBXcWUySjM3NFktSU1HRm85dGNQYl9CVl95a1lBQjlVNjAyVlpfdG16MXlNQ2xralRFTlNSMWpNMkgtWnN0WEYtcGRPVVJRdko3N3RGSEw2eEZ5RlNCUTAzb3R3RWVTQkhlcUJNaG9KVGxLc1hHOFpLNEVKTlVSbElwZ29rUXRSTVM1OGJlbk9sa2laZlNCbjdzWWlxa0hqT2NjVF9HRk1pTFhB?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-07-28T07:00:00.000Z",
-      "summary": "The real reason John Eustace is desperate to bring Sam Szmodics back to Derby County &nbsp;&nbsp; Derbyshire Live",
       "image": "",
       "type": "news"
     }
