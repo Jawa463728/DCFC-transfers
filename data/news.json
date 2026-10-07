@@ -1,12 +1,6 @@
 {
-  "updatedAt": "2026-10-07T13:47:21.475Z",
+  "updatedAt": "2026-10-07T19:36:06.461Z",
   "targets": [
-    {
-      "name": "Leicester City",
-      "mentions": 1,
-      "score": 69,
-      "context": "Fresh media link"
-    },
     {
       "name": "Hamza Choudhury",
       "mentions": 2,
@@ -20,12 +14,6 @@
       "context": "Fresh media link"
     },
     {
-      "name": "Coventry City",
-      "mentions": 1,
-      "score": 34,
-      "context": "Fresh media link"
-    },
-    {
       "name": "Henrik Meister",
       "mentions": 1,
       "score": 34,
@@ -35,6 +23,12 @@
       "name": "West Brom",
       "mentions": 1,
       "score": 34,
+      "context": "Fresh media link"
+    },
+    {
+      "name": "Russell Martin",
+      "mentions": 1,
+      "score": 27,
       "context": "Fresh media link"
     }
   ],
@@ -76,6 +70,15 @@
       "type": "news"
     },
     {
+      "title": "Derby County’s failed summer pursuits of two Birmingham City players revealed",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTjA2S0NZdTNhdFJnOWVWVU8zTmpBSkNMM24tVExtejVrWGNLd0ZqSEZIa0pQQlVvSzk4WWtZczNxRGFYalBqUFk4c011RXNGVWFHSl9sVjdxNUJldGFGYm56NHotSmp6QUdPMFNYQjVXOVlTYjJuaFN5SUQycGhKaEo4cmJDYmFFaU5z?oc=5",
+      "source": "Yahoo",
+      "published": "2026-10-06T07:40:06.000Z",
+      "summary": "Derby County’s failed summer pursuits of two Birmingham City players revealed &nbsp;&nbsp; Yahoo",
+      "image": "",
+      "type": "news"
+    },
+    {
       "title": "Derby County Hit the JACKPOT?! Bobby Clark’s Value SOARS to £11M! 🐏",
       "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5JaWx2SHU1RlEyblQwOUV4NW9zRWZMY0JXWTd0aWZjZzYwb1pBUXhveS1jWkdPREJqc1FoeHFUeHVuQQ?oc=5",
       "source": "YouTube",
@@ -90,15 +93,6 @@
       "source": "BBC",
       "published": "2026-10-05T08:15:09.000Z",
       "summary": "Derby County: How collapse of Turki Alalshikh's takeover has rained on Rams' plans &nbsp;&nbsp; BBC",
-      "image": "",
-      "type": "news"
-    },
-    {
-      "title": "Derby County midfielder Cruz Allen makes his mark as Dajaune Brown aids another win",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdTE1ZDdEeHd1UnVVYTVwY0xkTkItb0JiYzJiU0lzb2VjeWN4Tm9scGx3dzVha3BmMTQ4OG94Mmd6ZjZvNE9uMHQ2SlM5YVZwZnEwb0tncE1uV1BBOFYyVTZxdWItMDZzTjNaN0UzVGhadDNjdV9mMmlPMFJqMTlzNkhDdmJXLUxSSkpuRnFQbWN2clBiMFI0eFdoRU80NDRnY1pqZzloNEY?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-10-04T10:45:00.000Z",
-      "summary": "Derby County midfielder Cruz Allen makes his mark as Dajaune Brown aids another win &nbsp;&nbsp; Derbyshire Live",
       "image": "",
       "type": "news"
     },
@@ -157,6 +151,15 @@
       "type": "news"
     },
     {
+      "title": "TRANSFER NEWS: Introducing...Mohammed Fuseini",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQM1VKODFKcW0zVUdWenBKbmFOXzVESnF0SUFtYnUtNVYzeU1pdVVzQ0tDd285U1MtLVdUdUR5TjFnd0NXWFlWNjlFbWpBNWJ2aXZFZzVIQXJSUkdnTjlBcmhOejJBcXdJOEVWdEZtUVdtZURUNS1OTUduNmZBcTR3WWdFRQ?oc=5",
+      "source": "Derby County",
+      "published": "2026-09-01T07:00:00.000Z",
+      "summary": "TRANSFER NEWS: Introducing...Mohammed Fuseini &nbsp;&nbsp; Derby County",
+      "image": "",
+      "type": "news"
+    },
+    {
       "title": "SIGNING: Fuseini makes Derby loan switch",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORHFOU1I2c3c2OXRqWGwtRkRZbUZ0WHpnR2VkaERFM3FzZlpsVnBkVUJGTWNOUllvdVNXZS1UVDNUYXFpXy1KdE1PTTg2dloxbjM1bDd0MzB2T2xwMnpBWl9wZUhYNmtITk9JV21KQVBMYm9wcDg2dUNYRjFiY0pqSg?oc=5",
       "source": "Derby County",
@@ -175,11 +178,11 @@
       "type": "news"
     },
     {
-      "title": "Derby County, Burnley interested in loan deal for Coventry City defender",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTW1RZ1p4N2s5Q0pyLWJUbzV0QTFoRkxkRDRQR3k5TVNQV2d5bDNIYTJQbVY5ZHMtWmk2TFY5ZWV3dm90TEhzTTktVWdaNmpMdnpsSVBOOXRhaTBfLW90VzNETU5CbWRTYnNZdXhqd3ZrLXNLdHNJbEZjaVNfams3T3M4c0Z6bFFUNW9lOQ?oc=5",
+      "title": "Championship side to keep Derby County, Millwall and Wrexham target",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVHZJWlVtczQ3ZURDNkU1Z2RVR1JEdmoxVFpPV1VGQ2VSQ1p4eTR5dmdNYUEtZm1FT3oyOHBnWEVlYjJmUWVKNEhyQXl6bWFWbEl1V0ptM3Q3TXo5TmtjeWZrVUNEYm9wSU9Eb25FaVI3RXlHOG45Yk9zcTdCUFV2YXdrX1FhYWRrSFBr?oc=5",
       "source": "Yahoo",
       "published": "2026-08-31T07:00:00.000Z",
-      "summary": "Derby County, Burnley interested in loan deal for Coventry City defender &nbsp;&nbsp; Yahoo",
+      "summary": "Championship side to keep Derby County, Millwall and Wrexham target &nbsp;&nbsp; Yahoo",
       "image": "",
       "type": "rumour"
     },
@@ -209,15 +212,6 @@
       "summary": "Derby County complete much-needed transfer as John Eustace gets wish granted &nbsp;&nbsp; Derbyshire Live",
       "image": "",
       "type": "news"
-    },
-    {
-      "title": "Sheffield United set to sign Leicester City utility man after Derby County transfer interest",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOa0lvU1o3OGRxaUpCUTF6MG0xc1dnaGNVX25QTUtiSDc1XzdfTU5pOTdlakZ5OXVOM3NHVURFM0xPXzVFWmtFbHlaSjNUMl9iRDY0Z3lGSUhVRER5SU9FMDBVaFJORURYNzhwYTlqS3V1czRFdHdyN2xUVjAyQWNmT2tXandwTFVPdU1R?oc=5",
-      "source": "Yahoo",
-      "published": "2026-08-30T07:00:00.000Z",
-      "summary": "Sheffield United set to sign Leicester City utility man after Derby County transfer interest &nbsp;&nbsp; Yahoo",
-      "image": "",
-      "type": "rumour"
     },
     {
       "title": "John Eustace issues Henrik Meister update and sets Derby County transfer deadline target",
@@ -351,15 +345,6 @@
       "source": "BBC",
       "published": "2026-08-22T07:00:00.000Z",
       "summary": "Derby County 2-2 Cardiff City: Rams fight back twice to earn draw in thriller with Bluebirds &nbsp;&nbsp; BBC",
-      "image": "",
-      "type": "news"
-    },
-    {
-      "title": "TRANSFER NEWS: Introducing…Ryan Hedges",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1sd2FUWlYyTkhWYjVSaUlNSjh1OW9vUjlUVFFlX0EwOFZwZ3VtTXJkUWRVemtLQXlCNTJSLVpqcy1NaGVrdHFOUm9USFgxRUhYN0FROWNQVzdtazE4QlViT3ZZSzNab29qWkNuUndFeFkzSVJjVjFrT1NCSUw?oc=5",
-      "source": "Derby County",
-      "published": "2026-08-20T07:00:00.000Z",
-      "summary": "TRANSFER NEWS: Introducing…Ryan Hedges &nbsp;&nbsp; Derby County",
       "image": "",
       "type": "news"
     },
@@ -567,6 +552,15 @@
       "source": "Derbyshire Live",
       "published": "2026-08-03T07:00:00.000Z",
       "summary": "Derby County ready to splash out on 'explosive' Europa League star as transfer price set &nbsp;&nbsp; Derbyshire Live",
+      "image": "",
+      "type": "news"
+    },
+    {
+      "title": "TRANSFER NEWS: Reintroducing...Sam Szmodics",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbEdIUmhGVFNodlFWVUIzcU5xck1VcF80MjEwYWZfRkNGWnVrb2U1U3E0NW1VRHFKcDcyZWxsakZRaldRdlBGbnpabFZZZUY0T1dzTlEzYVIwVjI1a0lhZ3JvVk1FcThjQnpjaE5UMVo5N2VucWlib1VSX2NGM19SbA?oc=5",
+      "source": "Derby County",
+      "published": "2026-08-01T07:00:00.000Z",
+      "summary": "TRANSFER NEWS: Reintroducing...Sam Szmodics &nbsp;&nbsp; Derby County",
       "image": "",
       "type": "news"
     },
