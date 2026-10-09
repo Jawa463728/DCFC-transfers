@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T16:32:51.577Z",
+  "updatedAt": "2026-10-09T21:13:48.498Z",
   "targets": [
     {
       "name": "Leicester City",
@@ -117,6 +117,15 @@
       "source": "Derby County",
       "published": "2026-09-29T07:00:00.000Z",
       "summary": "ACADEMY NEWS: Allen extends Halifax loan &nbsp;&nbsp; Derby County",
+      "image": "",
+      "type": "news"
+    },
+    {
+      "title": "Derby County starlets pass more landmarks as loan turns sour after 'thorough analysis'",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaGZ0NW1WZDBUZi15SW5MRlk5QXl2cWJkbFVLV04zdlJqc0FHa1RBNGMybVlrUXVCR0RScU52NHgwWXViLVdiOEtwLWkzendGUHBEVVctWTVaeGdZb1FBTnl6UlJQZnE5SnZuWVZ6ZHNSUGFwci14WGtnbVN4MDlYMUxNZ1RxdzBKMi1FNmtnMVpPS2lNeUVuTEtBbURJRWxJdm5WcFoybw?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-09-21T11:22:15.000Z",
+      "summary": "Derby County starlets pass more landmarks as loan turns sour after 'thorough analysis' &nbsp;&nbsp; Derbyshire Live",
       "image": "",
       "type": "news"
     },
@@ -338,7 +347,7 @@
     },
     {
       "title": "Ryan Hedges: Derby County sign ex-Blackburn Rovers winger",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9xRUxNUEhWbEJwdFRGX2N4aWJnWDQzN0RLOThWMk9VUDF6WDViODdONjUyZEs0eE8zZFEtUy04ZE9MZEN5NjFfbmtGVUNDT2ZoeTZ1Y2tveDVESy1pamUweWI0UzFtZ3JUNmc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBEWkZILXl3b2xHX1phWkxfOVpld05QWTZJb1JIaVFTX3c3a2hhMTEwQml2TFdCTi1MNnFuRUNpT25Dc3NyeWVELWJJaElfTTlIMUREMzk1U01lem5zTmlvajVLTlc3SVk?oc=5",
       "source": "BBC",
       "published": "2026-08-20T07:00:00.000Z",
       "summary": "Ryan Hedges: Derby County sign ex-Blackburn Rovers winger &nbsp;&nbsp; BBC",
@@ -535,29 +544,11 @@
       "type": "news"
     },
     {
-      "title": "TRANSFER NEWS: Reintroducing...Sam Szmodics",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbEdIUmhGVFNodlFWVUIzcU5xck1VcF80MjEwYWZfRkNGWnVrb2U1U3E0NW1VRHFKcDcyZWxsakZRaldRdlBGbnpabFZZZUY0T1dzTlEzYVIwVjI1a0lhZ3JvVk1FcThjQnpjaE5UMVo5N2VucWlib1VSX2NGM19SbA?oc=5",
-      "source": "Derby County",
-      "published": "2026-08-01T07:00:00.000Z",
-      "summary": "TRANSFER NEWS: Reintroducing...Sam Szmodics &nbsp;&nbsp; Derby County",
-      "image": "",
-      "type": "news"
-    },
-    {
       "title": "SIGNING: Sam Szmodics rejoins the Rams",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBUR0Fxd2NKRlh1OS1yYmNPV0JWWHJoRFFLNzlrc211Y2RWeXdXS1ZTbExDRUdOMGRROFdnSWRtQ1VIVXZZUEUtWlRnVnQ3QkFvbHAtUjBNbmVHOFppRkd4ajdoQ2ZMcTVEcU9zOF9xcDhhRno2Rlh6LVFqY251QQ?oc=5",
       "source": "Derby County",
       "published": "2026-08-01T07:00:00.000Z",
       "summary": "SIGNING: Sam Szmodics rejoins the Rams &nbsp;&nbsp; Derby County",
-      "image": "",
-      "type": "news"
-    },
-    {
-      "title": "Sam Szmodics: Derby County re-sign Ipswich Town forward on loan",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1TOTM4bGZESWxnWkhSMjMyc2gtVEV3MS16OUMzNU5RdGhJbW9LbDRldjRMRzNBVFo1VE1sVjdrRTZjQTd2elc0dGtjcFktSmxQSHdOTGlpLUk2Z2c1allIWEFuWHlERkE?oc=5",
-      "source": "BBC",
-      "published": "2026-08-01T07:00:00.000Z",
-      "summary": "Sam Szmodics: Derby County re-sign Ipswich Town forward on loan &nbsp;&nbsp; BBC",
       "image": "",
       "type": "news"
     },
@@ -578,6 +569,15 @@
       "summary": "Derby County: Saudi Arabia's Turki Al-Sheikh set to finalise Rams investment &nbsp;&nbsp; BBC",
       "image": "",
       "type": "news"
+    },
+    {
+      "title": "World Cup striker linked with Derby County pulls out of transfer",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdTIxd3liSXhjS09QQV9rMlQ3TFMtQkdqWjV2bzY0c2Z3enphVk5acUpyWnpxLTJzTmZUTXJVbE9ITU5FSmZlNjRvLTdDQUxKaTdqeGJDUlltclRDMGljeDREeXBoUk13MjFUWDZsR0pCc1BWZ0cyY3JnOWRad2YzS1hoVmdUSnFsX1Z3cXdiZWJzZ3Q1VjYwV1NxMTBBOXNCdXFEUHJTZw?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-07-29T07:00:00.000Z",
+      "summary": "World Cup striker linked with Derby County pulls out of transfer &nbsp;&nbsp; Derbyshire Live",
+      "image": "",
+      "type": "rumour"
     }
   ]
 }
