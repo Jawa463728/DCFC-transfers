@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T17:58:38.509Z",
+  "updatedAt": "2026-10-10T21:32:47.754Z",
   "targets": [
     {
       "name": "Leicester City",
@@ -12,12 +12,6 @@
       "mentions": 2,
       "score": 51,
       "context": "More than one recent link"
-    },
-    {
-      "name": "Turki Alalshikh's",
-      "mentions": 1,
-      "score": 43,
-      "context": "Fresh media link"
     },
     {
       "name": "Coventry City",
@@ -35,6 +29,12 @@
       "name": "West Brom",
       "mentions": 1,
       "score": 34,
+      "context": "Fresh media link"
+    },
+    {
+      "name": "Russell Martin",
+      "mentions": 1,
+      "score": 27,
       "context": "Fresh media link"
     }
   ],
@@ -193,15 +193,6 @@
       "type": "news"
     },
     {
-      "title": "Derby County starlets pass more landmarks as loan turns sour after 'thorough analysis'",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaGZ0NW1WZDBUZi15SW5MRlk5QXl2cWJkbFVLV04zdlJqc0FHa1RBNGMybVlrUXVCR0RScU52NHgwWXViLVdiOEtwLWkzendGUHBEVVctWTVaeGdZb1FBTnl6UlJQZnE5SnZuWVZ6ZHNSUGFwci14WGtnbVN4MDlYMUxNZ1RxdzBKMi1FNmtnMVpPS2lNeUVuTEtBbURJRWxJdm5WcFoybw?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-09-21T11:22:15.000Z",
-      "summary": "Derby County starlets pass more landmarks as loan turns sour after 'thorough analysis' &nbsp;&nbsp; Derbyshire Live",
-      "image": "",
-      "type": "news"
-    },
-    {
       "title": "ACADEMY NEWS: Gill makes Halifax loan switch",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVlZ4WG85aWFGdHhsOWsyXzNVSllIcGlBc3hnLUN6Nzh6QUlJd3NUelhMbEJocWI4QW42SFdHYmpVTU5aRjNjM1BBWDcyM2l1bFBEMmIxLU0zOWtyLTE5ZzdnT2ozTzlXTEY4NTZkVU1CZ3poZ25xRnJDckpIQkxrczRpQzVmUQ?oc=5",
       "source": "Derby County",
@@ -227,6 +218,15 @@
       "summary": "Derby County midfielder Kenzo Goudmijn joins Grasshoppers on loan &nbsp;&nbsp; BBC",
       "image": "",
       "type": "done"
+    },
+    {
+      "title": "Nicholas Bilokapic: Derby County sign goalkeeper on free transfer",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5tbVB6c2VNRTE1WUlnMjJqd1lHQ05zM0ZtX0hoQ252cTJEZGluUmIwMU9wWUdTdFFBbWZMOFVWWXRNUTZjU0xKd3BhUW9RcUNuY1c3WjZvZXYydE9fSE8zd0EzckxqNWs?oc=5",
+      "source": "BBC",
+      "published": "2026-09-04T07:00:00.000Z",
+      "summary": "Nicholas Bilokapic: Derby County sign goalkeeper on free transfer &nbsp;&nbsp; BBC",
+      "image": "",
+      "type": "news"
     },
     {
       "title": "SIGNING: Fuseini makes Derby loan switch",
@@ -481,6 +481,15 @@
       "type": "news"
     },
     {
+      "title": "SIGNING: Alex Mowatt joins Derby County",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLU3JuWDM0QzRad2ZZVEExNjFucG5vMmZpd3ZVUWlBM2E1Ri1wZkprd1V3TGRmbzVyVHJHd09hODdWQWk2QnlzcWJYUFhlTHJKZkJoV1JXMEJoLXlLRnNmenlRUTc3dkdDaVVXdTlOS0x3SWpRcGxNTWp3TjZBSFE?oc=5",
+      "source": "Derby County",
+      "published": "2026-08-14T07:00:00.000Z",
+      "summary": "SIGNING: Alex Mowatt joins Derby County &nbsp;&nbsp; Derby County",
+      "image": "",
+      "type": "done"
+    },
+    {
       "title": "Alex Mowatt: Derby County sign midfielder from West Bromwich Albion",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBWOE5mNTY1OW1qY3hrR0dRa0VpOGZPRHY2bzlPdzZKS1pfeEhYcHVsU0cyQjdFVkZRekRqTXVDNTQ1RWhRMjVuSGRiTC1XUzQ4RGFoV1FPWjV5RnJiQXRwT01FdFl5UDQ?oc=5",
       "source": "BBC",
@@ -569,15 +578,6 @@
       "summary": "Saudi boxing chief Turki Alalshikh gives statement as he pulls out of running to buy Derby County &nbsp;&nbsp; talkSPORT",
       "image": "",
       "type": "news"
-    },
-    {
-      "title": "Turki Alalshikh’s Derby County takeover bid collapses",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBPaEs3TVFjcU5PdG83cXpaVlhNTFlfSDMzMzg5SXJjNGlBMF9CaVVJVTd4R2FVYWw1aXJ2S0pSclkyMXpUV2ZkaXFGdHlIMWg4RXhabUoxckdBQ04zcEtXYU5tXzBfZ3JpS2Rrd29QczN2c2Z4M1pMMTlNa2RmQdIBgwFBVV95cUxOb2RXbDhPbkZQLTNSYUVoNm9ZZHNvdTN5eDlmWWdnTFFUUzAybnprdzl3Vlk4enRzaUNnSG1pSnZqSzVPNFl3T3hmSGNrTDVyc0luUnRzSE94bF83VGxpTzlFSVFRY1Q5OUY1eW1maUg0YzNSQW9RU2RRczZkVEsyOXM2Yw?oc=5",
-      "source": "Hayters",
-      "published": "2026-08-10T07:00:00.000Z",
-      "summary": "Turki Alalshikh’s Derby County takeover bid collapses &nbsp;&nbsp; Hayters",
-      "image": "",
-      "type": "rumour"
     }
   ]
 }
