@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T22:59:18.391Z",
+  "updatedAt": "2026-10-14T01:48:12.527Z",
   "targets": [
     {
       "name": "Leicester City",
@@ -81,15 +81,6 @@
       "source": "Derbyshire Live",
       "published": "2026-10-11T08:54:05.000Z",
       "summary": "Derby County's transfer snip shines again amid late drama as Rams problem close to breaking point &nbsp;&nbsp; Derbyshire Live",
-      "image": "",
-      "type": "news"
-    },
-    {
-      "title": "Ex-Derby County star Nathaniel Mendez-Laing has contract ripped up weeks after assault charge",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQM0o4UGprME50a3dTWTVvZmtOYzBSdzF1bnI1amYtVE9zTVgyLW1TRUVCMHBocTkyTVZIbm5Da3FHcHlESDBOQVc0TkRYMGVRcEhvWHNCOFBITW16SDhadUVjaGZkbzhZdGdQUXA2bGYxYXp3N29Id294dko1WnpqLXVrZ0VaZ25xdUVQalVPak5ZR1pTV2RpbndKdU9od9IBowFBVV95cUxQdnRib2R1emQ3WVN1cWRkNVRUOFVkQWxYeUVCalQ1cU40RVEwdTlFNnc4ZmxJRVJOdzR0dDQtRWg3T1RSMlJqOWdRNUdHUF9TTzhTMEdzNGU3c2loNGc0MTRXSUdhbjFtVEs1Tko3eDlTczBBNGlIZmZ6UGI5aXNsT3l1Y0hzcXB2aGVOWGdacW9MSWYtbGtEZWp5amF6Mjk0cGdj?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-10-09T11:45:00.000Z",
-      "summary": "Ex-Derby County star Nathaniel Mendez-Laing has contract ripped up weeks after assault charge &nbsp;&nbsp; Derbyshire Live",
       "image": "",
       "type": "news"
     },
@@ -544,15 +535,6 @@
       "type": "news"
     },
     {
-      "title": "Player eyed by Derby County and Swansea City holds Watford loan return talks",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNckVZelVzLTJGdnhZQWd1WHRub3IydWFaaDhXMHRJNzd3OU5ySDdDMlRfMHVUWVlyUm1FeUc0Vjd6Wm13cU5UaGZaTWxzZ2JOeFcxLXlWeDVZcnpqTUQ2X1dDTkhCWHN2VWhnbW1JTHpUczdvS3dzT0JjQUZaejB5V2NXTk5XbWc?oc=5",
-      "source": "Yahoo",
-      "published": "2026-08-07T07:00:00.000Z",
-      "summary": "Player eyed by Derby County and Swansea City holds Watford loan return talks &nbsp;&nbsp; Yahoo",
-      "image": "",
-      "type": "rumour"
-    },
-    {
       "title": "Dajaune Brown seals Derby County transfer as EFL club confirms swoop for striker",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOExDTW8zWVl5Rkg3RUZDT0pGSnZLaHZac3RlaTJmX2tjS2ZqRmVJbGk5RUctM0ZmYVRpcU9wUDVCZzNqdGlseDhfTW1vdnRITmIzY1c4ckZ3bDh4N095bXdBV2tmN1NWU2ZYdmxQbnpfVUc0ajdUdDRTYUo4bFdOcnh4U194emRLNU0wN1BRdFQ1UXVFQzVLcFV6Wk1mVGEzNTdkSXlR?oc=5",
       "source": "Derbyshire Live",
@@ -578,6 +560,24 @@
       "summary": "Derby County ready to splash out on 'explosive' Europa League star as transfer price set &nbsp;&nbsp; Derbyshire Live",
       "image": "",
       "type": "news"
+    },
+    {
+      "title": "Sam Szmodics: Derby County re-sign Ipswich Town forward on loan",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1TOTM4bGZESWxnWkhSMjMyc2gtVEV3MS16OUMzNU5RdGhJbW9LbDRldjRMRzNBVFo1VE1sVjdrRTZjQTd2elc0dGtjcFktSmxQSHdOTGlpLUk2Z2c1allIWEFuWHlERkE?oc=5",
+      "source": "BBC",
+      "published": "2026-08-01T07:00:00.000Z",
+      "summary": "Sam Szmodics: Derby County re-sign Ipswich Town forward on loan &nbsp;&nbsp; BBC",
+      "image": "",
+      "type": "news"
+    },
+    {
+      "title": "Ebonie Locke joins Derby County on loan | BWSL2",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQW9Fbl9pUkRSMGVKR1ZZRllwRjk1bFl2Tl9BZHBUdlZSbGwxREhTV1JHd3BrSVViMHpHSFpJSklDeEM4c2VRTklYa0pSa2FGR2V0bW5oVGw3azBPTTV1NXhpa0lMbzVPTGl1Mll6Z1AzcjNndDVUT3REdnFZYkZsTXpVNA?oc=5",
+      "source": "WSL Football",
+      "published": "2026-08-01T07:00:00.000Z",
+      "summary": "Ebonie Locke joins Derby County on loan | BWSL2 &nbsp;&nbsp; WSL Football",
+      "image": "",
+      "type": "done"
     }
   ]
 }
