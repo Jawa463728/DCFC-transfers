@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T01:48:12.527Z",
+  "updatedAt": "2026-10-14T06:47:06.144Z",
   "targets": [
     {
       "name": "Leicester City",
@@ -535,6 +535,15 @@
       "type": "news"
     },
     {
+      "title": "Player eyed by Derby County and Swansea City holds Watford loan return talks",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNckVZelVzLTJGdnhZQWd1WHRub3IydWFaaDhXMHRJNzd3OU5ySDdDMlRfMHVUWVlyUm1FeUc0Vjd6Wm13cU5UaGZaTWxzZ2JOeFcxLXlWeDVZcnpqTUQ2X1dDTkhCWHN2VWhnbW1JTHpUczdvS3dzT0JjQUZaejB5V2NXTk5XbWc?oc=5",
+      "source": "Yahoo",
+      "published": "2026-08-07T07:00:00.000Z",
+      "summary": "Player eyed by Derby County and Swansea City holds Watford loan return talks &nbsp;&nbsp; Yahoo",
+      "image": "",
+      "type": "rumour"
+    },
+    {
       "title": "Dajaune Brown seals Derby County transfer as EFL club confirms swoop for striker",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOExDTW8zWVl5Rkg3RUZDT0pGSnZLaHZac3RlaTJmX2tjS2ZqRmVJbGk5RUctM0ZmYVRpcU9wUDVCZzNqdGlseDhfTW1vdnRITmIzY1c4ckZ3bDh4N095bXdBV2tmN1NWU2ZYdmxQbnpfVUc0ajdUdDRTYUo4bFdOcnh4U194emRLNU0wN1BRdFQ1UXVFQzVLcFV6Wk1mVGEzNTdkSXlR?oc=5",
       "source": "Derbyshire Live",
@@ -569,15 +578,6 @@
       "summary": "Sam Szmodics: Derby County re-sign Ipswich Town forward on loan &nbsp;&nbsp; BBC",
       "image": "",
       "type": "news"
-    },
-    {
-      "title": "Ebonie Locke joins Derby County on loan | BWSL2",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQW9Fbl9pUkRSMGVKR1ZZRllwRjk1bFl2Tl9BZHBUdlZSbGwxREhTV1JHd3BrSVViMHpHSFpJSklDeEM4c2VRTklYa0pSa2FGR2V0bW5oVGw3azBPTTV1NXhpa0lMbzVPTGl1Mll6Z1AzcjNndDVUT3REdnFZYkZsTXpVNA?oc=5",
-      "source": "WSL Football",
-      "published": "2026-08-01T07:00:00.000Z",
-      "summary": "Ebonie Locke joins Derby County on loan | BWSL2 &nbsp;&nbsp; WSL Football",
-      "image": "",
-      "type": "done"
     }
   ]
 }
