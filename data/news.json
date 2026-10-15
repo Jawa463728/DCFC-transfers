@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T12:52:59.534Z",
+  "updatedAt": "2026-10-15T17:36:38.700Z",
   "targets": [
     {
       "name": "Leicester City",
@@ -12,6 +12,12 @@
       "mentions": 2,
       "score": 51,
       "context": "More than one recent link"
+    },
+    {
+      "name": "Turki Alalshikh's",
+      "mentions": 1,
+      "score": 43,
+      "context": "Fresh media link"
     },
     {
       "name": "Coventry City",
@@ -30,23 +36,17 @@
       "mentions": 1,
       "score": 34,
       "context": "Fresh media link"
-    },
-    {
-      "name": "Russell Martin",
-      "mentions": 1,
-      "score": 27,
-      "context": "Fresh media link"
     }
   ],
   "stories": [
     {
-      "title": "John Eustace spells out free agent transfer ‘need’ as Derby County crisis grows with another defender blow",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSVQ5ZnFuNU43RGRWTkFYSm5IZTVsbWpXdkV5VkpFYm9rZjUzbzBTblJ3UlhCZGdVMTB5MzFWSDFTUV9Ob01YdGI5T0hpdVBtemVFdEFEc0FWUlVSc3Q3c2E5Z29hZjF1TjM5QWNQa2hQUEVnaU42Z05tWWQ2b1lBUG9zc3g?oc=5",
-      "source": "Yahoo",
-      "published": "2026-10-15T09:46:05.000Z",
-      "summary": "John Eustace spells out free agent transfer ‘need’ as Derby County crisis grows with another defender blow &nbsp;&nbsp; Yahoo",
+      "title": "Derby County confirm double transfer as former Crystal Palace striker signs",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMm5PdE9hVEVETmVNbUVvOFdXaUlHTWNxdGJUbS11UHhmQzlNLTdja3ZQbThBOTZtQmM5LUIzbERhS0cxS2RvZnFRQWJTcTN0dWUxVldWWE04S3E1MVpwZkNnV2NJUkRmQThvV3ZKNEh0bGtTRkZpQmR1M0wxT0plS0lPLUxKTmtWdU5od3FIOVUzVEc5MFBPVDFHWHRRVVhCeTZFa3Q3ZmFsUDQ?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-10-15T15:35:00.000Z",
+      "summary": "Derby County confirm double transfer as former Crystal Palace striker signs &nbsp;&nbsp; Derbyshire Live",
       "image": "",
-      "type": "news"
+      "type": "done"
     },
     {
       "title": "Sondre Langas in a 'bad way' as John Eustace doesn't rule out Derby County transfer | Derbyshire Live",
@@ -481,15 +481,6 @@
       "type": "rumour"
     },
     {
-      "title": "Obstacle emerges in 24-year-old’s potential loan move as Derby County, Charlton Athletic lurk",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxON3JBcHhMVHZOSExSZE82bDNKV2V5eXE5OVg2cVdUNWpNQTRpVERuajJFUUdHaFJYelM5c3RaejR4Q28xQ01WeVo2a05tLWt1UDdjQzZHX1ZQQ1ZyMkZqYlNPbU5oOFlBZHJmaE5HVG41TkpIdWpweUhDQ3Uzb2JCcEJBVXZvSnVt?oc=5",
-      "source": "Yahoo",
-      "published": "2026-08-16T07:00:00.000Z",
-      "summary": "Obstacle emerges in 24-year-old’s potential loan move as Derby County, Charlton Athletic lurk &nbsp;&nbsp; Yahoo",
-      "image": "",
-      "type": "rumour"
-    },
-    {
       "title": "ACADEMY NEWS: Turley makes Dunfermline loan return",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcEJON1NJa2tLRWR6SXo5TE1Oc21obnVka0hsZHowbVNCWGJvSlVEU3JwZjM3Z3FTYWlWSUYyZHpYWloyM3lSQlRGRV9IRk9zbjh3N3c2MTdqRWcxRjdYdnEwYm9HUThTcTBHWGxwZVpSaHc1Y3FmWVBvX0N2dlFVZjB1SVFIUVVmNDZabzhB?oc=5",
       "source": "Derby County",
@@ -578,6 +569,15 @@
       "summary": "Saudi boxing chief Turki Alalshikh gives statement as he pulls out of running to buy Derby County &nbsp;&nbsp; talkSPORT",
       "image": "",
       "type": "news"
+    },
+    {
+      "title": "Turki Alalshikh’s Derby County takeover bid collapses",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBPaEs3TVFjcU5PdG83cXpaVlhNTFlfSDMzMzg5SXJjNGlBMF9CaVVJVTd4R2FVYWw1aXJ2S0pSclkyMXpUV2ZkaXFGdHlIMWg4RXhabUoxckdBQ04zcEtXYU5tXzBfZ3JpS2Rrd29QczN2c2Z4M1pMMTlNa2RmQdIBgwFBVV95cUxOb2RXbDhPbkZQLTNSYUVoNm9ZZHNvdTN5eDlmWWdnTFFUUzAybnprdzl3Vlk4enRzaUNnSG1pSnZqSzVPNFl3T3hmSGNrTDVyc0luUnRzSE94bF83VGxpTzlFSVFRY1Q5OUY1eW1maUg0YzNSQW9RU2RRczZkVEsyOXM2Yw?oc=5",
+      "source": "Hayters",
+      "published": "2026-08-10T07:00:00.000Z",
+      "summary": "Turki Alalshikh’s Derby County takeover bid collapses &nbsp;&nbsp; Hayters",
+      "image": "",
+      "type": "rumour"
     }
   ]
 }
