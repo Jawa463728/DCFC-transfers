@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T07:43:47.627Z",
+  "updatedAt": "2026-10-15T12:52:59.534Z",
   "targets": [
     {
       "name": "Leicester City",
@@ -12,12 +12,6 @@
       "mentions": 2,
       "score": 51,
       "context": "More than one recent link"
-    },
-    {
-      "name": "Turki Alalshikh's",
-      "mentions": 1,
-      "score": 43,
-      "context": "Fresh media link"
     },
     {
       "name": "Coventry City",
@@ -36,9 +30,33 @@
       "mentions": 1,
       "score": 34,
       "context": "Fresh media link"
+    },
+    {
+      "name": "Russell Martin",
+      "mentions": 1,
+      "score": 27,
+      "context": "Fresh media link"
     }
   ],
   "stories": [
+    {
+      "title": "John Eustace spells out free agent transfer ‘need’ as Derby County crisis grows with another defender blow",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSVQ5ZnFuNU43RGRWTkFYSm5IZTVsbWpXdkV5VkpFYm9rZjUzbzBTblJ3UlhCZGdVMTB5MzFWSDFTUV9Ob01YdGI5T0hpdVBtemVFdEFEc0FWUlVSc3Q3c2E5Z29hZjF1TjM5QWNQa2hQUEVnaU42Z05tWWQ2b1lBUG9zc3g?oc=5",
+      "source": "Yahoo",
+      "published": "2026-10-15T09:46:05.000Z",
+      "summary": "John Eustace spells out free agent transfer ‘need’ as Derby County crisis grows with another defender blow &nbsp;&nbsp; Yahoo",
+      "image": "",
+      "type": "news"
+    },
+    {
+      "title": "Sondre Langas in a 'bad way' as John Eustace doesn't rule out Derby County transfer | Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdmFwWXVTNmFMVDZqRWozRWk1a2ppVUk4ZGFkQzV2blo5WW9MZkNRUDFxSS1wQzQ4WGMtYjVZZDBYbS1GRWNEYmh4aG9LejZzYklaSzJZdGdxWS05dDU0czdsNmVQaTdKenFReFJheFVhOXFhQ1FOUWY0VDFaYlJIazJkUEVLSVJvcGN3azVMaVJNZXAxZHNPaFZrMWMxdDg0NG9tbjEtVQ?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-10-15T08:08:00.000Z",
+      "summary": "Sondre Langas in a 'bad way' as John Eustace doesn't rule out Derby County transfer | Derbyshire Live &nbsp;&nbsp; Derbyshire Live",
+      "image": "",
+      "type": "news"
+    },
     {
       "title": "[𝐖𝐀𝐓𝐂𝐇𝐋𝐈𝐕𝐄]𝐒𝐊𝐘!] QPR v Derby County Live Free 14 October 2026 Right Now",
       "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQWHFMYjFXZFFFNW9nWE4wOFAtb1QwaUhfQmE4b1MwS0d4NmdhWUxNa05xYnpWOU5ISDltaDJRdlkwUUdtanNhdGU4a2RZVW10djdjTkRvLWRoX29mVXUyS3RHdkxxck02cEtOTC1fVVdWb3dTeXUzTnNzZ3JzTndibFlDSE9Ma2dEUFZjVlNtQUU4aDJMVG1ma0hWaUUzU3p1R2F6akNwcUFKbzNoYW4wcVBhTkgxVGlPZ21PVlBYTVhvakJ3VU1FSnlVVGV4R3dpVU9ZNjMyTW5GR21nUzdxdmJ2TW1oU25UM1YwbFZuTTdHRHFGV29RemRSTHBUcHl6aDlpa2E3Y3ZqbUUtMm5wSm5aYmtueU1vSkdGQTg3MEYweGZvUlFlUW5IQzdzWDZia0ZwYTFYUlJxR3VjOTlibUh2RFg?oc=5",
@@ -225,15 +243,6 @@
       "source": "Derby County",
       "published": "2026-09-18T07:00:00.000Z",
       "summary": "ACADEMY NEWS: Gill makes Halifax loan switch &nbsp;&nbsp; Derby County",
-      "image": "",
-      "type": "news"
-    },
-    {
-      "title": "Eiran Cashin: Defender says Derby County still 'feels like home' after loan return",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE00NzB5WFBoVDBUV19fbXBSVFU4dEdvb3pkeVlrQWROVThoQm4wNTJRelJEcXZVYkk4Vi1STW4zalptTnpyaTJnN2o3bXRmZzBSRmVFUFZQdjhrSEdFS1pnbzA4R1RtTUdB?oc=5",
-      "source": "BBC",
-      "published": "2026-09-18T07:00:00.000Z",
-      "summary": "Eiran Cashin: Defender says Derby County still 'feels like home' after loan return &nbsp;&nbsp; BBC",
       "image": "",
       "type": "news"
     },
@@ -569,15 +578,6 @@
       "summary": "Saudi boxing chief Turki Alalshikh gives statement as he pulls out of running to buy Derby County &nbsp;&nbsp; talkSPORT",
       "image": "",
       "type": "news"
-    },
-    {
-      "title": "Turki Alalshikh’s Derby County takeover bid collapses",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBPaEs3TVFjcU5PdG83cXpaVlhNTFlfSDMzMzg5SXJjNGlBMF9CaVVJVTd4R2FVYWw1aXJ2S0pSclkyMXpUV2ZkaXFGdHlIMWg4RXhabUoxckdBQ04zcEtXYU5tXzBfZ3JpS2Rrd29QczN2c2Z4M1pMMTlNa2RmQdIBgwFBVV95cUxOb2RXbDhPbkZQLTNSYUVoNm9ZZHNvdTN5eDlmWWdnTFFUUzAybnprdzl3Vlk4enRzaUNnSG1pSnZqSzVPNFl3T3hmSGNrTDVyc0luUnRzSE94bF83VGxpTzlFSVFRY1Q5OUY1eW1maUg0YzNSQW9RU2RRczZkVEsyOXM2Yw?oc=5",
-      "source": "Hayters",
-      "published": "2026-08-10T07:00:00.000Z",
-      "summary": "Turki Alalshikh’s Derby County takeover bid collapses &nbsp;&nbsp; Hayters",
-      "image": "",
-      "type": "rumour"
     }
   ]
 }
