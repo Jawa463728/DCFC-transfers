@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T01:29:26.812Z",
+  "updatedAt": "2026-10-16T06:18:33.166Z",
   "targets": [
     {
       "name": "Leicester City",
@@ -12,6 +12,12 @@
       "mentions": 2,
       "score": 51,
       "context": "More than one recent link"
+    },
+    {
+      "name": "Turki Alalshikh's",
+      "mentions": 1,
+      "score": 43,
+      "context": "Fresh media link"
     },
     {
       "name": "Coventry City",
@@ -30,12 +36,6 @@
       "mentions": 1,
       "score": 34,
       "context": "Fresh media link"
-    },
-    {
-      "name": "Russell Martin",
-      "mentions": 1,
-      "score": 27,
-      "context": "Fresh media link"
     }
   ],
   "stories": [
@@ -47,15 +47,6 @@
       "summary": "Derby County confirm double transfer as former Crystal Palace striker signs &nbsp;&nbsp; Derbyshire Live",
       "image": "",
       "type": "done"
-    },
-    {
-      "title": "John Eustace spells out free agent transfer ‘need’ as Derby County crisis grows with another defender blow",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSVQ5ZnFuNU43RGRWTkFYSm5IZTVsbWpXdkV5VkpFYm9rZjUzbzBTblJ3UlhCZGdVMTB5MzFWSDFTUV9Ob01YdGI5T0hpdVBtemVFdEFEc0FWUlVSc3Q3c2E5Z29hZjF1TjM5QWNQa2hQUEVnaU42Z05tWWQ2b1lBUG9zc3g?oc=5",
-      "source": "Yahoo",
-      "published": "2026-10-15T09:46:05.000Z",
-      "summary": "John Eustace spells out free agent transfer ‘need’ as Derby County crisis grows with another defender blow &nbsp;&nbsp; Yahoo",
-      "image": "",
-      "type": "news"
     },
     {
       "title": "Sondre Langas in a 'bad way' as John Eustace doesn't rule out Derby County transfer | Derbyshire Live",
@@ -355,15 +346,6 @@
       "type": "rumour"
     },
     {
-      "title": "Derby County near initial loan deal for 22-year-old striker with €8.5m option to buy",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZXhGNS1vSnRmS3V0cGpBTllvTTlBWjYzYUpuTUFYbGNXeWRGaFpNZi1mWTBTZ2w3ZTlTRldKVURTUERmZC1vZ0JFNlZYY3BxLU15cjNuLWpZclVmOVVOa3VEZW1reVF2RVBpM1hQZndBTDNRc2JVWWxCdEgyOXB1c211LXI?oc=5",
-      "source": "Yahoo",
-      "published": "2026-08-26T07:00:00.000Z",
-      "summary": "Derby County near initial loan deal for 22-year-old striker with €8.5m option to buy &nbsp;&nbsp; Yahoo",
-      "image": "",
-      "type": "rumour"
-    },
-    {
       "title": "Sheffield United and Derby County 'vying' for signature of Southampton's Ben Brereton Diaz",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeU9FQkdmMUNqTldSaEJaZE5TZ1NvNWw3amJjLTBmZ19BU0RWMUkyVmRHZnZya2IyQXJQMUxfMHZZTHpFdXVFY29YM0FmSlJndFhBT0UxN0Z5b19ZOUlNcnNQWkR0ZEp3c18tMUYxWG11TDZpSEdwa3pKMEhpYTBPUkF5aXZrbVpkWEVMUkxUck92cUczNV9Qa2lMR2RvUEthZGlpTU1LUGotb0dVNUgtc1lFWW0?oc=5",
       "source": "Yorkshire Post",
@@ -576,6 +558,24 @@
       "source": "talkSPORT",
       "published": "2026-08-10T07:00:00.000Z",
       "summary": "Saudi boxing chief Turki Alalshikh gives statement as he pulls out of running to buy Derby County &nbsp;&nbsp; talkSPORT",
+      "image": "",
+      "type": "news"
+    },
+    {
+      "title": "Turki Alalshikh’s Derby County takeover bid collapses",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBPaEs3TVFjcU5PdG83cXpaVlhNTFlfSDMzMzg5SXJjNGlBMF9CaVVJVTd4R2FVYWw1aXJ2S0pSclkyMXpUV2ZkaXFGdHlIMWg4RXhabUoxckdBQ04zcEtXYU5tXzBfZ3JpS2Rrd29QczN2c2Z4M1pMMTlNa2RmQdIBgwFBVV95cUxOb2RXbDhPbkZQLTNSYUVoNm9ZZHNvdTN5eDlmWWdnTFFUUzAybnprdzl3Vlk4enRzaUNnSG1pSnZqSzVPNFl3T3hmSGNrTDVyc0luUnRzSE94bF83VGxpTzlFSVFRY1Q5OUY1eW1maUg0YzNSQW9RU2RRczZkVEsyOXM2Yw?oc=5",
+      "source": "Hayters",
+      "published": "2026-08-10T07:00:00.000Z",
+      "summary": "Turki Alalshikh’s Derby County takeover bid collapses &nbsp;&nbsp; Hayters",
+      "image": "",
+      "type": "rumour"
+    },
+    {
+      "title": "John Eustace explains Derby County transfer as Lincoln City plan made clear",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTFptNVI5VjhNMWl6LXE2Ti0tckpMZlZPVFpGdDhWaFpHZmZ0N21wc3NrMTJMY2IwOGdRNHpzRk1XVlpWeER5WUx4OFlFVDNxMG8teVRhNTR1ZGxBcUR5Wkt5anhLbmNEbEkyTXI0UXZ4eFRBYWxFbXM2VFBmTXo3TzNoZEtHSTNmbWtZLTlGNDhaZERRU3dxTERMTkFhdG9WVjdndGpiT0x3Zw?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-08-08T07:00:00.000Z",
+      "summary": "John Eustace explains Derby County transfer as Lincoln City plan made clear &nbsp;&nbsp; Derbyshire Live",
       "image": "",
       "type": "news"
     }
