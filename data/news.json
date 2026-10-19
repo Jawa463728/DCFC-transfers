@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T14:27:52.437Z",
+  "updatedAt": "2026-10-19T20:07:46.356Z",
   "targets": [
     {
       "name": "Leicester City",
@@ -20,6 +20,12 @@
       "context": "Fresh media link"
     },
     {
+      "name": "Ben Brereton Diaz",
+      "mentions": 1,
+      "score": 34,
+      "context": "Fresh media link"
+    },
+    {
       "name": "West Brom",
       "mentions": 1,
       "score": 34,
@@ -33,6 +39,15 @@
     }
   ],
   "stories": [
+    {
+      "title": "NEW SIGNING INTERVIEW: Jack Robinson",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5PN2tYUnhfSmpObUo2YnhXS1h2U3YxUVh3VndYYjhScy1hQUxsbHJxZjcwTUhaMVhKdnJHekdpTk5Kc1dQdlAxN19mVThIQ202UTBHdkNLSG1udUR2U0QtRWNUcWQ4dWVZOUhwZUJ5VWxaRlUwdjlrV1JXVQ?oc=5",
+      "source": "Derby County",
+      "published": "2026-10-19T16:06:36.000Z",
+      "summary": "NEW SIGNING INTERVIEW: Jack Robinson &nbsp;&nbsp; Derby County",
+      "image": "",
+      "type": "news"
+    },
     {
       "title": "Ryan Nyambe: Derby County defender says a lot going wrong for the squad",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5Oc20zbHdMVnQ0cHNPb0hXQi11Z0k5bUVOa0FaTmFFODJBZWxiRURrakExOEZmWklWa1JuSUFuWjBxamVrWHhHdmpKSXJ1cUc3M0J3ekFLdkVBNzdZSVl3LWw5Z2tSdGtqTHcw?oc=5",
@@ -196,6 +211,15 @@
       "type": "news"
     },
     {
+      "title": "(++𝐋𝐈𝐕𝐄>𝐒𝐓𝐑𝐄𝐀𝐌..!!) Derby County v QPR Live Stream 14 October. 2026",
+      "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPRjlNNGxFeVMyTDdyUmdqcjZhcW9wclpmUFZFbmlVZVBISlFGcmtlWEVkRTdjTkJ3Wi1yN2VkRnJ6amlOWEFhX1BrVWdxX0ZIQjNJdnpWS1ZpTHpjUFZ4SDVvYl9PeDJaampIVFp4ekFBX3BDWmF0WVBGNHRHUGtmcDF1WXZFZktBaF92cjBuZDVacUdDN05HeFRWVzJ5T21SeFlRb2tDSG9nOE80b2xhbFdBa2U1RFFsaGVNSXNQMDdDd2lUMVdWcE1LRlVHS3BoYXJnRkJUY2t5N3hicVYyelZnLWN0NTk4REJ4WDRHVlJ6dVY4MVhNUWphNHdhejZRb0FvQnJnaUtud2VkcGstQmdHWVpFcjk2WkF4aWhXMHBTdGowaW9kYTJmNlh0bklkcl9BemtXWEVnYmItYWVrUDlYNnNtSmpGUVNkV0RnaVRKVlNDN1E?oc=5",
+      "source": "Universidad de Córdoba (UCO)",
+      "published": "2026-10-14T18:35:26.000Z",
+      "summary": "(++𝐋𝐈𝐕𝐄>𝐒𝐓𝐑𝐄𝐀𝐌..!!) Derby County v QPR Live Stream 14 October. 2026 &nbsp;&nbsp; Universidad de Córdoba (UCO)",
+      "image": "",
+      "type": "news"
+    },
+    {
       "title": "Shots on target per 90 - Derby County stats for Championship",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPalg3SzNxb2VrQzVOR21lcmc4V09BSGM2TURBNGUtSHNYaS1tS1EyMHlFTWk3a0gwc3hORnBUN0owS1FhUlJ1Z281bnNWdURLb2VjNF9zXzlYT2NXSVV6Qng2TFZJWVE0MGJPN2h6QmRhblR6M3dMeXVXMlRpU0I3NktJam5kMktRa0F4bVZCWnRNdTBfOW53eGdhc3Z5akpZbWZ4bzhjNlBLdU1oNXdSb1RSTWVBTXBZVXc?oc=5",
       "source": "FotMob",
@@ -282,15 +306,6 @@
       "source": "Derby County",
       "published": "2026-09-08T07:00:00.000Z",
       "summary": "TRANSFER NEWS: Goudmijn makes Swiss loan switch &nbsp;&nbsp; Derby County",
-      "image": "",
-      "type": "news"
-    },
-    {
-      "title": "Nicholas Bilokapic: Derby County sign goalkeeper on free transfer",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5tbVB6c2VNRTE1WUlnMjJqd1lHQ05zM0ZtX0hoQ252cTJEZGluUmIwMU9wWUdTdFFBbWZMOFVWWXRNUTZjU0xKd3BhUW9RcUNuY1c3WjZvZXYydE9fSE8zd0EzckxqNWs?oc=5",
-      "source": "BBC",
-      "published": "2026-09-04T07:00:00.000Z",
-      "summary": "Nicholas Bilokapic: Derby County sign goalkeeper on free transfer &nbsp;&nbsp; BBC",
       "image": "",
       "type": "news"
     },
@@ -390,6 +405,15 @@
       "source": "Derbyshire Live",
       "published": "2026-08-26T07:00:00.000Z",
       "summary": "Russell Martin responds after Hamza Choudhury linked with Derby County transfer &nbsp;&nbsp; Derbyshire Live",
+      "image": "",
+      "type": "rumour"
+    },
+    {
+      "title": "Ben Brereton Diaz transfer latest as Southampton boss delivers update on Derby County target",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdHF3NVhhVWlFRTBjdk1xOFdtNE9rZG45VnlHeklFblZNaTdWZWV5NXlBSTE5OV9TSjNEckI2SzVUeVkxSlR5dURxUEpuTHNWdXJHaVBKY21ndEJ3ZURrSzdsQ0lrVVZ1SHZsUDV2VmJsd0NSWUs1M1lNVTU3ZmhrSHBWZUduTVNmMzZZYnhtZFNwM0tISHNidlJHLXNlZ004RUJEY1NZRlA5NFE?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-08-26T07:00:00.000Z",
+      "summary": "Ben Brereton Diaz transfer latest as Southampton boss delivers update on Derby County target &nbsp;&nbsp; Derbyshire Live",
       "image": "",
       "type": "rumour"
     },
@@ -554,24 +578,6 @@
       "summary": "SIGNING: Alex Mowatt joins Derby County &nbsp;&nbsp; Derby County",
       "image": "",
       "type": "done"
-    },
-    {
-      "title": "NEW SIGNING INTERVIEW: Alex Mowatt",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5aRDRycjV6bktFZkxiaGRRRUQ2dVlWaXp0eVh5Z2dOTmhURGpDZERmVVhrUFdXZjRvOS1zYll0Q2ppMWdtU3lWUlFDd2ZzMGs4eENuY2tMZTRLUTBmLVQ4MU5qaWRXWXhKQzF6SjlpWUxQYTVqdUhoeA?oc=5",
-      "source": "Derby County",
-      "published": "2026-08-14T07:00:00.000Z",
-      "summary": "NEW SIGNING INTERVIEW: Alex Mowatt &nbsp;&nbsp; Derby County",
-      "image": "",
-      "type": "news"
-    },
-    {
-      "title": "John Eustace: Derby County boss 'glad drama is over' after takeover saga",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5mZHdCVWUwZXNOSnZPTUllTkF0M1BYNEpwXzNrc0o2dktRcnYtN3ZoOVZfZjNvM0dpUEs1RVJWSmtyQ1RmUlItSUNUNTJYZUtJUFVWRlFibnFYNGgzWG5Qbm9oanY5WUE?oc=5",
-      "source": "BBC",
-      "published": "2026-08-13T07:00:00.000Z",
-      "summary": "John Eustace: Derby County boss 'glad drama is over' after takeover saga &nbsp;&nbsp; BBC",
-      "image": "",
-      "type": "news"
     }
   ]
 }
