@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T20:07:46.356Z",
+  "updatedAt": "2026-10-19T23:40:31.208Z",
   "targets": [
     {
       "name": "Leicester City",
@@ -43,7 +43,7 @@
       "title": "NEW SIGNING INTERVIEW: Jack Robinson",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5PN2tYUnhfSmpObUo2YnhXS1h2U3YxUVh3VndYYjhScy1hQUxsbHJxZjcwTUhaMVhKdnJHekdpTk5Kc1dQdlAxN19mVThIQ202UTBHdkNLSG1udUR2U0QtRWNUcWQ4dWVZOUhwZUJ5VWxaRlUwdjlrV1JXVQ?oc=5",
       "source": "Derby County",
-      "published": "2026-10-19T16:06:36.000Z",
+      "published": "2026-10-19T21:04:47.000Z",
       "summary": "NEW SIGNING INTERVIEW: Jack Robinson &nbsp;&nbsp; Derby County",
       "image": "",
       "type": "news"
@@ -301,15 +301,6 @@
       "type": "news"
     },
     {
-      "title": "TRANSFER NEWS: Goudmijn makes Swiss loan switch",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTlU3MGhDQm5QTDRXUjBTQTUwczlWWHRYNGlwMFBjQ1Y3VFotZDNuSTZKbW5sTVJsOTFRV0NLQkNHZEp4UlNVN3FLUzNUNGVhWnZsTVhEU2pyR0pnS2ZwT2Q3TzhMdWZCQnRhUU9jcFV1OGZMcXhaOW9saGhXbDFXX08tRTcxMEZOa2c?oc=5",
-      "source": "Derby County",
-      "published": "2026-09-08T07:00:00.000Z",
-      "summary": "TRANSFER NEWS: Goudmijn makes Swiss loan switch &nbsp;&nbsp; Derby County",
-      "image": "",
-      "type": "news"
-    },
-    {
       "title": "SIGNING: Fuseini makes Derby loan switch",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORHFOU1I2c3c2OXRqWGwtRkRZbUZ0WHpnR2VkaERFM3FzZlpsVnBkVUJGTWNOUllvdVNXZS1UVDNUYXFpXy1KdE1PTTg2dloxbjM1bDd0MzB2T2xwMnpBWl9wZUhYNmtITk9JV21KQVBMYm9wcDg2dUNYRjFiY0pqSg?oc=5",
       "source": "Derby County",
@@ -553,15 +544,6 @@
       "type": "rumour"
     },
     {
-      "title": "Obstacle emerges in 24-year-old’s potential loan move as Derby County, Charlton Athletic lurk",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxON3JBcHhMVHZOSExSZE82bDNKV2V5eXE5OVg2cVdUNWpNQTRpVERuajJFUUdHaFJYelM5c3RaejR4Q28xQ01WeVo2a05tLWt1UDdjQzZHX1ZQQ1ZyMkZqYlNPbU5oOFlBZHJmaE5HVG41TkpIdWpweUhDQ3Uzb2JCcEJBVXZvSnVt?oc=5",
-      "source": "Yahoo",
-      "published": "2026-08-16T07:00:00.000Z",
-      "summary": "Obstacle emerges in 24-year-old’s potential loan move as Derby County, Charlton Athletic lurk &nbsp;&nbsp; Yahoo",
-      "image": "",
-      "type": "rumour"
-    },
-    {
       "title": "ACADEMY NEWS: Turley makes Dunfermline loan return",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcEJON1NJa2tLRWR6SXo5TE1Oc21obnVka0hsZHowbVNCWGJvSlVEU3JwZjM3Z3FTYWlWSUYyZHpYWloyM3lSQlRGRV9IRk9zbjh3N3c2MTdqRWcxRjdYdnEwYm9HUThTcTBHWGxwZVpSaHc1Y3FmWVBvX0N2dlFVZjB1SVFIUVVmNDZabzhB?oc=5",
       "source": "Derby County",
@@ -578,6 +560,24 @@
       "summary": "SIGNING: Alex Mowatt joins Derby County &nbsp;&nbsp; Derby County",
       "image": "",
       "type": "done"
+    },
+    {
+      "title": "NEW SIGNING INTERVIEW: Alex Mowatt",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5aRDRycjV6bktFZkxiaGRRRUQ2dVlWaXp0eVh5Z2dOTmhURGpDZERmVVhrUFdXZjRvOS1zYll0Q2ppMWdtU3lWUlFDd2ZzMGs4eENuY2tMZTRLUTBmLVQ4MU5qaWRXWXhKQzF6SjlpWUxQYTVqdUhoeA?oc=5",
+      "source": "Derby County",
+      "published": "2026-08-14T07:00:00.000Z",
+      "summary": "NEW SIGNING INTERVIEW: Alex Mowatt &nbsp;&nbsp; Derby County",
+      "image": "",
+      "type": "news"
+    },
+    {
+      "title": "John Eustace: Derby County boss 'glad drama is over' after takeover saga",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5mZHdCVWUwZXNOSnZPTUllTkF0M1BYNEpwXzNrc0o2dktRcnYtN3ZoOVZfZjNvM0dpUEs1RVJWSmtyQ1RmUlItSUNUNTJYZUtJUFVWRlFibnFYNGgzWG5Qbm9oanY5WUE?oc=5",
+      "source": "BBC",
+      "published": "2026-08-13T07:00:00.000Z",
+      "summary": "John Eustace: Derby County boss 'glad drama is over' after takeover saga &nbsp;&nbsp; BBC",
+      "image": "",
+      "type": "news"
     }
   ]
 }
