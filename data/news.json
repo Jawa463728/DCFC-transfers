@@ -1,11 +1,17 @@
 {
-  "updatedAt": "2026-10-21T18:57:17.076Z",
+  "updatedAt": "2026-10-21T22:14:39.257Z",
   "targets": [
     {
       "name": "Hamza Choudhury",
       "mentions": 2,
       "score": 51,
       "context": "More than one recent link"
+    },
+    {
+      "name": "Jacob Widell Zetterstrom",
+      "mentions": 1,
+      "score": 43,
+      "context": "Fresh media link"
     },
     {
       "name": "Henrik Meister",
@@ -198,24 +204,6 @@
       "source": "Transfermarkt",
       "published": "2026-10-16T15:20:09.000Z",
       "summary": "Derby County B &nbsp;&nbsp; Transfermarkt",
-      "image": "",
-      "type": "news"
-    },
-    {
-      "title": "Derby County confirm double transfer as former Crystal Palace striker signs | Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMm5PdE9hVEVETmVNbUVvOFdXaUlHTWNxdGJUbS11UHhmQzlNLTdja3ZQbThBOTZtQmM5LUIzbERhS0cxS2RvZnFRQWJTcTN0dWUxVldWWE04S3E1MVpwZkNnV2NJUkRmQThvV3ZKNEh0bGtTRkZpQmR1M0wxT0plS0lPLUxKTmtWdU5od3FIOVUzVEc5MFBPVDFHWHRRVVhCeTZFa3Q3ZmFsUDQ?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-10-15T15:37:23.000Z",
-      "summary": "Derby County confirm double transfer as former Crystal Palace striker signs | Derbyshire Live &nbsp;&nbsp; Derbyshire Live",
-      "image": "",
-      "type": "done"
-    },
-    {
-      "title": "John Eustace spells out free agent transfer ‘need’ as Derby County crisis grows with another defender blow",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSVQ5ZnFuNU43RGRWTkFYSm5IZTVsbWpXdkV5VkpFYm9rZjUzbzBTblJ3UlhCZGdVMTB5MzFWSDFTUV9Ob01YdGI5T0hpdVBtemVFdEFEc0FWUlVSc3Q3c2E5Z29hZjF1TjM5QWNQa2hQUEVnaU42Z05tWWQ2b1lBUG9zc3g?oc=5",
-      "source": "Yahoo",
-      "published": "2026-10-15T09:46:05.000Z",
-      "summary": "John Eustace spells out free agent transfer ‘need’ as Derby County crisis grows with another defender blow &nbsp;&nbsp; Yahoo",
       "image": "",
       "type": "news"
     },
@@ -490,15 +478,6 @@
       "type": "news"
     },
     {
-      "title": "Derby County transfer latest - all you need to know",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeHlucGxQcHd1UWtTODRoQkEtS0RfN2JKSjR6UjJ5N0hxU3JpQTNPX0hVNWRsSFJTMnF6OGtVQV9FQVVsWTFjRHZPUDEyRTNsdkwxdllIZEs4aUhVNzFnR0Jxd1l1a3pCSVJlVzZuZXlLWHl6aGdGd3Bic2o2VDdNOXV2c1pBX0xfVnhGTmhfVF9na2t4Y0Yzcmt5RXVTdC1WR2k3TUdR?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-08-24T07:00:00.000Z",
-      "summary": "Derby County transfer latest - all you need to know &nbsp;&nbsp; Derbyshire Live",
-      "image": "",
-      "type": "news"
-    },
-    {
       "title": "Sam Szmodics latest as John Eustace expresses Derby County transfer hope",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRXAyZ1lEYnJKQnJ3aHF1UjVRemJJeWhnendOREJNck9qaFl1SDRlY0FuZmpOaVFYOFVWS0c5OUhXSHRQRzhxWThIU3lmSDZTTW1YSWNlMXRZM1F6QVpIYVRuNjZSbWZsZ2oycFBIX25nWlVCT0xmb0czeU9nYWlPWWNSZG9PZENOM050cnNPQkhMTllNM3JNSmdnVHRCWU1zcVZKdDJn?oc=5",
       "source": "Derbyshire Live",
@@ -558,6 +537,33 @@
       "source": "Derby County",
       "published": "2026-08-20T07:00:00.000Z",
       "summary": "INTERVIEW: Hedges ‘delighted’ after Derby move &nbsp;&nbsp; Derby County",
+      "image": "",
+      "type": "rumour"
+    },
+    {
+      "title": "Ryan Hedges: Derby County sign ex-Blackburn Rovers winger",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBEWkZILXl3b2xHX1phWkxfOVpld05QWTZJb1JIaVFTX3c3a2hhMTEwQml2TFdCTi1MNnFuRUNpT25Dc3NyeWVELWJJaElfTTlIMUREMzk1U01lem5zTmlvajVLTlc3SVk?oc=5",
+      "source": "BBC",
+      "published": "2026-08-20T07:00:00.000Z",
+      "summary": "Ryan Hedges: Derby County sign ex-Blackburn Rovers winger &nbsp;&nbsp; BBC",
+      "image": "",
+      "type": "news"
+    },
+    {
+      "title": "Monza sent 'insult' message after Derby County transfer bid",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMHlSNXozWDJ3QmQ4eUo4WWtGRlFFWUticGJiT1d0VnN5MGpwMF9Ud05IUEVfanlTLVozRS1BVk9STnhKRjlDN3NZd1BUTW91VjZtSGJjMVBGWEZsd3EtYkNlQjgwa05IWVVhbnVFVWcwN1pBNm9LNkNyTjBXdlN5VmR2MzVEWXp3WDhqZjVXLXZ6YUI2TE53Z0RYZDJQeEdVYVNHNkIxbm9FMzRS?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-08-19T07:00:00.000Z",
+      "summary": "Monza sent 'insult' message after Derby County transfer bid &nbsp;&nbsp; Derbyshire Live",
+      "image": "",
+      "type": "rumour"
+    },
+    {
+      "title": "Derby County centre of Jacob Widell Zetterstrom bid claim as Serie A club seek transfer",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOb1I0YS1oYU8wUHVKU05MOExmVnc3cEZUOEVJdk9IYWxiRmFIbTJ0MFRpWVVaWnAycjlCQjJqWno4VGpLMFo4VVFvSjg2cGJXWVpLWXVEMUJnUUhleERQeUpMZXVlZVN5UEZVRGIwUTJjVEE0NjdoYUQ2eFRMZThEcHhrcFFiZlBMbktMX1pQSmxGRXY1eWg2MnpFRzlfem9sbU9tWGFwOEVYM05Z?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-08-18T07:00:00.000Z",
+      "summary": "Derby County centre of Jacob Widell Zetterstrom bid claim as Serie A club seek transfer &nbsp;&nbsp; Derbyshire Live",
       "image": "",
       "type": "rumour"
     }
