@@ -1,17 +1,11 @@
 {
-  "updatedAt": "2026-10-22T10:32:13.003Z",
+  "updatedAt": "2026-10-22T15:36:41.505Z",
   "targets": [
     {
       "name": "Hamza Choudhury",
       "mentions": 2,
       "score": 51,
       "context": "More than one recent link"
-    },
-    {
-      "name": "Jacob Widell Zetterstrom",
-      "mentions": 1,
-      "score": 43,
-      "context": "Fresh media link"
     },
     {
       "name": "Henrik Meister",
@@ -33,6 +27,15 @@
     }
   ],
   "stories": [
+    {
+      "title": "How four Derby County loanees are getting on as striker scores again",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOS3lURG5LNkQ0UzFlaU5MRE1TR29iNXlKY1JpVENnMzJSRDY4cE9lTkx6UVpheGRiSjZLWXBEcDBJTjV4TzdReVNXUmZOS3ZyU290N0YtV1VzUVJMSDdtWi1ZSlA3eXhaTGJkZWVnU21od1gxUmtIRHB6YldjSW5Nd2s3MnVGTy14MUQ4Qkh6ZjBVcU1KWkJNWWJtMWlhd3NpNkVQSENYZ0dOZw?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-10-22T10:35:00.000Z",
+      "summary": "How four Derby County loanees are getting on as striker scores again &nbsp;&nbsp; Derbyshire Live",
+      "image": "",
+      "type": "news"
+    },
     {
       "title": "Derby County should hand Barnsley man an escape route in January: Opinion",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMW80RlcxdDRNTERxM21ZWTI1Z3owNk5YaGdzdVJ3OTdUVDRpR0F5M21tYk51ZlBoQ0lORVBERmt4dG9XVlhiTDh1X09LQWM0Zm1FLU1fbF9tVnJPNVVucGk1aDFJeGlEamFEcm81R1dsZ0RzZFQ5X0d5WEVybDJlOHk0clA?oc=5",
@@ -194,6 +197,15 @@
       "summary": "ACADEMY NEWS: Allen extends Halifax loan &nbsp;&nbsp; Derby County",
       "image": "",
       "type": "news"
+    },
+    {
+      "title": "BANEL MAKES DERBY COUNTY LOAN MOVE",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObkp6ZWZndmZVdFN2RmtvSU41TWhHUHBZeXg3MG5VV3NZdVdBTE84Y2pzUWY5UnM1TEhTM0VqZXFpMzlENnBQQWk5ek5MbFRnc3dHV2JCMjg3QWZmUnYxUXNWYmZCNl9FRGY0U0ExV01nUXVySmRuX0hIdHZUUE1lenc2SnRkeEVNOUEwUQ?oc=5",
+      "source": "Burnley FC",
+      "published": "2026-09-22T09:44:49.000Z",
+      "summary": "BANEL MAKES DERBY COUNTY LOAN MOVE &nbsp;&nbsp; Burnley FC",
+      "image": "",
+      "type": "rumour"
     },
     {
       "title": "Derby County starlets pass more landmarks as loan turns sour after 'thorough analysis'",
@@ -430,15 +442,6 @@
       "type": "news"
     },
     {
-      "title": "FROM THE TOP: A Message From David Clowes",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbHdMSXp0d1Zid1l6Ti1WN0FUX1h1Y0ctTTVoUmFLNWVvYnBMUnREU0tOaFpGV3JEcXBlR0JXT0hpckpGVUM0aXBDMl9oMjRFSEs1V19JbjZzSUoxY1pBUkRYOEdvSkw3OTR4M3RFX0E1Q0F3c1gxNHVIdWhwMTFIZzBSR29KUTJpZm5oalpNOHp2Zw?oc=5",
-      "source": "Derby County",
-      "published": "2026-08-22T07:00:00.000Z",
-      "summary": "FROM THE TOP: A Message From David Clowes &nbsp;&nbsp; Derby County",
-      "image": "",
-      "type": "news"
-    },
-    {
       "title": "John Eustace issues challenge to new Derby County signing Ryan Hedges amid 'numbers' point",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRDhvLTlMZENtLW1WR0puNTJ3MGM0bjZiMmluVFVHSVYtencyWUtQd1hpWGtueldjbFBheFNyRGxRRmtpV25rNXItdmtkRDY0UHc2SWtvLU5QQjEwTVo5emxTVWFONjV6ZkxwWjV2MnFKT21BNWhtNWphNE9LYzg0cHNDcVZyUDhUcmxmZmhqSlM0OFJnLTRDVWhOYUg3Z2pMQW9sUXBOUQ?oc=5",
       "source": "Derbyshire Live",
@@ -502,11 +505,11 @@
       "type": "rumour"
     },
     {
-      "title": "Derby County centre of Jacob Widell Zetterstrom bid claim as Serie A club seek transfer",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOb1I0YS1oYU8wUHVKU05MOExmVnc3cEZUOEVJdk9IYWxiRmFIbTJ0MFRpWVVaWnAycjlCQjJqWno4VGpLMFo4VVFvSjg2cGJXWVpLWXVEMUJnUUhleERQeUpMZXVlZVN5UEZVRGIwUTJjVEE0NjdoYUQ2eFRMZThEcHhrcFFiZlBMbktMX1pQSmxGRXY1eWg2MnpFRzlfem9sbU9tWGFwOEVYM05Z?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-08-18T07:00:00.000Z",
-      "summary": "Derby County centre of Jacob Widell Zetterstrom bid claim as Serie A club seek transfer &nbsp;&nbsp; Derbyshire Live",
+      "title": "Obstacle emerges in 24-year-old’s potential loan move as Derby County, Charlton Athletic lurk",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxON3JBcHhMVHZOSExSZE82bDNKV2V5eXE5OVg2cVdUNWpNQTRpVERuajJFUUdHaFJYelM5c3RaejR4Q28xQ01WeVo2a05tLWt1UDdjQzZHX1ZQQ1ZyMkZqYlNPbU5oOFlBZHJmaE5HVG41TkpIdWpweUhDQ3Uzb2JCcEJBVXZvSnVt?oc=5",
+      "source": "Yahoo",
+      "published": "2026-08-16T07:00:00.000Z",
+      "summary": "Obstacle emerges in 24-year-old’s potential loan move as Derby County, Charlton Athletic lurk &nbsp;&nbsp; Yahoo",
       "image": "",
       "type": "rumour"
     },
@@ -563,15 +566,6 @@
       "summary": "Captain sets out Derby County target for the new season as he says 'I don't see why we can't' &nbsp;&nbsp; Derbyshire Live",
       "image": "",
       "type": "rumour"
-    },
-    {
-      "title": "Saudi boxing chief pulls plug on Derby County takeover",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQXdtY0pILUZNMXhjZlhvTXE3RWV0YnBPS285a25sZ2psM3BoeVlKUTI2N0dId0p2WHo1ZV9aZzM1TWd0QnRPWDZrYTYzWVhLbV9ickpPVUdXVTRxWXpsZ0xTMjhBa20wa2RtcEdVb3BOM0RMNUJBMFo1alEyekRma1l3UDA4ckRIOTk4MHlnX05CZlFwU1UzOU9JSUQ1SnJrejlDMA?oc=5",
-      "source": "Arabian Gulf Business Insight | AGBI",
-      "published": "2026-08-11T07:00:00.000Z",
-      "summary": "Saudi boxing chief pulls plug on Derby County takeover &nbsp;&nbsp; Arabian Gulf Business Insight | AGBI",
-      "image": "",
-      "type": "news"
     }
   ]
 }
