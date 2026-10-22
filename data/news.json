@@ -1,17 +1,11 @@
 {
-  "updatedAt": "2026-10-22T00:43:58.732Z",
+  "updatedAt": "2026-10-22T05:27:32.425Z",
   "targets": [
     {
       "name": "Hamza Choudhury",
       "mentions": 2,
       "score": 51,
       "context": "More than one recent link"
-    },
-    {
-      "name": "Jacob Widell Zetterstrom",
-      "mentions": 1,
-      "score": 43,
-      "context": "Fresh media link"
     },
     {
       "name": "Henrik Meister",
@@ -27,15 +21,6 @@
     }
   ],
   "stories": [
-    {
-      "title": "Derby County dodged bullet by not signing West Brom man in the summer window: Opinion",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZDJhazJNcG1JYnBEZzhmc2dRejA1b2xmeHBzUC1rZVFtLU9Xc1dBYXhEWVd5MkRzZVo2ZURoUy14empZbGdOdmxfOXRQU3Q0T0dBRWZycExGbFFPM2tVLUhURVlpcllUc0tDLUtMWVFsb0Qza2tSblFsOUdkanJQRm0xUkM?oc=5",
-      "source": "Yahoo",
-      "published": "2026-10-21T09:15:43.000Z",
-      "summary": "Derby County dodged bullet by not signing West Brom man in the summer window: Opinion &nbsp;&nbsp; Yahoo",
-      "image": "",
-      "type": "news"
-    },
     {
       "title": "Jack Robinson makes blunt Derby County admission after transfer ends wait",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPR1V3MUFjdW9pc1hfNjBKaG4wcUlVZmpnV0ljOHhnUGVlRHZIbHVmUXV3ZmpvSlMwMkZ0UE0wYS1fVzVOM1J4V2FRUnF3cTRQcm1sZDhxQjZZUVAySEk4cXJPMm4zNTdwc21kNWZNUjNxQ29pZ2JvMVJJMXo2a3JELUg2U3A5eFFmUzc1S2ZlQkFrUzNURmw3OGhoQ0RObmkyclVuMkd2UlNMdGc?oc=5",
@@ -206,15 +191,6 @@
       "summary": "Derby County swoop for free agent as former Nottingham Forest defender eases injury crisis &nbsp;&nbsp; Derbyshire Live",
       "image": "",
       "type": "news"
-    },
-    {
-      "title": "Derby County 3-0 Huddersfield: Craig Bryson, Jamie Ward and more on target",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9SQUo4V1Y2S2ZjQUcxNnFpSkJfaGRuX256ejhXdGx2eHVYeXpxWUg5ZUVNVzFkNEJRYzVjSnZXUFQxTUZRQWVQX0FLbHBpMjVqaE44?oc=5",
-      "source": "懂球帝",
-      "published": "2026-10-16T16:25:29.000Z",
-      "summary": "Derby County 3-0 Huddersfield: Craig Bryson, Jamie Ward and more on target &nbsp;&nbsp; 懂球帝",
-      "image": "",
-      "type": "rumour"
     },
     {
       "title": "Derby County B",
@@ -424,6 +400,15 @@
       "type": "rumour"
     },
     {
+      "title": "Preview | Derby County v Swansea City",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5HSERLejlFZnRfSHZOZGdfR29xcUVaNzlnczc2QnlPNnhVZVVtTU5zYzFZRGpaekR0TVhETk5KdkdhUXQtbWRxa3Q2YjNYcVltT0FQRkFabkxTR2FQNmlUVlY3a19pU1NLX2hwa3dHVHFldkJFRVpjaXJB?oc=5",
+      "source": "Swansea City",
+      "published": "2026-08-29T07:00:00.000Z",
+      "summary": "Preview | Derby County v Swansea City &nbsp;&nbsp; Swansea City",
+      "image": "",
+      "type": "news"
+    },
+    {
       "title": "Sheffield United Enter Derby County Chase For Versatile Leicester City Star",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOa2NWR1ZpS3RheHM1dy1JQlNfQnUwdXY0Z1FnZmJGdWJDejRaXzZxQkw3Rko2em9SenhQSFdQSVpLVS1aYzFFeUdlcDBhMEl4N09HZ3BWUWxZSU1yZDJiYnJ2QWg0dFNWLUFqaDRtX29OLVFGWWRwMEFMNExEa0VuR2NxZnZsdGpYbHRSZTJaLWNOSVZLcHFhRUZCc1prWDhVNUtzUUc5aw?oc=5",
       "source": "Football Lowdown",
@@ -447,6 +432,15 @@
       "source": "Derbyshire Live",
       "published": "2026-08-26T07:00:00.000Z",
       "summary": "Russell Martin responds after Hamza Choudhury linked with Derby County transfer &nbsp;&nbsp; Derbyshire Live",
+      "image": "",
+      "type": "rumour"
+    },
+    {
+      "title": "Derby County target Danish striker as Italian club set to sanction exit",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNmYxVWpvVFFXQlcyU0IxVDNGTXZOUEI0aUNlQnRGOWtQYmpiZEFtd2pnQVNsMEw5MV94Z2VLMzhUTDhUejRsWTR5eUUycF85MEItOGk2YmFVXzhMemFqRmE4amRPb1hzSUZYNVhhY2NwZUNUZkgtZ1dwNUhMeEpZY1VTVjZQRlJTakhMbndiSjZsV3Q5b0NkVEJQV1pyVGd3UkJ3SWlBLWRmRUZh?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-08-26T07:00:00.000Z",
+      "summary": "Derby County target Danish striker as Italian club set to sanction exit &nbsp;&nbsp; Derbyshire Live",
       "image": "",
       "type": "rumour"
     },
@@ -559,11 +553,11 @@
       "type": "news"
     },
     {
-      "title": "Derby County centre of Jacob Widell Zetterstrom bid claim as Serie A club seek transfer",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOb1I0YS1oYU8wUHVKU05MOExmVnc3cEZUOEVJdk9IYWxiRmFIbTJ0MFRpWVVaWnAycjlCQjJqWno4VGpLMFo4VVFvSjg2cGJXWVpLWXVEMUJnUUhleERQeUpMZXVlZVN5UEZVRGIwUTJjVEE0NjdoYUQ2eFRMZThEcHhrcFFiZlBMbktMX1pQSmxGRXY1eWg2MnpFRzlfem9sbU9tWGFwOEVYM05Z?oc=5",
+      "title": "Monza sent 'insult' message after Derby County transfer bid",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMHlSNXozWDJ3QmQ4eUo4WWtGRlFFWUticGJiT1d0VnN5MGpwMF9Ud05IUEVfanlTLVozRS1BVk9STnhKRjlDN3NZd1BUTW91VjZtSGJjMVBGWEZsd3EtYkNlQjgwa05IWVVhbnVFVWcwN1pBNm9LNkNyTjBXdlN5VmR2MzVEWXp3WDhqZjVXLXZ6YUI2TE53Z0RYZDJQeEdVYVNHNkIxbm9FMzRS?oc=5",
       "source": "Derbyshire Live",
-      "published": "2026-08-18T07:00:00.000Z",
-      "summary": "Derby County centre of Jacob Widell Zetterstrom bid claim as Serie A club seek transfer &nbsp;&nbsp; Derbyshire Live",
+      "published": "2026-08-19T07:00:00.000Z",
+      "summary": "Monza sent 'insult' message after Derby County transfer bid &nbsp;&nbsp; Derbyshire Live",
       "image": "",
       "type": "rumour"
     }
