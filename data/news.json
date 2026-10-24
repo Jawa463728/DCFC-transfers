@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T17:24:52.048Z",
+  "updatedAt": "2026-10-24T19:40:57.339Z",
   "targets": [
     {
       "name": "Hamza Choudhury",
@@ -8,7 +8,25 @@
       "context": "More than one recent link"
     },
     {
+      "name": "Leicester City",
+      "mentions": 1,
+      "score": 34,
+      "context": "Fresh media link"
+    },
+    {
+      "name": "Turki Alalshikh",
+      "mentions": 1,
+      "score": 34,
+      "context": "Fresh media link"
+    },
+    {
       "name": "Henrik Meister",
+      "mentions": 1,
+      "score": 34,
+      "context": "Fresh media link"
+    },
+    {
+      "name": "Ben Brereton Diaz",
       "mentions": 1,
       "score": 34,
       "context": "Fresh media link"
@@ -337,6 +355,15 @@
       "type": "news"
     },
     {
+      "title": "Businessman confirms Leicester City takeover interest with Turki Alalshikh also lurking after Derby County collapse",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTUtOLW0zN3ZvRWI1OHVGXzZtX0c4MHgwS2h6c3VGcTRPQU15YmNQdzFSOTNraWZsdXoxb0Y1MldkV2l3bnlXUVAwMGFDUTdFWXFxZVp1TTVkMTljY2h6MUl3VjQ5X0FVWHVNWkhmYUUxUThiRlkwVnJsYUFUcDJPUFdBOXNlSUhFbFd2ZnNzY2dlYlRISHNr?oc=5",
+      "source": "Yahoo",
+      "published": "2026-09-11T07:00:00.000Z",
+      "summary": "Businessman confirms Leicester City takeover interest with Turki Alalshikh also lurking after Derby County collapse &nbsp;&nbsp; Yahoo",
+      "image": "",
+      "type": "rumour"
+    },
+    {
       "title": "TRANSFER NEWS: Goudmijn makes Swiss loan switch",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTlU3MGhDQm5QTDRXUjBTQTUwczlWWHRYNGlwMFBjQ1Y3VFotZDNuSTZKbW5sTVJsOTFRV0NLQkNHZEp4UlNVN3FLUzNUNGVhWnZsTVhEU2pyR0pnS2ZwT2Q3TzhMdWZCQnRhUU9jcFV1OGZMcXhaOW9saGhXbDFXX08tRTcxMEZOa2c?oc=5",
       "source": "Derby County",
@@ -472,6 +499,15 @@
       "type": "news"
     },
     {
+      "title": "Ben Brereton Diaz transfer latest as Southampton boss delivers update on Derby County target",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdHF3NVhhVWlFRTBjdk1xOFdtNE9rZG45VnlHeklFblZNaTdWZWV5NXlBSTE5OV9TSjNEckI2SzVUeVkxSlR5dURxUEpuTHNWdXJHaVBKY21ndEJ3ZURrSzdsQ0lrVVZ1SHZsUDV2VmJsd0NSWUs1M1lNVTU3ZmhrSHBWZUduTVNmMzZZYnhtZFNwM0tISHNidlJHLXNlZ004RUJEY1NZRlA5NFE?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-08-26T07:00:00.000Z",
+      "summary": "Ben Brereton Diaz transfer latest as Southampton boss delivers update on Derby County target &nbsp;&nbsp; Derbyshire Live",
+      "image": "",
+      "type": "rumour"
+    },
+    {
       "title": "Russell Martin responds after Hamza Choudhury linked with Derby County transfer",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcmNwTEtQRU1CM1BQSl9kdzkyRkNLbG5GeW50RGNpX2cta1hTTWdIT05fbnB4Uzg3WWI5UG1kWW5BTlF5WkRXOEFSS3N6YUc4NVJCTl9BX1JtVUJucFJCSXQwRFdMNFJaaVlsZVRkSENYc1FoTGFnc1lSaG1tQklrcV9DYWNoemN5cjVKeU45eUlVa3lNR3QxRzJHbVR5Ykg3dXFWZkllakxoeG5mc2c?oc=5",
       "source": "Derbyshire Live",
@@ -542,24 +578,6 @@
       "summary": "John Eustace issues challenge to new Derby County signing Ryan Hedges amid 'numbers' point &nbsp;&nbsp; Derbyshire Live",
       "image": "",
       "type": "news"
-    },
-    {
-      "title": "Derby County 2-2 Cardiff City: Rams fight back twice to earn draw in thriller with Bluebirds",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE51NkRUZlRucTdBMDdWUktPaERlZXgzVU9JOEVQYXpWNmo5Q1Z6cGFzalJPcTFwRjhpTklVTzB1OGVwZnF4SUR5UXdKQTlHbDlnWjdVQVpSNDdEbm1PdWdmWVlTbkY2UQ?oc=5",
-      "source": "BBC",
-      "published": "2026-08-22T07:00:00.000Z",
-      "summary": "Derby County 2-2 Cardiff City: Rams fight back twice to earn draw in thriller with Bluebirds &nbsp;&nbsp; BBC",
-      "image": "",
-      "type": "news"
-    },
-    {
-      "title": "SIGNING: Ryan Hedges signs for Derby",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE94cGNVRVJlWXMyN0JUM0NHNDRLUmdpM01xTUh2cjRvb2RNcHlvYTNyM1VGNU9ZVnVsS2V0UU1YOXNoUVpzV01TSGE3LTQtSDJ1MmdGaWIwcHlKTV9PMWxXckdXYlVKS2Q1RG5sanFXOV9IN19ZZHB3T2lGNA?oc=5",
-      "source": "Derby County",
-      "published": "2026-08-20T07:00:00.000Z",
-      "summary": "SIGNING: Ryan Hedges signs for Derby &nbsp;&nbsp; Derby County",
-      "image": "",
-      "type": "done"
     }
   ]
 }
