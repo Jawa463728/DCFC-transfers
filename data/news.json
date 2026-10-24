@@ -1,23 +1,11 @@
 {
-  "updatedAt": "2026-10-24T19:40:57.339Z",
+  "updatedAt": "2026-10-24T21:56:30.099Z",
   "targets": [
     {
       "name": "Hamza Choudhury",
       "mentions": 2,
       "score": 51,
       "context": "More than one recent link"
-    },
-    {
-      "name": "Leicester City",
-      "mentions": 1,
-      "score": 34,
-      "context": "Fresh media link"
-    },
-    {
-      "name": "Turki Alalshikh",
-      "mentions": 1,
-      "score": 34,
-      "context": "Fresh media link"
     },
     {
       "name": "Henrik Meister",
@@ -153,15 +141,6 @@
       "source": "Derbyshire Live",
       "published": "2026-10-23T13:25:35.000Z",
       "summary": "Three players on notice as Derby County begin January transfer planning &nbsp;&nbsp; Derbyshire Live",
-      "image": "",
-      "type": "news"
-    },
-    {
-      "title": "How four Derby County loanees are getting on as striker scores again",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOS3lURG5LNkQ0UzFlaU5MRE1TR29iNXlKY1JpVENnMzJSRDY4cE9lTkx6UVpheGRiSjZLWXBEcDBJTjV4TzdReVNXUmZOS3ZyU290N0YtV1VzUVJMSDdtWi1ZSlA3eXhaTGJkZWVnU21od1gxUmtIRHB6YldjSW5Nd2s3MnVGTy14MUQ4Qkh6ZjBVcU1KWkJNWWJtMWlhd3NpNkVQSENYZ0dOZw?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-10-22T10:35:00.000Z",
-      "summary": "How four Derby County loanees are getting on as striker scores again &nbsp;&nbsp; Derbyshire Live",
       "image": "",
       "type": "news"
     },
@@ -353,15 +332,6 @@
       "summary": "Derby County’s future is increasingly blurry &nbsp;&nbsp; The i Paper",
       "image": "",
       "type": "news"
-    },
-    {
-      "title": "Businessman confirms Leicester City takeover interest with Turki Alalshikh also lurking after Derby County collapse",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTUtOLW0zN3ZvRWI1OHVGXzZtX0c4MHgwS2h6c3VGcTRPQU15YmNQdzFSOTNraWZsdXoxb0Y1MldkV2l3bnlXUVAwMGFDUTdFWXFxZVp1TTVkMTljY2h6MUl3VjQ5X0FVWHVNWkhmYUUxUThiRlkwVnJsYUFUcDJPUFdBOXNlSUhFbFd2ZnNzY2dlYlRISHNr?oc=5",
-      "source": "Yahoo",
-      "published": "2026-09-11T07:00:00.000Z",
-      "summary": "Businessman confirms Leicester City takeover interest with Turki Alalshikh also lurking after Derby County collapse &nbsp;&nbsp; Yahoo",
-      "image": "",
-      "type": "rumour"
     },
     {
       "title": "TRANSFER NEWS: Goudmijn makes Swiss loan switch",
@@ -578,6 +548,24 @@
       "summary": "John Eustace issues challenge to new Derby County signing Ryan Hedges amid 'numbers' point &nbsp;&nbsp; Derbyshire Live",
       "image": "",
       "type": "news"
+    },
+    {
+      "title": "Derby County 2-2 Cardiff City: Rams fight back twice to earn draw in thriller with Bluebirds",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE51NkRUZlRucTdBMDdWUktPaERlZXgzVU9JOEVQYXpWNmo5Q1Z6cGFzalJPcTFwRjhpTklVTzB1OGVwZnF4SUR5UXdKQTlHbDlnWjdVQVpSNDdEbm1PdWdmWVlTbkY2UQ?oc=5",
+      "source": "BBC",
+      "published": "2026-08-22T07:00:00.000Z",
+      "summary": "Derby County 2-2 Cardiff City: Rams fight back twice to earn draw in thriller with Bluebirds &nbsp;&nbsp; BBC",
+      "image": "",
+      "type": "news"
+    },
+    {
+      "title": "SIGNING: Ryan Hedges signs for Derby",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE94cGNVRVJlWXMyN0JUM0NHNDRLUmdpM01xTUh2cjRvb2RNcHlvYTNyM1VGNU9ZVnVsS2V0UU1YOXNoUVpzV01TSGE3LTQtSDJ1MmdGaWIwcHlKTV9PMWxXckdXYlVKS2Q1RG5sanFXOV9IN19ZZHB3T2lGNA?oc=5",
+      "source": "Derby County",
+      "published": "2026-08-20T07:00:00.000Z",
+      "summary": "SIGNING: Ryan Hedges signs for Derby &nbsp;&nbsp; Derby County",
+      "image": "",
+      "type": "done"
     }
   ]
 }
