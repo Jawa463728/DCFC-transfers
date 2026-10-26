@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T11:12:55.418Z",
+  "updatedAt": "2026-10-26T17:25:33.414Z",
   "targets": [
     {
       "name": "Hamza Choudhury",
@@ -14,9 +14,15 @@
       "context": "Fresh media link"
     },
     {
-      "name": "Jacob Widell Zetterstrom",
+      "name": "Leicester City",
       "mentions": 1,
-      "score": 43,
+      "score": 34,
+      "context": "Fresh media link"
+    },
+    {
+      "name": "Turki Alalshikh",
+      "mentions": 1,
+      "score": 34,
       "context": "Fresh media link"
     },
     {
@@ -30,15 +36,18 @@
       "mentions": 1,
       "score": 34,
       "context": "Fresh media link"
-    },
-    {
-      "name": "West Brom",
-      "mentions": 1,
-      "score": 34,
-      "context": "Fresh media link"
     }
   ],
   "stories": [
+    {
+      "title": "Derby County must eye EFL ace in January to help rise out of the bottom three: Opinion",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9FSlZESDVBd1R4aHRaSGl3UHVEcmdfSklqN0s3dWJmdDRyN1EtU042bDJjWk5HT3hmUjA1dE5GdklqMFZfZHVHLTBSckFlUFN4bjZmU0NYSjFFZHhTTXBzNUtONGRiaFZNb1ByRUlyTlpIWnRuNW9JLVhvZS1ldw?oc=5",
+      "source": "Yahoo",
+      "published": "2026-10-26T10:29:48.000Z",
+      "summary": "Derby County must eye EFL ace in January to help rise out of the bottom three: Opinion &nbsp;&nbsp; Yahoo",
+      "image": "",
+      "type": "news"
+    },
     {
       "title": "Derby County's transfer stance validated after 'silly' bid as trio answer Sheffield United SOS",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaGo1bU91U1lIeGZpTmJ5c0t2cE5YTEhjVkxhTHFXSXU2WTJOYTJVY0RsOHNmdWk1TDF5NEtNMVZlTlFuNUJoVnZLOFE1RUFlWlBMbkFiSEx0UGgxNmsxb0NHQk5TcmkyaWxOY2J6QjBDQWFyd3p2aHFNaG5jbW93Umc4NjBpWUNpUGxselhQVjFQM1VwcmlJOUN5Znk2OXhlWmR6YzR4UQ?oc=5",
@@ -76,11 +85,11 @@
       "type": "news"
     },
     {
-      "title": "~$!【Derby County vs Stoke City】 Derby County vs Stoke City Live Free Match",
-      "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxOd2tPSVFuSkVoZGd2aVY1Y1FBVUJNUTNmekxMTC10RHFPNzYtX3dPck1YRHl6eW9pQy1mdkYyNUdlc2t5TmNTRTUyMWxIUHVtOHBtN1hLUUFsVzZvNlowaXZfcHlTSE96YjNnMWxLdzFWY3k5MVJ2cVc3MnVlY0ptSlZWWnBDOEpVbm93UUN6Y3VQNVFtc0xvaGxFVWNHdzVmQUwzVjB3ZnA5WGQ2M0E4RnVLeU16YWhFQ09wakNHd3ZqTC04dTh1QjhDRkRUVl9EX3NVaVh5TzVkVXdHcmV0VDI1U3VlOU9nSW1lRldXcExTUWpha3BDaHU2WmF1NHhVTFhDclNpSFUzRWc0WGN4bkZxZVY1TW0tcU5PR1V0Q2tESW9lS0Zod0QyUTgzclBCb0JkaXhvdU9yRDdzRElJam8tMWM4S1VCZk5ZX3ExSU1ISkV5YS1MQkROLVZMeW51?oc=5",
+      "title": "[LIVESTREAM]eSpN!!]Derby County vs Stoke City Live Free On Tv Channel 17 October 2026",
+      "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxOWVpfTkxUWGowaUNGZ0xhNXlfVzlMWElrTHhYZjBNMklxTG1Vd0lDZlBhQzRBVC1DdkgzcGVQT2tvME1Na1VmMnRVZUxvdkVQMUswdTByaENlX3J1TFJBZWhORWt4SWFRT3NLVDVvVmFtZVA1c0hheGt5TnNBLUJ0OG5NeE9wb1ZVU1hMTnJwQzFmeWl0NmZhM1B2YjlhRlhzUVpoT1FRQzdWMS1Gekk3N05Hc0NzMXZGYTJhUFVac2ROUVQ1ZDdid3R4OEtCY0ZIUzFFZEJmQm9PM1FfR3pKZjUtazJ6dWhzUVZSeG9OUGM0d09odTU4ZWtkd20wZkhUMDNuU3dWY0FCZkR4bTV1Yjd5ZWRiNEl6ZTJ2Wkc2dUV1Wk52bHdaTWdhc3NKM2x3ZmF5ZVpIV2FQbDRSSVY3bktuSk92ajVabGx1dkZWLWtaaTNlc0FGY1F5Q0hLVHlhVkVLbmJLYV9sRDN6UkhPYXhYMA?oc=5",
       "source": "Universidad de Córdoba (UCO)",
-      "published": "2026-10-17T12:42:00.000Z",
-      "summary": "~$!【Derby County vs Stoke City】 Derby County vs Stoke City Live Free Match &nbsp;&nbsp; Universidad de Córdoba (UCO)",
+      "published": "2026-10-17T13:40:45.000Z",
+      "summary": "[LIVESTREAM]eSpN!!]Derby County vs Stoke City Live Free On Tv Channel 17 October 2026 &nbsp;&nbsp; Universidad de Córdoba (UCO)",
       "image": "",
       "type": "news"
     },
@@ -90,6 +99,24 @@
       "source": "Universidad de Córdoba (UCO)",
       "published": "2026-10-17T12:42:00.000Z",
       "summary": "~$!【Derby County vs Stoke City】 Derby County vs Stoke City Live &nbsp;&nbsp; Universidad de Córdoba (UCO)",
+      "image": "",
+      "type": "news"
+    },
+    {
+      "title": "【ＬｉｖｅSTREAMS】FREE]# Derby County vs Stoke City Ｌｉｖｅ Free TV Channel 17 October 2026",
+      "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNMTFMZTIxOEpvbWV1Ung5YlFwWVdhQ3hodVNDYmFaLU56MG9idjRwZDVSTnVRWWRyNVotbWo5bHAtclFVWGVsSUdpVjBPSGFUMExHT1RFZDJ1Yi1RdW1aMzAxX3NZWVBzSC1FbGx5c1IxdXl1UEpjOVVZeEVycHl6TFNEODNDdmgzRFBRVkpqUmJlVjJuLTYxSmMyOE1IRzc5SWhVT1hITWJBNDhGdVlTN0pUVWprRUhfMEhOYWJrQkFLc0xoSHE1YVpIVnM4WmZiQTdLMzExTzNWR3dKMHdVNHhndENaUXdDay15dTRDYVV4aXZ0b1o2alBfaVhIOTlLTnpQZVBlN1dXWmVjS2hZc0MzRHRGVEE1dm5QNUlaMFVCV25oTEdMMXdRNTZiSHd1TWFhdFVlRG9ySHhydEI2WlU4NWZCb2VmekdrRlBQVkY1YzhNaFFDNXZ0YTg0YkU?oc=5",
+      "source": "Universidad de Córdoba (UCO)",
+      "published": "2026-10-17T12:41:59.000Z",
+      "summary": "【ＬｉｖｅSTREAMS】FREE]# Derby County vs Stoke City Ｌｉｖｅ Free TV Channel 17 October 2026 &nbsp;&nbsp; Universidad de Córdoba (UCO)",
+      "image": "",
+      "type": "news"
+    },
+    {
+      "title": "((espn))Derby County vs Stoke City 𝐋𝐈𝐕𝐄 ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 17 October 2026",
+      "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNWUFpOF9qNWlfb2M1cGNYUUJSOUtieno1OFQ0VWZSaThROTJ4MXhENnNIaUJRRVdOR0ZrZWhmaE0zUTBTd0pLaURkZk1iTlIyVWNNTmJVVThiY2xtNi1WaXRWQVV5QXhlVW5NTGdSRzkxZl95a2dURFcwNm91RUJ0cDZuWS1YNWVBSWxGa2VBU2xhMTkyVzNvUE43bkJmYTZWLTBTXzVWbG5RMlNGUkVBY1E0b3ZSeFVxNl9OMFZUY0ZUc1dVb282ZTNkQkd1LWtHVFJha2RBLUo4NDFfRFI4QnVNc2tkQ3VwdmZYalJFd1ZsYU5Vd3BKdUp3dnYyOEY2a2dCS0JiRUltQlQ0NFFORGlrRjQ2MGRZLUFZNFRvMjFqUEs4U1pwdHlsSGpXSW5ydnNRYkV5SzlNaTZ5cVgwX3ZTZGMxempWSTNkRms0UVMzNDBOdDkxVnJXYjJrWEk?oc=5",
+      "source": "Universidad de Córdoba (UCO)",
+      "published": "2026-10-17T12:41:59.000Z",
+      "summary": "((espn))Derby County vs Stoke City 𝐋𝐈𝐕𝐄 ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 17 October 2026 &nbsp;&nbsp; Universidad de Córdoba (UCO)",
       "image": "",
       "type": "news"
     },
@@ -184,15 +211,6 @@
       "type": "news"
     },
     {
-      "title": "@@~[[𝐋𝐢𝐯𝐞𝐒𝐭𝐫𝐞𝐚𝐦]𝐓𝐕==] Derby County v Queens Park Rangers LIVE FREE TV",
-      "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxOSVVuNHhqNmpZZWVIOGF2VnMyQVlYZkd4Mll0bEZGRnoyTWNyUVNiOEI0OTNuTXpBbDRsNjIzWS1xaFRnVnhhYVlVaEdKdWc1NjMxckVaZmxqeVB2UDBOZ2lqdnUxNTkwbUowS05TanJwYmJfQkw2bmNpdGdxRnJMWWhPQUpTMm1uMk9BRTQxcHViVGZHXzNlTFQ5b3VVX1F1Z2JqbjlvWEhVMFFyRWJNR0dXcWJkbzRwTE1PelE3bi1ZTjg0NW9EM0hLX0otZFZsLUNqeklVcUhkRHZiRFVfSzMyemd1SzdWTmZGUVNRNzNTeUZCbXB0eU9CMks5bUltQzItT3UwUUIxYm8zMTZ2bkN4WVdJU0ZWS0tqSnlpa0hNTGxnZDN0SlhDNzJsZ1QwNGtoYW9mLXNodzE1bFpsc2VQZ1N5bTZOa2UtVjZnUUU0alVBZWpDNTBLMWU?oc=5",
-      "source": "Universidad de Córdoba (UCO)",
-      "published": "2026-10-06T07:00:00.000Z",
-      "summary": "@@~[[𝐋𝐢𝐯𝐞𝐒𝐭𝐫𝐞𝐚𝐦]𝐓𝐕==] Derby County v Queens Park Rangers LIVE FREE TV &nbsp;&nbsp; Universidad de Córdoba (UCO)",
-      "image": "",
-      "type": "news"
-    },
-    {
       "title": "[!WATCH-EFL-LIVE] DERBY COUNTY VS STOKE CITY watch Live free",
       "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxQTHlja1VTTElESmZsSkZiZV9aUHJFSTlRbVVsay1xSGFZSzNWY3hxNVg5cHg3eUJtNTNZZDZUQUJvLXhBVC1mUkEyeWF3Q3ZjN0h3RFBiaXR1STI4VWJPbHBESDMyVlFpM3ZrR2pTWHhvUUxnemlPWkFOVTQ3WlZMQm9MYXlxMDRhR3JiMnZ5azM2NV9udWtHTFpGako2ZllRZVc3cU1BNElpMGljZGtYaUhEWGhLd2lsOGlNTjBOMGhwQzk3RGhMaDcyMkJvN1pSYlNLVVR1Y20zRWxYVHh2RjdPVVlsNmJoR2g4WmRtXzZZbTBISXprMkxHQ2NGbE54eUVsZFJMWVpvZ1RrdlpKYXBRYUlrQ1JrZ2xnaFd5MllEQUZFYXd6YVVlZnBJMHFUbWtRWUdkTkU0dzgyUnJ2TmVBSGdZUS1oQXhLM0llX0dCWkQx?oc=5",
       "source": "Universidad de Córdoba (UCO)",
@@ -218,15 +236,6 @@
       "summary": "ACADEMY NEWS: Allen extends Halifax loan &nbsp;&nbsp; Derby County",
       "image": "",
       "type": "news"
-    },
-    {
-      "title": "BANEL MAKES DERBY COUNTY LOAN MOVE",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObkp6ZWZndmZVdFN2RmtvSU41TWhHUHBZeXg3MG5VV3NZdVdBTE84Y2pzUWY5UnM1TEhTM0VqZXFpMzlENnBQQWk5ek5MbFRnc3dHV2JCMjg3QWZmUnYxUXNWYmZCNl9FRGY0U0ExV01nUXVySmRuX0hIdHZUUE1lenc2SnRkeEVNOUEwUQ?oc=5",
-      "source": "Burnley FC",
-      "published": "2026-09-22T09:44:49.000Z",
-      "summary": "BANEL MAKES DERBY COUNTY LOAN MOVE &nbsp;&nbsp; Burnley FC",
-      "image": "",
-      "type": "rumour"
     },
     {
       "title": "Derby County starlets pass more landmarks as loan turns sour after 'thorough analysis'",
@@ -256,6 +265,24 @@
       "type": "news"
     },
     {
+      "title": "Derby County’s future is increasingly blurry",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5mUUE5WG5sbDFHTVZIMWdvUlF0WFYzdldTLUY1aERfZm13ZE5nTHFvOU91NThvblJYMTBnYnNId01wMWlCNEpoVnhlYm9zU2pNVEtYeDF6UUxkYWxIR19FZ2ZQbm1zUzQ2LVRKZmdaMzgzUjlzVk5OUg?oc=5",
+      "source": "The i Paper",
+      "published": "2026-09-17T07:00:00.000Z",
+      "summary": "Derby County’s future is increasingly blurry &nbsp;&nbsp; The i Paper",
+      "image": "",
+      "type": "news"
+    },
+    {
+      "title": "Businessman confirms Leicester City takeover interest with Turki Alalshikh also lurking after Derby County collapse",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTUtOLW0zN3ZvRWI1OHVGXzZtX0c4MHgwS2h6c3VGcTRPQU15YmNQdzFSOTNraWZsdXoxb0Y1MldkV2l3bnlXUVAwMGFDUTdFWXFxZVp1TTVkMTljY2h6MUl3VjQ5X0FVWHVNWkhmYUUxUThiRlkwVnJsYUFUcDJPUFdBOXNlSUhFbFd2ZnNzY2dlYlRISHNr?oc=5",
+      "source": "Yahoo",
+      "published": "2026-09-11T07:00:00.000Z",
+      "summary": "Businessman confirms Leicester City takeover interest with Turki Alalshikh also lurking after Derby County collapse &nbsp;&nbsp; Yahoo",
+      "image": "",
+      "type": "rumour"
+    },
+    {
       "title": "TRANSFER NEWS: Goudmijn makes Swiss loan switch",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTlU3MGhDQm5QTDRXUjBTQTUwczlWWHRYNGlwMFBjQ1Y3VFotZDNuSTZKbW5sTVJsOTFRV0NLQkNHZEp4UlNVN3FLUzNUNGVhWnZsTVhEU2pyR0pnS2ZwT2Q3TzhMdWZCQnRhUU9jcFV1OGZMcXhaOW9saGhXbDFXX08tRTcxMEZOa2c?oc=5",
       "source": "Derby County",
@@ -279,6 +306,15 @@
       "source": "Derby County",
       "published": "2026-09-03T07:00:00.000Z",
       "summary": "TRANSFER NEWS: Eames heads to Scotland on season-long loan &nbsp;&nbsp; Derby County",
+      "image": "",
+      "type": "news"
+    },
+    {
+      "title": "Derby County signing's agent addresses deadline day transfer after Birmingham City drama | Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTVlic2J5RVpkOWdZemU4MURRLVBLcEZnSHR0dl8yM3N3NUxnMzVsdDFlLTh5WDNEamhFU1ZhN082MGduSC1lb001OFZLdEZ2NlRPM2V1Y2dMVzI3SjBaSDhxOGhOZEptMWdodktRdlJXQWxoYllFcUIzVjhtckwyRXBESDJ3MGZ5dFlpNmdvdXhQckR1bVVUdVY1Q1NLVWtLUXcwTmRsd3N1SDVmXzBF?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-09-03T07:00:00.000Z",
+      "summary": "Derby County signing's agent addresses deadline day transfer after Birmingham City drama | Derbyshire Live &nbsp;&nbsp; Derbyshire Live",
       "image": "",
       "type": "news"
     },
@@ -319,6 +355,42 @@
       "type": "news"
     },
     {
+      "title": "Derby County aiming for winger deal after Birmingham City transfer collapses",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYThLQlJpek1mYVRXSjAtUXJHZXZaYzRKZ0hCbUlHN3E1d2I1Nk96R0xSZ1o0aFZ2ZDRxdjdqaV83LTFKNDJNbHVOWXd6ODB4NkY4alM5aVQ3TG1TYmJqUXRpM2NfcmppbkY2TC1ZT2RpTjF3T0VRRGpsMlZVZVpwZTVTOG5wMF81ZF8tSE44dklTS29Cbkpqa0RNT0N6UVJQNjVqc2x4bmkta0R3bGc?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-09-01T07:00:00.000Z",
+      "summary": "Derby County aiming for winger deal after Birmingham City transfer collapses &nbsp;&nbsp; Derbyshire Live",
+      "image": "",
+      "type": "rumour"
+    },
+    {
+      "title": "Eiran Cashin closing in on Derby County return as Rams seek deadline day deal",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdzY3ZFVONXlGcFd0NVRiZ2xkWV9fZDVQcU56WmRZRnJ0b2o5YVFJbDZkZng4Q1ZWUjRkWFMxRTlSTXBoOE5qNDg1SFdMdkNka0M2UmVsS1ZWYk85QzV3MERYWEY0Z1Q1WTNuMWJLREFHcmJnb3c4bVAyZ3ViTklJVzN4d3RyMllOOEFCYWVWUEZORkl3OTVaS3VFNVNBajV1MVphYVN4WHZudw?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-09-01T07:00:00.000Z",
+      "summary": "Eiran Cashin closing in on Derby County return as Rams seek deadline day deal &nbsp;&nbsp; Derbyshire Live",
+      "image": "",
+      "type": "rumour"
+    },
+    {
+      "title": "Derby County battle Blackburn Rovers to re-sign Premier League man",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOUN6RXlBVVJGZi1IcmNfM1dhbEhkenZUeXdUZWl2Znk2T1oyMHU0U0c3VzJhWXdIT3p0ZXVsRGdmclJVSEM3UlZxOEJtYlQ0cUJ3NkpDdU5GWWJtWjhrVWFxblB5Y29aOG00YWtfQmlDS0RRMllEdXBuYk5zdjZWalhoS1JmbklFSzN5Yg?oc=5",
+      "source": "Yahoo",
+      "published": "2026-08-31T07:00:00.000Z",
+      "summary": "Derby County battle Blackburn Rovers to re-sign Premier League man &nbsp;&nbsp; Yahoo",
+      "image": "",
+      "type": "news"
+    },
+    {
+      "title": "Championship side to keep Derby County, Millwall and Wrexham target",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVHZJWlVtczQ3ZURDNkU1Z2RVR1JEdmoxVFpPV1VGQ2VSQ1p4eTR5dmdNYUEtZm1FT3oyOHBnWEVlYjJmUWVKNEhyQXl6bWFWbEl1V0ptM3Q3TXo5TmtjeWZrVUNEYm9wSU9Eb25FaVI3RXlHOG45Yk9zcTdCUFV2YXdrX1FhYWRrSFBr?oc=5",
+      "source": "Yahoo",
+      "published": "2026-08-31T07:00:00.000Z",
+      "summary": "Championship side to keep Derby County, Millwall and Wrexham target &nbsp;&nbsp; Yahoo",
+      "image": "",
+      "type": "rumour"
+    },
+    {
       "title": "SIGNING: Henrik Meister is a Ram",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1XYlFER2JXTUppcnpSekRnWXVhc19yQlN3cWh2T3lFMHJ5akZjak5jbWhKN1FYOHltS1hFSVh2VHdReGFobWNXN3Y4NzhmTzRZYlo3OEZLNDBHdlFoWG1GLWFWNzFCeWhONFN5amdTRjZUZzVWT3c?oc=5",
       "source": "Derby County",
@@ -351,6 +423,15 @@
       "source": "Swansea City",
       "published": "2026-08-29T07:00:00.000Z",
       "summary": "Preview | Derby County v Swansea City &nbsp;&nbsp; Swansea City",
+      "image": "",
+      "type": "news"
+    },
+    {
+      "title": "Sheffield United Enter Derby County Chase For Versatile Leicester City Star",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOa2NWR1ZpS3RheHM1dy1JQlNfQnUwdXY0Z1FnZmJGdWJDejRaXzZxQkw3Rko2em9SenhQSFdQSVpLVS1aYzFFeUdlcDBhMEl4N09HZ3BWUWxZSU1yZDJiYnJ2QWg0dFNWLUFqaDRtX29OLVFGWWRwMEFMNExEa0VuR2NxZnZsdGpYbHRSZTJaLWNOSVZLcHFhRUZCc1prWDhVNUtzUUc5aw?oc=5",
+      "source": "Football Lowdown",
+      "published": "2026-08-29T07:00:00.000Z",
+      "summary": "Sheffield United Enter Derby County Chase For Versatile Leicester City Star &nbsp;&nbsp; Football Lowdown",
       "image": "",
       "type": "news"
     },
@@ -391,6 +472,15 @@
       "type": "rumour"
     },
     {
+      "title": "Sheffield United and Derby County 'vying' for signature of Southampton's Ben Brereton Diaz",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeU9FQkdmMUNqTldSaEJaZE5TZ1NvNWw3amJjLTBmZ19BU0RWMUkyVmRHZnZya2IyQXJQMUxfMHZZTHpFdXVFY29YM0FmSlJndFhBT0UxN0Z5b19ZOUlNcnNQWkR0ZEp3c18tMUYxWG11TDZpSEdwa3pKMEhpYTBPUkF5aXZrbVpkWEVMUkxUck92cUczNV9Qa2lMR2RvUEthZGlpTU1LUGotb0dVNUgtc1lFWW0?oc=5",
+      "source": "Yorkshire Post",
+      "published": "2026-08-26T07:00:00.000Z",
+      "summary": "Sheffield United and Derby County 'vying' for signature of Southampton's Ben Brereton Diaz &nbsp;&nbsp; Yorkshire Post",
+      "image": "",
+      "type": "news"
+    },
+    {
       "title": "Derby County target Hamza Choudhury transfer as Rams step up signing search | Derbyshire Live",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORTZlcjkyWVA0Mk9GNEY2T0pydUlFUnpSZEV1enFndndTRURiSmo0MXRjb3JiU0tZNFluUlZWOWY3aTU5bTBBc19WSnRCRHA5MlNqS1BYbldHSG9ydmkwRTA2SVNYWkNYSUdtSG8xV3F5bEhIYVZ0Ykh6ZHljRkVzbmFsSllrdV95Q1oyajZZb25CSzNQME41RTlyV3FKZkRCQ1NwQjl2enZZZFU3dVE?oc=5",
       "source": "Derbyshire Live",
@@ -398,6 +488,15 @@
       "summary": "Derby County target Hamza Choudhury transfer as Rams step up signing search | Derbyshire Live &nbsp;&nbsp; Derbyshire Live",
       "image": "",
       "type": "rumour"
+    },
+    {
+      "title": "A familiar face, a 22mph speed demon and five wingers who could give Derby County what they need | Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaTl3Y0NHVUVlMU1Ec1R1ZTR6MjVmdkI5UUlpMGh0akxHSDZ4N1lWckxsOUNRVlIwMjl3VTVtSEMzamhLTlk3cFFoM20tVjRZSDVqWnlpMWstWmxOTlVLbENiaGRLQ1RYcWNCQU1VaW1DUVJvb1VfY0tqR1ZMUE02T255V3lqWEdkX0dVb3ZSLUhUQUo3d0dBbVpkUjVOVFBwd0FNS1cxaFZqbE9EZlE?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-08-25T07:00:00.000Z",
+      "summary": "A familiar face, a 22mph speed demon and five wingers who could give Derby County what they need | Derbyshire Live &nbsp;&nbsp; Derbyshire Live",
+      "image": "",
+      "type": "news"
     },
     {
       "title": "Derby County transfer state of play amid triple pursuit and John Eustace speaks on duo",
@@ -409,15 +508,6 @@
       "type": "rumour"
     },
     {
-      "title": "Derby County transfer latest - all you need to know | Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeHlucGxQcHd1UWtTODRoQkEtS0RfN2JKSjR6UjJ5N0hxU3JpQTNPX0hVNWRsSFJTMnF6OGtVQV9FQVVsWTFjRHZPUDEyRTNsdkwxdllIZEs4aUhVNzFnR0Jxd1l1a3pCSVJlVzZuZXlLWHl6aGdGd3Bic2o2VDdNOXV2c1pBX0xfVnhGTmhfVF9na2t4Y0Yzcmt5RXVTdC1WR2k3TUdR?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-08-24T07:00:00.000Z",
-      "summary": "Derby County transfer latest - all you need to know | Derbyshire Live &nbsp;&nbsp; Derbyshire Live",
-      "image": "",
-      "type": "news"
-    },
-    {
       "title": "West Brom stance on Derby County target as absence explained amid transfer claim",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOS1FuWVlIcGxjVWZfM0dSWmxaZnJjV2N5Zy1TUlJva3lZMDNOcVVpVWVQa1M3TFpsM2JVbllabEM4cEw3NkUwR2I1ZDdaRnI1Y2ttVWJpOE1KOTZqUnNHbzFkamJpbEtnQnRhb1B1TXlUaF9ub1dobVRiRmptUUVRT3JUeHhYTkJDUG1fYXJCQlM4eU9zZFREX0VHc1pnajY0dHI5M0R6bERqalBE?oc=5",
       "source": "Derbyshire Live",
@@ -425,6 +515,24 @@
       "summary": "West Brom stance on Derby County target as absence explained amid transfer claim &nbsp;&nbsp; Derbyshire Live",
       "image": "",
       "type": "rumour"
+    },
+    {
+      "title": "Former Celtic star to Derby County transfer talk addressed amid summer 'rush' claim",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTWxyMWJmb3VvVTJ4MWFBR3E3QzRnRU4yZVkwVC1tVXdtRE9qR2ZZQ2JHV1FvR29BQVFEazhrcTVxUXpPWktoenZWVXp3Q3B1UmtMMGdkY0tKVVhmUmlCcUNBcTZRck15ZGlYb0hEWWRCX2VQMnJ2dmxiQVh2RC01ZEZYM3FEUWI4TFdnOXpxQ3hyYzRBUmlfRWhpSzdJNklSZWh6ZUZTTTRhUmxRelNNUjVrUmZOb05DcXZyZHFxYTBfQlFISWxPbTZMRVNWMm5L?oc=5",
+      "source": "GlasgowWorld",
+      "published": "2026-08-24T07:00:00.000Z",
+      "summary": "Former Celtic star to Derby County transfer talk addressed amid summer 'rush' claim &nbsp;&nbsp; GlasgowWorld",
+      "image": "",
+      "type": "news"
+    },
+    {
+      "title": "Derby County transfer latest - all you need to know | Derbyshire Live",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeHlucGxQcHd1UWtTODRoQkEtS0RfN2JKSjR6UjJ5N0hxU3JpQTNPX0hVNWRsSFJTMnF6OGtVQV9FQVVsWTFjRHZPUDEyRTNsdkwxdllIZEs4aUhVNzFnR0Jxd1l1a3pCSVJlVzZuZXlLWHl6aGdGd3Bic2o2VDdNOXV2c1pBX0xfVnhGTmhfVF9na2t4Y0Yzcmt5RXVTdC1WR2k3TUdR?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-08-24T07:00:00.000Z",
+      "summary": "Derby County transfer latest - all you need to know | Derbyshire Live &nbsp;&nbsp; Derbyshire Live",
+      "image": "",
+      "type": "news"
     },
     {
       "title": "Sam Szmodics latest as John Eustace expresses Derby County transfer hope",
@@ -470,114 +578,6 @@
       "summary": "NEW SIGNING INTERVIEW: Ryan Hedges &nbsp;&nbsp; Derby County",
       "image": "",
       "type": "news"
-    },
-    {
-      "title": "INTERVIEW: Hedges ‘delighted’ after Derby move",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOFZQcWRKTGdmRTk5TTNheFF6cUtkZnpscWpJSWtENWpNaDYwQ3J4Wjh2RHBqVlpFU0JBeXlmOWpzY1hhTDc1bkF0b2FhVWFINzR1XzMtSXNaZDJ2X2YtQlJaQ0hxUXpkWTNWMzk0STNxUVdEbVFZV25ZNUdPVE5mTlhuMEI2Zw?oc=5",
-      "source": "Derby County",
-      "published": "2026-08-20T07:00:00.000Z",
-      "summary": "INTERVIEW: Hedges ‘delighted’ after Derby move &nbsp;&nbsp; Derby County",
-      "image": "",
-      "type": "rumour"
-    },
-    {
-      "title": "Ryan Hedges: Derby County sign ex-Blackburn Rovers winger",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBEWkZILXl3b2xHX1phWkxfOVpld05QWTZJb1JIaVFTX3c3a2hhMTEwQml2TFdCTi1MNnFuRUNpT25Dc3NyeWVELWJJaElfTTlIMUREMzk1U01lem5zTmlvajVLTlc3SVk?oc=5",
-      "source": "BBC",
-      "published": "2026-08-20T07:00:00.000Z",
-      "summary": "Ryan Hedges: Derby County sign ex-Blackburn Rovers winger &nbsp;&nbsp; BBC",
-      "image": "",
-      "type": "news"
-    },
-    {
-      "title": "Monza sent 'insult' message after Derby County transfer bid",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMHlSNXozWDJ3QmQ4eUo4WWtGRlFFWUticGJiT1d0VnN5MGpwMF9Ud05IUEVfanlTLVozRS1BVk9STnhKRjlDN3NZd1BUTW91VjZtSGJjMVBGWEZsd3EtYkNlQjgwa05IWVVhbnVFVWcwN1pBNm9LNkNyTjBXdlN5VmR2MzVEWXp3WDhqZjVXLXZ6YUI2TE53Z0RYZDJQeEdVYVNHNkIxbm9FMzRS?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-08-19T07:00:00.000Z",
-      "summary": "Monza sent 'insult' message after Derby County transfer bid &nbsp;&nbsp; Derbyshire Live",
-      "image": "",
-      "type": "rumour"
-    },
-    {
-      "title": "Derby County centre of Jacob Widell Zetterstrom bid claim as Serie A club seek transfer",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOb1I0YS1oYU8wUHVKU05MOExmVnc3cEZUOEVJdk9IYWxiRmFIbTJ0MFRpWVVaWnAycjlCQjJqWno4VGpLMFo4VVFvSjg2cGJXWVpLWXVEMUJnUUhleERQeUpMZXVlZVN5UEZVRGIwUTJjVEE0NjdoYUQ2eFRMZThEcHhrcFFiZlBMbktMX1pQSmxGRXY1eWg2MnpFRzlfem9sbU9tWGFwOEVYM05Z?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-08-18T07:00:00.000Z",
-      "summary": "Derby County centre of Jacob Widell Zetterstrom bid claim as Serie A club seek transfer &nbsp;&nbsp; Derbyshire Live",
-      "image": "",
-      "type": "rumour"
-    },
-    {
-      "title": "ACADEMY NEWS: Turley makes Dunfermline loan return",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcEJON1NJa2tLRWR6SXo5TE1Oc21obnVka0hsZHowbVNCWGJvSlVEU3JwZjM3Z3FTYWlWSUYyZHpYWloyM3lSQlRGRV9IRk9zbjh3N3c2MTdqRWcxRjdYdnEwYm9HUThTcTBHWGxwZVpSaHc1Y3FmWVBvX0N2dlFVZjB1SVFIUVVmNDZabzhB?oc=5",
-      "source": "Derby County",
-      "published": "2026-08-15T07:00:00.000Z",
-      "summary": "ACADEMY NEWS: Turley makes Dunfermline loan return &nbsp;&nbsp; Derby County",
-      "image": "",
-      "type": "news"
-    },
-    {
-      "title": "SIGNING: Alex Mowatt joins Derby County",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLU3JuWDM0QzRad2ZZVEExNjFucG5vMmZpd3ZVUWlBM2E1Ri1wZkprd1V3TGRmbzVyVHJHd09hODdWQWk2QnlzcWJYUFhlTHJKZkJoV1JXMEJoLXlLRnNmenlRUTc3dkdDaVVXdTlOS0x3SWpRcGxNTWp3TjZBSFE?oc=5",
-      "source": "Derby County",
-      "published": "2026-08-14T07:00:00.000Z",
-      "summary": "SIGNING: Alex Mowatt joins Derby County &nbsp;&nbsp; Derby County",
-      "image": "",
-      "type": "done"
-    },
-    {
-      "title": "NEW SIGNING INTERVIEW: Alex Mowatt",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5aRDRycjV6bktFZkxiaGRRRUQ2dVlWaXp0eVh5Z2dOTmhURGpDZERmVVhrUFdXZjRvOS1zYll0Q2ppMWdtU3lWUlFDd2ZzMGs4eENuY2tMZTRLUTBmLVQ4MU5qaWRXWXhKQzF6SjlpWUxQYTVqdUhoeA?oc=5",
-      "source": "Derby County",
-      "published": "2026-08-14T07:00:00.000Z",
-      "summary": "NEW SIGNING INTERVIEW: Alex Mowatt &nbsp;&nbsp; Derby County",
-      "image": "",
-      "type": "news"
-    },
-    {
-      "title": "John Eustace: Derby County boss 'glad drama is over' after takeover saga",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5mZHdCVWUwZXNOSnZPTUllTkF0M1BYNEpwXzNrc0o2dktRcnYtN3ZoOVZfZjNvM0dpUEs1RVJWSmtyQ1RmUlItSUNUNTJYZUtJUFVWRlFibnFYNGgzWG5Qbm9oanY5WUE?oc=5",
-      "source": "BBC",
-      "published": "2026-08-13T07:00:00.000Z",
-      "summary": "John Eustace: Derby County boss 'glad drama is over' after takeover saga &nbsp;&nbsp; BBC",
-      "image": "",
-      "type": "news"
-    },
-    {
-      "title": "27-year-old keen on Derby County move as summer transfer interest persists",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBpNnl2RjVHci12eFRLeFdXVko0YjRBRV9nVmpuQU5TcUNMUUU3OHhrZGRxclRDWTJ0Zmxoc29PMDBuMG0waF8wNkhHaF9KczZiM255dFNIMF9BeUFKcmlObnlyVVd4UFVubmV2WE1RQ3RoWWNNMFVzb1EwekY?oc=5",
-      "source": "Yahoo",
-      "published": "2026-08-13T07:00:00.000Z",
-      "summary": "27-year-old keen on Derby County move as summer transfer interest persists &nbsp;&nbsp; Yahoo",
-      "image": "",
-      "type": "rumour"
-    },
-    {
-      "title": "Derby County chase transfer as they look to land long-term target | Derbyshire Live",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWGZoWjRnbV9na2FZMWtuTzFpWFQ3QjJZaTM0OWVUTGxOVkdjVWJ4cjZNd1I5Uy1VbWs1dVRkQTJpX2JOU1NadkoxNjF2aHZza1hjamkxSm9EeVVUUFV0TXNBeHdoc3FJaHZ5ay1qYWFLdi1jd05kSnNVbHhnTmxIRXdJX1ZoU0V0WllFaVZ1Z2tFRUdMdzlJTlhQc2l6Y1gzM2JZVFN4bw?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-08-12T07:00:00.000Z",
-      "summary": "Derby County chase transfer as they look to land long-term target | Derbyshire Live &nbsp;&nbsp; Derbyshire Live",
-      "image": "",
-      "type": "rumour"
-    },
-    {
-      "title": "Captain sets out Derby County target for the new season as he says 'I don't see why we can't'",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQjNKRGRQVTFvUTlsZXNDNFA0UWttU1BTOGJicjFzUEsxMUJCWWdzZVJMV3UtV2VHZ2FzZ1pjb1paNjR5bHlOT1JWeUgzUUE1WkhncjJOWkoxMVN0ZUdlcTUwN18wOHkzYjczNmpNc2dPVVItQWlvcmtibjZBd0JiQUlPdzMwWlRuZTJBN2dwVnhHY3hTckNMYk1YTkE1Tkc5cklha19hZw?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-08-12T07:00:00.000Z",
-      "summary": "Captain sets out Derby County target for the new season as he says 'I don't see why we can't' &nbsp;&nbsp; Derbyshire Live",
-      "image": "",
-      "type": "rumour"
-    },
-    {
-      "title": "Derby County takeover: Deal off as Turki Alalshikh shelves plans",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA5a0psVjRiQlV1WGd6YnM4czVGc1dNamRzY2RXSGxYLWNzdlNvQ2RLYkVISTBmT3ExOS1OZmZXZFFhTlh5MXA2Wkd6OHk5eFlzM29pdmxsWEYxREkyRDhBUlZ6VHllS0U?oc=5",
-      "source": "BBC",
-      "published": "2026-08-10T07:00:00.000Z",
-      "summary": "Derby County takeover: Deal off as Turki Alalshikh shelves plans &nbsp;&nbsp; BBC",
-      "image": "",
-      "type": "rumour"
     }
   ]
 }
