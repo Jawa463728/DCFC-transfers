@@ -1,17 +1,11 @@
 {
-  "updatedAt": "2026-10-31T14:28:33.236Z",
+  "updatedAt": "2026-10-31T18:42:30.192Z",
   "targets": [
     {
       "name": "Leicester City",
       "mentions": 1,
       "score": 69,
       "context": "Fresh media link"
-    },
-    {
-      "name": "Turki Alalshikh",
-      "mentions": 2,
-      "score": 58,
-      "context": "More than one recent link"
     },
     {
       "name": "Sheffield United SOS",
@@ -36,9 +30,78 @@
       "mentions": 1,
       "score": 34,
       "context": "Fresh media link"
+    },
+    {
+      "name": "Turki Alalshikh",
+      "mentions": 1,
+      "score": 34,
+      "context": "Fresh media link"
     }
   ],
   "stories": [
+    {
+      "title": "（ＬＩＶＥ>）Millwall FC vs Derby County FC Ｌｉｖｅ Ｓｔｒｅａｍｓ ＦｒＥＥ 31 october 2026",
+      "link": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxOVDB4eU0tNnFRWS00Z3NFRXRUNjB3M1RmR3YtcVg5d1ItSjlNUGFmZ0lOTDI0UGllTEgwYWpBWW41Z2NIb2VMb1U3WUxmNlR0bm9SNVZmQzFxVUFtZjM1aE1TckZvR0o3NUpLelViZVMtS1lxaGVnWjJRNGVib3VSa1Vzbnh2cklpdjFYZnBOZ0xkZlI2bVp5TXlPMG9GdTBvQVZRN0lPelMzeXVTbk55VWNpbnFGeXdJMURwRjN2ajZOU3liRnRnYlc3aUJFZkFkX1lTOVlLNlMwSWFTS0F4M2MxSjBNS1B3a1c2ZHpnYldYRmFQTldoTnFVNGJWUE1BQzBxdTdYYVRpMFNkS1d0M1NGOHg2X1lsYkJ0MHFGYlFqdUt2RUVPRVR0NDF3N0RsQ3JTMXlUNDNOeTlzYmRJS2FLekdQdEZHU29GMkFGRUZJa09SbEVKYVE3QWJIMVVkZnFzU2gxTGZxZjZtcjZrdl9VdmpncjZ2QnpN?oc=5",
+      "source": "Port of Rotterdam",
+      "published": "2026-10-31T15:16:53.000Z",
+      "summary": "（ＬＩＶＥ>）Millwall FC vs Derby County FC Ｌｉｖｅ Ｓｔｒｅａｍｓ ＦｒＥＥ 31 october 2026 &nbsp;&nbsp; Port of Rotterdam",
+      "image": "",
+      "type": "news"
+    },
+    {
+      "title": "( YOUTUBE LIVE ) Millwall vs Derby County ＬＩＶＥ",
+      "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxQRHJZblAzcXpEWDlYdVRBMGxjMTBKWnlOZ2g5dGxTZXZNZnVTdllvRkdYc0xEZTNKaWw0MXJnRF9UTFBJY3hBWl8ydmhLZWhqZkoweHhycUQxWnlmUmpFVVlkYkJTa3pUZTlTUDhqaC1EakRPdlAwS2djc2plRXJSNV9RT0kwRXZpblRzejJ1QlRWaTdCZW9KaXpWR2IycDRHbThhbEdUZXdrTlVyQlZUQzRJZWE5bFpVc2xRMGpaWTlFendqTDBiOGpkVWw5RXBwcWRaelllS0dmXzVMOTFLYUkzRGYzNFpqTHlTd0hrV05IRDhqQWk3c3FVRE1tdjVFM1VCX3hDMVVoZXRHTExsSFJWUmdjUEhGYVVfVEJnaGczSVV1akw4NUQ2TWx0WjNKVkZxTWxYczcya3JpSjBUUkQzd2N2LVRqckRTWHhteE1NTjZtbk93ODlhV21IYkZZZ2JldnlSbVZpdGZTZmtwei15MWwzQzNWZGNkU3o3R3Fsc1lQd0J2WVFBMXJ4UQ?oc=5",
+      "source": "Port of Rotterdam",
+      "published": "2026-10-31T15:02:41.000Z",
+      "summary": "( YOUTUBE LIVE ) Millwall vs Derby County ＬＩＶＥ &nbsp;&nbsp; Port of Rotterdam",
+      "image": "",
+      "type": "news"
+    },
+    {
+      "title": "~!$(Football@TV) Millwall vs Derby County Football Ｌｉｖｅ fRee Reddit",
+      "link": "https://news.google.com/rss/articles/CBMijANBVV95cUxOUm1zRUs3bmNOYk1fSU9oSlhGaHZPQ2tISk11NVh5VHhETnN0SFh3LUNYWEZlckVhdzc2aTNIZ2c1RkhCUU1nZ2V6bTVEQlNHYllfRFNBdHkyM0YyUUZmSFhYVXhoV0lYZm9xUmw2b3oxa0w2SWVPODdtNks4cXNnMzBqNmJ0NTlzRG1kdkFQNnFsWmNFYlBKMjBzT2J5dFA5NVpKRy1TanlxM2N6VnBwMlk5VFRIOWpzRVA5VU5Xd2NuNi1TVHZPRU9YbjJQdDYyb3NMZWpOQUJyZ1I4YXBOdFozUVZRbk9fMlVnZ0J6VnIwSWt5cWgzazJISS1yeE12bFhjamdFYXlXYU5UdEg1cUxkZFpvRjB5anQySUtoTEhfSk9TdnlFcGo2ZEtEXzBlMFBPQ0hlUXdKRFhCSjN4WjBHLWdVZTNBSEI2SmZ0Nll5X2tqSXJCaW9IUXlCZk05Tkx0V3pFRVhQTDY1eGhrTFFiSkRvempjOHlWZlREVndNc19nQ2p2NE43ZlM?oc=5",
+      "source": "Port of Rotterdam",
+      "published": "2026-10-31T15:02:40.000Z",
+      "summary": "~!$(Football@TV) Millwall vs Derby County Football Ｌｉｖｅ fRee Reddit &nbsp;&nbsp; Port of Rotterdam",
+      "image": "",
+      "type": "news"
+    },
+    {
+      "title": "【Football!】Millwall vs Derby County Live sTreams FREE",
+      "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxPeThOQVJpeDRIZ2xYclU2cjFKVEZicUpieWZxZXlQZVBldEkxcnZJN2s2UkN1TFo3UTRmNmhGRFlZWUY4dHZpN1ZQenp3bEtEeWxqbzBJeFpWWTdhWHRRU3ROQ1JlX0NETUlYNEI5ZlRGX0RqMzBnbFlRVDRVcDNEWUNuZ0F1YW9uR2ZCZkNKMzUwSUQtb3UxLU1mYm9rYmlWdmZPaGxNYi1Wa2RORVduVTY5MUlYZ2c2Y2NOeWVrc2FoTlo5SEtpOTNfNnFmckRFRk93UmRhRTZLTDJ3OHhVanNSQWU5QjBmNmx4a3FjMXZZdGZEek1KU1A0cUVLMzFKUkphLWYtWjJSSmxyYmM4VVJHd2xLbjdpYmJmNWtvUW0xVG84cDZja3RqSTlUNHRUV2ZyZjZoMTZRMEE0bmhYY1VZVXRiQVcyaUtxOUtjc0dYbm5Dei03d2l2NzZ5X0N1cWRaOWdzT0FqZ0dvMW40dnF4OWNJcVZSLXF0VUhkTDhaSUV4VnM0YTRIVWtBUQ?oc=5",
+      "source": "Port of Rotterdam",
+      "published": "2026-10-31T15:02:40.000Z",
+      "summary": "【Football!】Millwall vs Derby County Live sTreams FREE &nbsp;&nbsp; Port of Rotterdam",
+      "image": "",
+      "type": "news"
+    },
+    {
+      "title": "[ONLINE LIVE]Millwall vs Derby County Live English League Championship",
+      "link": "https://news.google.com/rss/articles/CBMinwNBVV95cUxQbTdPOTFvQVdsV3JTRjV6a25WbElsMnpJTFB6QkhyYjE2c3A1eTB4ME01Y2lrZFJBRm1fMkt5ak54WlNVNVY2cXV1Tm5fQmw2Yk5QZDE5MC10Uk9hdEFaQ0JGd1BNLTllcUFFWm1sUTR0RUVORERtOUgzWXUweEdyQlZHVG9MTEJScnZUN0dnVUVkMkhyQ1VpNlBFTFFkWmVmOW5lMzZINnRWbzZUNkQtOVhncVVnWXZlMkhuZHdNMUNBLWw0c0tCTFNIM2p1VG5EY0tZUElicDhOc0ozdkRHRnpBOF92bUpFbmE2cVN5QllOQmZTNWxtcGJfWUdKWWJmaE5IMTlBYktOMDNNTm44M2pvNWowekpUaEdEQmFkMUtNTjZ1Zmp1ei1oNjVYTnZEVERJU2JDN2xUMTBrQ0JpdGJXdTRLRE54ZktSVnRabHFCZGV6RGxIV3h3cktOZ3hycU8xV3dOazZ0ekhMQUZvZ2xaMUJqSVkwR3A3bHIwNUVESnZUSTl3SWY0UnpCNDc5R1NYSjE2aHZqeTZtcTlN?oc=5",
+      "source": "Port of Rotterdam",
+      "published": "2026-10-31T15:02:29.000Z",
+      "summary": "[ONLINE LIVE]Millwall vs Derby County Live English League Championship &nbsp;&nbsp; Port of Rotterdam",
+      "image": "",
+      "type": "news"
+    },
+    {
+      "title": "[FREE WATCH]Millwall vs Derby County Live Match English League Championship",
+      "link": "https://news.google.com/rss/articles/CBMioANBVV95cUxNRFd4c1BHbWxQTUlrRWx5VFRkNVU1YWZTQ2ZicWhKQWhWUFBRc1RTSUhWbDdlQjkyVVVBWUFCRkw4QzBpcUZkbXB6RnZwUHY0bGdydmt0YWlwWnFITDQxNXRFaFRaLURLd2t5VEFxMkR1T09sM0RibWxsV210M2hpZWZoZElyemVJTFdRUDdqNjRQanQ2aWItLVVNWFhmUG1xQ2pnS0NHWUV4OWNRUnZSeTJHc2puaHlLME0yUjFEeXE3M3kxM0VwSU02QUlqLTMwX0l5S0tpMk9MNUpJdUdvN2N2STZJeTVhWXEwWkFibU9vRjBXdXpuUWxGa0xHY3NPRV82Z3BGSTlFVmNvMTlOcEVMZDZPSzZlVzJhZWFqRnViMlBnNS1McjRvMnJsM0JHV2hzMmZSa0psRFpGRTJqRTBDVmpwSzV2bks0bENpVV9WNHBlTWJiQ2hzMXp0TnpMT1ZubVZVSldVdE1kUWN0Q2huQjF4ckwxR2lkRFA5ZjdKaEVkemF1VDU3cHJTdEVnOHJLUHNkbGVCYTh1OHFSTQ?oc=5",
+      "source": "Port of Rotterdam",
+      "published": "2026-10-31T15:02:26.000Z",
+      "summary": "[FREE WATCH]Millwall vs Derby County Live Match English League Championship &nbsp;&nbsp; Port of Rotterdam",
+      "image": "",
+      "type": "news"
+    },
+    {
+      "title": "[4K] Millwall vs Derby County Live Free 31 ottobre 2026",
+      "link": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxNZklxc1gzRlZtRm93SWgtOEhmX1I2ZVpjaTVUck5fRlJ4dTZIVm1EN1lvdWRwMHlzYmRvbERpTEdFZnlfMVJjMkt4UFItNGc1bkMwbXlsbFppUFRhRDkweWFHXzBEVUJzUGRWMEtFNGdTZG9NVThnUGxwenJCM0xSN0t3c0xQeWNrU0R6cElybm54TTJLbldKOHVfaEp4Z0ZiUkR1b0hrZWdoRkFobzdwNHZKSHJGTEh1ajVSRm1wU2M1dDZQX3pydlpJZXZ0RnU2NHFxMlcwMExWVkl4ZEdGMEJmZDhYUm5Vam91Wl9CSnJERkh1ME5abU1LVUhla3ljVmFWTndPX0xzQTlzeUU0YWtZT1VEeXFSZ1dlOTFkRnJmWGRCVVB5SWk4TDhhcEhISWE1ZXN6aWI5d2IzVmpTTnBTbzdsMHdTRHYzc0lwUTdwNVpsUk1CUmxVaUpWWmFEbFNCZ1JMUTlZZllTUVV1WV9n?oc=5",
+      "source": "Port of Rotterdam",
+      "published": "2026-10-31T14:52:01.000Z",
+      "summary": "[4K] Millwall vs Derby County Live Free 31 ottobre 2026 &nbsp;&nbsp; Port of Rotterdam",
+      "image": "",
+      "type": "news"
+    },
     {
       "title": "Shane Duffy's Derby County move has a remarkable Wayne Rooney twist",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNb3d6dTRhUXgwd2MyaWc0T0FoRmNtTjFBV1FEdklmZTl5V1N5QXI3MjduSUI3MkVpUXhndmRBRHBHZmtLUFNvRUdwTnVMTUtaeXRLMVJWcWoxNjU4cjdjN1R0WkVaT25zdW1PVkdLTXZmZ3FwWW5HdVdKMkJZV2xKMWZtVkNzaWFEeGlNS3JZRUFWWUlpVGFpM0I5czE3YkpjaTRR?oc=5",
@@ -47,15 +110,6 @@
       "summary": "Shane Duffy's Derby County move has a remarkable Wayne Rooney twist &nbsp;&nbsp; Football League World",
       "image": "",
       "type": "rumour"
-    },
-    {
-      "title": "Sheffield United must be laughing at one Derby County situation right now",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSjlXdUYyYWZral92aThfX0d3djZ5MWQ4ODltU0loRGlray16aktmZVVsakJsdFd5bjJvaXBZaHhNZVFqZHU4bkN0T3pUbnhwbVhCZnh4eUJTWnVwZnZibmt1QTRndnpCa180SVdCQXFzclpXeWtabVlhMER4YnBXZHJaWWNFOUNXWkN4YTd5UWMwZHZ3ZmJhR29hWTRsTm1jUHFpcU5qZzQ3Z3dI?oc=5",
-      "source": "Football League World",
-      "published": "2026-10-29T19:00:13.000Z",
-      "summary": "Sheffield United must be laughing at one Derby County situation right now &nbsp;&nbsp; Football League World",
-      "image": "",
-      "type": "news"
     },
     {
       "title": "John Eustace responds after Derby County complete transfer",
@@ -76,6 +130,15 @@
       "type": "done"
     },
     {
+      "title": "Derby County address defensive woes with free agent deal for 217-appearance Championship veteran",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNN2VNUXhacFRYZnJhM2JDZ1FlUXk4RTkwVTBpbW1sQ1JsX25PWG1xYkFzLWZybWh0SlhTSTdvRnY2d0ZIbkEyXzRSUFpNUldrM3R1VjZmS212Z0dRb1B4d1JueGpEMkZWWFowYU40M3RUR0ZTQjVfcHFiX05YSXBTRjlrUkxqb2FJTkQ0?oc=5",
+      "source": "Yahoo",
+      "published": "2026-10-29T12:20:03.000Z",
+      "summary": "Derby County address defensive woes with free agent deal for 217-appearance Championship veteran &nbsp;&nbsp; Yahoo",
+      "image": "",
+      "type": "rumour"
+    },
+    {
       "title": "SIGNING: Defender Duffy joins Derby ranks",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRm1na19VamQzMWdheTBfZ0hvYnYtV3ZFX2p0ZlFjMnRDWUNnWmQzR0pYMzRoRFFEVkhTTlFOTjIyLWRDanpYSXZpeDFnOHNkTFBSTXlsc0NDb3RtQW5jclhLOXNMS3ZDUExDeDhNQlZFaVgzVlp4dllMLU12Slh5Nl93?oc=5",
       "source": "Derby County",
@@ -92,6 +155,15 @@
       "summary": "Derby County make second free agent transfer swoop as ex-Premier League defender agrees deal &nbsp;&nbsp; Derbyshire Live",
       "image": "",
       "type": "rumour"
+    },
+    {
+      "title": "Derby County Signing Former Norwich Defensive Star Shane Duffy",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMllXVEVZZ2JfU1FhSWxOT3QzdWtGaS1ZMFZnSE1uWDZjS0JtMUlqc280T2QxWURlYm82OHdmRkFqTG15ZFpNQjByQUZPZ1NfSVBzTy1RTWpCV1JCZ2JmMFI3UXktMDVJeTJwYTVUUThyT1YzWjdkRko4Z0p3bmdHaG1rbHd3a3EzZlFNa19SZE1FR3dma1NOT0lralc?oc=5",
+      "source": "Inside Futbol",
+      "published": "2026-10-29T11:23:00.000Z",
+      "summary": "Derby County Signing Former Norwich Defensive Star Shane Duffy &nbsp;&nbsp; Inside Futbol",
+      "image": "",
+      "type": "news"
     },
     {
       "title": "ACCESS ALL AREAS: Bilbija, Mowatt & Szmodics Attend Signing Session",
@@ -504,78 +576,6 @@
       "source": "Derbyshire Live",
       "published": "2026-06-18T07:00:00.000Z",
       "summary": "Derby County transfer latest as midfielder linked - all you need to know &nbsp;&nbsp; Derbyshire Live",
-      "image": "",
-      "type": "rumour"
-    },
-    {
-      "title": "Derby County investment latest as Turki Alalshikh wants deal and 'parties' show interest",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRHVUUFJERUdYOXBaX1Z2eVRkU0tLdmNkSWZ1ZVZ0ZDV3UWRJWDF2MFgwdDNjMk9EY1BZbXowNEFicE9ETWRKZWtCUTlfZUVpbF9wTXBUajVjSDZuTmVpV0pEekwwWEdzdlpLTUx6QU1IeUVabHJkcHVSS0lPbDdBZE9IbWQyTmh5YWgtaVlRQjV2ODJMNFZTMl9nc0lNRWFDeHBFbGhsVlNjRU4xdmxj0gG0AUFVX3lxTE9XTWxTbHc4ZFlLU1h3OXNmejI4cFR3RHhzSDNzUzJWWEFTWDhIWEowR2dIZ000QVl6QnRfZ3pnVjNBamdyLThDX0tsdjhybG9DdzlGWGdkVFRMaTlhUWZaVjhYMFd3V19xS1M0c3hwVTdQM3ltXzNqMVJ6TVRnX2ZFaDBGUlR3eXNDN1R1MFE4Mjh5eUZJY25wNU81eDJXWmQzRmwyR1ZGR3h0UHFBdjlFcGZneA?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-06-11T07:00:00.000Z",
-      "summary": "Derby County investment latest as Turki Alalshikh wants deal and 'parties' show interest &nbsp;&nbsp; Derbyshire Live",
-      "image": "",
-      "type": "rumour"
-    },
-    {
-      "title": "Derby County: Independent football regulator faces 'defining test' over potential Rams investment",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5LRmFtQlBaTlRHTGMwYjladVVIU0ZZUnVWRFpVOEtNQVlnZ09CSWdLTEdMVjB5SHpTaGRKWTNrM1EtV1BnMmZnOVVWMjBjVDNmMFUzaGRxa1VRd29RUjk3UUlIcWVJeDg?oc=5",
-      "source": "BBC",
-      "published": "2026-06-05T07:00:00.000Z",
-      "summary": "Derby County: Independent football regulator faces 'defining test' over potential Rams investment &nbsp;&nbsp; BBC",
-      "image": "",
-      "type": "news"
-    },
-    {
-      "title": "The wingers, strikers, and defenders linked with Derby County overhaul",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb1NIWC0yN0dnemZwRlFiMTJJVk9QbGRBa0w0d2FGRG9QMHpQRnVQM3FRMVJTdVR6dUVybXk3VEtDX3dVYnZPQXhQb3RfRll4RkMxekIwM1F5Q0daTURfNDZqT09ta1V1QWo0RFJZSXV4LUdoeFM5bVdvRURYX3o2WjFFVFlHX1lUR1RqYlk1amtQNnZOZHFnX01wR1l3LVNIMEVhTW42N0TSAa4BQVVfeXFMTW1waWJXN0lmUEJ2NjRUd05LMHBjOGhHNUppMGIxTnd6RHBTYmtRUzhGQnhxc3hDbHQ4X0pCbE95VnNFalF2ZWU1bVpxYTlVRDFtVllYRFVITHg1R3VpdWRwUjBfOXpjOHF4eklXU0hIYUtBeXNOZ080NjFYb1g5UG5jZExvUExhODR6NEdKYm55aXVhVTlLVFhEaDdwazVqWXVQU3hxd0FJQXFkT1JR?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-06-03T07:00:00.000Z",
-      "summary": "The wingers, strikers, and defenders linked with Derby County overhaul &nbsp;&nbsp; Derbyshire Live",
-      "image": "",
-      "type": "rumour"
-    },
-    {
-      "title": "The incredible 12,779-minute masterstroke that reinforces Derby County transfer wish",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOV1ZjSUtSbXNpSEd1OHlGQmI4bmM5c3dMaEpUUlRfNEhjbjhUakZBRVV1UmVpS3VzZk5nWHFnSjVoSHlmLU50NW5UTU9GUzBzdkw3dERZdFpZTWZYbE1EeFdBRU5QcFk5Ums4VVZlTFc5U213dVpxd21kaXlqb2R2UlJMSG9tc0p5aFFPa1NFcm5HaGZKUU0tYmFEaVBRQ1d1ZXREVlk0d9IBrAFBVV95cUxQbnp2VnJIbkNTMC1wdmc1WWJFdUg1c3R1anVaelVpazdyalNQYURZQTlYM0xxbjV4b1dmM19LMTFYRUFFc25LaXhJWC0xX3U1YTljbDEwZXl3dW1HWWk2c21ibDFTeTFGcGdYN0hOV19XNWp6b0tPYzRhRkpZVE5fdm1MbjR0b29SWDR4RXYxaTVndDFzWHJWNUtMSnlfcWplWTFKTFJiejlKdzVJ?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-06-02T07:00:00.000Z",
-      "summary": "The incredible 12,779-minute masterstroke that reinforces Derby County transfer wish &nbsp;&nbsp; Derbyshire Live",
-      "image": "",
-      "type": "news"
-    },
-    {
-      "title": "Winger bid rejected as Derby County linked with move for Ireland international",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPd0I3LXJfMXRVNE0xQjM3MzFhMk5uS1JLMGphNHIxb2lfcXdsb0RlVjZfdVpXY3dLSElPZHNkUG15UGdZaG9GeUZvRkdmUjVkY1RXSDlTekFiMm9JR0JZbWhPaHZ0bnFSaDVGeUVPQmhjdTJiVWU1ZW1CcmlLV1d3T2EyZTNuUUNRU3NhU2kzZVUtLTJJSnBwalhGWElOTWx1dUFzTHdmQdIBrAFBVV95cUxPandCMEE1S016dTJhRjZjMWhOaDd6YXp4R2hiUDVFODhwdVJEaEh5enFCSFJMeDlGRm9UdHhFSWZ6WDQ0UnhBRXZRZHI5eXU2MDhmMTJfSXUzTnR1X2dBUXdZM3dSV0pIOF9HeEhkTklJMHZiOVFHY01EM2Z4SmQxSUxDVXB3WlMyRXRyVVhya3Q1RUZMdU1mUUtyLWlXUTNFUUVpQ2dXaTl2aEN3?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-06-02T07:00:00.000Z",
-      "summary": "Winger bid rejected as Derby County linked with move for Ireland international &nbsp;&nbsp; Derbyshire Live",
-      "image": "",
-      "type": "rumour"
-    },
-    {
-      "title": "Derby County linked with European transfer as speculation mounts over Swedish star",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaUNtbng0a0tXdTU2Xy1hREFkRThvMy1oZVc5WEtXSURpelBfVzZZcHBIVV9vcjVOS2FURW44OEVDeEN3c1ZUNGdBVThXdk5XSHZTdDBrV1E3aFV1NE0tM0RKZzRXcmNFSHRrTEtuaWxhdmxhVFR1RWpNcDYyRXplb09obWpuWHF6T1M0ZF90OFJXX3gwbDFFd3Y5OUpBNll1ZlNhVFRPYlN2ZEE?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-06-01T07:00:00.000Z",
-      "summary": "Derby County linked with European transfer as speculation mounts over Swedish star &nbsp;&nbsp; Derbyshire Live",
-      "image": "",
-      "type": "rumour"
-    },
-    {
-      "title": "The massive Derby County asset attracting billionaire Turki Alalshikh as 'dream scenario' awaits",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTTd2b1lSMl92dy1pOWkyUWdzQkl6MVZIdkhORUNmcmtDcnd3clA2a2J4c2ZXUmgxODRiRGVlbmlTQ2x0R0N0XzdJZUZaanNGbGZPM2xSVkM2RU1OMnFCTnZMSEZQM1RjZnNvRHF6WVoyTHhMMm1PSFhuZVQ0ZkpmOGFMVS1CNGN2YUFYVE1oeUcxaGFpTmxIUXZJLUdsQ0Rza1R4ZC1Qa3F0VFdI0gGyAUFVX3lxTFBrR2I0RC03MlBFNWF4MzN2TlRlZ0hmQ1luU2ZycF9HZEtUQ2gxSDVMSVRFOGF5RDFUSzNOaHpyb0ljN0VtSXc0eU5vRUFFRUxFZjZUdEZSaV9KX1lhV3V2ZURiLTFIcHRodm56N2VyMmxvRWthdTd5aERPR3JDSl85cVFiVUlVUHIwLXR5a01iRnVnRzdrNHVBUThiQlFVVTEtbUtWenFBWldQanZmcDJOQnc?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-05-31T07:00:00.000Z",
-      "summary": "The massive Derby County asset attracting billionaire Turki Alalshikh as 'dream scenario' awaits &nbsp;&nbsp; Derbyshire Live",
-      "image": "",
-      "type": "news"
-    },
-    {
-      "title": "Derby County linked with transfer for 'absolutely brilliant' Newcastle United defender",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQekUyOXA5clM4Mzltem4zSUYtUFZjUUxiUEJVbTZuUDBDR0VjRjdZbmU4Z3pNamtCNU1tYXhSeld0cEl0VE5zSEo5NV9sVy1aRUhIX0hlbFJwNHVFR3Mzc29Sb0tmWHJCa0hveDYtWGxIbnhXVEhCZ2NaMG4za2RZUjJfZXdYckJZcU5UTDRsa1FXSndZZklGNFM4VlJIVG90NENHVDFERlRWZ9IBrwFBVV95cUxQbVFjdjE4X3dNVk03UWpLUDlFdEVRdkdZMWF3LTVxVUxDRU1LTUFldzlnQlFPZzBNWE1OU3Z1MFMycWo3cDVIdzlxaHhiRzRoNjgwWkp0MTZSSnY5MDdqOFBUaTdzRGN4NFRTOWdKczlJWm5JcjlKenI4NUlCWENjZEtrRjlqYklCcWJXdkNjcnVwc3Nfc2tROG4wVEgwcEFtWWtvRVBpeTN6NmEyT2s0?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-05-28T07:00:00.000Z",
-      "summary": "Derby County linked with transfer for 'absolutely brilliant' Newcastle United defender &nbsp;&nbsp; Derbyshire Live",
       "image": "",
       "type": "rumour"
     }
