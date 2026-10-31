@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T07:59:01.675Z",
+  "updatedAt": "2026-10-31T14:28:33.236Z",
   "targets": [
     {
       "name": "Leicester City",
@@ -49,6 +49,15 @@
       "type": "rumour"
     },
     {
+      "title": "Sheffield United must be laughing at one Derby County situation right now",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSjlXdUYyYWZral92aThfX0d3djZ5MWQ4ODltU0loRGlray16aktmZVVsakJsdFd5bjJvaXBZaHhNZVFqZHU4bkN0T3pUbnhwbVhCZnh4eUJTWnVwZnZibmt1QTRndnpCa180SVdCQXFzclpXeWtabVlhMER4YnBXZHJaWWNFOUNXWkN4YTd5UWMwZHZ3ZmJhR29hWTRsTm1jUHFpcU5qZzQ3Z3dI?oc=5",
+      "source": "Football League World",
+      "published": "2026-10-29T19:00:13.000Z",
+      "summary": "Sheffield United must be laughing at one Derby County situation right now &nbsp;&nbsp; Football League World",
+      "image": "",
+      "type": "news"
+    },
+    {
       "title": "John Eustace responds after Derby County complete transfer",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOXRGNXc5U3hZREVzUUlpa1k0RUNZZ0liYWc1U0VLdG9KaHZmakNPM2E2dVlkSGlzU2t4d01fRHNvWUdiZXdjOXo5Zk12YzdsR0lCNFpqdFZVd3gyVE5KUE11cGl1Rm1CWXhuOWZmZDJPQm9iaG5ZcFpjUDBqZUJkSTVIU3RVTUIxTHkzengyYVNzYXp0Qm9kQXhRZGhDNzNUcF91cFVDVUh1UQ?oc=5",
       "source": "Derbyshire Live",
@@ -65,15 +74,6 @@
       "summary": "Shane Duffy joins Derby County on a short-term deal &nbsp;&nbsp; BBC",
       "image": "",
       "type": "done"
-    },
-    {
-      "title": "Derby County move to address defensive injury crisis with Championship veteran signing",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1YZlZ4QmpNc2tERnlGNU00ajdPNnRQdlg1YjdGNl9DaHhqZ01oU2FVRVZoc0RXTzVlTXR3Xy1GV1pHLTFERUVORGFPS0lxN1l1UERsOGkxQU9aaTljWVpNbWFERXdGNFo4QkVsUy13?oc=5",
-      "source": "The72",
-      "published": "2026-10-29T12:20:00.000Z",
-      "summary": "Derby County move to address defensive injury crisis with Championship veteran signing &nbsp;&nbsp; The72",
-      "image": "",
-      "type": "rumour"
     },
     {
       "title": "SIGNING: Defender Duffy joins Derby ranks",
@@ -94,24 +94,6 @@
       "type": "rumour"
     },
     {
-      "title": "Derby County to bolster defensive ranks with former Norwich City defender",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRFItZXpTaXhuU3Z2clRTVVNnOHRfc0x1VzM5RzBkZWFHXzRtaEdISThidjVwZFJ5WnZsOVBYbjJyT1drbGVud2NiN2RSbzd6a0wzUU5lWXJuVHlqcXo5a1Y3eXRmclppc0lVVGJvQjB3YVhsaGg2VktEbXRROFZPWjdRRkUwV3JYQmtjT2F3bVh3d29sRlkwcE1MWVk3X1pWdGhTWnVfZVVZTU16eXBEamVWd3NzR1owWlRhQXF6YWFSdjdaRUd3NFpqNA?oc=5",
-      "source": "news.bet365.com",
-      "published": "2026-10-29T11:27:18.000Z",
-      "summary": "Derby County to bolster defensive ranks with former Norwich City defender &nbsp;&nbsp; news.bet365.com",
-      "image": "",
-      "type": "news"
-    },
-    {
-      "title": "Derby County Signing Former Norwich Defensive Star Shane Duffy",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMllXVEVZZ2JfU1FhSWxOT3QzdWtGaS1ZMFZnSE1uWDZjS0JtMUlqc280T2QxWURlYm82OHdmRkFqTG15ZFpNQjByQUZPZ1NfSVBzTy1RTWpCV1JCZ2JmMFI3UXktMDVJeTJwYTVUUThyT1YzWjdkRko4Z0p3bmdHaG1rbHd3a3EzZlFNa19SZE1FR3dma1NOT0lralc?oc=5",
-      "source": "Inside Futbol",
-      "published": "2026-10-29T11:23:00.000Z",
-      "summary": "Derby County Signing Former Norwich Defensive Star Shane Duffy &nbsp;&nbsp; Inside Futbol",
-      "image": "",
-      "type": "news"
-    },
-    {
       "title": "ACCESS ALL AREAS: Bilbija, Mowatt & Szmodics Attend Signing Session",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQM0xDbGYyZ3hMOFptM2Yyc3lBd2c3VnBXQTcybXFka3dUeXhtT2FadTFjUENwaVdvMWphalJLMUFjamxQYW9RaHVrYW5IYjVBVW53aHZMemtlQ1l0alE5bWdOV2tpTWpNd2I5Y0p2bkQtVkZWdGR6ZFRFOE1qbm85RHBnWXFFOFdSZGRsVGg3RnFLLVVNMVFnYVA4UTMzak9t?oc=5",
       "source": "Derby County",
@@ -119,15 +101,6 @@
       "summary": "ACCESS ALL AREAS: Bilbija, Mowatt & Szmodics Attend Signing Session &nbsp;&nbsp; Derby County",
       "image": "",
       "type": "news"
-    },
-    {
-      "title": "Bromley target ex-Birmingham City, Derby County coach in new manager search",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQT0NJX1AwRi1lNzNvdXRQdUVkSkRoaktYblBoT2FhcmRtYmo0aEU5X1dyQTU2YWoxMGJ2aXhpYll4YmNGV0NJUGtMV0RISkp4WXQ3M0szWXpRVEVMM09OQXBfNnUtbVNHNno0YjF6VWZfam5GZ0NhQ0tIMkVpVDM1TmhqYW90bjQ2?oc=5",
-      "source": "Yahoo",
-      "published": "2026-10-26T12:52:57.000Z",
-      "summary": "Bromley target ex-Birmingham City, Derby County coach in new manager search &nbsp;&nbsp; Yahoo",
-      "image": "",
-      "type": "rumour"
     },
     {
       "title": "Derby County's transfer stance validated after 'silly' bid as trio answer Sheffield United SOS",
@@ -576,6 +549,33 @@
       "source": "Derbyshire Live",
       "published": "2026-06-02T07:00:00.000Z",
       "summary": "Winger bid rejected as Derby County linked with move for Ireland international &nbsp;&nbsp; Derbyshire Live",
+      "image": "",
+      "type": "rumour"
+    },
+    {
+      "title": "Derby County linked with European transfer as speculation mounts over Swedish star",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaUNtbng0a0tXdTU2Xy1hREFkRThvMy1oZVc5WEtXSURpelBfVzZZcHBIVV9vcjVOS2FURW44OEVDeEN3c1ZUNGdBVThXdk5XSHZTdDBrV1E3aFV1NE0tM0RKZzRXcmNFSHRrTEtuaWxhdmxhVFR1RWpNcDYyRXplb09obWpuWHF6T1M0ZF90OFJXX3gwbDFFd3Y5OUpBNll1ZlNhVFRPYlN2ZEE?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-06-01T07:00:00.000Z",
+      "summary": "Derby County linked with European transfer as speculation mounts over Swedish star &nbsp;&nbsp; Derbyshire Live",
+      "image": "",
+      "type": "rumour"
+    },
+    {
+      "title": "The massive Derby County asset attracting billionaire Turki Alalshikh as 'dream scenario' awaits",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTTd2b1lSMl92dy1pOWkyUWdzQkl6MVZIdkhORUNmcmtDcnd3clA2a2J4c2ZXUmgxODRiRGVlbmlTQ2x0R0N0XzdJZUZaanNGbGZPM2xSVkM2RU1OMnFCTnZMSEZQM1RjZnNvRHF6WVoyTHhMMm1PSFhuZVQ0ZkpmOGFMVS1CNGN2YUFYVE1oeUcxaGFpTmxIUXZJLUdsQ0Rza1R4ZC1Qa3F0VFdI0gGyAUFVX3lxTFBrR2I0RC03MlBFNWF4MzN2TlRlZ0hmQ1luU2ZycF9HZEtUQ2gxSDVMSVRFOGF5RDFUSzNOaHpyb0ljN0VtSXc0eU5vRUFFRUxFZjZUdEZSaV9KX1lhV3V2ZURiLTFIcHRodm56N2VyMmxvRWthdTd5aERPR3JDSl85cVFiVUlVUHIwLXR5a01iRnVnRzdrNHVBUThiQlFVVTEtbUtWenFBWldQanZmcDJOQnc?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-05-31T07:00:00.000Z",
+      "summary": "The massive Derby County asset attracting billionaire Turki Alalshikh as 'dream scenario' awaits &nbsp;&nbsp; Derbyshire Live",
+      "image": "",
+      "type": "news"
+    },
+    {
+      "title": "Derby County linked with transfer for 'absolutely brilliant' Newcastle United defender",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQekUyOXA5clM4Mzltem4zSUYtUFZjUUxiUEJVbTZuUDBDR0VjRjdZbmU4Z3pNamtCNU1tYXhSeld0cEl0VE5zSEo5NV9sVy1aRUhIX0hlbFJwNHVFR3Mzc29Sb0tmWHJCa0hveDYtWGxIbnhXVEhCZ2NaMG4za2RZUjJfZXdYckJZcU5UTDRsa1FXSndZZklGNFM4VlJIVG90NENHVDFERlRWZ9IBrwFBVV95cUxQbVFjdjE4X3dNVk03UWpLUDlFdEVRdkdZMWF3LTVxVUxDRU1LTUFldzlnQlFPZzBNWE1OU3Z1MFMycWo3cDVIdzlxaHhiRzRoNjgwWkp0MTZSSnY5MDdqOFBUaTdzRGN4NFRTOWdKczlJWm5JcjlKenI4NUlCWENjZEtrRjlqYklCcWJXdkNjcnVwc3Nfc2tROG4wVEgwcEFtWWtvRVBpeTN6NmEyT2s0?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-05-28T07:00:00.000Z",
+      "summary": "Derby County linked with transfer for 'absolutely brilliant' Newcastle United defender &nbsp;&nbsp; Derbyshire Live",
       "image": "",
       "type": "rumour"
     }
