@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T22:37:37.813Z",
+  "updatedAt": "2026-11-05T02:47:41.533Z",
   "targets": [
     {
       "name": "Leicester City",
@@ -47,15 +47,6 @@
       "summary": "Derby County must eye ex-Middlesbrough boss if John Eustace is sacked &nbsp;&nbsp; Football League World",
       "image": "",
       "type": "news"
-    },
-    {
-      "title": "SIGNING: Defender Duffy joins Derby ranks",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRm1na19VamQzMWdheTBfZ0hvYnYtV3ZFX2p0ZlFjMnRDWUNnWmQzR0pYMzRoRFFEVkhTTlFOTjIyLWRDanpYSXZpeDFnOHNkTFBSTXlsc0NDb3RtQW5jclhLOXNMS3ZDUExDeDhNQlZFaVgzVlp4dllMLU12Slh5Nl93?oc=5",
-      "source": "Derby County",
-      "published": "2026-10-29T12:08:01.000Z",
-      "summary": "SIGNING: Defender Duffy joins Derby ranks &nbsp;&nbsp; Derby County",
-      "image": "",
-      "type": "done"
     },
     {
       "title": "NEW SIGNING INTERVIEW: Jack Robinson",
@@ -576,6 +567,15 @@
       "source": "Derbyshire Live",
       "published": "2026-05-12T07:00:00.000Z",
       "summary": "Derby County linked with £10m Premier League transfer after Millwall heartache &nbsp;&nbsp; Derbyshire Live",
+      "image": "",
+      "type": "rumour"
+    },
+    {
+      "title": "Derby County linked with potential David Ozoh replacement",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbnZWR01SNk94bFhVaG9TR3VBeGFod1NCSTVVMzJUeDhWVVlMNEJ1MS1UOFBXTWpzMEppaFJ2U3FwbjkxdnQzRUlBYmp3eHZucUVUU0hudGozNjFkUmpLZ09TdmZOZ3BxNm5jTDlaVUJyam5CUDRPSnZJQkF0MUM1ZkI2NU5ZVUpYazFxU0hBTGNWT0o2a1ZjNEhQM0JDeW8wVGVFV1BTWmEwUHJ30gGyAUFVX3lxTFBnRTJhVDJWY1dIdE5jcGZPN25iNkJydEppa3VYRDJ2aUlPU2xjOE1IOERCZVdXN0lXVFZpaUZxNjFCNjNKdmdMWGhYNlk5c2h2cFdnMTEySzdoV3A0WEdscnpjUWtyb2lHekxEVW5vc2o4bGszRjFxU2lwTVJPMThPZWFDSnNNazVTYXhYaTlkTjdNaFRUSDJJMUdvRXI5Sy1GS3JNbjl3RjR6Q3BTTUpiS2c?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-05-10T07:00:00.000Z",
+      "summary": "Derby County linked with potential David Ozoh replacement &nbsp;&nbsp; Derbyshire Live",
       "image": "",
       "type": "rumour"
     }
