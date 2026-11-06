@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T11:30:26.159Z",
+  "updatedAt": "2026-11-06T18:22:20.961Z",
   "targets": [
     {
       "name": "Leicester City",
@@ -40,6 +40,15 @@
   ],
   "stories": [
     {
+      "title": "Worcester City sign goalkeeper from Derby County",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNa01kckNCUVRBQ1VMTFByRndjS2g1aEZJRXdvU0VHRnZCMElXZHRtTjBrV0NwZTBEYWY4UzJjeHVtbWRkZV9TQVlrZzJiVGxFVkFDQmVkY1dlQkJJcEpKUW5VdGRwQlJBQ2dEYXI5dmlIVUhyZ0ViWjVYVWNtdjhta2FXUFRGNmlTT2RpbjBKMzRfc3Y1OVlmQ1l0R1NuYmt4SDBoanZma3laVVk?oc=5",
+      "source": "The Worcester News",
+      "published": "2026-11-06T15:48:31.000Z",
+      "summary": "Worcester City sign goalkeeper from Derby County &nbsp;&nbsp; The Worcester News",
+      "image": "",
+      "type": "news"
+    },
+    {
       "title": "ACADEMY: Banks makes Stafford loan switch",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONlpDZlFMXzkxeU9OZjJTeFZrckhMMWoyY2lwSXNXSWEtU3ZnOEROaGNFWTc0Y2VjTkE5NjBfZGdkV1BoNHpWZ05ndUtYZGlUdDRHeEpjWkFuQ3Z5S1ZlZVI2WGpFT1pmQkRWY0ZiZU4zZ19DUWN6b3NObk9ibm1QSlFR?oc=5",
       "source": "Derby County",
@@ -49,20 +58,20 @@
       "type": "news"
     },
     {
-      "title": "Derby County Compete for Crystal Palace Midfielder David Ozoh",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1tMlpKTXZ5U3podi1Jcms3X3lJOWxDRDU0eF9tS1BZSFktQTBlMEhEOGpoZ3F3T3dkaU4xRkhMcjVmdkZIbFFhcmJtMG1hcG9H?oc=5",
-      "source": "Football.com",
-      "published": "2026-11-06T04:55:34.000Z",
-      "summary": "Derby County Compete for Crystal Palace Midfielder David Ozoh &nbsp;&nbsp; Football.com",
+      "title": "ACADEMY: Halliwell heads to Worcester on loan",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONVBZZHJ4QlFrcGJDY2R1Z0lfRTYzVDR4bFZUelYwOXpkTWtOSkEzN3kzNUgyZE1FM2VMalJMM28tUmVvZ3dvNm55bEdjTFhuNm9fUF9PVkc3aGtLWDBOV2M2c0gtcDJTbWN0QWpKcE93WmJESXU3TWJlY0d2ckU3RmQ5aG9xV2c?oc=5",
+      "source": "Derby County",
+      "published": "2026-11-06T10:10:39.000Z",
+      "summary": "ACADEMY: Halliwell heads to Worcester on loan &nbsp;&nbsp; Derby County",
       "image": "",
       "type": "news"
     },
     {
-      "title": "Derby County must eye ex-Middlesbrough boss if John Eustace is sacked",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcmIwTkd4MVFuc0YxU1BqVU15YXFlUEgwZmNaTGlaTVhNdnlpcGN0R2dqdGZOSWswb0ZZTF9iNVhlcVNQZ0tVZ2FBS1VvVWNGYlEtZVowM0FfLWl0OEcwejVmcUpfLUhubmF5RjZxVjRZd3M0NjVQRWtNQ01iYlphYlpNWDBMX0txajA2Rkk0MVN6VHh6cE55bFVDSlRZWDJHS09GT0RYVVlGSFRr?oc=5",
-      "source": "Football League World",
-      "published": "2026-11-03T15:45:10.000Z",
-      "summary": "Derby County must eye ex-Middlesbrough boss if John Eustace is sacked &nbsp;&nbsp; Football League World",
+      "title": "Derby County dodged bullet by not signing West Brom man in the summer window: Opinion",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZDJhazJNcG1JYnBEZzhmc2dRejA1b2xmeHBzUC1rZVFtLU9Xc1dBYXhEWVd5MkRzZVo2ZURoUy14empZbGdOdmxfOXRQU3Q0T0dBRWZycExGbFFPM2tVLUhURVlpcllUc0tDLUtMWVFsb0Qza2tSblFsOUdkanJQRm0xUkM?oc=5",
+      "source": "Yahoo",
+      "published": "2026-10-21T07:00:00.000Z",
+      "summary": "Derby County dodged bullet by not signing West Brom man in the summer window: Opinion &nbsp;&nbsp; Yahoo",
       "image": "",
       "type": "news"
     },
@@ -335,15 +344,6 @@
       "summary": "NEW SIGNING INTERVIEW: Charlie Taylor &nbsp;&nbsp; Derby County",
       "image": "",
       "type": "news"
-    },
-    {
-      "title": "The 19 players linked with Derby County in the transfer window so far",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOd2o0Tlg1RmR1Vlh1OHkxU1FTY3pZdXRPTFRPdFdOUVJMazkwX21ESXFlSlFxX2dOZWRvQ1pVOWFuaDNCVVBXMGVicmdkZGJvR2xpQm84bWRJaTFOVDlyRXRzNlp4VVpRb2xoc1V0Um1XUEFxX0YwMGxwWnJTaUJtMDh2d0JZc193dlpvNXN0ck5MOEptbVV2Z3h6LUs1RGFUUExEMGdhQ3dHeDQ?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-07-12T07:00:00.000Z",
-      "summary": "The 19 players linked with Derby County in the transfer window so far &nbsp;&nbsp; Derbyshire Live",
-      "image": "",
-      "type": "rumour"
     },
     {
       "title": "Derby County 'register an interest' in £10m Wembley hero | Derbyshire Live",
