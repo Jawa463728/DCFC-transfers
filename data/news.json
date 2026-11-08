@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T16:18:16.476Z",
+  "updatedAt": "2026-11-08T20:38:23.786Z",
   "targets": [
     {
       "name": "Leicester City",
@@ -103,15 +103,6 @@
       "type": "news"
     },
     {
-      "title": "NEW SIGNING INTERVIEW: Jack Robinson",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5PN2tYUnhfSmpObUo2YnhXS1h2U3YxUVh3VndYYjhScy1hQUxsbHJxZjcwTUhaMVhKdnJHekdpTk5Kc1dQdlAxN19mVThIQ202UTBHdkNLSG1udUR2U0QtRWNUcWQ4dWVZOUhwZUJ5VWxaRlUwdjlrV1JXVQ?oc=5",
-      "source": "Derby County",
-      "published": "2026-10-19T07:00:00.000Z",
-      "summary": "NEW SIGNING INTERVIEW: Jack Robinson &nbsp;&nbsp; Derby County",
-      "image": "",
-      "type": "news"
-    },
-    {
       "title": "ACADEMY NEWS: Northwich Loan Move Agreed For Friars",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWkoyVm41Rnk1U1VOOXpkb1JXS2JCZWFITGhybjBoT1VZdl9tNkNNTVBGVk5FaV9jV3R3akRfRDNlNzFvSG9lODJIRWxtblFiTVFXdTBhWGtVazFuWWc4Rk1sV05pWDgyRkphLTlJTXIyOUs1Ull6aUxiUnMtTVJLdEZ1elN0QmlYc0p3Y2JiQQ?oc=5",
       "source": "Derby County",
@@ -202,6 +193,15 @@
       "type": "rumour"
     },
     {
+      "title": "John Eustace issues challenge to new Derby County signing Ryan Hedges amid 'numbers' point",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRDhvLTlMZENtLW1WR0puNTJ3MGM0bjZiMmluVFVHSVYtencyWUtQd1hpWGtueldjbFBheFNyRGxRRmtpV25rNXItdmtkRDY0UHc2SWtvLU5QQjEwTVo5emxTVWFONjV6ZkxwWjV2MnFKT21BNWhtNWphNE9LYzg0cHNDcVZyUDhUcmxmZmhqSlM0OFJnLTRDVWhOYUg3Z2pMQW9sUXBOUQ?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-08-22T07:00:00.000Z",
+      "summary": "John Eustace issues challenge to new Derby County signing Ryan Hedges amid 'numbers' point &nbsp;&nbsp; Derbyshire Live",
+      "image": "",
+      "type": "news"
+    },
+    {
       "title": "SIGNING: Ryan Hedges signs for Derby",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE94cGNVRVJlWXMyN0JUM0NHNDRLUmdpM01xTUh2cjRvb2RNcHlvYTNyM1VGNU9ZVnVsS2V0UU1YOXNoUVpzV01TSGE3LTQtSDJ1MmdGaWIwcHlKTV9PMWxXckdXYlVKS2Q1RG5sanFXOV9IN19ZZHB3T2lGNA?oc=5",
       "source": "Derby County",
@@ -218,15 +218,6 @@
       "summary": "TRANSFER NEWS: Introducing…Ryan Hedges &nbsp;&nbsp; Derby County",
       "image": "",
       "type": "news"
-    },
-    {
-      "title": "INTERVIEW: Hedges ‘delighted’ after Derby move",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOFZQcWRKTGdmRTk5TTNheFF6cUtkZnpscWpJSWtENWpNaDYwQ3J4Wjh2RHBqVlpFU0JBeXlmOWpzY1hhTDc1bkF0b2FhVWFINzR1XzMtSXNaZDJ2X2YtQlJaQ0hxUXpkWTNWMzk0STNxUVdEbVFZV25ZNUdPVE5mTlhuMEI2Zw?oc=5",
-      "source": "Derby County",
-      "published": "2026-08-20T07:00:00.000Z",
-      "summary": "INTERVIEW: Hedges ‘delighted’ after Derby move &nbsp;&nbsp; Derby County",
-      "image": "",
-      "type": "rumour"
     },
     {
       "title": "Derby County verdict issued by EFL expert and 'important' transfer need",
@@ -576,6 +567,15 @@
       "source": "Derbyshire Live",
       "published": "2026-05-15T07:00:00.000Z",
       "summary": "Derby County linked with winger who tormented Liverpool amid doubts over future &nbsp;&nbsp; Derbyshire Live",
+      "image": "",
+      "type": "rumour"
+    },
+    {
+      "title": "Derby County head coach John Eustace linked with Championship rivals as candidates earmarked for job",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOT3RVYzdybjI2MllZeWprY1ZxVnFDeTJKX0VPUEx1Z2hhcDhWczlNRHFqUjJFQVVPdHZUekwxQTl0T3FqZVY5REpQV3dmdUpjbmdOSGRLSDRLRWo3MmpVNUlxRzk5TzN1eWdtTWVzNTVBUVEzMmNLYlBNNXBFdWE2cE02ZkNJYkwwRS04Z1ZuVUJmT2dKMnN4Wnl4TzQycWVSUjRxcnRUMNIBrAFBVV95cUxPdmtMejVTbXV6SGNyVEI1TUtFTi1QTC1EUTNXd0FFZGlidGxBcVVWSWV0ZXZoNG5EeWF0clpENWcyM2V5ZjJoam5YOXFIVXNNS1RDSC1kQWRSTHdKNndDV19DQ2w4RlF2WEVzVHZmcHpzeHFmLW4tMzVjci1Rd2RyMHFaWHVOcUh3Mmp1cU4zOTlfVGtJM2ZkREZ5VmFFcHFZaDdIMjIxSDVnODZs?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-05-14T07:00:00.000Z",
+      "summary": "Derby County head coach John Eustace linked with Championship rivals as candidates earmarked for job &nbsp;&nbsp; Derbyshire Live",
       "image": "",
       "type": "rumour"
     }
