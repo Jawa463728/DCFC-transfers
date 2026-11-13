@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T00:33:47.853Z",
+  "updatedAt": "2026-11-13T07:14:53.699Z",
   "targets": [
     {
       "name": "Leicester City",
@@ -54,15 +54,6 @@
       "source": "Derbyshire Live",
       "published": "2026-11-09T13:49:00.000Z",
       "summary": "Steven Gerrard sent Derby County job advice as ex-Liverpool star issues verdict &nbsp;&nbsp; Derbyshire Live",
-      "image": "",
-      "type": "news"
-    },
-    {
-      "title": "ACADEMY: Banks makes Stafford loan switch",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONlpDZlFMXzkxeU9OZjJTeFZrckhMMWoyY2lwSXNXSWEtU3ZnOEROaGNFWTc0Y2VjTkE5NjBfZGdkV1BoNHpWZ05ndUtYZGlUdDRHeEpjWkFuQ3Z5S1ZlZVI2WGpFT1pmQkRWY0ZiZU4zZ19DUWN6b3NObk9ibm1QSlFR?oc=5",
-      "source": "Derby County",
-      "published": "2026-11-06T11:05:40.000Z",
-      "summary": "ACADEMY: Banks makes Stafford loan switch &nbsp;&nbsp; Derby County",
       "image": "",
       "type": "news"
     },
@@ -193,6 +184,15 @@
       "type": "news"
     },
     {
+      "title": "NEW SIGNING INTERVIEW: Ryan Hedges",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNYWxhdHJwbEVkZ25DMkp6LU91UURlUkhaWVVETmI2UmVrWnhRRENrckdsVlNxVFUyMkxLQnVUTnIzR004UVFILV9Yd09DOElrckp4Wno2eDgzbHcwS1pCZi1OUVJyVE9fRjQ5ZVlFVi0wa3VsTExmMVF3eURPS0lPOEtR?oc=5",
+      "source": "Derby County",
+      "published": "2026-08-20T07:00:00.000Z",
+      "summary": "NEW SIGNING INTERVIEW: Ryan Hedges &nbsp;&nbsp; Derby County",
+      "image": "",
+      "type": "news"
+    },
+    {
       "title": "Derby County verdict issued by EFL expert and 'important' transfer need",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOGJxek9CUExCdmpDZk1KU01jRlp5dGQ5SUx1amZrbE5VajFIcTFKZ3NxdDZfSl9yWkNsREdOMVZvVGx3S2dFbm1MM3c0Z1Q0MnVQSklFVDlyME13azJfc1ItcTNpeGkxMmlKV3lDVWhMWWJCMURFV1hRelBMbDE1NENRVkhUZ2lmdWRpbWNTaXBubkt6Wmd4S1d4OWpfMlJrUVB2b0ZMQkU3UQ?oc=5",
       "source": "Derbyshire Live",
@@ -238,15 +238,6 @@
       "type": "news"
     },
     {
-      "title": "SQUAD NEWS: Squad Numbers For 2026/27 Season Confirmed",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbHhLNXNlZGxRcnFjUm45UGFmc1ZrQ282QjRuaGgxOGd4VU9oV2s5dTRHZU45N3hweklaOHppRFptdzRRSmxDS1F4NWxkbUQtWGZrWFFzQV83NmJQWnZCcG9udXBwQmdPRWN0ZFUxbGs3STlZbGJRNGpoNGJzaGJ4TG5qeDF4NzZWUVZ6RnlKZ3Z3Zw?oc=5",
-      "source": "Derby County",
-      "published": "2026-08-07T07:00:00.000Z",
-      "summary": "SQUAD NEWS: Squad Numbers For 2026/27 Season Confirmed &nbsp;&nbsp; Derby County",
-      "image": "",
-      "type": "news"
-    },
-    {
       "title": "TRANSFER NEWS: Thompson departs for Mansfield Town",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQN0VQOFVUbjhBUUJrWXh0YVdtWGltazdmdzB0WDA3cTNMYTJvZ1RqZXFnZFRoYkVycEJJNXF1UUQ0OFd0cURZYWxLbG4xVjgyalptbU01WUpsb3R5MUMydEJyNU1kcFVYWV83cEN3N0lGakYtOF9xOUQzc21QTmpnUEd0MmNRX0FyR0NlUUdB?oc=5",
       "source": "Derby County",
@@ -281,6 +272,15 @@
       "summary": "NEW SIGNING INTERVIEW: Filip Bilbija &nbsp;&nbsp; Derby County",
       "image": "",
       "type": "news"
+    },
+    {
+      "title": "SIGNING: Filip Bilbija Joins as Derby County’s Third Summer Recruit",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZjFna0NqSXV0VHNVc3RaOUE0WjJlOXRaVGJFZnNuU1g1LUxsSERYaFdyakRVMTdZbWRzckJOMGNQTFl4M3BvNU9NbHdFUUpUbE1xRkdiOVJBSEJOVmRwbzIwMFlzYXoyYWh0dmpjRUFEcnpJekl6bEhTdkRjZWp4N2hram5ocU5LRmR3dTZtRG4ydEttbFFGa3poaXV5d2IxUGdMaGJn?oc=5",
+      "source": "Derby County",
+      "published": "2026-07-22T07:00:00.000Z",
+      "summary": "SIGNING: Filip Bilbija Joins as Derby County’s Third Summer Recruit &nbsp;&nbsp; Derby County",
+      "image": "",
+      "type": "done"
     },
     {
       "title": "TRANSFER NEWS: Introducing...Charlie Taylor",
