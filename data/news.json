@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T21:34:22.119Z",
+  "updatedAt": "2026-11-14T01:45:00.584Z",
   "targets": [
     {
       "name": "Leicester City",
@@ -32,7 +32,7 @@
       "context": "Fresh media link"
     },
     {
-      "name": "Simon Jordan",
+      "name": "Senegal World Cup",
       "mentions": 1,
       "score": 34,
       "context": "Fresh media link"
@@ -184,6 +184,15 @@
       "type": "done"
     },
     {
+      "title": "TRANSFER NEWS: Introducing…Ryan Hedges",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1sd2FUWlYyTkhWYjVSaUlNSjh1OW9vUjlUVFFlX0EwOFZwZ3VtTXJkUWRVemtLQXlCNTJSLVpqcy1NaGVrdHFOUm9USFgxRUhYN0FROWNQVzdtazE4QlViT3ZZSzNab29qWkNuUndFeFkzSVJjVjFrT1NCSUw?oc=5",
+      "source": "Derby County",
+      "published": "2026-08-20T07:00:00.000Z",
+      "summary": "TRANSFER NEWS: Introducing…Ryan Hedges &nbsp;&nbsp; Derby County",
+      "image": "",
+      "type": "news"
+    },
+    {
       "title": "NEW SIGNING INTERVIEW: Ryan Hedges",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNYWxhdHJwbEVkZ25DMkp6LU91UURlUkhaWVVETmI2UmVrWnhRRENrckdsVlNxVFUyMkxLQnVUTnIzR004UVFILV9Yd09DOElrckp4Wno2eDgzbHcwS1pCZi1OUVJyVE9fRjQ5ZVlFVi0wa3VsTExmMVF3eURPS0lPOEtR?oc=5",
       "source": "Derby County",
@@ -292,15 +301,6 @@
       "type": "done"
     },
     {
-      "title": "TRANSFER NEWS: Introducing...Charlie Taylor",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVGczOFVQWVNQUUFPQTdNN2VNS2hpS3lPYTY4RFZUa01aNFk4cjMzdDhmdGx5YTNrX3FCWEphaDVyWHlVOGZyTk1abUUxeU1DMGJuSG9rX2ItN2dmMGxXQjlQR3dyUllSN1RZQWVUZm9DdTVuUHpyNnlNc2IwREdIZw?oc=5",
-      "source": "Derby County",
-      "published": "2026-07-14T07:00:00.000Z",
-      "summary": "TRANSFER NEWS: Introducing...Charlie Taylor &nbsp;&nbsp; Derby County",
-      "image": "",
-      "type": "news"
-    },
-    {
       "title": "SIGNING: Defender Charlie Taylor signs for Derby County",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeDRPTWRMTExjbkNiNUIwdURWNHNRNHcxdHpGZGg0SHlqMjlGeXpIcjRqRkxBWW9DZXQ1M1pWQlpVcWh6d1l5TXlsbU81cWptRE00WFhTMHpob05ZTWF6ZndzekpXM21IOHJsTWZTQXhIRTBUNnE4eHRTY1FmRUREbHZXR1JYc1dPcXd2cTRUeXV6RFVE?oc=5",
       "source": "Derby County",
@@ -308,6 +308,15 @@
       "summary": "SIGNING: Defender Charlie Taylor signs for Derby County &nbsp;&nbsp; Derby County",
       "image": "",
       "type": "done"
+    },
+    {
+      "title": "TRANSFER NEWS: Introducing...Charlie Taylor",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVGczOFVQWVNQUUFPQTdNN2VNS2hpS3lPYTY4RFZUa01aNFk4cjMzdDhmdGx5YTNrX3FCWEphaDVyWHlVOGZyTk1abUUxeU1DMGJuSG9rX2ItN2dmMGxXQjlQR3dyUllSN1RZQWVUZm9DdTVuUHpyNnlNc2IwREdIZw?oc=5",
+      "source": "Derby County",
+      "published": "2026-07-14T07:00:00.000Z",
+      "summary": "TRANSFER NEWS: Introducing...Charlie Taylor &nbsp;&nbsp; Derby County",
+      "image": "",
+      "type": "news"
     },
     {
       "title": "NEW SIGNING INTERVIEW: Charlie Taylor",
@@ -454,6 +463,15 @@
       "type": "rumour"
     },
     {
+      "title": "Derby County 'keen' on Senegal World Cup striker set to face France",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObUx3VUpWNnNCMXVSR1pLeXo2S1FiS1lkSzFXYldDQU1EYVU5cGVJRXBFTDR1Um84Z3c2b3hZZDZnb1h3X1pNc1VGcWlMazZZM1J1S2c4bDVsb0gyd0hmMklZZ1JYR09wTUtSNG1zanBSSzUxTXR6bFRWQWhmcl8wVzd5UWI2S3VMOVZHcTlyd0stWEZDSVZEWGhWanNZaV9mYWItb2Y1b3RIZw?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-06-14T07:00:00.000Z",
+      "summary": "Derby County 'keen' on Senegal World Cup striker set to face France &nbsp;&nbsp; Derbyshire Live",
+      "image": "",
+      "type": "news"
+    },
+    {
       "title": "Derby County investment latest as Turki Alalshikh wants deal and 'parties' show interest",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRHVUUFJERUdYOXBaX1Z2eVRkU0tLdmNkSWZ1ZVZ0ZDV3UWRJWDF2MFgwdDNjMk9EY1BZbXowNEFicE9ETWRKZWtCUTlfZUVpbF9wTXBUajVjSDZuTmVpV0pEekwwWEdzdlpLTUx6QU1IeUVabHJkcHVSS0lPbDdBZE9IbWQyTmh5YWgtaVlRQjV2ODJMNFZTMl9nc0lNRWFDeHBFbGhsVlNjRU4xdmxj0gG0AUFVX3lxTE9XTWxTbHc4ZFlLU1h3OXNmejI4cFR3RHhzSDNzUzJWWEFTWDhIWEowR2dIZ000QVl6QnRfZ3pnVjNBamdyLThDX0tsdjhybG9DdzlGWGdkVFRMaTlhUWZaVjhYMFd3V19xS1M0c3hwVTdQM3ltXzNqMVJ6TVRnX2ZFaDBGUlR3eXNDN1R1MFE4Mjh5eUZJY25wNU81eDJXWmQzRmwyR1ZGR3h0UHFBdjlFcGZneA?oc=5",
       "source": "Derbyshire Live",
@@ -558,24 +576,6 @@
       "source": "Derbyshire Live",
       "published": "2026-05-15T07:00:00.000Z",
       "summary": "Derby County linked with winger who tormented Liverpool amid doubts over future &nbsp;&nbsp; Derbyshire Live",
-      "image": "",
-      "type": "rumour"
-    },
-    {
-      "title": "Derby County head coach John Eustace linked with Championship rivals as candidates earmarked for job",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOT3RVYzdybjI2MllZeWprY1ZxVnFDeTJKX0VPUEx1Z2hhcDhWczlNRHFqUjJFQVVPdHZUekwxQTl0T3FqZVY5REpQV3dmdUpjbmdOSGRLSDRLRWo3MmpVNUlxRzk5TzN1eWdtTWVzNTVBUVEzMmNLYlBNNXBFdWE2cE02ZkNJYkwwRS04Z1ZuVUJmT2dKMnN4Wnl4TzQycWVSUjRxcnRUMNIBrAFBVV95cUxPdmtMejVTbXV6SGNyVEI1TUtFTi1QTC1EUTNXd0FFZGlidGxBcVVWSWV0ZXZoNG5EeWF0clpENWcyM2V5ZjJoam5YOXFIVXNNS1RDSC1kQWRSTHdKNndDV19DQ2w4RlF2WEVzVHZmcHpzeHFmLW4tMzVjci1Rd2RyMHFaWHVOcUh3Mmp1cU4zOTlfVGtJM2ZkREZ5VmFFcHFZaDdIMjIxSDVnODZs?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-05-14T07:00:00.000Z",
-      "summary": "Derby County head coach John Eustace linked with Championship rivals as candidates earmarked for job &nbsp;&nbsp; Derbyshire Live",
-      "image": "",
-      "type": "rumour"
-    },
-    {
-      "title": "Derby County linked with £10m Premier League transfer after Millwall heartache",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVHkySjVQbUZULWo3Sk1obWJJYjdlUzlKdjlJbjlyMzdKUjVob3hYN3ZRVnR5MEhxZXYxYllVZ09POS1kQVdLVEFIZGZFVWFoRUljdjNCb2dwallmVzJRZUdfSjhsMG1jYi15Nm1mVm5oQkpINWZvQ1ltRDdhSFVvbFN5X29Icnpl0gGOAUFVX3lxTE14NzFVTDh2QzZ0SFZTTnBwRWNXWElLSzIxNnk0Q3F2OFZnODRpY1JnSU1WcXBHbjFMbGxjNTZOU1RaOFUzWTQxYnRRVmF4dTVHWUJ5QS1sejVnTzBvY3lOd3dXcjZZa1NXYUF3T2xhMG13VGFlVlhDRFZXRjNvc1hGV3lSSGVwclNpNWxaNVE?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-05-12T07:00:00.000Z",
-      "summary": "Derby County linked with £10m Premier League transfer after Millwall heartache &nbsp;&nbsp; Derbyshire Live",
       "image": "",
       "type": "rumour"
     }
