@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T15:03:12.847Z",
+  "updatedAt": "2026-11-14T19:53:18.257Z",
   "targets": [
     {
       "name": "Leicester City",
@@ -85,6 +85,15 @@
       "type": "rumour"
     },
     {
+      "title": "BANEL MAKES DERBY COUNTY LOAN MOVE",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObkp6ZWZndmZVdFN2RmtvSU41TWhHUHBZeXg3MG5VV3NZdVdBTE84Y2pzUWY5UnM1TEhTM0VqZXFpMzlENnBQQWk5ek5MbFRnc3dHV2JCMjg3QWZmUnYxUXNWYmZCNl9FRGY0U0ExV01nUXVySmRuX0hIdHZUUE1lenc2SnRkeEVNOUEwUQ?oc=5",
+      "source": "Burnley FC",
+      "published": "2026-09-22T09:44:49.000Z",
+      "summary": "BANEL MAKES DERBY COUNTY LOAN MOVE &nbsp;&nbsp; Burnley FC",
+      "image": "",
+      "type": "rumour"
+    },
+    {
       "title": "ACADEMY NEWS: Gill makes Halifax loan switch",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVlZ4WG85aWFGdHhsOWsyXzNVSllIcGlBc3hnLUN6Nzh6QUlJd3NUelhMbEJocWI4QW42SFdHYmpVTU5aRjNjM1BBWDcyM2l1bFBEMmIxLU0zOWtyLTE5ZzdnT2ozTzlXTEY4NTZkVU1CZ3poZ25xRnJDckpIQkxrczRpQzVmUQ?oc=5",
       "source": "Derby County",
@@ -110,15 +119,6 @@
       "summary": "SIGNING: David Ozoh Signs For Derby County On Permanent Deal &nbsp;&nbsp; DCFC",
       "image": "",
       "type": "done"
-    },
-    {
-      "title": "SIGNING: Fuseini makes Derby loan switch",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORHFOU1I2c3c2OXRqWGwtRkRZbUZ0WHpnR2VkaERFM3FzZlpsVnBkVUJGTWNOUllvdVNXZS1UVDNUYXFpXy1KdE1PTTg2dloxbjM1bDd0MzB2T2xwMnpBWl9wZUhYNmtITk9JV21KQVBMYm9wcDg2dUNYRjFiY0pqSg?oc=5",
-      "source": "Derby County",
-      "published": "2026-09-01T07:00:00.000Z",
-      "summary": "SIGNING: Fuseini makes Derby loan switch &nbsp;&nbsp; Derby County",
-      "image": "",
-      "type": "news"
     },
     {
       "title": "NEW SIGNING INTERVIEW: Henrik Meister",
