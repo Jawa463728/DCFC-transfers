@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T19:53:18.257Z",
+  "updatedAt": "2026-11-14T23:39:05.164Z",
   "targets": [
     {
       "name": "Leicester City",
@@ -67,15 +67,6 @@
       "type": "news"
     },
     {
-      "title": "SIGNING: Robinson signs for the Rams",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9QMHNRQlIwTTlCUFpjcC1iVEhteWVMc1F5LUhleHhVVFRJMG9fVEZfMmE2MnR2VnQzSDNYcmtnY3V4b2I1UHotWkFBQW9aMnhmQjdSZEh3dmRvZWQ3cGhDYXdRRmliM245SGpXTzctbmh5M2RSblRnRmI0MA?oc=5",
-      "source": "Derby County",
-      "published": "2026-10-17T07:00:00.000Z",
-      "summary": "SIGNING: Robinson signs for the Rams &nbsp;&nbsp; Derby County",
-      "image": "",
-      "type": "done"
-    },
-    {
       "title": "ACADEMY NEWS: Northwich Loan Move Agreed For Friars",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWkoyVm41Rnk1U1VOOXpkb1JXS2JCZWFITGhybjBoT1VZdl9tNkNNTVBGVk5FaV9jV3R3akRfRDNlNzFvSG9lODJIRWxtblFiTVFXdTBhWGtVazFuWWc4Rk1sV05pWDgyRkphLTlJTXIyOUs1Ull6aUxiUnMtTVJLdEZ1elN0QmlYc0p3Y2JiQQ?oc=5",
       "source": "Derby County",
@@ -99,15 +90,6 @@
       "source": "Derby County",
       "published": "2026-09-18T07:00:00.000Z",
       "summary": "ACADEMY NEWS: Gill makes Halifax loan switch &nbsp;&nbsp; Derby County",
-      "image": "",
-      "type": "news"
-    },
-    {
-      "title": "TRANSFER NEWS: Goudmijn makes Swiss loan switch",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTlU3MGhDQm5QTDRXUjBTQTUwczlWWHRYNGlwMFBjQ1Y3VFotZDNuSTZKbW5sTVJsOTFRV0NLQkNHZEp4UlNVN3FLUzNUNGVhWnZsTVhEU2pyR0pnS2ZwT2Q3TzhMdWZCQnRhUU9jcFV1OGZMcXhaOW9saGhXbDFXX08tRTcxMEZOa2c?oc=5",
-      "source": "Derby County",
-      "published": "2026-09-08T07:00:00.000Z",
-      "summary": "TRANSFER NEWS: Goudmijn makes Swiss loan switch &nbsp;&nbsp; Derby County",
       "image": "",
       "type": "news"
     },
@@ -247,15 +229,6 @@
       "type": "rumour"
     },
     {
-      "title": "NEW SIGNING INTERVIEW: Filip Bilbija",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUzRENDExNVdOZDZZY3lzaEt6aWZvS0EwaTlQN0x5cXEwV3BzU0ZZM0JWaEoydHRuU2lPcG5LUFdVeHdKRkx0bjlZYUo0UjNGeGhwV0ItV2lCNnpPaFlmOGpXdUsxWTEydWxldHNKSFlEbHpseFpxNmVGTWxaNHN2ZTFlc2d0R1pvanVPQzVtMnFEQnhTV1BrSDlGRUpuRmxuTVRfTlBjN3U?oc=5",
-      "source": "Derby County",
-      "published": "2026-07-22T07:00:00.000Z",
-      "summary": "NEW SIGNING INTERVIEW: Filip Bilbija &nbsp;&nbsp; Derby County",
-      "image": "",
-      "type": "news"
-    },
-    {
       "title": "SIGNING: Filip Bilbija Joins as Derby County’s Third Summer Recruit",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZjFna0NqSXV0VHNVc3RaOUE0WjJlOXRaVGJFZnNuU1g1LUxsSERYaFdyakRVMTdZbWRzckJOMGNQTFl4M3BvNU9NbHdFUUpUbE1xRkdiOVJBSEJOVmRwbzIwMFlzYXoyYWh0dmpjRUFEcnpJekl6bEhTdkRjZWp4N2hram5ocU5LRmR3dTZtRG4ydEttbFFGa3poaXV5d2IxUGdMaGJn?oc=5",
       "source": "DCFC",
@@ -272,15 +245,6 @@
       "summary": "SIGNING: Defender Charlie Taylor signs for Derby County &nbsp;&nbsp; Derby County",
       "image": "",
       "type": "done"
-    },
-    {
-      "title": "TRANSFER NEWS: Introducing...Charlie Taylor",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVGczOFVQWVNQUUFPQTdNN2VNS2hpS3lPYTY4RFZUa01aNFk4cjMzdDhmdGx5YTNrX3FCWEphaDVyWHlVOGZyTk1abUUxeU1DMGJuSG9rX2ItN2dmMGxXQjlQR3dyUllSN1RZQWVUZm9DdTVuUHpyNnlNc2IwREdIZw?oc=5",
-      "source": "Derby County",
-      "published": "2026-07-14T07:00:00.000Z",
-      "summary": "TRANSFER NEWS: Introducing...Charlie Taylor &nbsp;&nbsp; Derby County",
-      "image": "",
-      "type": "news"
     },
     {
       "title": "NEW SIGNING INTERVIEW: Charlie Taylor",
@@ -576,6 +540,42 @@
       "source": "Derby County",
       "published": "2026-03-24T07:00:00.000Z",
       "summary": "ACADEMY NEWS: Osayande Makes Stafford Rangers Loan Switch &nbsp;&nbsp; Derby County",
+      "image": "",
+      "type": "news"
+    },
+    {
+      "title": "ACADEMY NEWS: Kane Extends Worcester City Loan Stint",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVW1XLVZtbzFoa1doTTdjdzFQVWtMaDU1c2JnbDF6R29GTlRmbmxHcUpPa0ZtcnotTThDb0tmN2syWmNQQUEyLXlKOXFkZ2ZoeVpHUEpYMzRZZUNxcDFHY3c0THRKdXhnS2FuVk9MbHdJTlVsYmphdV94RDlFNXRtZEZfM0pUcHNhTEhBUHZTa0k?oc=5",
+      "source": "Derby County",
+      "published": "2026-03-05T08:00:00.000Z",
+      "summary": "ACADEMY NEWS: Kane Extends Worcester City Loan Stint &nbsp;&nbsp; Derby County",
+      "image": "",
+      "type": "news"
+    },
+    {
+      "title": "ACADEMY NEWS: Barwell Loan Move For Billy Gough",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOT181N0w4Njk2OE1SOVdaYWp1TmQxZVdURUNSTGpvUmotazByLXhzNnpzN0FGNTA4OGtiRlBzc1JoT2stTkZ2NEh1Ty1rNkxlcUdEOFZ0Y3BNV2lhQzcxOE1iRV9XdlpQZUxaV0tSWl8yZ2FGS0pUUHFpazVlQldjVXpJelpYUGNJUWc?oc=5",
+      "source": "Derby County",
+      "published": "2026-02-18T08:00:00.000Z",
+      "summary": "ACADEMY NEWS: Barwell Loan Move For Billy Gough &nbsp;&nbsp; Derby County",
+      "image": "",
+      "type": "rumour"
+    },
+    {
+      "title": "Derby County duo on England radar as form sparks interest",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbWZvZFFhc0l6c1pCamEwMHhXdVNSMEtzblhDM3dNNGRFdk9ZVjJWOThSd0RVN0JCWmp5ZzNfSE01bGljUGhpZVloUlVPemEyNlYzUVZ5RGVPZXhPemlZZ0ttNVEwczdDNVEwVnJvZ0J2MmVsVVhRUlZYLVU0ZF94dV9PVUU1ZkdfOUV2R0lJaGl0akwycFN2SGJFNl8tQkZaWHItMtIBqgFBVV95cUxQOGVwaGg1SzRLc1Zqa2U5bGJVdm1pRmFHWnhlMk1NR19UT3RzbGNHV0N3STRxaHQ5YTlvM1ptd3Q2dm1Za0tmY0o0UFNqR2puVFNYX0hpdWtxczNZUDFUMkNiY3F2amhRckt0NWFvaHBTb2twckh3cHdMTmlMUm11a2FEem9ETXZVU25lNkFubFJiRFpmb2t0SkZQdDRkSDQ2V0lvMWZwVzZ1QQ?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-02-17T08:00:00.000Z",
+      "summary": "Derby County duo on England radar as form sparks interest &nbsp;&nbsp; Derbyshire Live",
+      "image": "",
+      "type": "rumour"
+    },
+    {
+      "title": "WOMEN NEWS: Ewes Make Loan Addition of Bryony Donnison",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcnljVjh0ZTAxbWlnX3Q3Y05FQlJFWGYzbEU4YUk2dFJWakpJU0pDTGVLYU8yRHZWelVyUWZURGpIV0c1SlY0M1hvY3lhZ2E1bG9YY1d4eUU3S3hIT1BXQVB6YjI4NWo2cThWRkVEWTdrSlZYUGNRMWFJdmF4OV92U0FyTEtpY05pR1hzUG1aY0xjZGs?oc=5",
+      "source": "Derby County",
+      "published": "2026-02-15T08:00:00.000Z",
+      "summary": "WOMEN NEWS: Ewes Make Loan Addition of Bryony Donnison &nbsp;&nbsp; Derby County",
       "image": "",
       "type": "news"
     }
