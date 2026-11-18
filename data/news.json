@@ -1,11 +1,17 @@
 {
-  "updatedAt": "2026-11-18T10:08:15.607Z",
+  "updatedAt": "2026-11-18T18:50:50.126Z",
   "targets": [
     {
       "name": "Turki Alalshikh",
       "mentions": 2,
       "score": 58,
       "context": "More than one recent link"
+    },
+    {
+      "name": "Anis Mehmeti",
+      "mentions": 1,
+      "score": 34,
+      "context": "Fresh media link"
     },
     {
       "name": "Divin Mubama",
@@ -30,12 +36,6 @@
       "mentions": 1,
       "score": 34,
       "context": "Fresh media link"
-    },
-    {
-      "name": "Turki Alalshikh's",
-      "mentions": 1,
-      "score": 34,
-      "context": "Fresh media link"
     }
   ],
   "stories": [
@@ -45,6 +45,15 @@
       "source": "Derbyshire Live",
       "published": "2026-11-17T09:53:35.000Z",
       "summary": "14 players set to leave Derby County at end of season as major decisions near &nbsp;&nbsp; Derbyshire Live",
+      "image": "",
+      "type": "news"
+    },
+    {
+      "title": "The 3 summer targets Derby County should pursue again in January, including Anis Mehmeti",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNU19zQnRfdzJnSWpWazZXaXAtNEktZ0ZyUTk2cFRGcHY2ZlF2ZDVuSFlBcTljSy1zQ0tPSkctYmJrUmgzZ3hxTHYzM280d1BTWkJUbk5ESTFOR1M2VDQ0RHRxb0Rfd3E0czVKb210YU9SZmdnT21VNTk5cFM0RTdaSzNrQQ?oc=5",
+      "source": "Yahoo",
+      "published": "2026-11-16T15:36:16.000Z",
+      "summary": "The 3 summer targets Derby County should pursue again in January, including Anis Mehmeti &nbsp;&nbsp; Yahoo",
       "image": "",
       "type": "news"
     },
@@ -63,15 +72,6 @@
       "source": "The72",
       "published": "2026-11-15T12:15:00.000Z",
       "summary": "25-year-old must come straight into the Derby County XI amid positive injury update: Opinion &nbsp;&nbsp; The72",
-      "image": "",
-      "type": "news"
-    },
-    {
-      "title": "Steven Gerrard sent Derby County job advice as ex-Liverpool star issues verdict",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOU1xTE4xc09FSjkySHJ5TUlrbUtXWXRnVmlzMmotV3gtYjdSeTdldkRlcXlBVTVXbmxkdWFobW9RVmV4SWk1cGU4QURzdlRCOElaazhQTmQzVmRmTklxQnlReHBGUGpSVllvemVzb1lub0NnWFJkYl9OX3NSUGpIQjF5Z3FxT3ZVTl9pQ1pXTDRVbHpHRkpVWmJLNXBxeEJvNjVxMG5BZVllZw?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-11-09T08:00:00.000Z",
-      "summary": "Steven Gerrard sent Derby County job advice as ex-Liverpool star issues verdict &nbsp;&nbsp; Derbyshire Live",
       "image": "",
       "type": "news"
     },
@@ -571,13 +571,13 @@
       "type": "rumour"
     },
     {
-      "title": "TRANSFER NEWS: Ben Brereton Diaz joins Derby County on loan",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMXRjWXNGTG9fZEY2dmsxOFVlSW5IclZIbElNcExIdGVvUXFiWFFkeHNnRDJxN09WUDY1N1lwc1Q5c2Qta0NUNFh2V2k3Z1Vnai1WQTBmYlVqanhxOFI0eFhTNVVFRzVSWkxKMDdqZXlON1NLZExfLXRyemhnMWRjcmxTVGR4WHFsSEpOQTIzVXc1UmthM3ZNOEdR?oc=5",
-      "source": "DCFC",
-      "published": "2025-08-31T07:00:00.000Z",
-      "summary": "TRANSFER NEWS: Ben Brereton Diaz joins Derby County on loan &nbsp;&nbsp; DCFC",
+      "title": "Exclusive: Derby County plot Zetterstrom action as Premier League interest mounts",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbmtjM0xMbVRlVHVxcVNRTjlCSG85NnZvQ1lkVzlGWERaWkp5U2Q3U3VCRXU5N1BjUk4xNVl0Y2pna2xNc2ZLUVIwY0RNNDJiWHREUWlGZzVxel9CanNyVk1Lb05Zb2VGU0RmdVVSSl8wdUFYU0t0bm84RzBHeHVDS2Z0WQ?oc=5",
+      "source": "Football League World",
+      "published": "2025-11-15T08:00:00.000Z",
+      "summary": "Exclusive: Derby County plot Zetterstrom action as Premier League interest mounts &nbsp;&nbsp; Football League World",
       "image": "",
-      "type": "done"
+      "type": "rumour"
     }
   ]
 }
