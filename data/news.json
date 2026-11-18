@@ -1,12 +1,6 @@
 {
-  "updatedAt": "2026-11-17T19:53:00.198Z",
+  "updatedAt": "2026-11-18T02:07:43.955Z",
   "targets": [
-    {
-      "name": "Leicester City",
-      "mentions": 1,
-      "score": 69,
-      "context": "Fresh media link"
-    },
     {
       "name": "Turki Alalshikh",
       "mentions": 2,
@@ -33,6 +27,12 @@
     },
     {
       "name": "Saudi Arabia's",
+      "mentions": 1,
+      "score": 34,
+      "context": "Fresh media link"
+    },
+    {
+      "name": "Simon Jordan",
       "mentions": 1,
       "score": 34,
       "context": "Fresh media link"
@@ -85,15 +85,6 @@
       "type": "done"
     },
     {
-      "title": "Sheffield United set to sign Leicester City utility man after Derby County transfer interest",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOa0lvU1o3OGRxaUpCUTF6MG0xc1dnaGNVX25QTUtiSDc1XzdfTU5pOTdlakZ5OXVOM3NHVURFM0xPXzVFWmtFbHlaSjNUMl9iRDY0Z3lGSUhVRER5SU9FMDBVaFJORURYNzhwYTlqS3V1czRFdHdyN2xUVjAyQWNmT2tXandwTFVPdU1R?oc=5",
-      "source": "Yahoo",
-      "published": "2026-08-30T07:00:00.000Z",
-      "summary": "Sheffield United set to sign Leicester City utility man after Derby County transfer interest &nbsp;&nbsp; Yahoo",
-      "image": "",
-      "type": "rumour"
-    },
-    {
       "title": "Russell Martin responds after Hamza Choudhury linked with Derby County transfer",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcmNwTEtQRU1CM1BQSl9kdzkyRkNLbG5GeW50RGNpX2cta1hTTWdIT05fbnB4Uzg3WWI5UG1kWW5BTlF5WkRXOEFSS3N6YUc4NVJCTl9BX1JtVUJucFJCSXQwRFdMNFJaaVlsZVRkSENYc1FoTGFnc1lSaG1tQklrcV9DYWNoemN5cjVKeU45eUlVa3lNR3QxRzJHbVR5Ykg3dXFWZkllakxoeG5mc2c?oc=5",
       "source": "Derbyshire Live",
@@ -117,6 +108,15 @@
       "source": "Yahoo",
       "published": "2026-08-13T07:00:00.000Z",
       "summary": "27-year-old keen on Derby County move as summer transfer interest persists &nbsp;&nbsp; Yahoo",
+      "image": "",
+      "type": "rumour"
+    },
+    {
+      "title": "Derby County takeover: Deal off as Turki Alalshikh shelves plans",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA5a0psVjRiQlV1WGd6YnM4czVGc1dNamRzY2RXSGxYLWNzdlNvQ2RLYkVISTBmT3ExOS1OZmZXZFFhTlh5MXA2Wkd6OHk5eFlzM29pdmxsWEYxREkyRDhBUlZ6VHllS0U?oc=5",
+      "source": "BBC",
+      "published": "2026-08-10T07:00:00.000Z",
+      "summary": "Derby County takeover: Deal off as Turki Alalshikh shelves plans &nbsp;&nbsp; BBC",
       "image": "",
       "type": "rumour"
     },
@@ -155,6 +155,15 @@
       "summary": "World Cup striker linked with Derby County pulls out of transfer &nbsp;&nbsp; Derbyshire Live",
       "image": "",
       "type": "rumour"
+    },
+    {
+      "title": "SIGNING: Filip Bilbija Joins as Derby County’s Third Summer Recruit",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZjFna0NqSXV0VHNVc3RaOUE0WjJlOXRaVGJFZnNuU1g1LUxsSERYaFdyakRVMTdZbWRzckJOMGNQTFl4M3BvNU9NbHdFUUpUbE1xRkdiOVJBSEJOVmRwbzIwMFlzYXoyYWh0dmpjRUFEcnpJekl6bEhTdkRjZWp4N2hram5ocU5LRmR3dTZtRG4ydEttbFFGa3poaXV5d2IxUGdMaGJn?oc=5",
+      "source": "DCFC",
+      "published": "2026-07-22T07:00:00.000Z",
+      "summary": "SIGNING: Filip Bilbija Joins as Derby County’s Third Summer Recruit &nbsp;&nbsp; DCFC",
+      "image": "",
+      "type": "done"
     },
     {
       "title": "SIGNING: Defender Charlie Taylor signs for Derby County",
@@ -328,15 +337,6 @@
       "type": "news"
     },
     {
-      "title": "Derby County linked with transfer for 'absolutely brilliant' Newcastle United defender",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQekUyOXA5clM4Mzltem4zSUYtUFZjUUxiUEJVbTZuUDBDR0VjRjdZbmU4Z3pNamtCNU1tYXhSeld0cEl0VE5zSEo5NV9sVy1aRUhIX0hlbFJwNHVFR3Mzc29Sb0tmWHJCa0hveDYtWGxIbnhXVEhCZ2NaMG4za2RZUjJfZXdYckJZcU5UTDRsa1FXSndZZklGNFM4VlJIVG90NENHVDFERlRWZ9IBrwFBVV95cUxQbVFjdjE4X3dNVk03UWpLUDlFdEVRdkdZMWF3LTVxVUxDRU1LTUFldzlnQlFPZzBNWE1OU3Z1MFMycWo3cDVIdzlxaHhiRzRoNjgwWkp0MTZSSnY5MDdqOFBUaTdzRGN4NFRTOWdKczlJWm5JcjlKenI4NUlCWENjZEtrRjlqYklCcWJXdkNjcnVwc3Nfc2tROG4wVEgwcEFtWWtvRVBpeTN6NmEyT2s0?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-05-28T07:00:00.000Z",
-      "summary": "Derby County linked with transfer for 'absolutely brilliant' Newcastle United defender &nbsp;&nbsp; Derbyshire Live",
-      "image": "",
-      "type": "rumour"
-    },
-    {
       "title": "Simon Jordan delivers blunt verdict on Turki Alalshikh's Derby County interest",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxON1lqbnMwQlIzTWRlYzNqdjRJQmZnR0NoTE00R3RnRVJfVnhYclZyaWJ3YXhPRDBkOVNOeFJmRTEyNkl5V1Q0RDF0Z0tMTHZyaGxTN3pGcjFKajloMlljUDNDeU0xUDV5ZFluYlNJUF9Pc05wamtRUDJPNWNkMzUxcTFpamxxQVZ3cmo0eUV0d0ExOHBwNmo5TUFFelBuQ09KTW1jZGd1bVd0R3pZNXfSAbMBQVVfeXFMTnoyeVNYd0ZVMHJrb2NRREotU0FaSm1pTVZZMUxYUml5TDh0ZnFwbFFWTEM2Qnp4U1owVzBweFcxYmFCRDU3dFVZUHhFRnNmeXNQNHRlRm5xdGw1TGdsOTRIQThDMGFLbUdMSjJHdTllTmlKaDJWMzZzOEJfSmxBdkM3Yl91eTNxVWttX3V3S3ZSUFpOcWZ5aUlNZG5DWkROT0hFQXY2eXRpYlZCcjlSTkRMSFU?oc=5",
       "source": "Derbyshire Live",
@@ -463,6 +463,15 @@
       "type": "rumour"
     },
     {
+      "title": "NEW SIGNING INTERVIEW: Raymond Offor",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBsSlpUUFcwVHM1UFpMak9OaFdUS2kzZFFuWU0yYXRXSlNvWEg2SHlJdy1PQWhPOFlVbVFic3VadV90ckkyZTljb21maUdSU3FZUlJ1a1FwYkRzOTFXOFJUdGxFdlZUeFFidjJxQm5LYkR6Q19YYmtkQkhWTQ?oc=5",
+      "source": "Derby County",
+      "published": "2026-02-03T08:00:00.000Z",
+      "summary": "NEW SIGNING INTERVIEW: Raymond Offor &nbsp;&nbsp; Derby County",
+      "image": "",
+      "type": "news"
+    },
+    {
       "title": "TRANSFER NEWS: Introducing...Sam Szmodics",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNck5OWmFJWnE4cnhkQ2VfY2hVODJ1VW56cW9VSE5YY1lOMWw0X0p6azhTaFp5T2JUU2R4VHJWN3UtUWpCeHlzd0tKQjVoUzRWZk80Ylp0dDF3Skl2VUNRWmdpQk5HTzE1ZEtYZGlxaTBtbERNRUJBM2M3YlNRVFJHeFlR?oc=5",
       "source": "Derby County",
@@ -549,15 +558,6 @@
       "source": "Derby County",
       "published": "2026-01-05T08:00:00.000Z",
       "summary": "TRANSFER NEWS: Cox Returns From Walsall Loan &nbsp;&nbsp; Derby County",
-      "image": "",
-      "type": "news"
-    },
-    {
-      "title": "TRANSFER NEWS: On-loan Beck returns to Liverpool",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRkpvaTdaNTMyMHZLbnM4MlRnOWtOWG56eGJON3EtbDY0bXNfYkpFazBZLWtSWlpMTlZzelZjN0JuYWk5b1ZQWHhhSzlSYzlwYWdoZ1d3RGpySjhxckE5UXpGaW14dGxlOVhzRGgxbXo2N05tYkNIei1PXzNLaVlVdy1kQzhTQTdhTE9Z?oc=5",
-      "source": "Derby County",
-      "published": "2026-01-04T08:00:00.000Z",
-      "summary": "TRANSFER NEWS: On-loan Beck returns to Liverpool &nbsp;&nbsp; Derby County",
       "image": "",
       "type": "news"
     },
