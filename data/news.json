@@ -1,17 +1,11 @@
 {
-  "updatedAt": "2026-11-18T02:07:43.955Z",
+  "updatedAt": "2026-11-18T10:08:15.607Z",
   "targets": [
     {
       "name": "Turki Alalshikh",
       "mentions": 2,
       "score": 58,
       "context": "More than one recent link"
-    },
-    {
-      "name": "Anis Mehmeti",
-      "mentions": 1,
-      "score": 34,
-      "context": "Fresh media link"
     },
     {
       "name": "Divin Mubama",
@@ -36,6 +30,12 @@
       "mentions": 1,
       "score": 34,
       "context": "Fresh media link"
+    },
+    {
+      "name": "Turki Alalshikh's",
+      "mentions": 1,
+      "score": 34,
+      "context": "Fresh media link"
     }
   ],
   "stories": [
@@ -45,15 +45,6 @@
       "source": "Derbyshire Live",
       "published": "2026-11-17T09:53:35.000Z",
       "summary": "14 players set to leave Derby County at end of season as major decisions near &nbsp;&nbsp; Derbyshire Live",
-      "image": "",
-      "type": "news"
-    },
-    {
-      "title": "The 3 summer targets Derby County should pursue again in January, including Anis Mehmeti",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdXNHRy1lak9ibEtsc0c3c0tKdjQ4MGFZSUpBNktPMzctU0YzUkRLcDB1dThlUVlaU3dmVmRPUVJaR1J6MXhMUmxqSDkzUkE3TlRrWGU5Q1YxMHNJbUl3MDA2dzFGdVFFZmh3dnRnWTJCUTViaXZTeXY3WVFnOGJDSHdBUkMzVVU?oc=5",
-      "source": "The72",
-      "published": "2026-11-16T15:36:00.000Z",
-      "summary": "The 3 summer targets Derby County should pursue again in January, including Anis Mehmeti &nbsp;&nbsp; The72",
       "image": "",
       "type": "news"
     },
@@ -72,6 +63,15 @@
       "source": "The72",
       "published": "2026-11-15T12:15:00.000Z",
       "summary": "25-year-old must come straight into the Derby County XI amid positive injury update: Opinion &nbsp;&nbsp; The72",
+      "image": "",
+      "type": "news"
+    },
+    {
+      "title": "Steven Gerrard sent Derby County job advice as ex-Liverpool star issues verdict",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOU1xTE4xc09FSjkySHJ5TUlrbUtXWXRnVmlzMmotV3gtYjdSeTdldkRlcXlBVTVXbmxkdWFobW9RVmV4SWk1cGU4QURzdlRCOElaazhQTmQzVmRmTklxQnlReHBGUGpSVllvemVzb1lub0NnWFJkYl9OX3NSUGpIQjF5Z3FxT3ZVTl9pQ1pXTDRVbHpHRkpVWmJLNXBxeEJvNjVxMG5BZVllZw?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-11-09T08:00:00.000Z",
+      "summary": "Steven Gerrard sent Derby County job advice as ex-Liverpool star issues verdict &nbsp;&nbsp; Derbyshire Live",
       "image": "",
       "type": "news"
     },
@@ -108,15 +108,6 @@
       "source": "Yahoo",
       "published": "2026-08-13T07:00:00.000Z",
       "summary": "27-year-old keen on Derby County move as summer transfer interest persists &nbsp;&nbsp; Yahoo",
-      "image": "",
-      "type": "rumour"
-    },
-    {
-      "title": "Derby County takeover: Deal off as Turki Alalshikh shelves plans",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA5a0psVjRiQlV1WGd6YnM4czVGc1dNamRzY2RXSGxYLWNzdlNvQ2RLYkVISTBmT3ExOS1OZmZXZFFhTlh5MXA2Wkd6OHk5eFlzM29pdmxsWEYxREkyRDhBUlZ6VHllS0U?oc=5",
-      "source": "BBC",
-      "published": "2026-08-10T07:00:00.000Z",
-      "summary": "Derby County takeover: Deal off as Turki Alalshikh shelves plans &nbsp;&nbsp; BBC",
       "image": "",
       "type": "rumour"
     },
@@ -164,6 +155,15 @@
       "summary": "SIGNING: Filip Bilbija Joins as Derby County’s Third Summer Recruit &nbsp;&nbsp; DCFC",
       "image": "",
       "type": "done"
+    },
+    {
+      "title": "Derby County linked with former Rangers winger but Championship rivals in the driving seat",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcElkc1o0VWp6YjB2U1hwbWh1Z2xzaUFZOHBwMTRLT0NDa2o0Vnk4QVVweEFLQlNlSTdNX3JjYjJQR1pYcjZjbnpySUozazN5NVRhUTB5Y21PTW1neDdNSzVKUEFFUW15UUNjbUFFUWdlZUlRX3djc3FGQ216MDV1SDJKbFVzZ1NZMkRYTkpick1FNlA5U1FDQmloMWxKUWc3UnlZUlROQ3FyOVk?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-07-21T07:00:00.000Z",
+      "summary": "Derby County linked with former Rangers winger but Championship rivals in the driving seat &nbsp;&nbsp; Derbyshire Live",
+      "image": "",
+      "type": "rumour"
     },
     {
       "title": "SIGNING: Defender Charlie Taylor signs for Derby County",
@@ -463,15 +463,6 @@
       "type": "rumour"
     },
     {
-      "title": "NEW SIGNING INTERVIEW: Raymond Offor",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBsSlpUUFcwVHM1UFpMak9OaFdUS2kzZFFuWU0yYXRXSlNvWEg2SHlJdy1PQWhPOFlVbVFic3VadV90ckkyZTljb21maUdSU3FZUlJ1a1FwYkRzOTFXOFJUdGxFdlZUeFFidjJxQm5LYkR6Q19YYmtkQkhWTQ?oc=5",
-      "source": "Derby County",
-      "published": "2026-02-03T08:00:00.000Z",
-      "summary": "NEW SIGNING INTERVIEW: Raymond Offor &nbsp;&nbsp; Derby County",
-      "image": "",
-      "type": "news"
-    },
-    {
       "title": "TRANSFER NEWS: Introducing...Sam Szmodics",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNck5OWmFJWnE4cnhkQ2VfY2hVODJ1VW56cW9VSE5YY1lOMWw0X0p6azhTaFp5T2JUU2R4VHJWN3UtUWpCeHlzd0tKQjVoUzRWZk80Ylp0dDF3Skl2VUNRWmdpQk5HTzE1ZEtYZGlxaTBtbERNRUJBM2M3YlNRVFJHeFlR?oc=5",
       "source": "Derby County",
@@ -578,6 +569,15 @@
       "summary": "Derby County tipped to rekindle January interest as transfer target endures 'difficult' loan &nbsp;&nbsp; Derbyshire Live",
       "image": "",
       "type": "rumour"
+    },
+    {
+      "title": "TRANSFER NEWS: Ben Brereton Diaz joins Derby County on loan",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMXRjWXNGTG9fZEY2dmsxOFVlSW5IclZIbElNcExIdGVvUXFiWFFkeHNnRDJxN09WUDY1N1lwc1Q5c2Qta0NUNFh2V2k3Z1Vnai1WQTBmYlVqanhxOFI0eFhTNVVFRzVSWkxKMDdqZXlON1NLZExfLXRyemhnMWRjcmxTVGR4WHFsSEpOQTIzVXc1UmthM3ZNOEdR?oc=5",
+      "source": "DCFC",
+      "published": "2025-08-31T07:00:00.000Z",
+      "summary": "TRANSFER NEWS: Ben Brereton Diaz joins Derby County on loan &nbsp;&nbsp; DCFC",
+      "image": "",
+      "type": "done"
     }
   ]
 }
