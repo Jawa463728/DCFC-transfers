@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-11-18T18:50:50.126Z",
+  "updatedAt": "2026-11-19T00:52:50.817Z",
   "targets": [
+    {
+      "name": "Leicester City",
+      "mentions": 1,
+      "score": 69,
+      "context": "Fresh media link"
+    },
     {
       "name": "Turki Alalshikh",
       "mentions": 2,
@@ -30,12 +36,6 @@
       "mentions": 1,
       "score": 34,
       "context": "Fresh media link"
-    },
-    {
-      "name": "Simon Jordan",
-      "mentions": 1,
-      "score": 34,
-      "context": "Fresh media link"
     }
   ],
   "stories": [
@@ -58,15 +58,6 @@
       "type": "news"
     },
     {
-      "title": "Birmingham City owe Stoke a transfer thank-you after winning Derby County race",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdHFGNnZmZUxkOGxoSEVwNnNuUjFfdFhxQy1Gel9ZVzJZWW9aWmcyNnlQZHJPX0xtbVNGaW1mRXl4TGdVcERVNl9mSHBraXBwUWpPNFFvT0N5cXJSdlZlMV9zT1hweUpleHNVTEkyQmM1NWJkaGhHZHBpLWN0UFJMNS11ZjdKWUdEZWJuWVh6ODU1dUtHbmV5ZEowZXNJWk90RVdqcV9JaVotLU1STjNWMVR2OA?oc=5",
-      "source": "Football League World",
-      "published": "2026-11-16T08:00:13.000Z",
-      "summary": "Birmingham City owe Stoke a transfer thank-you after winning Derby County race &nbsp;&nbsp; Football League World",
-      "image": "",
-      "type": "news"
-    },
-    {
       "title": "25-year-old must come straight into the Derby County XI amid positive injury update: Opinion",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSVFMSHM5bEQtbzU1azRwYWM0S3BsNHdkSDkwbXdTcUR2QWY2ZnRlNUxqQ1RPajQwQUtfRF92T1YtODQtMjlwMU4wLUl1bmY0VG9sRmNOYnJxcUE3cVhWY3JQUzIwODFyempSa294T1QtZnE2YzNYXy1ob1gwZ0V0Tktya1AyOEQ1?oc=5",
       "source": "The72",
@@ -83,6 +74,24 @@
       "summary": "SIGNING: David Ozoh Signs For Derby County On Permanent Deal &nbsp;&nbsp; DCFC",
       "image": "",
       "type": "done"
+    },
+    {
+      "title": "Derby County: David Ozoh rejoins as Eiran Cashin and Mohammed Fuseini sign on loan",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tRGdVWVhfbnItM1lVVjktMGRXdGJaTXl2TlNmX3U2NGJFQnFITXZWVk9DcjhHdG93LWRUUkdaV3lDSzRHZFE0ZnROZkNlX3gwMTVKYThIVlJXX0Q0ME5sZXdoMXdyMXI1enc?oc=5",
+      "source": "BBC",
+      "published": "2026-09-01T07:00:00.000Z",
+      "summary": "Derby County: David Ozoh rejoins as Eiran Cashin and Mohammed Fuseini sign on loan &nbsp;&nbsp; BBC",
+      "image": "",
+      "type": "news"
+    },
+    {
+      "title": "Sheffield United set to sign Leicester City utility man after Derby County transfer interest",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOa0lvU1o3OGRxaUpCUTF6MG0xc1dnaGNVX25QTUtiSDc1XzdfTU5pOTdlakZ5OXVOM3NHVURFM0xPXzVFWmtFbHlaSjNUMl9iRDY0Z3lGSUhVRER5SU9FMDBVaFJORURYNzhwYTlqS3V1czRFdHdyN2xUVjAyQWNmT2tXandwTFVPdU1R?oc=5",
+      "source": "Yahoo",
+      "published": "2026-08-30T07:00:00.000Z",
+      "summary": "Sheffield United set to sign Leicester City utility man after Derby County transfer interest &nbsp;&nbsp; Yahoo",
+      "image": "",
+      "type": "rumour"
     },
     {
       "title": "Russell Martin responds after Hamza Choudhury linked with Derby County transfer",
@@ -265,20 +274,20 @@
       "type": "rumour"
     },
     {
-      "title": "Derby County transfer latest as midfielder linked - all you need to know",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQb2VZOTROXzA0S2V0RzJUN1RpYWhIRUFfVTdTVzFXVWd2c0xYUHBsdVRjakN0RURQMFQ1OTF3NGZCbEk3Z2c5b2xUYmlQOHRfRDEzNWNvQUs4cVhsZXpFVFNtejcwUWtMUzE3Y2JwUXM0ekMwekN3c3dZSjRkeWdnQUdoemJvOTZIWkkzOE9rZ3Y3LWY1cnR0c1BaR0Zpczk1YWpnM2wyYy1NdktmMmhN?oc=5",
-      "source": "Derbyshire Live",
-      "published": "2026-06-18T07:00:00.000Z",
-      "summary": "Derby County transfer latest as midfielder linked - all you need to know &nbsp;&nbsp; Derbyshire Live",
-      "image": "",
-      "type": "rumour"
-    },
-    {
       "title": "Derby County linked with transfer after 'sad moment' and Frank Lampard praise",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdFBzNDhHd0o3QnEyTzBXVmtDbHJueEJpVk8xYnFiaGFPNVFkVGRfc0puWVVXRW1kQi1PNk84bUJhV3pkdjFUMlFQakljSmhvdHhBbG9qaE9mck9FRGs2WlRwMDdFS1YxM0VGeENvdW1qaVJGRmdFOFJvcDA1RWlUZllQRnYxaW5pZmZYdE4tckZZR04tbk5OLW11TDdKaGVZZUN1VEgzUmjSAa4BQVVfeXFMT0lRVzlmUXpSNDZ6QTJHZXU2VkVoWDJObHBScVRoYzZfeFZKclMzVVU1WFlKeVE1YlNpbURIMm5DTnFnUTR6T0dYNFFITm1HSHFSS05QOGIxdU9laHJPVGVSeVd3QmI1LS1XMThXRk4tdUFaTnRQWFY3bFQ2VUliTXh3cUt4SVU0ZEVZRm9mUzM3TF9fdzU1TGxreVdsY1lkNFpaU0pqQm4yZm5LYnJn?oc=5",
       "source": "Derbyshire Live",
       "published": "2026-06-18T07:00:00.000Z",
       "summary": "Derby County linked with transfer after 'sad moment' and Frank Lampard praise &nbsp;&nbsp; Derbyshire Live",
+      "image": "",
+      "type": "rumour"
+    },
+    {
+      "title": "Derby County transfer latest as midfielder linked - all you need to know",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQb2VZOTROXzA0S2V0RzJUN1RpYWhIRUFfVTdTVzFXVWd2c0xYUHBsdVRjakN0RURQMFQ1OTF3NGZCbEk3Z2c5b2xUYmlQOHRfRDEzNWNvQUs4cVhsZXpFVFNtejcwUWtMUzE3Y2JwUXM0ekMwekN3c3dZSjRkeWdnQUdoemJvOTZIWkkzOE9rZ3Y3LWY1cnR0c1BaR0Zpczk1YWpnM2wyYy1NdktmMmhN?oc=5",
+      "source": "Derbyshire Live",
+      "published": "2026-06-18T07:00:00.000Z",
+      "summary": "Derby County transfer latest as midfielder linked - all you need to know &nbsp;&nbsp; Derbyshire Live",
       "image": "",
       "type": "rumour"
     },
@@ -567,15 +576,6 @@
       "source": "Derbyshire Live",
       "published": "2025-11-28T08:00:00.000Z",
       "summary": "Derby County tipped to rekindle January interest as transfer target endures 'difficult' loan &nbsp;&nbsp; Derbyshire Live",
-      "image": "",
-      "type": "rumour"
-    },
-    {
-      "title": "Exclusive: Derby County plot Zetterstrom action as Premier League interest mounts",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbmtjM0xMbVRlVHVxcVNRTjlCSG85NnZvQ1lkVzlGWERaWkp5U2Q3U3VCRXU5N1BjUk4xNVl0Y2pna2xNc2ZLUVIwY0RNNDJiWHREUWlGZzVxel9CanNyVk1Lb05Zb2VGU0RmdVVSSl8wdUFYU0t0bm84RzBHeHVDS2Z0WQ?oc=5",
-      "source": "Football League World",
-      "published": "2025-11-15T08:00:00.000Z",
-      "summary": "Exclusive: Derby County plot Zetterstrom action as Premier League interest mounts &nbsp;&nbsp; Football League World",
       "image": "",
       "type": "rumour"
     }
