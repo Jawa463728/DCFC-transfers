@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T22:24:55.671Z",
+  "updatedAt": "2026-11-22T02:32:10.243Z",
   "targets": [
     {
       "name": "Leicester City",
@@ -454,15 +454,6 @@
       "type": "rumour"
     },
     {
-      "title": "ACADEMY NEWS: Osayande Makes Stafford Rangers Loan Switch",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMHlzN1R6OWtYSzdMMjE0Z0RTUW9xbmFzMGNXVUs1N0gxTm9rVE8zNDhlb21IRlJsbjR4R0RWMWRGTWxnMTQ1Vy1FcUFqSjZIaDVKTWFVY3BpX0VSZHZ6N1VHM0tLOGlLOW9DRjh2d1gxc2Fxb05wajMwSHZlMkhRMkRjR3l4dloxN3RseTItbGlCUkRYYk9Z?oc=5",
-      "source": "Derby County",
-      "published": "2026-03-24T07:00:00.000Z",
-      "summary": "ACADEMY NEWS: Osayande Makes Stafford Rangers Loan Switch &nbsp;&nbsp; Derby County",
-      "image": "",
-      "type": "news"
-    },
-    {
       "title": "ACADEMY NEWS: Kane Extends Worcester City Loan Stint",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVW1XLVZtbzFoa1doTTdjdzFQVWtMaDU1c2JnbDF6R29GTlRmbmxHcUpPa0ZtcnotTThDb0tmN2syWmNQQUEyLXlKOXFkZ2ZoeVpHUEpYMzRZZUNxcDFHY3c0THRKdXhnS2FuVk9MbHdJTlVsYmphdV94RDlFNXRtZEZfM0pUcHNhTEhBUHZTa0k?oc=5",
       "source": "Derby County",
@@ -504,15 +495,6 @@
       "source": "Derby County",
       "published": "2026-02-02T08:00:00.000Z",
       "summary": "TRANSFER NEWS: Introducing...Sam Szmodics &nbsp;&nbsp; Derby County",
-      "image": "",
-      "type": "news"
-    },
-    {
-      "title": "NEW SIGNING INTERVIEW: Derry Murkin",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOEVVUDBDVVNOLUJ3VkJHWFhJYWlvdDlNZ05OVTdfdm5SSjN4TjFYa05ROW5pY1JrdzRCbnBPYWZicjRoT0o2OUJGX1I2LVBDV2VfNWhxYW5rekdLSmZnQ3Z2MU9Tc3RheGVBSV82ZkJCTTJaWjlBMF9BQkszT2pndUdsOA?oc=5",
-      "source": "Derby County",
-      "published": "2026-02-02T08:00:00.000Z",
-      "summary": "NEW SIGNING INTERVIEW: Derry Murkin &nbsp;&nbsp; Derby County",
       "image": "",
       "type": "news"
     },
@@ -578,6 +560,24 @@
       "summary": "Derby County tipped to rekindle January interest as transfer target endures 'difficult' loan &nbsp;&nbsp; Derbyshire Live",
       "image": "",
       "type": "rumour"
+    },
+    {
+      "title": "Exclusive: Derby County plot Zetterstrom action as Premier League interest mounts",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbmtjM0xMbVRlVHVxcVNRTjlCSG85NnZvQ1lkVzlGWERaWkp5U2Q3U3VCRXU5N1BjUk4xNVl0Y2pna2xNc2ZLUVIwY0RNNDJiWHREUWlGZzVxel9CanNyVk1Lb05Zb2VGU0RmdVVSSl8wdUFYU0t0bm84RzBHeHVDS2Z0WQ?oc=5",
+      "source": "Football League World",
+      "published": "2025-11-15T08:00:00.000Z",
+      "summary": "Exclusive: Derby County plot Zetterstrom action as Premier League interest mounts &nbsp;&nbsp; Football League World",
+      "image": "",
+      "type": "rumour"
+    },
+    {
+      "title": "TRANSFER NEWS: Ben Brereton Diaz joins Derby County on loan",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMXRjWXNGTG9fZEY2dmsxOFVlSW5IclZIbElNcExIdGVvUXFiWFFkeHNnRDJxN09WUDY1N1lwc1Q5c2Qta0NUNFh2V2k3Z1Vnai1WQTBmYlVqanhxOFI0eFhTNVVFRzVSWkxKMDdqZXlON1NLZExfLXRyemhnMWRjcmxTVGR4WHFsSEpOQTIzVXc1UmthM3ZNOEdR?oc=5",
+      "source": "DCFC",
+      "published": "2025-08-31T07:00:00.000Z",
+      "summary": "TRANSFER NEWS: Ben Brereton Diaz joins Derby County on loan &nbsp;&nbsp; DCFC",
+      "image": "",
+      "type": "done"
     }
   ]
 }
