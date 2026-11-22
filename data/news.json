@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T02:32:10.243Z",
+  "updatedAt": "2026-11-22T10:14:00.465Z",
   "targets": [
     {
       "name": "Leicester City",
@@ -148,11 +148,11 @@
       "type": "rumour"
     },
     {
-      "title": "The latest on Derby County's interest in re-signing 2025/26 loan ace",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQME92c3F1MVkzY1RydU4tUTc4bm4xYmFLUTVyM2VYSmJmaWJrdDBabzNscFJBWTBwLVg4cWpNTXVJbWRTR0VodkZNd1J1Rkxyd2NGTm10bUt0cmh4QjZyMXZaMWY2dHkyYUZoSjFveUNRUUkzVTRwMnAzZWFvMTNqc0JCMEw?oc=5",
-      "source": "The72",
+      "title": "27-year-old keen on Derby County move as summer transfer interest persists",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBpNnl2RjVHci12eFRLeFdXVko0YjRBRV9nVmpuQU5TcUNMUUU3OHhrZGRxclRDWTJ0Zmxoc29PMDBuMG0waF8wNkhHaF9KczZiM255dFNIMF9BeUFKcmlObnlyVVd4UFVubmV2WE1RQ3RoWWNNMFVzb1EwekY?oc=5",
+      "source": "Yahoo",
       "published": "2026-08-13T07:00:00.000Z",
-      "summary": "The latest on Derby County's interest in re-signing 2025/26 loan ace &nbsp;&nbsp; The72",
+      "summary": "27-year-old keen on Derby County move as summer transfer interest persists &nbsp;&nbsp; Yahoo",
       "image": "",
       "type": "rumour"
     },
@@ -261,6 +261,15 @@
       "source": "Derbyshire Live",
       "published": "2026-07-04T07:00:00.000Z",
       "summary": "Sky Sports pundit issues Derby County investment verdict but fires double warning &nbsp;&nbsp; Derbyshire Live",
+      "image": "",
+      "type": "news"
+    },
+    {
+      "title": "Derby County: What Ben Wilkinson's signing says about Rams' intentions",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB1d19BTGtpdzR1b0FFWXVKODRHR2Z6NmRDVWtFNWxReXpGUU9lWFc2el8xTVZNZ1V1dVlKeURQSXA4SHNSaWhpbVlObzI0ZFR6OElXek56Nm5HQ2VxMUZQOHZlUENOMkpkUGc?oc=5",
+      "source": "BBC",
+      "published": "2026-07-01T07:00:00.000Z",
+      "summary": "Derby County: What Ben Wilkinson's signing says about Rams' intentions &nbsp;&nbsp; BBC",
       "image": "",
       "type": "news"
     },
@@ -569,15 +578,6 @@
       "summary": "Exclusive: Derby County plot Zetterstrom action as Premier League interest mounts &nbsp;&nbsp; Football League World",
       "image": "",
       "type": "rumour"
-    },
-    {
-      "title": "TRANSFER NEWS: Ben Brereton Diaz joins Derby County on loan",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMXRjWXNGTG9fZEY2dmsxOFVlSW5IclZIbElNcExIdGVvUXFiWFFkeHNnRDJxN09WUDY1N1lwc1Q5c2Qta0NUNFh2V2k3Z1Vnai1WQTBmYlVqanhxOFI0eFhTNVVFRzVSWkxKMDdqZXlON1NLZExfLXRyemhnMWRjcmxTVGR4WHFsSEpOQTIzVXc1UmthM3ZNOEdR?oc=5",
-      "source": "DCFC",
-      "published": "2025-08-31T07:00:00.000Z",
-      "summary": "TRANSFER NEWS: Ben Brereton Diaz joins Derby County on loan &nbsp;&nbsp; DCFC",
-      "image": "",
-      "type": "done"
     }
   ]
 }
