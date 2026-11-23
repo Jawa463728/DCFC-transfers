@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T03:48:08.554Z",
+  "updatedAt": "2026-11-23T13:43:57.843Z",
   "targets": [
     {
       "name": "Leicester City",
@@ -54,15 +54,6 @@
       "source": "Derbyshire Live",
       "published": "2026-11-21T15:25:27.000Z",
       "summary": "Patrick Agyemang faces Derby County SOS as major January transfer question looms &nbsp;&nbsp; Derbyshire Live",
-      "image": "",
-      "type": "news"
-    },
-    {
-      "title": "Next Derby County Manager Contenders",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPV2xOdm1ONjVHT2JJUmpBRzJhRmFBMVoyUDMtbnpLZE9tRkJyV0E2Q1JwOFhjZUplUkFwdldDTF9HLXhQVDJIRk1UUE5oZXJVY2VHeEcxejNMRi1NLTJWS0RNYVBHNWtvcVh3cHlLaGp2T0FkQUl5LUY0MnVQcWM2VkZsdHhUZjAwbUtlN2NDd1F3d20teXVMUFp3?oc=5",
-      "source": "news.bet365.com",
-      "published": "2026-11-21T14:25:22.000Z",
-      "summary": "Next Derby County Manager Contenders &nbsp;&nbsp; news.bet365.com",
       "image": "",
       "type": "news"
     },
@@ -137,15 +128,6 @@
       "summary": "SIGNING: Alex Mowatt joins Derby County &nbsp;&nbsp; DCFC",
       "image": "",
       "type": "done"
-    },
-    {
-      "title": "Gossip: Derby County target West Brom's Alex Mowatt",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvYk1yanhGQ3JEbGtjSkRHVkZPd1lGaV9zQkZkT1l1dEwwblQ0QWRJQU5TZzczbWN5RXlDNnlmUzE5NG92MmRyam1KU01pYXM0bkFuUkJwRzE1ZF9veUNfMWI2SnFNbUJ1UHc?oc=5",
-      "source": "BBC",
-      "published": "2026-08-13T07:00:00.000Z",
-      "summary": "Gossip: Derby County target West Brom's Alex Mowatt &nbsp;&nbsp; BBC",
-      "image": "",
-      "type": "rumour"
     },
     {
       "title": "The latest on Derby County's interest in re-signing 2025/26 loan ace",
@@ -490,24 +472,6 @@
       "type": "rumour"
     },
     {
-      "title": "TRANSFER NEWS: Introducing...Sam Szmodics",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNck5OWmFJWnE4cnhkQ2VfY2hVODJ1VW56cW9VSE5YY1lOMWw0X0p6azhTaFp5T2JUU2R4VHJWN3UtUWpCeHlzd0tKQjVoUzRWZk80Ylp0dDF3Skl2VUNRWmdpQk5HTzE1ZEtYZGlxaTBtbERNRUJBM2M3YlNRVFJHeFlR?oc=5",
-      "source": "Derby County",
-      "published": "2026-02-02T08:00:00.000Z",
-      "summary": "TRANSFER NEWS: Introducing...Sam Szmodics &nbsp;&nbsp; Derby County",
-      "image": "",
-      "type": "news"
-    },
-    {
-      "title": "BANEL MAKES DERBY COUNTY LOAN MOVE",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObkp6ZWZndmZVdFN2RmtvSU41TWhHUHBZeXg3MG5VV3NZdVdBTE84Y2pzUWY5UnM1TEhTM0VqZXFpMzlENnBQQWk5ek5MbFRnc3dHV2JCMjg3QWZmUnYxUXNWYmZCNl9FRGY0U0ExV01nUXVySmRuX0hIdHZUUE1lenc2SnRkeEVNOUEwUQ?oc=5",
-      "source": "Burnley FC",
-      "published": "2026-01-29T08:00:00.000Z",
-      "summary": "BANEL MAKES DERBY COUNTY LOAN MOVE &nbsp;&nbsp; Burnley FC",
-      "image": "",
-      "type": "rumour"
-    },
-    {
       "title": "TRANSFER NEWS: Ryan Nyambe Makes Reading Loan Move",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTkhKQURhdDVmMG9KSUVWV0sxd2llSTFQV2VfaWMydDBIckQyVFRzekFLZlBPYWxoNm5WZE5QTXc5di1lYUFMNVRYS2xLUUNucjBEZjk4SFZOZkJVeThPY1hvSlBGOFlHOTNwcExwMTdHSHVvdTVIendKZmlzRlZVVmZmN2U4WGI0aDhSdmV3?oc=5",
       "source": "Derby County",
@@ -578,6 +542,42 @@
       "summary": "TRANSFER NEWS: Dion Sanderson joins Derby County on loan &nbsp;&nbsp; DCFC",
       "image": "",
       "type": "done"
+    },
+    {
+      "title": "NEW SIGNING INTERVIEW: Brewster excited by ‘huge opportunity’ at Derby County",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPc0JFRl9vZHhaWFlwS1E2NFczTlJxSkdsVmVZSFlkMWVlTVZ1WFRTS2FnVU9PS3FNeVpEaE94SzlMV1VlQjg2d0tILWVaWWdwYlctaUJvNXNrTGprc2h4V2VXeks4QTloOUlMSzJNUTBpRjlVR3M4NUR4b0Z4Zzc1TWVDNG1vLXoxMFRxUENTOU5YbkpRc1YxcFBGS1BsWlVDcF9ZY3QxQlhwU0JOZ0Zv?oc=5",
+      "source": "DCFC",
+      "published": "2025-08-01T07:00:00.000Z",
+      "summary": "NEW SIGNING INTERVIEW: Brewster excited by ‘huge opportunity’ at Derby County &nbsp;&nbsp; DCFC",
+      "image": "",
+      "type": "news"
+    },
+    {
+      "title": "TRANSFER NEWS: Owen Beck joins Derby County on loan",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdEpwUkpJWUZ0eXBGTnJXbW5ybTk3VTNfbUpvNF84aVZCTW1JR1ZWUnBmSTRxYXlhcm02bGxfQ3FPR0UxeWNaWHVwcGVrN21acklsb1lVMmgwdlRWdHFtRlZrTE8xalhUZlRCVXpqajg0M09tMlNWTmJQUkRaeDJXemhxUUxlSXljdEpDTHk1NA?oc=5",
+      "source": "DCFC",
+      "published": "2025-07-25T07:00:00.000Z",
+      "summary": "TRANSFER NEWS: Owen Beck joins Derby County on loan &nbsp;&nbsp; DCFC",
+      "image": "",
+      "type": "done"
+    },
+    {
+      "title": "Derby County transfer interest in Coventry City defender revealed",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMHdXdTdzSWpiWHJYOG84ZElDUTRySnZDYVVJZ3JhU1YwTTNtcWY5QmZaOGtBdkE0NlNaUkdTb1VENXRfM2o3Ujdpd3cyZ2QwY1FCTU9sNEhGX3hzaUQ0NzhKb0hrYkV5RWRYaGxJdk5qS1lZQk1TZGZXX1pjM1NRM056bFdMNUVVbEFTNnF2cThLQnE3LVUzUlZ6MA?oc=5",
+      "source": "Football League World",
+      "published": "2025-07-25T07:00:00.000Z",
+      "summary": "Derby County transfer interest in Coventry City defender revealed &nbsp;&nbsp; Football League World",
+      "image": "",
+      "type": "rumour"
+    },
+    {
+      "title": "NEW SIGNING INTERVIEW: Patrick Agyemang",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAxRVMzRkVKSlJFcDZPUkM0VlpkLUtmZmlEUDFhWHNXeUNOMHNwU2hmcFlSR1JUU2Nwa1RfT1A0U2x4SWxGZXBJbF9YMW1iODJUTjBqejVnTVlQWmVRTHRMUXZnNldydG9VYlpnVThUWHRSMTc4LU1vYnBuLW04VUE?oc=5",
+      "source": "Derby County",
+      "published": "2025-07-15T07:00:00.000Z",
+      "summary": "NEW SIGNING INTERVIEW: Patrick Agyemang &nbsp;&nbsp; Derby County",
+      "image": "",
+      "type": "news"
     }
   ]
 }
